@@ -1,0 +1,774 @@
+0	elektromechanische systemen	systemen
+1	biologisch en fysisch	biologisch
+1	biologisch en fysisch	fysisch
+2	geschiedenis van oosterse religies	geschiedenis
+2	geschiedenis van oosterse religies	religies
+2	geschiedenis van oosterse religies	religie
+3	linguïstische antropologie	linguïstische
+3	linguïstische antropologie	antropologie
+4	metafysica	fysica
+5	religie	religie
+6	semantiek	semantiek
+7	pyschologie	science
+8	immunopathologie	pathologie
+9	vergelijkende fysiologie	vergelijkende
+9	vergelijkende fysiologie	fysiologie
+10	Portugese literatuur	literatuur
+11	thermodynamica	dynamica
+12	programmeertalen	talen
+13	navigatie, begeleiding, controle en dynamica	controle
+13	navigatie, begeleiding, controle en dynamica	dynamica
+14	communicatietechnologie en nieuwe media	communicatie
+14	communicatietechnologie en nieuwe media	technologie
+15	Spaanse linguïstiek	spaanse
+15	Spaanse linguïstiek	linguïstiek
+16	esthetica	science
+17	filosofie van de geest	filosofie
+17	filosofie van de geest	geest
+18	nanofabricage	fabricage
+19	Franse linguïstiek	linguïstiek
+19	Franse linguïstiek	frans
+20	wetenschapsfilosofie	wetenschap
+20	wetenschapsfilosofie	filosofie
+21	computer-aided engineering en computer-aided design	engineering
+21	computer-aided engineering en computer-aided design	design
+21	computer-aided engineering en computer-aided design	computer
+22	microbiële ecologie	microbiële
+22	microbiële ecologie	ecologie
+23	theorie, kennis en wetenschap	wetenschap
+23	theorie, kennis en wetenschap	theorie
+24	immunoprofylaxie	science
+25	systeemkunde	science
+26	procesbeheer en productiesystemen	systemen
+27	logica en grondslagen van de wiskunde	logica
+27	logica en grondslagen van de wiskunde	grondslagen
+27	logica en grondslagen van de wiskunde	wiskunde
+28	biologie van planten	biologie
+28	biologie van planten	planten
+29	gegevensopslagsystemen	systemen
+30	fysiologie van systemen en integratieve fysiologie	systemen
+30	fysiologie van systemen en integratieve fysiologie	fysiologie
+30	fysiologie van systemen en integratieve fysiologie	integratieve
+31	wiskunde	wiskunde
+32	aquacultuur en visserijen	cultuur
+33	akoestiek, dynamica en controle	controle
+33	akoestiek, dynamica en controle	dynamica
+34	antropologische linguïstiek	linguïstiek
+35	oudheid	oudheid
+36	pragmatiek	science
+37	glaciologie	science
+38	landbouwkunde	bouwkunde
+39	cellulaire neurowetenschappen	wetenschap
+39	cellulaire neurowetenschappen	cellulaire
+39	cellulaire neurowetenschappen	neurowetenschappen
+39	cellulaire neurowetenschappen	wetenschappen
+39	cellulaire neurowetenschappen	neurowetenschap
+40	software engineering	engineering
+41	organisatorische communicatie	communicatie
+42	biomaterialen	materialen
+43	seismologie	science
+44	biologie van kanker	biologie
+45	epistemologie	science
+46	geschiedenis	geschiedenis
+47	niet-lineaire dynamica	dynamica
+48	atomische, moleculaire en optische fysica	moleculaire
+48	atomische, moleculaire en optische fysica	fysica
+48	atomische, moleculaire en optische fysica	optisch
+49	verzamelingenleer	leer
+50	gendergeschiedenis	geschiedenis
+50	gendergeschiedenis	gender
+51	chemie	chemie
+52	toegepaste natuurkunde	toegepaste
+52	toegepaste natuurkunde	natuur
+53	kosmologie	kosmologie
+54	milieuchemie	chemie
+54	milieuchemie	milieu
+55	bacteriologie	science
+56	milieutechniek	techniek
+56	milieutechniek	milieu
+57	statistiek en probabiliteit	statistiek
+57	statistiek en probabiliteit	probabiliteit
+58	stroomkringen	science
+59	bewegingspsychologie	psychologie
+60	tweedetaalverwerving	taal
+61	signaalverwerking	science
+62	paleontologie	paleontologie
+63	culturele antropologie	antropologie
+63	culturele antropologie	culturele
+64	geneeskunde en gezondheid	geneeskunde
+64	geneeskunde en gezondheid	gezondheid
+64	geneeskunde en gezondheid	zon
+65	compositie	compositie
+66	klimaat	klimaat
+67	elektrotechniek	techniek
+68	harmonische analyse en representatietheorie	analyse
+68	harmonische analyse en representatietheorie	theorie
+69	populatiebiologie	biologie
+70	industriële ingenieurswetenschappen	wetenschap
+70	industriële ingenieurswetenschappen	industriële
+70	industriële ingenieurswetenschappen	ingenieurswetenschappen
+70	industriële ingenieurswetenschappen	wetenschappen
+71	bijbelstudies	studies
+71	bijbelstudies	studie
+72	fysica van mineralen	fysica
+73	tuinbouw	science
+74	metallurgie	metallurgie
+75	astrochemie	chemie
+76	computationele neurowetenschappen	wetenschap
+76	computationele neurowetenschappen	neurowetenschappen
+76	computationele neurowetenschappen	computationele
+76	computationele neurowetenschappen	wetenschappen
+76	computationele neurowetenschappen	neurowetenschap
+77	astrodynamica	dynamica
+78	gezondheidscommunicatie	communicatie
+78	gezondheidscommunicatie	gezondheid
+78	gezondheidscommunicatie	zon
+79	medicinale chemie	chemie
+80	criminologie	science
+81	wetenschap van membranen	wetenschap
+82	krijgsgeschiedenis	geschiedenis
+83	fysica van de gecondenseerde materie	fysica
+84	complexe vloeistoffen	vloeistoffen
+85	medicinale chemie	chemie
+86	biochemische voeding	biochemische
+86	biochemische voeding	voeding
+86	biochemische voeding	chemische
+87	economische theorie	economische
+87	economische theorie	theorie
+88	paleobiologie	biologie
+89	economie	economie
+90	biostatistiek	statistiek
+91	demografie, populatie, en ecologie	ecologie
+92	geschiedenis van de filosofie	geschiedenis
+92	geschiedenis van de filosofie	filosofie
+93	plantenziektekunde	planten
+93	plantenziektekunde	ziekte
+94	petroleum engineering	engineering
+95	biogeochemie	chemie
+95	biogeochemie	geochemie
+96	sociologie	sociologie
+97	fysische transportverschijnselen	fysisch
+97	fysische transportverschijnselen	fysische
+98	analyse	analyse
+99	operationeel onderzoek	science
+100	digitale communicatie	communicatie
+100	digitale communicatie	digitale
+101	bio-imaging en biomedische optica	optica
+101	bio-imaging en biomedische optica	biomedisch
+102	geochemie	chemie
+102	geochemie	geochemie
+103	linguïstische diversiteit	linguïstische
+104	muziek	muziek
+105	dynamische systemen	systemen
+105	dynamische systemen	dynamische
+106	Amerikaanse politiek	amerikaanse
+106	Amerikaanse politiek	politiek
+107	communicatie	communicatie
+108	microbiologie van voeding	biologie
+108	microbiologie van voeding	voeding
+108	microbiologie van voeding	microbiologie
+109	internationale voeding	voeding
+109	internationale voeding	internationale
+110	Amerikaanse populaire cultuur	amerikaanse
+110	Amerikaanse populaire cultuur	cultuur
+111	wetenschap van polymeren	wetenschap
+111	wetenschap van polymeren	polymeren
+112	computationele linguïstiek	linguïstiek
+112	computationele linguïstiek	computationele
+113	voedselverwerking	science
+114	bouwkunde	bouwkunde
+115	methodologieën	methodologie
+116	toegepaste dynamica	dynamica
+116	toegepaste dynamica	toegepaste
+117	stedenbouwkunde	bouwkunde
+118	fysische processen	fysisch
+118	fysische processen	fysische
+119	atmosferische wetenschappen	wetenschap
+119	atmosferische wetenschappen	wetenschappen
+120	aquatische ecologie	ecologie
+121	natuurwetenschappen	wetenschap
+121	natuurwetenschappen	wetenschappen
+121	natuurwetenschappen	natuur
+122	warmteoverdracht, verbranding	science
+123	musicology	science
+124	luchtvaarttechniek	techniek
+125	dynamica van vloeistoffen	dynamica
+125	dynamica van vloeistoffen	vloeistoffen
+126	talen en gemeenschappen van Latijns-Amerika	talen
+126	talen en gemeenschappen van Latijns-Amerika	gemeenschappen
+126	talen en gemeenschappen van Latijns-Amerika	latijns-amerika
+126	talen en gemeenschappen van Latijns-Amerika	gemeenschap
+127	groei en ontwikkeling	ontwikkeling
+128	Europese geschiedenis	geschiedenis
+128	Europese geschiedenis	europese
+129	meteorologie	orologie
+130	besturingssysteem	science
+131	tribologie	science
+132	sociale antropologie	antropologie
+132	sociale antropologie	sociale
+133	sociale geschiedenis	geschiedenis
+133	sociale geschiedenis	sociale
+134	amerikanistiek	science
+135	partiële differentiaalvergelijkingen	differentiaalvergelijkingen
+136	Engelse literatuur, Britse Eilande	literatuur
+136	Engelse literatuur, Britse Eilande	engelse
+136	Engelse literatuur, Britse Eilande	literatuur
+137	discoursanalyse	analyse
+138	talen en gemeenschappen van Zuid-Azië en Zuidoost-Azië	talen
+138	talen en gemeenschappen van Zuid-Azië en Zuidoost-Azië	gemeenschappen
+138	talen en gemeenschappen van Zuid-Azië en Zuidoost-Azië	gemeenschap
+139	plantengenetica	planten
+139	plantengenetica	genetica
+140	moleculaire genetica	moleculaire
+140	moleculaire genetica	genetica
+141	structuren en materialen	materialen
+142	gezondheidspsychologie	gezondheid
+142	gezondheidspsychologie	psychologie
+142	gezondheidspsychologie	zon
+143	Engelse literatuur, Noord-Amerika	literatuur
+143	Engelse literatuur, Noord-Amerika	engelse
+143	Engelse literatuur, Noord-Amerika	literatuur
+143	Engelse literatuur, Noord-Amerika	noord-amerika
+144	mechanica van vloeistoffen	vloeistoffen
+144	mechanica van vloeistoffen	mechanica
+145	fonetica	science
+146	regionale sociologie	sociologie
+147	geschiedenis van de middeleeuwen	geschiedenis
+147	geschiedenis van de middeleeuwen	middeleeuwen
+148	probabiliteit	probabiliteit
+149	milieuwetenschappen	wetenschap
+149	milieuwetenschappen	wetenschappen
+149	milieuwetenschappen	milieu
+150	neurobiologie van gedrag	biologie
+150	neurobiologie van gedrag	gedrag
+151	evolutionaire fysiologie	fysiologie
+151	evolutionaire fysiologie	evolutionaire
+152	nutritionele epidemiologie	nutritionele
+152	nutritionele epidemiologie	epidemiologie
+153	statistische methodologie	statistische
+153	statistische methodologie	methodologie
+154	computertechniek	techniek
+154	computertechniek	computer
+155	ergonomie	science
+156	internationale economie	economie
+156	internationale economie	internationale
+157	materiaalkunde	materiaal
+158	zoetwaterstudie	studie
+159	bioelektrische en neuroengineering	engineering
+159	bioelektrische en neuroengineering	elektrisch
+160	sociale psychologie	sociale
+160	sociale psychologie	psychologie
+161	geschiedenis van Amerikaanse kunst en architectuur	geschiedenis
+161	geschiedenis van Amerikaanse kunst en architectuur	amerikaanse
+161	geschiedenis van Amerikaanse kunst en architectuur	kunst
+161	geschiedenis van Amerikaanse kunst en architectuur	architectuur
+162	religieus denken	religie
+163	ontwikkelingspsychologie	ontwikkeling
+163	ontwikkelingspsychologie	psychologie
+164	Frans en Franstalige literatuur	literatuur
+164	Frans en Franstalige literatuur	frans
+164	Frans en Franstalige literatuur	franstalige
+165	linguïstiek	linguïstiek
+166	theaterstukken schrijven	theater
+167	geschiedenis van de moderne kunst	geschiedenis
+167	geschiedenis van de moderne kunst	kunst
+167	geschiedenis van de moderne kunst	moderne
+167	geschiedenis van de moderne kunst	modern
+168	fabricage	fabricage
+169	taaldocumentatie	taal
+170	optica	optica
+171	ontwikkelingsbiologie	biologie
+171	ontwikkelingsbiologie	ontwikkeling
+172	ocean engineering	engineering
+172	ocean engineering	ocean
+173	toegepaste wiskunde	wiskunde
+173	toegepaste wiskunde	toegepaste
+174	computationele biologie	biologie
+174	computationele biologie	computationele
+175	plantenkunde	planten
+176	ongelijkheid en stratificatie	science
+177	geschiedenis van de wetenschap, technologie en geneeskunde	geschiedenis
+177	geschiedenis van de wetenschap, technologie en geneeskunde	wetenschap
+177	geschiedenis van de wetenschap, technologie en geneeskunde	geneeskunde
+177	geschiedenis van de wetenschap, technologie en geneeskunde	technologie
+178	plantenveredeling	planten
+179	kwantumfysica	fysica
+180	performance studies	studies
+180	performance studies	studie
+181	Duitse taal en literatuur	literatuur
+181	Duitse taal en literatuur	duitse
+181	Duitse taal en literatuur	taal
+182	microbiële fysiologie	fysiologie
+182	microbiële fysiologie	microbiële
+183	geometrie en topologie	geometrie
+184	cognitieve neurowetenschap	wetenschap
+184	cognitieve neurowetenschap	cognitieve
+184	cognitieve neurowetenschap	neurowetenschap
+184	cognitieve neurowetenschap	cognitie
+185	geschiedenis van westerse religies	geschiedenis
+185	geschiedenis van westerse religies	religies
+185	geschiedenis van westerse religies	religie
+186	virologie	science
+187	biomedisch	biomedisch
+188	politieke wetenschappen	wetenschap
+188	politieke wetenschappen	politiek
+188	politieke wetenschappen	wetenschappen
+188	politieke wetenschappen	politieke
+189	luchtverkeersleiding	science
+190	dynamische systemen	systemen
+190	dynamische systemen	dynamische
+191	digitale circuits	digitale
+192	numerieke wiskunde	wiskunde
+193	biotransport	science
+194	filosofie	filosofie
+195	public relations/reclame	science
+196	rurale sociologie	sociologie
+197	geschiedenis van de Verenigde Staten	geschiedenis
+198	toxicologie	science
+199	toegepaste statistiek	toegepaste
+199	toegepaste statistiek	statistiek
+200	theologie	science
+201	electromagnetica	science
+202	politiek en sociale verandering	politiek
+202	politiek en sociale verandering	sociale
+203	fysica van plasma en bundels	fysica
+204	relaties in de natuur en gemeenschappen	gemeenschappen
+204	relaties in de natuur en gemeenschappen	natuur
+204	relaties in de natuur en gemeenschappen	gemeenschap
+205	theater	theater
+206	broadcast studies	studies
+206	broadcast studies	studie
+207	pulp- en papiertechnologie	technologie
+208	Amerikaanse-filmstudies	amerikaanse
+208	Amerikaanse-filmstudies	studies
+208	Amerikaanse-filmstudies	studie
+209	fonologie	science
+210	tektoniek en structuur	science
+211	ethiek	ethiek
+212	terrestrische ecologie	ecologie
+213	geschiedenis van islamitische wereld en het Nabije Oosten	geschiedenis
+213	geschiedenis van islamitische wereld en het Nabije Oosten	nabije
+213	geschiedenis van islamitische wereld en het Nabije Oosten	oosten
+214	getaltheorie	theorie
+215	externe sterrenstelsels	sterrenstelsel
+216	ras en etniciteit	ras
+217	elektrisch en elektronica	elektrisch
+218	voedselwetenschappen	wetenschap
+218	voedselwetenschappen	wetenschappen
+219	toegepaste mechanica	toegepaste
+219	toegepaste mechanica	mechanica
+220	interpersoonlijke communicatie/communicatie van kleine groepen	communicatie
+221	dramatische literatuur, kritiek en theorie	literatuur
+221	dramatische literatuur, kritiek en theorie	theorie
+221	dramatische literatuur, kritiek en theorie	literatuur
+221	dramatische literatuur, kritiek en theorie	kritiek
+222	Engelse literatuur, Noord-Amerika, etnisch en minderheid	literatuur
+222	Engelse literatuur, Noord-Amerika, etnisch en minderheid	engelse
+222	Engelse literatuur, Noord-Amerika, etnisch en minderheid	literatuur
+222	Engelse literatuur, Noord-Amerika, etnisch en minderheid	noord-amerika
+222	Engelse literatuur, Noord-Amerika, etnisch en minderheid	etnisch
+223	internationale betrekkingen	internationale
+224	epidemiologie	epidemiologie
+225	logica en grondslagen	logica
+225	logica en grondslagen	grondslagen
+226	fysische geografie en milieugeografie	fysisch
+226	fysische geografie en milieugeografie	fysische
+226	fysische geografie en milieugeografie	geografie
+226	fysische geografie en milieugeografie	milieu
+227	vrouwengeschiedenis	geschiedenis
+228	publieke zaken	science
+229	ethiek en politieke filosofie	filosofie
+229	ethiek en politieke filosofie	politiek
+229	ethiek en politieke filosofie	politieke
+229	ethiek en politieke filosofie	ethiek
+230	landbouweconomie en resource economics	economie
+231	microbiologie	biologie
+231	microbiologie	microbiologie
+232	systemen en integratieve ingenieurswetenschappen	systemen
+232	systemen en integratieve ingenieurswetenschappen	wetenschap
+232	systemen en integratieve ingenieurswetenschappen	integratieve
+232	systemen en integratieve ingenieurswetenschappen	ingenieurswetenschappen
+232	systemen en integratieve ingenieurswetenschappen	wetenschappen
+233	taalbeschrijving	taal
+234	Spaanse literatuur	literatuur
+234	Spaanse literatuur	spaanse
+235	gedragsecologie	ecologie
+235	gedragsecologie	gedrag
+236	astrofysica en astronomie	fysica
+236	astrofysica en astronomie	astrofysica
+236	astrofysica en astronomie	astronomie
+237	gemeenschapspsychologie	psychologie
+237	gemeenschapspsychologie	gemeenschap
+238	farmacologie	farmacologie
+239	biologische techniek	biologisch
+239	biologische techniek	biologische
+239	biologische techniek	techniek
+240	overheidseconomie	economie
+241	modellen en methoden	science
+242	levensmiddelenchemie	chemie
+242	levensmiddelenchemie	levensmiddelen
+243	genomica	genomica
+244	Duitse taalkunde	duitse
+244	Duitse taalkunde	taal
+244	Duitse taalkunde	taalkunde
+245	polymeerchemie	chemie
+246	familie, levensloop, en gemeenschap	gemeenschap
+247	politieke theorie	theorie
+247	politieke theorie	politiek
+247	politieke theorie	politieke
+248	arbeidseconomie	economie
+249	landbouwkunde	bouwkunde
+250	culturele geschiedenis	geschiedenis
+250	culturele geschiedenis	culturele
+251	cognitie en perceptie	cognitie
+252	dynamica/dynamische systemen	systemen
+252	dynamica/dynamische systemen	dynamica
+252	dynamica/dynamische systemen	dynamische
+253	elementaire deeltjes en veld- en snaartheorie	theorie
+254	toegepaste taalkunde	toegepaste
+254	toegepaste taalkunde	taal
+254	toegepaste taalkunde	taalkunde
+255	milieuhygiëne	milieu
+256	ingenieurswetenschappen	wetenschap
+256	ingenieurswetenschappen	ingenieurswetenschappen
+256	ingenieurswetenschappen	wetenschappen
+257	informatiesystemen	systemen
+258	Amerikaanse materiële cultuur	amerikaanse
+258	Amerikaanse materiële cultuur	cultuur
+259	openbaar beleid	science
+260	houtwetenschappen	wetenschap
+260	houtwetenschappen	wetenschappen
+261	neuro-ontwikkeling	ontwikkeling
+262	rhetoriek en compositie	compositie
+263	voedselprogramma	science
+264	Frans en Franstalige taal en literatuur	literatuur
+264	Frans en Franstalige taal en literatuur	frans
+264	Frans en Franstalige taal en literatuur	franstalige
+264	Frans en Franstalige taal en literatuur	taal
+265	econometrie	science
+266	biotechnologie van levensmiddelen	technologie
+266	biotechnologie van levensmiddelen	levensmiddelen
+267	biofysica	fysica
+267	biofysica	biofysica
+268	sociale controle, recht, misdaad en afwijking	controle
+268	sociale controle, recht, misdaad en afwijking	sociale
+269	astronomie en astrofysica	fysica
+269	astronomie en astrofysica	astrofysica
+269	astronomie en astrofysica	astronomie
+270	structureel materiaal	materiaal
+271	kinesiologie	science
+272	farmaceutica	science
+273	werk, economie en organisaties	economie
+273	werk, economie en organisaties	organisatie
+274	sociale psychologie en interactie	sociale
+274	sociale psychologie en interactie	psychologie
+275	biomechanische ingenieurswetenschappen	wetenschap
+275	biomechanische ingenieurswetenschappen	ingenieurswetenschappen
+275	biomechanische ingenieurswetenschappen	wetenschappen
+276	bouwkunde/bouwmanagement	bouwkunde
+277	Afrikaanse geschiedenis	geschiedenis
+277	Afrikaanse geschiedenis	afrikaanse
+278	endocrinologie	science
+279	geofysica	fysica
+280	structurele biologie	biologie
+281	fabricage van elektronische toestellen en halfgeleiders	fabricage
+282	bodemkunde	science
+283	wetenschap	wetenschap
+284	intellectuele geschiedenis	geschiedenis
+285	massacommunicatie	communicatie
+286	gender, ras, sexualiteit, en ethniciteit in communicatie	communicatie
+286	gender, ras, sexualiteit, en ethniciteit in communicatie	ras
+286	gender, ras, sexualiteit, en ethniciteit in communicatie	gender
+287	immunologie	immunologie
+288	levenswetenschappen	wetenschap
+288	levenswetenschappen	wetenschappen
+289	Engelse taal en literatuur	literatuur
+289	Engelse taal en literatuur	engelse
+289	Engelse taal en literatuur	taal
+290	menselijke voeding	voeding
+291	kracht en energie	kracht
+291	kracht en energie	energie
+292	vergelijkende voeding	vergelijkende
+292	vergelijkende voeding	voeding
+293	plaats en milieu	milieu
+294	netwerken	science
+295	bouwmechanica	mechanica
+296	klinische psychologie	psychologie
+296	klinische psychologie	klinische
+297	Byzantijns en modern Grieks	modern
+298	statistische theorie	theorie
+298	statistische theorie	statistische
+299	gewone differentiaalvergelijkingen	differentiaalvergelijkingen
+300	industriële organisatie	industriële
+300	industriële organisatie	organisatie
+301	chemie van materialen	chemie
+301	chemie van materialen	materialen
+302	syntax	science
+303	fotonica	science
+304	diplomatieke geschiedenis	geschiedenis
+305	bewegingsfysiologie	fysiologie
+306	klassiekers	klassieke
+307	civiele techniek	techniek
+308	archeologisch	science
+309	journalistiek	science
+310	persoonlijkheid en sociale contexten	sociale
+311	moleculaire en cellulaire techniek, en weefseltechniek	cellulaire
+311	moleculaire en cellulaire techniek, en weefseltechniek	moleculaire
+311	moleculaire en cellulaire techniek, en weefseltechniek	techniek
+312	kosmologie relativiteit, en zwaartekracht	kosmologie
+312	kosmologie relativiteit, en zwaartekracht	kracht
+313	algebraïsche geometrie	geometrie
+313	algebraïsche geometrie	algebra
+314	instrumentatie	science
+315	internationale en interculturele communicatie	communicatie
+315	internationale en interculturele communicatie	culturele
+315	internationale en interculturele communicatie	internationale
+316	techniek	techniek
+317	aardwetenschappen	wetenschap
+317	aardwetenschappen	wetenschappen
+318	multidisciplinary design optimization	design
+319	evolutionaire ecologie	ecologie
+319	evolutionaire ecologie	evolutionaire
+320	oceanografie	ocean
+321	neurowetenschappen	wetenschap
+321	neurowetenschappen	neurowetenschappen
+321	neurowetenschappen	wetenschappen
+321	neurowetenschappen	neurowetenschap
+322	zuivelwetenschappen	wetenschap
+322	zuivelwetenschappen	wetenschappen
+323	biochemische en biomoleculaire techniek	moleculaire
+323	biochemische en biomoleculaire techniek	biochemische
+323	biochemische en biomoleculaire techniek	techniek
+323	biochemische en biomoleculaire techniek	chemische
+324	geografie	geografie
+325	kunst en architectuur uit de oudheid, de middeleeuwen, de renaissance en de barok	oudheid
+325	kunst en architectuur uit de oudheid, de middeleeuwen, de renaissance en de barok	middeleeuwen
+325	kunst en architectuur uit de oudheid, de middeleeuwen, de renaissance en de barok	kunst
+325	kunst en architectuur uit de oudheid, de middeleeuwen, de renaissance en de barok	architectuur
+326	vergelijkende politiek	vergelijkende
+326	vergelijkende politiek	politiek
+327	overheidsadministratie	science
+328	vulkanologie	science
+329	compilers	science
+330	vergelijkende literatuur	vergelijkende
+330	vergelijkende literatuur	literatuur
+331	eerstetaalverwerving	taal
+332	geschiedenis van Latijns-Amerika	geschiedenis
+332	geschiedenis van Latijns-Amerika	latijns-amerika
+333	cellulaire fysiologie	fysiologie
+333	cellulaire fysiologie	cellulaire
+334	moleculaire biologie	biologie
+334	moleculaire biologie	moleculaire
+335	talen en gemeenschappen van Oost-Azië	talen
+335	talen en gemeenschappen van Oost-Azië	gemeenschappen
+335	talen en gemeenschappen van Oost-Azië	gemeenschap
+336	kritische en culturele studies	culturele
+336	kritische en culturele studies	studies
+336	kritische en culturele studies	studie
+337	geschiedenis van het theater	geschiedenis
+337	geschiedenis van het theater	theater
+338	zoölogie	oölogie
+338	zoölogie	zoölogie
+339	werktuigbouwkunde	bouwkunde
+340	sociolinguïstiek	linguïstiek
+341	gender en seksualiteit	gender
+341	gender en seksualiteit	seksualiteit
+342	niet-lineaire dynamica	dynamica
+343	celbiologie	biologie
+344	chemische technologie	technologie
+344	chemische technologie	chemische
+345	Engelse literatuur, Engelstalig	literatuur
+345	Engelse literatuur, Engelstalig	engelse
+345	Engelse literatuur, Engelstalig	literatuur
+346	continentale filosofie	filosofie
+347	gedragseconomie	economie
+347	gedragseconomie	gedrag
+348	bosbeheer	bos
+349	bedrijfs- en organisatiepsychologie	psychologie
+349	bedrijfs- en organisatiepsychologie	organisatie
+350	geesteswetenschappen	geest
+350	geesteswetenschappen	wetenschap
+350	geesteswetenschappen	wetenschappen
+351	Europese talen en samenlevingen	talen
+351	Europese talen en samenlevingen	europese
+351	Europese talen en samenlevingen	samenlevingen
+352	dierwetenschappen	wetenschap
+352	dierwetenschappen	wetenschappen
+353	Slavische talen en samenlevingen	talen
+353	Slavische talen en samenlevingen	samenlevingen
+354	theorie en geschiedenis van kritiek	geschiedenis
+354	theorie en geschiedenis van kritiek	theorie
+354	theorie en geschiedenis van kritiek	kritiek
+355	ruimtevaartuig	science
+356	Afrikaanse talen en samenlevingen	talen
+356	Afrikaanse talen en samenlevingen	afrikaanse
+356	Afrikaanse talen en samenlevingen	samenlevingen
+357	meet- en regeltechniek	techniek
+358	biochemie	chemie
+359	biologie van het bos	biologie
+359	biologie van het bos	bos
+360	cultuursociologie	sociologie
+360	cultuursociologie	cultuur
+361	wetenschap van gevogelte	wetenschap
+362	artificiële intellegentie	science
+363	biometrie	science
+364	psycholinguïstiek	linguïstiek
+365	de zon en het zonnestelsel	zon
+366	volksgezondheid	gezondheid
+366	volksgezondheid	zon
+367	hardware systemen	systemen
+368	fysica	fysica
+369	pathogene microbiologie	biologie
+369	pathogene microbiologie	microbiologie
+370	literatuur van Latijns-Amerika	literatuur
+370	literatuur van Latijns-Amerika	latijns-amerika
+371	geschiedenis van de moderne kunst en architectuur	geschiedenis
+371	geschiedenis van de moderne kunst en architectuur	kunst
+371	geschiedenis van de moderne kunst en architectuur	architectuur
+371	geschiedenis van de moderne kunst en architectuur	moderne
+371	geschiedenis van de moderne kunst en architectuur	modern
+372	fysiologie	fysiologie
+373	keramische materialen	materialen
+374	polymeren en organische materialen	polymeren
+374	polymeren en organische materialen	materialen
+374	polymeren en organische materialen	organische
+375	etnische studies	studies
+375	etnische studies	etnisch
+375	etnische studies	studie
+376	algebra	algebra
+377	netwerken	science
+378	taalfilosofie	filosofie
+378	taalfilosofie	taal
+379	biomechanica	mechanica
+380	computerarchitectuur	architectuur
+380	computerarchitectuur	computer
+381	talen en gemeenschappen van het Nabije Oosten	talen
+381	talen en gemeenschappen van het Nabije Oosten	gemeenschappen
+381	talen en gemeenschappen van het Nabije Oosten	nabije
+381	talen en gemeenschappen van het Nabije Oosten	oosten
+381	talen en gemeenschappen van het Nabije Oosten	gemeenschap
+382	moleculaire neurowetenschappen	wetenschap
+382	moleculaire neurowetenschappen	neurowetenschappen
+382	moleculaire neurowetenschappen	moleculaire
+382	moleculaire neurowetenschappen	wetenschappen
+382	moleculaire neurowetenschappen	neurowetenschap
+383	discrete wiskunde en combinatoriek	wiskunde
+384	religieuze filosofie	religie
+384	religieuze filosofie	filosofie
+385	immunologie van besmettelijke ziekte	immunologie
+385	immunologie van besmettelijke ziekte	ziekte
+386	genetica	genetica
+387	moleculaire voeding	moleculaire
+387	moleculaire voeding	voeding
+388	robotica	science
+389	wetenschap van bossen	wetenschap
+389	wetenschap van bossen	bos
+390	vergelijkende en historische linguïstiek	vergelijkende
+390	vergelijkende en historische linguïstiek	linguïstiek
+391	moleculaire fysiologie	fysiologie
+391	moleculaire fysiologie	moleculaire
+392	antropologie	antropologie
+393	milieutechnische microbiologie	biologie
+393	milieutechnische microbiologie	microbiologie
+393	milieutechnische microbiologie	milieu
+394	geschiedenis van de klassieke archeologie en kunst	geschiedenis
+394	geschiedenis van de klassieke archeologie en kunst	kunst
+394	geschiedenis van de klassieke archeologie en kunst	klassieke
+394	geschiedenis van de klassieke archeologie en kunst	archeologie
+395	computerwetenschappen	wetenschap
+395	computerwetenschappen	wetenschappen
+395	computerwetenschappen	computer
+396	mechanica van materialen	materialen
+396	mechanica van materialen	mechanica
+397	katalyse en reactietechniek	techniek
+398	geologie	geologie
+399	sociale geografie	geografie
+399	sociale geografie	sociale
+400	motorregeling	science
+401	Aziatische geschiedenis	geschiedenis
+401	Aziatische geschiedenis	aziatische
+402	algoritmen	science
+403	macro-economie	economie
+404	typologische linguïstiek	linguïstiek
+405	neurolinguïstiek	linguïstiek
+406	aerodynamica	dynamica
+407	feministische filosofie	filosofie
+408	Duitse literatuur	literatuur
+408	Duitse literatuur	duitse
+409	fysicochemie	chemie
+410	sociale wetenschappen	wetenschap
+410	sociale wetenschappen	sociale
+410	sociale wetenschappen	wetenschappen
+411	geschiedenis van de Aziatische kunst en archeologie	geschiedenis
+411	geschiedenis van de Aziatische kunst en archeologie	kunst
+411	geschiedenis van de Aziatische kunst en archeologie	archeologie
+411	geschiedenis van de Aziatische kunst en archeologie	aziatische
+412	anorganische chemie	chemie
+412	anorganische chemie	organische
+413	aeronautische voertuigen	science
+414	voeding	voeding
+415	redevoering en retorica	science
+416	genderstudies, studie van feminisme en seksualiteit	studies
+416	genderstudies, studie van feminisme en seksualiteit	gender
+416	genderstudies, studie van feminisme en seksualiteit	seksualiteit
+416	genderstudies, studie van feminisme en seksualiteit	studie
+417	analytische chemie	chemie
+418	sterren, interstellair medium en het sterrenstelsel	sterrenstelsel
+419	cognitieve psychologie	psychologie
+419	cognitieve psychologie	cognitieve
+419	cognitieve psychologie	cognitie
+420	etnomusicologie	science
+421	systemen en communicatie	systemen
+421	systemen en communicatie	communicatie
+422	politieke geschiedenis	geschiedenis
+422	politieke geschiedenis	politiek
+422	politieke geschiedenis	politieke
+423	organische chemie	chemie
+423	organische chemie	organische
+424	geschiedenis van religie	geschiedenis
+424	geschiedenis van religie	religie
+425	energiesystemen	systemen
+425	energiesystemen	energie
+426	plantkunde	science
+427	pathologie	pathologie
+428	klinische voeding	voeding
+428	klinische voeding	klinische
+429	Indo-Europese linguïstiek en filologie	linguïstiek
+429	Indo-Europese linguïstiek en filologie	europese
+429	Indo-Europese linguïstiek en filologie	filologie
+430	geotechniek	techniek
+431	antieke filosofie	filosofie
+432	muziektheorie	theorie
+432	muziektheorie	muziek
+433	aandrijving en kracht	kracht
+434	sociale beïnvloeding en politieke communicatie	communicatie
+434	sociale beïnvloeding en politieke communicatie	politiek
+434	sociale beïnvloeding en politieke communicatie	sociale
+434	sociale beïnvloeding en politieke communicatie	politieke
+435	kernfysica	fysica
+436	graphics	science
+437	ecologie	ecologie
+438	nutritionele genetica	genetica
+438	nutritionele genetica	nutritionele
+439	biologische psychologie	biologisch
+439	biologische psychologie	psychologie
+439	biologische psychologie	biologische
+440	parasitologie	ras
+441	economische geschiedenis	geschiedenis
+441	economische geschiedenis	economische
+442	morfologie	morfologie
+443	klassieke literatuur en filologie	literatuur
+443	klassieke literatuur en filologie	klassieke
+443	klassieke literatuur en filologie	filologie
+444	halfgeleidermateriaal en optisch materiaal	materiaal
+444	halfgeleidermateriaal en optisch materiaal	optisch
+445	biofysica en chemische fysica	fysica
+445	biofysica en chemische fysica	biofysica
+445	biofysica en chemische fysica	chemische
+446	geografische informatiewetenschap	wetenschap
+447	wetenschappelijke berekeningen	wetenschap
+448	human computer interfaces	computer
+449	neurowetenschap van systemen	systemen
+449	neurowetenschap van systemen	wetenschap
+449	neurowetenschap van systemen	neurowetenschap
+450	entomology	science

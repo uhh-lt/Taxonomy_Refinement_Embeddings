@@ -1,0 +1,415 @@
+0	acidification	environment
+1	adaptation au changement climatique	changement
+1	adaptation au changement climatique	climatique
+1	adaptation au changement climatique	climat
+2	analyse de l'eau	l'eau
+2	analyse de l'eau	eau
+3	animal à fourrure	animal
+4	Antarctique	antarctique
+5	Arctique	arctique
+6	assainissement	environment
+7	atmosphère	environment
+8	baleine	environment
+9	besoin en eau	eau
+10	biodégradabilité	environment
+11	biodiversité	environment
+12	biosphère	environment
+13	biotope	environment
+14	boue d'épuration	environment
+15	bruit	bruit
+16	calamité agricole	agricole
+17	changement climatique	changement
+17	changement climatique	climatique
+17	changement climatique	climat
+18	Chiroptera	environment
+19	climat	climat
+20	conditions atmosphériques	atmosphérique
+21	conservation des ressources	ressources
+21	conservation des ressources	ressource
+22	consignation de produit polluant	produit
+22	consignation de produit polluant	polluant
+23	consommation d'eau	eau
+23	consommation d'eau	d'eau
+24	contrôle de la pollution	pollution
+25	corrosion	environment
+26	cours d'eau	eau
+26	cours d'eau	d'eau
+26	cours d'eau	cours
+26	cours d'eau	ours
+27	coût de la pollution	pollution
+28	cyclone	environment
+29	dauphin	environment
+30	déboisement	environment
+31	décharge sauvage	sauvage
+32	déchet	déchet
+33	déchet agricole	agricole
+33	déchet agricole	déchet
+34	déchet chimique	déchet
+34	déchet chimique	chimique
+35	déchet dangereux	déchet
+36	déchet électronique	déchet
+37	déchet hospitalier	déchet
+38	déchet industriel	déchet
+38	déchet industriel	industriel
+39	déchet ménager	déchet
+40	déchet métallique	déchet
+41	déchet non récupérable	déchet
+42	déchet radioactif	déchet
+42	déchet radioactif	radioactif
+43	défoliation	environment
+44	dégradation de l'environnement	l'environnement
+44	dégradation de l'environnement	environnement
+45	degré de pollution	pollution
+46	désastre d'origine humaine	désastre
+47	désastre naturel	désastre
+47	désastre naturel	naturel
+48	désert	désert
+49	désertification	désert
+50	destruction des cultures	environment
+51	dispositif antipollution	pollution
+52	droit de l'environnement	l'environnement
+52	droit de l'environnement	droit
+52	droit de l'environnement	environnement
+53	droits d'émissions UE	droit
+53	droits d'émissions UE	droits
+53	droits d'émissions UE	d'émission
+53	droits d'émissions UE	émissions
+54	eau	eau
+55	eau d'infiltration	eau
+56	eau de baignade	eau
+57	eau douce	eau
+58	eau potable	eau
+59	eau salée	eau
+60	eau souterraine	eau
+60	eau souterraine	souterrain
+61	eau stagnante	eau
+62	eau superficielle	eau
+63	eau usée	eau
+64	échange de droits d'émission	droit
+64	échange de droits d'émission	droits
+64	échange de droits d'émission	échange
+64	échange de droits d'émission	d'émission
+65	économie de l'environnement	l'environnement
+65	économie de l'environnement	environnement
+66	écosystème	écosystème
+67	écosystème marin	écosystème
+67	écosystème marin	marin
+68	écosystème terrestre	écosystème
+69	éducation à l'environnement	l'environnement
+69	éducation à l'environnement	environnement
+70	effet de serre atmosphérique	serre
+70	effet de serre atmosphérique	atmosphérique
+71	effluent radioactif	radioactif
+72	élimination des déchets	déchet
+72	élimination des déchets	déchets
+73	environnement	environnement
+74	environnement physique	environnement
+74	environnement physique	physique
+75	épuisement des ressources	ressources
+75	épuisement des ressources	ressource
+76	équilibre écologique	environment
+77	érosion	environment
+78	éruption volcanique	environment
+79	espèce marine	marin
+79	espèce marine	espèce
+79	espèce marine	marine
+80	espèce protégée	espèce
+80	espèce protégée	protégée
+81	estuaire	environment
+82	eutrophisation	environment
+83	évaluation des ressources	ressources
+83	évaluation des ressources	ressource
+84	exploitation des fonds marins	marin
+84	exploitation des fonds marins	exploitation
+84	exploitation des fonds marins	fond
+85	exploitation des mers	exploitation
+85	exploitation des mers	mers
+85	exploitation des mers	mer
+86	exploitation des ressources	ressources
+86	exploitation des ressources	exploitation
+86	exploitation des ressources	ressource
+87	exportation des déchets	déchet
+87	exportation des déchets	déchets
+88	faune	faune
+89	flore	flore
+90	fond côtier	fond
+91	fond marin	marin
+91	fond marin	fond
+92	gaz à effet de serre	serre
+92	gaz à effet de serre	gaz
+93	gaz de combustion	gaz
+94	gestion de l'eau	l'eau
+94	gestion de l'eau	eau
+94	gestion de l'eau	gestion
+95	gestion de l'espace	gestion
+96	gestion des déchets	déchet
+96	gestion des déchets	déchets
+96	gestion des déchets	gestion
+97	gestion des ressources	ressources
+97	gestion des ressources	gestion
+97	gestion des ressources	ressource
+98	glace	lac
+99	huile usagée	environment
+100	île	environment
+101	immersion de déchets	déchet
+101	immersion de déchets	déchets
+101	immersion de déchets	mers
+101	immersion de déchets	mer
+102	impact sur l'environnement	l'environnement
+102	impact sur l'environnement	environnement
+103	incendie	incendie
+104	incinération des déchets	déchet
+104	incinération des déchets	déchets
+105	indicateur environnemental	environnement
+105	indicateur environnemental	environnemental
+106	inondation	environment
+107	insecte	insecte
+108	instrument économique pour l'environnement	l'environnement
+108	instrument économique pour l'environnement	environnement
+109	intempérie	environment
+110	lac	lac
+111	littoral	littoral
+112	loup	environment
+113	lutte anti-incendie	incendie
+113	lutte anti-incendie	lutte
+114	lutte contre la pollution	pollution
+114	lutte contre la pollution	lutte
+115	lutte contre le gaspillage	lutte
+116	lutte contre les insectes	insecte
+116	lutte contre les insectes	lutte
+117	lynx	environment
+118	mammifère marin	marin
+118	mammifère marin	mammifère
+119	mammifère sauvage	sauvage
+119	mammifère sauvage	mammifère
+120	Manche	environment
+121	marsupial	environment
+122	mécanisme pour un développement propre	environment
+123	Mécanisme UE d'échange de droits d'émission	droit
+123	Mécanisme UE d'échange de droits d'émission	droits
+123	Mécanisme UE d'échange de droits d'émission	échange
+123	Mécanisme UE d'échange de droits d'émission	d'émission
+124	mer	mer
+125	mer Adriatique	mer
+126	mer Baltique	mer
+127	mer Caspienne	mer
+128	mer d'Irlande	mer
+129	mer de Ligurie	mer
+130	mer de Norvège	mer
+131	mer du Nord	mer
+132	mer Égée	mer
+133	mer Ionienne	mer
+134	mer Méditerranée	mer
+135	mer Noire	mer
+136	mer Rouge	mer
+137	mer Tyrrhénienne	mer
+138	milieu aquatique	milieu
+139	milieu géophysique	physique
+139	milieu géophysique	milieu
+140	milieu marin	marin
+140	milieu marin	milieu
+141	mise en oeuvre conjointe	environment
+142	montagne	environment
+143	niveau sonore	eau
+144	norme biologique	norme
+145	norme environnementale	environnement
+145	norme environnementale	environnemental
+145	norme environnementale	norme
+145	norme environnementale	environnementale
+146	nuisance	nuisance
+147	nuisance électromagnétique	nuisance
+148	océan	océan
+149	océan Antarctique	antarctique
+149	océan Antarctique	océan
+150	océan Arctique	arctique
+150	océan Arctique	océan
+151	océan Atlantique	océan
+152	océan Indien	océan
+153	océan Pacifique	océan
+154	oiseau	eau
+155	ours	ours
+156	ozone	zone
+157	parc national	parc
+157	parc national	national
+158	parc national urbain	parc
+158	parc national urbain	national
+159	permis de pollution négociable	pollution
+160	phoque	environment
+161	plaine	environment
+162	plante nuisible	environment
+163	plateau continental	eau
+164	pluie acide	environment
+165	politique de l'environnement	l'environnement
+165	politique de l'environnement	environnement
+165	politique de l'environnement	politique
+166	politique de l'environnement de l'UE	l'environnement
+166	politique de l'environnement de l'UE	environnement
+166	politique de l'environnement de l'UE	politique
+167	politique en matière de changement climatique	changement
+167	politique en matière de changement climatique	climatique
+167	politique en matière de changement climatique	climat
+167	politique en matière de changement climatique	politique
+168	polluant	polluant
+169	polluant atmosphérique	polluant
+169	polluant atmosphérique	atmosphérique
+170	polluant de l'eau	l'eau
+170	polluant de l'eau	eau
+170	polluant de l'eau	polluant
+171	polluant stratosphérique	polluant
+171	polluant stratosphérique	stratosphérique
+172	pollution	pollution
+173	pollution accidentelle	pollution
+174	pollution acoustique	pollution
+175	pollution atmosphérique	pollution
+175	pollution atmosphérique	atmosphérique
+176	pollution automobile	pollution
+177	pollution chimique	pollution
+177	pollution chimique	chimique
+178	pollution de l'eau	l'eau
+178	pollution de l'eau	eau
+178	pollution de l'eau	pollution
+179	pollution des aliments	pollution
+180	pollution des côtes	pollution
+181	pollution des cours d'eau	eau
+181	pollution des cours d'eau	d'eau
+181	pollution des cours d'eau	pollution
+181	pollution des cours d'eau	cours
+181	pollution des cours d'eau	ours
+182	pollution du sol	pollution
+182	pollution du sol	sol
+183	pollution industrielle	pollution
+183	pollution industrielle	industriel
+184	pollution locale	pollution
+185	pollution marine	pollution
+185	pollution marine	marin
+185	pollution marine	marine
+186	pollution organique	pollution
+187	pollution par l'agriculture	pollution
+188	pollution par les hydrocarbures	pollution
+189	pollution par les métaux	pollution
+190	pollution par les navires	pollution
+191	pollution radioactive	pollution
+192	pollution stratosphérique	pollution
+192	pollution stratosphérique	stratosphérique
+193	pollution tellurique	pollution
+194	pollution thermique	pollution
+194	pollution thermique	thermique
+195	pollution transfrontière	pollution
+196	poussière	environment
+197	prévention antisismique	prévention
+198	prévention de la pollution	pollution
+198	prévention de la pollution	prévention
+199	prévention des risques	prévention
+199	prévention des risques	risque
+200	principe pollueur-payeur	environment
+201	produit inflammable	produit
+202	protection contre le bruit	bruit
+202	protection contre le bruit	protection
+203	protection de l'environnement	l'environnement
+203	protection de l'environnement	environnement
+203	protection de l'environnement	protection
+204	protection de la faune	faune
+204	protection de la faune	protection
+205	protection de la flore	flore
+205	protection de la flore	protection
+206	protection des animaux	protection
+207	protection des eaux	eau
+207	protection des eaux	protection
+208	protection du littoral	littoral
+208	protection du littoral	protection
+209	protection du paysage	protection
+210	qualité de l'environnement	l'environnement
+210	qualité de l'environnement	environnement
+211	quota d'émission	d'émission
+212	rayonnement non ionisant	environment
+213	réchauffement climatique	climatique
+213	réchauffement climatique	climat
+214	recherche sur l'environnement	l'environnement
+214	recherche sur l'environnement	environnement
+215	recyclage des déchets	déchet
+215	recyclage des déchets	déchets
+216	redevance environnementale	environnement
+216	redevance environnementale	environnemental
+216	redevance environnementale	environnementale
+217	réduction des émissions de gaz	gaz
+217	réduction des émissions de gaz	émissions
+218	région polaire	environment
+219	réglementation de la chasse	environment
+220	rejet thermique	thermique
+221	remplacement des ressources	ressources
+221	remplacement des ressources	lac
+221	remplacement des ressources	ressource
+222	reptile	environment
+223	réserve naturelle	naturel
+223	réserve naturelle	naturelle
+224	résidu de pesticide	environment
+225	responsabilité des dommages environnementaux	environnement
+226	ressource animale	animal
+226	ressource animale	ressource
+227	ressource de la mer	mer
+227	ressource de la mer	ressource
+228	ressource en eau	eau
+228	ressource en eau	ressource
+229	ressource en sol	sol
+229	ressource en sol	ressource
+230	ressource énergétique	ressource
+231	ressource minérale	ressource
+231	ressource minérale	minérale
+232	ressource minérale sous-marine	marin
+232	ressource minérale sous-marine	marine
+232	ressource minérale sous-marine	ressource
+232	ressource minérale sous-marine	minérale
+233	ressource naturelle	naturel
+233	ressource naturelle	naturelle
+233	ressource naturelle	ressource
+234	ressource renouvelable	ressource
+235	ressource végétale	ressource
+236	risque industriel	industriel
+236	risque industriel	risque
+237	risque naturel	naturel
+237	risque naturel	risque
+238	rongeur	environment
+239	sécheresse	environment
+240	séisme	environment
+241	singe	environment
+242	statistique de l'environnement	l'environnement
+242	statistique de l'environnement	environnement
+243	stockage des déchets	déchet
+243	stockage des déchets	déchets
+243	stockage des déchets	stockage
+244	stockage souterrain des déchets	déchet
+244	stockage souterrain des déchets	déchets
+244	stockage souterrain des déchets	stockage
+244	stockage souterrain des déchets	souterrain
+245	substance cancérigène	substance
+246	substance dangereuse	substance
+247	substance toxique	substance
+248	surexploitation des ressources	ressources
+248	surexploitation des ressources	exploitation
+248	surexploitation des ressources	ressource
+249	surveillance de l'environnement	l'environnement
+249	surveillance de l'environnement	environnement
+250	traitement de l'eau	l'eau
+250	traitement de l'eau	eau
+251	utilisation de l'eau	l'eau
+251	utilisation de l'eau	eau
+252	véhicule non polluant	polluant
+253	vibration mécanique	environment
+254	vie sauvage	sauvage
+255	zone aride	zone
+256	zone climatique	climatique
+256	zone climatique	climat
+256	zone climatique	zone
+257	zone équatoriale	zone
+258	zone froide	zone
+259	zone humide	zone
+260	zone polluée	zone
+261	zone protégée	protégée
+261	zone protégée	zone
+262	zone sensible	zone
+263	zone sinistrée	zone
+264	zone subtropicale	zone
+264	zone subtropicale	tropicale
+265	zone tempérée	zone
+266	zone tropicale	zone
+266	zone tropicale	tropicale

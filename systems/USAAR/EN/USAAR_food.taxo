@@ -1,0 +1,4347 @@
+0	blood agar	agar
+1	ginger ale	ale
+2	pale ale	ale
+3	chinese anise	anise
+4	sugar apple	apple
+5	candied apple	apple
+6	jerusalem artichoke	artichoke
+7	montreal-style bagel	bagel
+8	onion bagel	bagel
+9	bull's-eye barbecue sauce	barbecue sauce
+10	maull's barbecue sauce	barbecue sauce
+11	pearl barley	barley
+12	pancake batter	batter
+13	fritter batter	batter
+14	puff batter	batter
+15	dried bean	bean
+16	broad bean	bean
+17	vanilla bean	bean
+18	jelly bean	bean
+19	kobe beef	beef
+20	chipped beef	beef
+21	yonezawa beef	beef
+22	organic beef	beef
+23	root beer	beer
+24	munich beer	beer
+25	spruce beer	beer
+26	near beer	beer
+27	birch beer	beer
+28	draft beer	beer
+29	non-alcoholic beer	beer
+30	light beer	beer
+31	ginger beer	beer
+32	rolled biscuit	biscuit
+33	baking powder biscuit	biscuit
+34	drop biscuit	biscuit
+35	buttermilk biscuit	biscuit
+36	water biscuit	biscuit
+37	chenin blanc	blanc
+38	beurre blanc	blanc
+39	pinot blanc	blanc
+40	sauvignon blanc	blanc
+41	veal cordon bleu	bleu
+42	chicken cordon bleu	bleu
+43	hard boiled egg	boiled egg
+44	cold borsch	borsch
+45	100% bran	bran
+46	raisin bran	bran
+47	cracklin' oat bran	bran
+48	sausage bread	bread
+49	white bread	bread
+50	banana bread	bread
+51	garlic bread	bread
+52	nut bread	bread
+53	black bread	bread
+54	brown bread	bread
+55	hard dough bread	bread
+56	date bread	bread
+57	caraway seed bread	bread
+58	veda bread	bread
+59	scali bread	bread
+60	spoon bread	bread
+61	rice bread	bread
+62	sprouted bread	bread
+63	cuban bread	bread
+64	gluten bread	bread
+65	quick bread	bread
+66	tandoor bread	bread
+67	salt-rising bread	bread
+68	sour bread	bread
+69	graham bread	bread
+70	sacramental bread	bread
+71	skillet bread	bread
+72	rewena bread	bread
+73	dark bread	bread
+74	irish soda bread	bread
+75	afghan bread	bread
+76	french bread	bread
+77	beer bread	bread
+78	anadama bread	bread
+79	cardamom bread	bread
+80	barley bread	bread
+81	adobe bread	bread
+82	amish friendship bread	bread
+83	slow bread	bread
+84	tone bread	bread
+85	vienna bread	bread
+86	maltese bread	bread
+87	crisp bread	bread
+88	onion bread	bread
+89	fried bread	bread
+90	portuguese sweet bread	bread
+91	wagafi bread	bread
+92	twist bread	bread
+93	cinnamon bread	bread
+94	tea bread	bread
+95	cracked wheat bread	bread
+96	tapalapa bread	bread
+97	italian bread	bread
+98	raisin bread	bread
+99	salt rising bread	bread
+100	rye bread	bread
+101	potato bread	bread
+102	skillet corn bread	bread
+103	crustless bread	bread
+104	whole wheat bread	bread
+105	easter bread	bread
+106	continental breakfast	breakfast
+107	power breakfast	breakfast
+108	home brew	brew
+109	peanut brittle	brittle
+110	toffee brittle	brittle
+111	scotch broth	broth
+112	beef broth	broth
+113	chicken broth	broth
+114	chinese brown sauce	brown sauce
+115	cake and brownie mix	brownie mix
+116	hamburger bun	bun
+117	bath bun	bun
+118	black bun	bun
+119	frankfurter bun	bun
+120	cocktail bun	bun
+121	belgian bun	bun
+122	cross bun	bun
+123	sally lunn bun	bun
+124	colston bun	bun
+125	london bun	bun
+126	hot dog bun	bun
+127	honey bun	bun
+128	spiced bun	bun
+129	saffron bun	bun
+130	fruit bun	bun
+131	penny bun	bun
+132	currant bun	bun
+133	beef burrito	burrito
+134	lobster butter	butter
+135	yak butter	butter
+136	apple butter	butter
+137	shrimp butter	butter
+138	snail butter	butter
+139	meuniere butter	butter
+140	peanut butter	butter
+141	clarified butter	butter
+142	brown butter	butter
+143	onion butter	butter
+144	pimento butter	butter
+145	nut butter	butter
+146	garlic butter	butter
+147	anchovy butter	butter
+148	gooey butter cake	butter cake
+149	stuffed cabbage	cabbage
+150	tuscan cabbage	cabbage
+151	rock cake	cake
+152	chocolate cake	cake
+153	coffee cake	cake
+154	red bean cake	cake
+155	carrot cake	cake
+156	eccles cake	cake
+157	simnel cake	cake
+158	soul cake	cake
+159	king cake	cake
+160	garash cake	cake
+161	pound cake	cake
+162	madeira cake	cake
+163	heavy cake	cake
+164	fish cake	cake
+165	hot milk cake	cake
+166	upside-down cake	cake
+167	wedding cake	cake
+168	sponge cake	cake
+169	game cake	cake
+170	lolly cake	cake
+171	oil cake	cake
+172	stottie cake	cake
+173	dundee cake	cake
+174	angel food cake	cake
+175	chiffon cake	cake
+176	erotic cake	cake
+177	herman cake	cake
+178	lardy cake	cake
+179	rab cake	cake
+180	depression cake	cake
+181	barm cake	cake
+182	sesame seed cake	cake
+183	jewish apple cake	cake
+184	marble cake	cake
+185	pandan cake	cake
+186	ice cream cake	cake
+187	chongyang cake	cake
+188	tipsy cake	cake
+189	butter cake	cake
+190	sticky rice cake	cake
+191	cattle cake	cake
+192	caraway seed cake	cake
+193	snack cake	cake
+194	spice cake	cake
+195	black sesame rice cake	cake
+196	génoise cake	cake
+197	red velvet cake	cake
+198	happy cake	cake
+199	wine cake	cake
+200	princess cake	cake
+201	funing big cake	cake
+202	st. honoré cake	cake
+203	rum cake	cake
+204	wacky cake	cake
+205	opera cake	cake
+206	dripping cake	cake
+207	bulla cake	cake
+208	christmas cake	cake
+209	tres leches cake	cake
+210	puffed rice cake	cake
+211	fruit cake	cake
+212	corn cake	cake
+213	fudge cake	cake
+214	changzhou sesame cake	cake
+215	shawnee cake	cake
+216	hummingbird cake	cake
+217	layer cake	cake
+218	bundt cake	cake
+219	lane cake	cake
+220	rock candy	candy
+221	sugar candy	candy
+222	cotton candy	candy
+223	hard candy	candy
+224	creme caramel	caramel
+225	pizza carbonara	carbonara
+226	chicken casserole	casserole
+227	rocky road cereal	cereal
+228	sunny boy cereal	cereal
+229	buc wheats cereal	cereal
+230	clackers cereal	cereal
+231	uncle sam cereal	cereal
+232	breakfast cereal	cereal
+233	swiss cheese	cheese
+234	cheshire cheese	cheese
+235	grated cheese	cheese
+236	process cheese	cheese
+237	hand cheese	cheese
+238	string cheese	cheese
+239	quark cheese	cheese
+240	goat cheese	cheese
+241	rat cheese	cheese
+242	cream cheese	cheese
+243	cottage cheese	cheese
+244	brick cheese	cheese
+245	macaroni and cheese	cheese
+246	water chestnut	chestnut
+247	corn chip	chip
+248	tortilla chip	chip
+249	fish and chips	chips
+250	flourless chocolate cake	chocolate cake
+251	german chocolate cake	chocolate cake
+252	somebody's mother's chocolate sauce	chocolate sauce
+253	southern illinois chowder	chowder
+254	fish chowder	chowder
+255	clam chowder	chowder
+256	corn chowder	chowder
+257	sweet cider	cider
+258	hard cider	cider
+259	mulled cider	cider
+260	stick cinnamon	cinnamon
+261	new england clam chowder	clam chowder
+262	manhattan clam chowder	clam chowder
+263	crab cocktail	cocktail
+264	fruit cocktail	cocktail
+265	shrimp cocktail	cocktail
+266	shredded coconut	coconut
+267	drip coffee	coffee
+268	instant coffee	coffee
+269	decaffeinated coffee	coffee
+270	ground and whole bean coffee	coffee
+271	irish coffee	coffee
+272	iced coffee	coffee
+273	turkish coffee	coffee
+274	coca cola	cola
+275	tomato concentrate	concentrate
+276	candy corn	corn
+277	creamed corn	corn
+278	sweet corn	corn
+279	prepared main course	course
+280	oyster cracker	cracker
+281	graham cracker	cracker
+282	soda cracker	cracker
+283	bavarian cream	cream
+284	light cream	cream
+285	ice cream	cream
+286	heavy cream	cream
+287	salad cream	cream
+288	egg cream	cream
+289	sour cream	cream
+290	double cream	cream
+291	clotted cream	cream
+292	triple cream	cream
+293	whipping cream	cream
+294	whipped cream	cream
+295	hot cross bun	cross bun
+296	champagne cup	cup
+297	claret cup	cup
+298	bean curd	curd
+299	lemon curd	curd
+300	lamb curry	curry
+301	fruit custard	custard
+302	frozen custard	custard
+303	nada daiquiri	daiquiri
+304	strawberry daiquiri	daiquiri
+305	frozen dessert	dessert
+306	gelatin dessert	dessert
+307	fad diet	diet
+308	bland diet	diet
+309	low fat diet	diet
+310	light diet	diet
+311	low sodium diet	diet
+312	liquid diet	diet
+313	reducing diet	diet
+314	gluten free diet	diet
+315	high protein diet	diet
+316	allergy diet	diet
+317	low calorie diet	diet
+318	balanced diet	diet
+319	macrobiotic diet	diet
+320	diabetic diet	diet
+321	soft diet	diet
+322	high vitamin diet	diet
+323	boiled dinner	dinner
+324	frozen dinner	dinner
+325	frying pan dinner	dinner
+326	bean dip	dip
+327	clam dip	dip
+328	cheese dip	dip
+329	vegetable dip	dip
+330	side dish	dish
+331	honey dew donut	donut
+332	sponge and dough	dough
+333	bread dough	dough
+334	jelly doughnut	doughnut
+335	coconut doughnut	doughnut
+336	boston cream doughnut	doughnut
+337	sour cream doughnut	doughnut
+338	potato doughnut	doughnut
+339	lorenzo dressing	dressing
+340	bleu cheese dressing	dressing
+341	russian dressing	dressing
+342	french dressing	dressing
+343	blue cheese dressing	dressing
+344	italian dressing	dressing
+345	louis dressing	dressing
+346	anchovy dressing	dressing
+347	half and half dressing	dressing
+348	thousand island dressing	dressing
+349	salad dressing	dressing
+350	figgy duff	duff
+351	apple dumpling	dumpling
+352	shirred egg	egg
+353	scotch egg	egg
+354	easter egg	egg
+355	deviled egg	egg
+356	poached egg	egg
+357	candy egg	egg
+358	fried egg	egg
+359	chocolate egg	egg
+360	boiled egg	egg
+361	elixir of life	elixir
+362	chicken feed	feed
+363	bird feed	feed
+364	creep feed	feed
+365	corn gluten feed	feed
+366	pie filling	filling
+367	bermuda fish chowder	fish chowder
+368	phu quoc fish sauce	fish sauce
+369	self rising flour	flour
+370	pea flour	flour
+371	plain flour	flour
+372	wheat flour	flour
+373	chocolate fondue	fondue
+374	cheese fondue	fondue
+375	beef fondue	fondue
+376	fast food	food
+377	dog food	food
+378	finger food	food
+379	prepared food	food
+380	canned food	food
+381	soul food	food
+382	miraculous food	food
+383	comfort food	food
+384	frozen food	food
+385	snack food	food
+386	dehydrated food	food
+387	cat food	food
+388	non-dairy frozen dessert	frozen dessert
+389	passion fruit	fruit
+390	homli fruit	fruit
+391	chocolate covered fruit	fruit
+392	candied fruit	fruit
+393	dried fruit	fruit
+394	chocolate fudge	fudge
+395	sloe gin	gin
+396	bathtub gin	gin
+397	crystallized ginger	ginger
+398	pork and veal goulash	goulash
+399	beef goulash	goulash
+400	feed grain	grain
+401	red-eye gravy	gravy
+402	mushroom gravy	gravy
+403	barley gruel	gruel
+404	corned beef hash	hash
+405	lye hominy	hominy
+406	pearl hominy	hominy
+407	honey bunches of oats	honey
+408	seattle-style hot dog	hot dog
+409	michigan hot dog	hot dog
+410	italian hot dog	hot dog
+411	coney island hot dog	hot dog
+412	vegetarian hot dog	hot dog
+413	chicago-style hot dog	hot dog
+414	choc ice	ice
+415	water ice	ice
+416	strawberry ice cream	ice cream
+417	vanilla ice cream	ice cream
+418	chocolate ice cream	ice cream
+419	peach ice cream	ice cream
+420	neapolitan ice cream	ice cream
+421	cooking ingredient	ingredient
+422	smith & jones instant noodle	instant noodle
+423	strawberry jam	jam
+424	calf's foot jelly	jelly
+425	apple jelly	jelly
+426	crabapple jelly	jelly
+427	grape jelly	jelly
+428	grape juice	juice
+429	pineapple juice	juice
+430	apple juice	juice
+431	v 8 juice	juice
+432	papaya juice	juice
+433	cranberry juice	juice
+434	lemon juice	juice
+435	tomato juice	juice
+436	orange juice	juice
+437	carrot juice	juice
+438	fruit juice	juice
+439	grapefruit juice	juice
+440	lime juice	juice
+441	curry ketchup	ketchup
+442	scotch kiss	kiss
+443	molasses kiss	kiss
+444	meringue kiss	kiss
+445	chocolate kiss	kiss
+446	bitter lemon	lemon
+447	orange liqueur	liqueur
+448	coffee liqueur	liqueur
+449	clear liquid diet	liquid diet
+450	business lunch	lunch
+451	ploughman's lunch	lunch
+452	pancake and maple syrup	maple syrup
+453	butter and margarine	margarine
+454	orange marmalade	marmalade
+455	petite marmite	marmite
+456	vodka martini	martini
+457	sour mash	mash
+458	green mayonnaise	mayonnaise
+459	blood meal	meal
+460	square meal	meal
+461	fish meal	meal
+462	soybean meal	meal
+463	matzo meal	meal
+464	oil meal	meal
+465	lunch meat	meat
+466	frozen meat	meat
+467	fresh meat	meat
+468	deli meat	meat
+469	tinned meat	meat
+470	canned meat	meat
+471	swedish meatball	meatball
+472	sour milk	milk
+473	semi skimmed milk	milk
+474	scalded milk	milk
+475	skim milk	milk
+476	raw milk	milk
+477	homogenized milk	milk
+478	chocolate milk	milk
+479	powdered milk	milk
+480	yak's milk	milk
+481	cows' milk	milk
+482	nonfat dry milk	milk
+483	oat milk	milk
+484	goats' milk	milk
+485	soy milk	milk
+486	condensed milk	milk
+487	almond milk	milk
+488	whole milk	milk
+489	coconut milk	milk
+490	rice milk	milk
+491	malted milk	milk
+492	soya milk	milk
+493	certified milk	milk
+494	acidophilus milk	milk
+495	mother's milk	milk
+496	non-dairy milk	milk
+497	evaporated milk	milk
+498	ice milk	milk
+499	poppy milk	milk
+500	pasteurized milk	milk
+501	hemp milk	milk
+502	low fat milk	milk
+503	chocolate mint	mint
+504	batter and coating mix	mix
+505	baking mix	mix
+506	salad mix	mix
+507	bread pudding mix	mix
+508	cake mix	mix
+509	pretzel mix	mix
+510	waffle and pancake mix	mix
+511	brownie mix	mix
+512	powdered beverage mix	mix
+513	biscuit mix	mix
+514	cocktail mix	mix
+515	lemonade mix	mix
+516	ready mix	mix
+517	fish mousse	mousse
+518	chocolate mousse	mousse
+519	chicken mousse	mousse
+520	bran muffin	muffin
+521	english muffin	muffin
+522	corn muffin	muffin
+523	stuffed mushroom	mushroom
+524	chinese mustard	mustard
+525	powdered mustard	mustard
+526	singapore style noodle	noodle
+527	henan braised noodle	noodle
+528	instant noodle	noodle
+529	korean noodle	noodle
+530	beef noodle soup	noodle soup
+531	date nut bread	nut bread
+532	under cover bears instant oatmeal	oatmeal
+533	scott's porage oats	oats
+534	black olive	olive
+535	green olive	olive
+536	western omelet	omelet
+537	firm omelet	omelet
+538	french omelet	omelet
+539	fluffy omelet	omelet
+540	frozen orange juice	orange juice
+541	gundel pancake	pancake
+542	chinese pancake	pancake
+543	david eyre's pancake	pancake
+544	potato pancake	pancake
+545	spanish paprika	paprika
+546	chicken paprika	paprika
+547	veal parmesan	parmesan
+548	alphabet pasta	pasta
+549	bolognese pasta sauce	pasta sauce
+550	duck pate	pate
+551	peppermint patty	patty
+552	meat patty	patty
+553	chick pea	pea
+554	split pea soup	pea soup
+555	green pea soup	pea soup
+556	prickly pear	pear
+557	black pepper	pepper
+558	white pepper	pepper
+559	dill pickle	pickle
+560	bread and butter pickle	pickle
+561	sweet pickle	pickle
+562	tamale pie	pie
+563	cottage pie	pie
+564	boston cream pie	pie
+565	bulgur pilaf	pilaf
+566	arisa pitha	pitha
+567	kakara pitha	pitha
+568	chicago-style pizza	pizza
+569	hawaiian pizza	pizza
+570	grilled pizza	pizza
+571	neapolitan pizza	pizza
+572	detroit-style pizza	pizza
+573	california-style pizza	pizza
+574	anchovy pizza	pizza
+575	cheese pizza	pizza
+576	st. louis-style pizza	pizza
+577	mexican pizza	pizza
+578	sausage pizza	pizza
+579	greek pizza	pizza
+580	sushi pizza	pizza
+581	greenwich pizza	pizza
+582	sicilian pizza	pizza
+583	new york-style pizza	pizza
+584	pepperoni pizza	pizza
+585	sandwich plate	plate
+586	cake pop	pop
+587	salt pork	pork
+588	sweet and sour pork	pork
+589	geera pork	pork
+590	uruguay potato	potato
+591	sweet potato	potato
+592	jacket potato	potato
+593	mashed potato	potato
+594	baked potato	potato
+595	soft pretzel	pretzel
+596	suet pudding	pudding
+597	yorkshire pudding	pudding
+598	corn pudding	pudding
+599	figgy pudding	pudding
+600	tapioca pudding	pudding
+601	pistachio pudding	pudding
+602	christmas pudding	pudding
+603	eve's pudding	pudding
+604	black pudding	pudding
+605	welf pudding	pudding
+606	sussex pond pudding	pudding
+607	hasty pudding	pudding
+608	steak and kidney pudding	pudding
+609	hog's pudding	pudding
+610	malvern pudding	pudding
+611	frozen pudding	pudding
+612	chocolate pudding	pudding
+613	sago pudding	pudding
+614	carrot pudding	pudding
+615	cabinet pudding	pudding
+616	cheese pudding	pudding
+617	plum pudding	pudding
+618	pease pudding	pudding
+619	vanilla pudding	pudding
+620	steamed pudding	pudding
+621	malva pudding	pudding
+622	fruit punch	punch
+623	planter's punch	punch
+624	milk punch	punch
+625	fish house punch	punch
+626	neapolitan ragù	ragù
+627	k ration	ration
+628	c ration	ration
+629	field ration	ration
+630	sauce ravigote	ravigote
+631	pickle relish	relish
+632	chicken and rice	rice
+633	brown rice	rice
+634	spanish rice	rice
+635	fried rice	rice
+636	white rice	rice
+637	wild rice	rice
+638	gin rickey	rickey
+639	rumali roti	roti
+640	sel roti	roti
+641	jamaica rum	rum
+642	swedish rye bread	rye bread
+643	jewish rye bread	rye bread
+644	clary sage	sage
+645	tuna fish salad	salad
+646	chef's salad	salad
+647	herring salad	salad
+648	potato salad	salad
+649	candle salad	salad
+650	chicken salad	salad
+651	green salad	salad
+652	waldorf salad	salad
+653	pasta salad	salad
+654	tossed salad	salad
+655	caesar salad	salad
+656	macaroni salad	salad
+657	combination salad	salad
+658	fruit salad	salad
+659	molded salad	salad
+660	sour salt	salt
+661	seasoned salt	salt
+662	garlic salt	salt
+663	celery salt	salt
+664	onion salt	salt
+665	chicken sandwich	sandwich
+666	ham sandwich	sandwich
+667	open face sandwich	sandwich
+668	bacon lettuce tomato sandwich	sandwich
+669	prepared sandwich	sandwich
+670	club sandwich	sandwich
+671	breakfast sandwich	sandwich
+672	albert sauce	sauce
+673	cumberland sauce	sauce
+674	fruit sauce	sauce
+675	bow wow sauce	sauce
+676	white sauce	sauce
+677	tartar sauce	sauce
+678	chili sauce	sauce
+679	horseradish sauce	sauce
+680	hot fudge sauce	sauce
+681	apricot sauce	sauce
+682	fish sauce	sauce
+683	chocolate sauce	sauce
+684	velouté sauce	sauce
+685	breton sauce	sauce
+686	caper sauce	sauce
+687	mustard sauce	sauce
+688	pizza sauce	sauce
+689	spaghetti sauce	sauce
+690	hungarian sauce	sauce
+691	albufera sauce	sauce
+692	hunter's sauce	sauce
+693	anchovy sauce	sauce
+694	cranberry sauce	sauce
+695	satay sauce	sauce
+696	mushroom sauce	sauce
+697	bolognese sauce	sauce
+698	pepper sauce	sauce
+699	green sauce	sauce
+700	cocktail sauce	sauce
+701	mala sauce	sauce
+702	lyonnaise sauce	sauce
+703	bread sauce	sauce
+704	remoulade sauce	sauce
+705	béarnaise sauce	sauce
+706	mornay sauce	sauce
+707	steak sauce	sauce
+708	nantua sauce	sauce
+709	brown sauce	sauce
+710	espagnole sauce	sauce
+711	apple sauce	sauce
+712	duck sauce	sauce
+713	café de paris sauce	sauce
+714	soubise sauce	sauce
+715	siu haau sauce	sauce
+716	worcestershire sauce	sauce
+717	ok sauce	sauce
+718	béchamel sauce	sauce
+719	wow-wow sauce	sauce
+720	barbecue sauce	sauce
+721	honey garlic sauce	sauce
+722	meunière sauce	sauce
+723	nali sauce	sauce
+724	venetian sauce	sauce
+725	peach sauce	sauce
+726	hot sauce	sauce
+727	peanut sauce	sauce
+728	pasta sauce	sauce
+729	oyster sauce	sauce
+730	suprême sauce	sauce
+731	lobster sauce	sauce
+732	bordelaise sauce	sauce
+733	khrenovina sauce	sauce
+734	tartare sauce	sauce
+735	plum sauce	sauce
+736	newburg sauce	sauce
+737	taco sauce	sauce
+738	worcester sauce	sauce
+739	xo sauce	sauce
+740	cheese sauce	sauce
+741	cream sauce	sauce
+742	caruso sauce	sauce
+743	curry sauce	sauce
+744	tomato sauce	sauce
+745	noodle with tomato egg sauce	sauce
+746	wine sauce	sauce
+747	mint sauce	sauce
+748	hard sauce	sauce
+749	soy sauce	sauce
+750	newmarket sausage	sausage
+751	oxford sausage	sausage
+752	bologna sausage	sausage
+753	cumberland sausage	sausage
+754	nădlac sausage	sausage
+755	lincolnshire sausage	sausage
+756	vienna sausage	sausage
+757	morteau sausage	sausage
+758	summer sausage	sausage
+759	thuringian sausage	sausage
+760	glamorgan sausage	sausage
+761	breakfast sausage	sausage
+762	summer savory	savory
+763	winter savory	savory
+764	drop scone	scone
+765	fresh seafood	seafood
+766	frozen seafood	seafood
+767	tinned seafood	seafood
+768	sesame seed	seed
+769	fennel seed	seed
+770	sunflower seed	seed
+771	canary seed	seed
+772	dill seed	seed
+773	poppy seed	seed
+774	mustard seed	seed
+775	pumpkin seed	seed
+776	caraway seed	seed
+777	celery seed	seed
+778	prepared side dish	side dish
+779	rum sling	sling
+780	gin sling	sling
+781	brandy sling	sling
+782	cheese souffle	souffle
+783	pea soup	soup
+784	bread soup	soup
+785	mami soup	soup
+786	tinned soup	soup
+787	chicken soup	soup
+788	nettle soup	soup
+789	alphabet soup	soup
+790	she-crab soup	soup
+791	instant soup	soup
+792	pig's organ soup	soup
+793	sour rye soup	soup
+794	red peas soup	soup
+795	noodle soup	soup
+796	beer soup	soup
+797	fisherman's soup	soup
+798	eggdrop soup	soup
+799	pumpkin soup	soup
+800	cantonese seafood soup	soup
+801	sour cherry soup	soup
+802	lentil soup	soup
+803	taco soup	soup
+804	brown windsor soup	soup
+805	lung fung soup	soup
+806	ezogelin soup	soup
+807	draw soup	soup
+808	spring soup	soup
+809	cucumber soup	soup
+810	wedding soup	soup
+811	sorrel soup	soup
+812	turtle soup	soup
+813	oxtail soup	soup
+814	corn soup	soup
+815	black soup	soup
+816	blood soup	soup
+817	french onion soup	soup
+818	rose hip soup	soup
+819	senate bean soup	soup
+820	macaroni soup	soup
+821	egg drop soup	soup
+822	sour soup	soup
+823	miso soup	soup
+824	leek soup	soup
+825	dried soup	soup
+826	liver soup	soup
+827	tomato soup	soup
+828	whiskey sour	sour
+829	styrian sour soup	sour soup
+830	hot and sour soup	sour soup
+831	banana split	split
+832	cheese spread	spread
+833	beef stew	stew
+834	lobster stew	stew
+835	oyster stew	stew
+836	fish stew	stew
+837	irish stew	stew
+838	chicken stew	stew
+839	mulligan stew	stew
+840	turkey stew	stew
+841	brunswick stew	stew
+842	sesame stick	stick
+843	fish stick	stick
+844	carrot stick	stick
+845	celery stick	stick
+846	turkey stuffing	stuffing
+847	oyster stuffing	stuffing
+848	barley sugar	sugar
+849	beet sugar	sugar
+850	castor sugar	sugar
+851	granulated sugar	sugar
+852	cane sugar	sugar
+853	powdered sugar	sugar
+854	corn sugar	sugar
+855	floss sugar	sugar
+856	lump sugar	sugar
+857	icing sugar	sugar
+858	coloured sugar	sugar
+859	brown sugar	sugar
+860	last supper	supper
+861	gummy sweet	sweet
+862	marshmallow sweet	sweet
+863	boiled sweet	sweet
+864	flavoured syrup	syrup
+865	sugar syrup	syrup
+866	agave syrup	syrup
+867	snow cone syrup	syrup
+868	maple syrup	syrup
+869	corn syrup	syrup
+870	chicken taco	taco
+871	molasses taffy	taffy
+872	neenish tart	tart
+873	manchester tart	tart
+874	caramel tart	tart
+875	butter tart	tart
+876	pineapple tart	tart
+877	rhubarb tart	tart
+878	gypsy tart	tart
+879	black tea	tea
+880	camomile tea	tea
+881	high tea	tea
+882	ice tea	tea
+883	fish tea	tea
+884	herb tea	tea
+885	green tea	tea
+886	sun tea	tea
+887	powdered tea	tea
+888	cambric tea	tea
+889	chicken tetrazzini	tetrazzini
+890	melba toast	toast
+891	cinnamon toast	toast
+892	orange toast	toast
+893	french toast	toast
+894	bagel toast	toast
+895	stuffed tomato	tomato
+896	gin and tonic	tonic
+897	esterházy torte	torte
+898	dobos torte	torte
+899	corn tortilla	tortilla
+900	bean tostada	tostada
+901	chocolate truffle	truffle
+902	apple turnover	turnover
+903	mock turtle soup	turtle soup
+904	yaki udon	udon
+905	canned and jarred vegetable	vegetable
+906	dry vermouth	vermouth
+907	sweet vermouth	vermouth
+908	wine vinegar	vinegar
+909	cider vinegar	vinegar
+910	chili vinegar	vinegar
+911	water soluble vitamin	vitamin
+912	fat soluble vitamin	vitamin
+913	b complex vitamin	vitamin
+914	sugar water	water
+915	branch water	water
+916	flavoured water	water
+917	mineral water	water
+918	mannish water	water
+919	tonic water	water
+920	carbonated water	water
+921	drinking water	water
+922	ice water	water
+923	barley water	water
+924	vichy water	water
+925	lithia water	water
+926	bottled water	water
+927	soda water	water
+928	spring water	water
+929	cracked wheat	wheat
+930	shredded wheat	wheat
+931	whole wheat flour	wheat flour
+932	prune whip	whip
+933	blended whiskey	whiskey
+934	corn whiskey	whiskey
+935	sparkling wine	wine
+936	table wine	wine
+937	white wine	wine
+938	blush wine	wine
+939	red wine	wine
+940	fortified wine	wine
+941	mulled wine	wine
+942	rice wine	wine
+943	non-alcoholic wine	wine
+944	jug wine	wine
+945	canary wine	wine
+946	rhine wine	wine
+947	altar wine	wine
+948	california wine	wine
+949	rhone wine	wine
+950	straw wine	wine
+951	dessert wine	wine
+952	may wine	wine
+953	rosã© wine	wine
+954	cooking wine	wine
+955	frozen yoghurt	yoghurt
+956	blueberry yogurt	yogurt
+957	frozen yogurt	yogurt
+958	egg yolk	yolk
+959	Aish Merahrah	Flatbread
+960	Ajdov Kruh	Buckwheat bread
+961	Anadama bread	Yeast bread
+962	Anpan	Sweet bun
+963	Appam	Varies widely
+964	Arepa	Cornbread
+965	Baba	Various thick, round breads
+966	Bagel	Yeast bread
+967	Baguette	Yeast bread
+968	Balep korkun	Flatbread
+969	Bammy	Flatbread
+970	Banana bread	Sweet bread
+971	Bannock	Flatbread
+972	Bara Brith	Fruit bread
+973	Barbari bread	Flatbread
+974	Barmbrack	Yeast bread
+975	Bastone	Yeast bread
+976	Bazlama	Flatbread
+977	Beer bread	Yeast bread
+978	Belgian waffle	Waffle
+979	Bhakri	Unleavened flatbread
+980	Bialy	Yeast bread
+981	Bing	Flatbread
+982	Biscuit	Yeast bread or unleavened
+983	Black bread	Rye bread
+984	Blaa	Bap
+985	Bolani	Flatbread
+986	Borlengo	Pancake
+987	Borodinsky	Sourdough
+988	Boule	Yeast bread
+989	Bread roll	Leavened
+990	Breadstick	Dry bread
+991	Brioche	Yeast bread (sweet)
+992	Broa	Cornbread
+993	Brown bread	Rye or wheat bread
+994	Bublik	Wheat bread
+995	Bun	Bread
+996	Canadian White	Leavened
+997	Carrot bread	Leavened
+998	Česnica	Soda bread
+999	Challah	Leavened
+1000	Chapati	Unleavened flatbread
+1001	Chickpea bread	Leavened
+1002	Cholermüs	Pancake
+1003	Christmas wafer	Ceremonial
+1004	Ciabatta	White bread
+1005	Coppia Ferrarese	Sourdough
+1006	Cornbread	Cornbread
+1007	Cottage loaf	Yeast bread
+1008	Cracker	Crispy bread
+1009	Crêpe	Pancake
+1010	Crisp bread	Flatbread
+1011	Croutons	Crispy bread
+1012	Crumpet	Flatbread
+1013	Cuban bread	Yeast bread
+1014	Curry bread	Bread
+1015	Damper	Soda bread
+1016	Dampfnudel	White bread
+1017	Dorayaki	Pancake
+1018	Dosa	Pancake
+1019	Eggette	Pancake
+1020	English muffin	Yeast bread
+1021	Farl	Flatbread
+1022	Filone	Leavened
+1023	Flatbread	Flatbread
+1024	Flatbrød	Unleavened flatbread
+1025	Flatkaka	Unleavened rye Flatbread
+1026	Focaccia	Yeast bread
+1027	Fougasse	Yeast bread
+1028	Green onion pancake	Flatbread
+1029	Hallulla	Flatbread
+1030	Hardebrood	Flatbread
+1031	Hardtack	Flatbread, crispy
+1032	Himbasha	Flatbread
+1033	Hubuz	Flatbread
+1034	Injera	Flatbread
+1035	Johnnycakeor Hoecake	Flatbread
+1036	Ka'ak	Leavened
+1037	Kalach	Yeast bread
+1038	Kaya toast	Toasted bread
+1039	Khanom bueang	Flatbread, crispy
+1040	Kipferl	Yeast bread
+1041	Kisra	Fermented
+1042	Kulcha	Flatbread
+1043	Lagana	Ceremonial
+1044	Lahoh	Leavened
+1045	Laobing	Flatbread
+1046	Lavash	Flatbread
+1047	Lefse	Flatbread
+1048	Malooga	Flatbread
+1049	Mantou	Bun
+1050	Markook	Flatbread
+1051	Marraqueta	Leavened lobed loaf
+1052	Massa Sovada	Sweet bread
+1053	Matzo	Flatbread
+1054	Melonpan	Sweet bun, crispy
+1055	Miche	Leavened
+1056	Michetta	Leavened
+1057	Milk toast	Toasted bread
+1058	Montreal-style bagel	Yeast wheat bread
+1059	Multigrain bread	Bread
+1060	Naan	Flatbread
+1061	Ngome	Flatbread
+1062	Puran Poli	Flatbread
+1063	Pain d'Epi	Yeast bread
+1064	Pain de mie	White bread
+1065	Pan dulce	Sweet bread
+1066	Panbrioche	Leavened
+1067	Pancake	Flatbread
+1068	Pandesal	Sweet bread
+1069	Pandoro	Holiday bread
+1070	Pane carasau	Flatbread
+1071	Pane di Altamura	Leavened
+1072	Pane ticinese	Leavened
+1073	Panettone	Sweet
+1074	Panfocaccia	Leavened
+1075	Papadum or papad	Flatbread
+1076	Paratha	Flatbread
+1077	Parotta orBarotta	Flatbread
+1078	Paximathia	Dried bread
+1079	Penia	Sweet bread
+1080	Piadina	Flatbread
+1081	Pikelet	Pancake
+1082	Pistolet	Leavened
+1083	Pita	Flatbread
+1084	Pizza	Flatbread
+1085	Potato bread	Leavened or unleavened
+1086	Potato pancake	Pancake
+1087	Potato waffle	Waffle
+1088	Potbrood	Leavened
+1089	Pretzel	Bread
+1090	Proja	Leavened
+1091	Pumpernickel	Leavened
+1092	Qistibi	Flatbread
+1093	Quick bread	Leavened
+1094	Rice bread	Rice bread
+1095	Roti	Flatbread
+1096	Rugbrød	Sourdough
+1097	Rumali Roti	Flatbread
+1098	Rye bread	Leavened
+1099	Sacramental bread	Ceremonial bread
+1100	Saj bread	bread
+1101	Salt-rising bread	Leavened bread
+1102	Sangak	Sourdough bread
+1103	Scone	Quick bread
+1104	Sgabeo	Leavened
+1105	Shirmal	Flatbread
+1106	Shoti	Yeast bread
+1107	Soda bread	Quick bread
+1108	Sourdough bread	Sourdough bread
+1109	Speckendick	Pancake
+1110	Spelt bread	Yeast bread
+1111	Sprouted bread	Sprouted bread
+1112	Taftan	Leavened bread
+1113	Tandoor bread	Flatbread
+1114	Teacake	Sweet bun
+1115	Texas toast	Toasted bread
+1116	Tiger bread	Rice bread
+1117	Toasted bread	Leavened bread
+1118	Tortilla	Flatbread
+1119	Tsoureki	Leavened bread
+1120	Ttongppang	Pancake
+1121	Tunnbröd	Flatbread
+1122	Vánočka	Leavened
+1123	Vienna bread	Leavened
+1124	White bread	Leavened
+1125	Whole wheat bread	Leavened
+1126	Yufka	Flatbread
+1127	Zopf	Leavened white bread
+1128	Zwieback	Leavened bread
+1129	Adobe bread	American Bread
+1130	Amish friendship bread 	American Bread
+1131	Anadama bread	American Bread
+1132	Banana bread	American Bread
+1133	Beaten biscuit	American Bread
+1134	Biscuit	American Bread
+1135	Boston brown bread	American Bread
+1136	Bulkie roll	American Bread
+1137	Cornbread	American Bread
+1138	Cuban bread	American Bread
+1139	Frybread	American Bread
+1140	Graham bread	American Bread
+1141	Hot water corn bread	American Bread
+1142	Hushpuppy	American Bread
+1143	American muffin	American Bread
+1144	Muffuletta	American Bread
+1145	Parker House roll	American Bread
+1146	Pepperoni roll	American Bread
+1147	Popover	American Bread
+1148	Pullman loaf	American Bread
+1149	Scali bread	American Bread
+1150	Sloosh	American Bread
+1151	Texas toast	American Bread
+1152	Arch Deluxe	American Sandwiches
+1153	Bacon, egg and cheese sandwich	American Sandwiches
+1154	Beef on weck	American Sandwiches
+1155	Big Mac	American Sandwiches
+1156	Big N' Tasty	American Sandwiches
+1157	BLT	American Sandwiches
+1158	Bologna sandwich	American Sandwiches
+1159	Bonus Jack	American Sandwiches
+1160	Breakfast sandwich	American Sandwiches
+1161	Cheese dream	American Sandwiches
+1162	Cheese sandwich	American Sandwiches
+1163	Cheeseburger	American Sandwiches
+1164	Cheesesteak	American Sandwiches
+1165	Chicken sandwich	American Sandwiches
+1166	Chow mein sandwich	American Sandwiches
+1167	Ciabatta Bacon Cheeseburger	American Sandwiches
+1168	Club sandwich	American Sandwiches
+1169	Coney Island hot dog	American Sandwiches
+1170	Crab cake sandwich	American Sandwiches
+1171	Croissan'wich	American Sandwiches
+1172	Cuban sandwich	American Sandwiches
+1173	Cudighi	American Sandwiches
+1174	Dagwood sandwich	American Sandwiches
+1175	Denver sandwich	American Sandwiches
+1176	Diablo sandwich	American Sandwiches
+1177	Double Down	American Sandwiches
+1178	Enormous Omelet Sandwich	American Sandwiches
+1179	Fat sandwich	American Sandwiches
+1180	Filet-O-Fish	American Sandwiches
+1181	Fluffernutter	American Sandwiches
+1182	Fool's Gold Loaf	American Sandwiches
+1183	French dip	American Sandwiches
+1184	Fried-brain sandwich	American Sandwiches
+1185	Gerber sandwich	American Sandwiches
+1186	Ham and cheese sandwich	American Sandwiches
+1187	Hamburger	American Sandwiches
+1188	Hamdog	American Sandwiches
+1189	Horseshoe sandwich	American Sandwiches
+1190	Hot Brown	American Sandwiches
+1191	Italian beef	American Sandwiches
+1192	Jucy Lucy	American Sandwiches
+1193	Limburger sandwich	American Sandwiches
+1194	Lobster roll	American Sandwiches
+1195	Luther Burger	American Sandwiches
+1196	Manwich	American Sandwiches
+1197	Maxwell Street Polish	American Sandwiches
+1198	McChicken	American Sandwiches
+1199	McGriddles	American Sandwiches
+1200	McMuffin	American Sandwiches
+1201	McRib	American Sandwiches
+1202	Melt sandwich	American Sandwiches
+1203	Monte Cristo sandwich	American Sandwiches
+1204	Muffuletta	American Sandwiches
+1205	Patty melt	American Sandwiches
+1206	Peanut butter and jelly sandwich	American Sandwiches
+1207	Peanut butter, banana and bacon sandwich	American Sandwiches
+1208	Pilgrim	American Sandwiches
+1209	Po' boy	American Sandwiches
+1210	Polish Boy	American Sandwiches
+1211	Pork tenderloin sandwich	American Sandwiches
+1212	Quarter Pounder	American Sandwiches
+1213	Reuben sandwich	American Sandwiches
+1214	Runza	American Sandwiches
+1215	Sailor sandwich	American Sandwiches
+1216	Sandwich loaf	American Sandwiches
+1217	Sandwich wrap	American Sandwiches
+1218	Sausage sandwich	American Sandwiches
+1219	Sealed crustless sandwich	American Sandwiches
+1220	Sloppy joe	American Sandwiches
+1221	Spiedie	American Sandwiches
+1222	St. Paul sandwich	American Sandwiches
+1223	Steak sandwich	American Sandwiches
+1224	Submarine sandwich	American Sandwiches
+1225	Tavern sandwich	American Sandwiches
+1226	Tuna fish sandwich	American Sandwiches
+1227	Turkey Devonshire	American Sandwiches
+1228	Veggie burger	American Sandwiches
+1229	Whopper	American Sandwiches
+1230	Bannock	British bread
+1231	Bara brith	British bread
+1232	Barley bread	British bread
+1233	Barm cake	British bread
+1234	Bread roll	British bread
+1235	Buttery	British bread
+1236	Cockle bread	British bread
+1237	Cottage loaf	British bread
+1238	Crumpet	British bread
+1239	Dripping cake	British bread
+1240	English muffin	British bread
+1241	Farl	British bread
+1242	Fried bread	British bread
+1243	Lady Arundel's Manchet	British bread
+1244	Lardy cake	British bread
+1245	Manchet	British bread
+1246	Milk roll	British bread
+1247	Oatcake	British bread
+1248	Staffordshire oatcake	Oatcake
+1249	Pan loaf	British bread
+1250	Plain loaf	British bread
+1251	Scone	British bread
+1252	Griddle scone	Scone
+1253	Potato scone	Scone
+1254	Scuffler	British bread
+1255	Stottie cake	British bread
+1256	Bath bun	British bun
+1257	Chelsea bun	British bun
+1258	Colston bun	British bun
+1259	Hot cross bun	British bun
+1260	Iced bun	British bun
+1261	London bun	British bun
+1262	Saffron bun	British bun
+1263	Sally Lunn bun	British bun
+1264	Appam	Indian bread
+1265	Bakshalu	Indian bread
+1266	Baati	Indian bread
+1267	Bhakri	Indian bread
+1268	Bhatoora	Indian bread
+1269	Chapati	Indian bread
+1270	Cheela	Indian bread
+1271	Chikkolee	Indian bread
+1272	Chili parotha	Indian bread
+1273	Dhebra	Indian bread
+1274	Dosa	dosa
+1275	Masala dosa	dosa
+1276	Benne dose	dosa
+1277	Rava dosa	dosa
+1278	Neer dosa	dosa
+1279	Idli	Indian bread
+1280	Kachori	Indian bread
+1281	Khakhra	Indian bread
+1282	Kulcha	Indian bread
+1283	Luchi	Indian bread
+1284	Naan	Indian bread
+1285	Papadum	Indian bread
+1286	Paratha	Indian bread
+1287	Aloo paratha	Paratha
+1288	Gobhi paratha	Paratha
+1289	Parotta	Indian bread
+1290	Pashti	Indian bread
+1291	Pathiri	Indian bread
+1292	Pesaha Appam	Indian bread
+1293	Pesarattu	Indian bread
+1294	Phulka	Indian bread
+1295	Pitha	Indian bread
+1296	Manda Pitha	Indian bread
+1297	Puran Poli	Indian bread
+1298	Puri	Indian bread
+1299	Roti	Indian bread
+1300	Akki rotti	Roti
+1301	Jolada rotti	Roti
+1302	Makki di roti	Roti
+1303	Ragi rotti	Roti
+1304	Rumali Roti	Roti
+1305	Sheermal	Indian bread
+1306	Taftan	Indian bread
+1307	Tandoor bread	Indian bread
+1308	Thalipeeth	Indian bread
+1309	Uttapam	Indian bread
+1310	Sanna	Indian bread
+1311	Kori Rotti	Indian bread
+1312	Afghan bread	Pakistani bread
+1313	Aloo paratha	Pakistani bread
+1314	Bakarkhani	Pakistani bread
+1315	Bhatoora	Pakistani bread
+1316	Chapati	Pakistani bread
+1317	Hoyha	Pakistani bread
+1318	Kaak	Pakistani bread
+1319	Kulcha	Pakistani bread
+1320	Makki di roti	Pakistani bread
+1321	Naan	Pakistani bread
+1322	Papadum	Pakistani bread
+1323	Phitti	Pakistani bread
+1324	Puri	Pakistani bread
+1325	Roti	Pakistani bread
+1326	Rumali Roti	Pakistani bread
+1327	Sheermal	Pakistani bread
+1328	Taftan (bread)	Pakistani bread
+1329	Tandoor bread	Pakistani bread
+1330	Balep korkun	Quick bread
+1331	Banana bread	Quick bread
+1332	Bannock	Quick bread
+1333	Beaten biscuit	Quick bread
+1334	Beer bread	Quick bread
+1335	Biscuit	Quick bread
+1336	Boortsog	Quick bread
+1337	Brown bread	Quick bread
+1338	Bun	Quick bread
+1339	Carrot bread	Quick bread
+1340	Cornbread	Quick bread
+1341	Egg waffle	Quick bread
+1342	Farl	Quick bread
+1343	Frybread	Quick bread
+1344	Griddle scone	Quick bread
+1345	Hushpuppy	Quick bread
+1346	Lángos	Quick bread
+1347	Mantecadas	Quick bread
+1348	Muffin	Quick bread
+1349	Pain d'épices	Quick bread
+1350	Pancake	Quick bread
+1351	Proja	Quick bread
+1352	Puftaloon 	Quick bread
+1353	Pumpkin bread	Quick bread
+1354	Scone	Quick bread
+1355	Shortcake	Quick bread
+1356	Soda bread	Quick bread
+1357	Sopaipilla	Quick bread
+1358	Waffle	Quick bread
+1359	Amish friendship bread	Sweet bread
+1360	Aniseed bread	Sweet bread
+1361	Anpan	Sweet bread
+1362	Banana bread with strawberries	Sweet bread
+1363	Babka	Sweet bread
+1364	Banana bread	Sweet bread
+1365	Banbury cake	Sweet bread
+1366	Bara brith	Sweet bread
+1367	Barmbrack 	Sweet bread
+1368	Bath bun 	Sweet bread
+1369	Belgian bun	Sweet bread
+1370	Bienenstich	Sweet bread
+1371	Boston bun	Sweet bread
+1372	Bremer Klaben 	Sweet bread
+1373	Bublik	Sweet bread
+1374	Buccellato (di Lucca)	Sweet bread
+1375	Bun	Sweet bread
+1376	Colomba di Pasqua	Sweet bread
+1377	Cardamom bread	Sweet bread
+1378	Cemita 	Sweet bread
+1379	Chelsea bun	Sweet bread
+1380	Cinnamon roll	Sweet bread
+1381	Cocktail bun	Sweet bread
+1382	Coffee cake	Sweet bread
+1383	Colomba di Pasqua	Sweet bread
+1384	Colston bun	Sweet bread
+1385	Cougnou 	Sweet bread
+1386	Couque suisse	Sweet bread
+1387	Cozonac 	Sweet bread
+1388	Currant bun	Sweet bread
+1389	Dampfnudel	Sweet bread
+1390	Danish pastry	Sweet bread
+1391	Dripping cake	Sweet bread
+1392	Egg waffle	Sweet bread
+1393	F[edit]	Sweet bread
+1394	Fruit bun	Sweet bread
+1395	Soft gingerbread with mountain cranberry	Sweet bread
+1396	Gata	Sweet bread
+1397	Germknödel	Sweet bread
+1398	Gingerbread	Sweet bread
+1399	Goro	Sweet bread
+1400	Guernsey Gâche	Sweet bread
+1401	Gugelhupf 	Sweet bread
+1402	Honey buns	Sweet bread
+1403	Halguane	Sweet bread
+1404	Hefekranz	Sweet bread
+1405	Himbasha	Sweet bread
+1406	Honey bun	Sweet bread
+1407	Hot cross bun 	Sweet bread
+1408	Iced bun	Sweet bread
+1409	Kalács	Sweet bread
+1410	Kalach	Sweet bread
+1411	Kalács	Sweet bread
+1412	Kerststol	Sweet bread
+1413	King cake	Sweet bread
+1414	Kolach 	Sweet bread
+1415	Kołacz	Sweet bread
+1416	Kulich	Sweet bread
+1417	Lady Arundel's Manchet	Sweet bread
+1418	Lardy cake	Sweet bread
+1419	Lazarakia	Sweet bread
+1420	London bun	Sweet bread
+1421	Longevity peach	Sweet bread
+1422	Lotus seed bun	Sweet bread
+1423	Manchet	Sweet bread
+1424	Manchet	Sweet bread
+1425	Mantecadas 	Sweet bread
+1426	Melonpan	Sweet bread
+1427	Muffin	Sweet bread
+1428	Pineapple bun	Sweet bread
+1429	Pain aux raisins	Sweet bread
+1430	Pain d'épices	Sweet bread
+1431	Pan de coco	Sweet bread
+1432	Pan de muerto	Sweet bread
+1433	Pan de Pascua	Sweet bread
+1434	Pan dulce 	Sweet bread
+1435	Pandoro 	Sweet bread
+1436	Panettone	Sweet bread
+1437	Paris buns	Sweet bread
+1438	Paska	Sweet bread
+1439	Pastel de Camiguín	Sweet bread
+1440	Peanut butter bun	Sweet bread
+1441	Penia 	Sweet bread
+1442	Persian	Sweet bread
+1443	Picatostes	Sweet bread
+1444	Pineapple bun	Sweet bread
+1445	Portuguese sweet bread	Sweet bread
+1446	Pulla 	Sweet bread
+1447	Pumpkin bread	Sweet bread
+1448	Raisin bread 	Sweet bread
+1449	Rosca de reyes	Sweet bread
+1450	Skolebrød	Sweet bread
+1451	Saffron bun 	Sweet bread
+1452	Sally Lunn bun	Sweet bread
+1453	Scone	Sweet bread
+1454	Shortcake	Sweet bread
+1455	Singing hinny	Sweet bread
+1456	Skolebrød	Sweet bread
+1457	Sticky bun	Sweet bread
+1458	Stollen	Sweet bread
+1459	Suikerbrood	Sweet bread
+1460	Sushki	Sweet bread
+1461	Sweet roll	Sweet bread
+1462	Tahini roll	Sweet bread
+1463	Teacake	Sweet bread
+1464	Tsoureki	Sweet bread
+1465	Vánočka	Sweet bread
+1466	Vánočka	Sweet bread
+1467	Velhote	Sweet bread
+1468	Viennoiserie	Sweet bread
+1469	Waffle	Sweet bread
+1470	Welsh cake	Sweet bread
+1471	Bun	Bread roll
+1472	Bread roll	Bread roll
+1473	Breadcake	Bread roll
+1474	Bap	Bread roll
+1475	Batch	Bread roll
+1476	Barm	Bread roll
+1477	Bin lid 	Bread roll
+1478	Blaa 	Bread roll
+1479	Bulkie roll 	Bread roll
+1480	Buttery 	Bread roll
+1481	Cloverleaf roll	Bread roll
+1482	Cob 	Bread roll
+1483	Concha	Bread roll
+1484	Dinner roll 	Bread roll
+1485	Dollar roll 	Bread roll
+1486	Finger roll 	Bread roll
+1487	French roll 	Bread roll
+1488	Hoagie roll 	Bread roll
+1489	Italian roll	Bread roll
+1490	Kaiser roll 	Bread roll
+1491	Kummelweck 	Bread roll
+1492	Manchet 	Bread roll
+1493	Muffin 	Bread roll
+1494	Onion roll 	Bread roll
+1495	Nudger 	Bread roll
+1496	Oven bottom 	Bread roll
+1497	Parker House roll	Bread roll
+1498	Scuffler 	Bread roll
+1499	Stottie cake 	Bread roll
+1500	Bánh bao 	Bun
+1501	Baozi 	Bun
+1502	Bath bun 	Bun
+1503	Beef bun 	Bun
+1504	Belgian bun 	Bun
+1505	Blaa 	Bun
+1506	Boston bun 	Bun
+1507	Bun kebab 	Bun
+1508	Small currant buns	Bun
+1509	Cha siu bao 	Bun
+1510	Cheese bun 	Bun
+1511	Chelsea bun 	Bun
+1512	Cinnamon bun 	Bun
+1513	Cocktail bun 	Bun
+1514	Colston bun 	Bun
+1515	Cream bun 	Bun
+1516	Currant bun 	Bun
+1517	Dampfnudel 	Bun
+1518	Fruit bun 	Bun
+1519	Hot cross buns	Bun
+1520	Ham and egg bun 	Bun
+1521	Hamburger bun 	Bun
+1522	Honey bun 	Bun
+1523	Hot cross bun 	Bun
+1524	Hot dog bun 	Bun
+1525	Iced bun 	Bun
+1526	Lotus seed buns	Bun
+1527	London bun 	Bun
+1528	Lotus seed bun 	Bun
+1529	Manchet or manchette	Bun
+1530	Mandarin roll 	Bun
+1531	Mantou 	Bun
+1532	Melonpan 	Bun
+1533	Nikuman 	Bun
+1534	Pan de muerto 	Bun
+1535	Peanut butter bun 	Bun
+1536	Pebete 	Bun
+1537	Penny bun 	Bun
+1538	Piggy bun 	Bun
+1539	Pineapple bun 	Bun
+1540	Pork chop bun 	Bun
+1541	Saffron bun 	Bun
+1542	Sally Lunn bun 	Bun
+1543	Sausage bun 	Bun
+1544	Semla 	Bun
+1545	Siopao 	Bun
+1546	Spiced bun 	Bun
+1547	Sticky bun 	Bun
+1548	Tuna bun 	Bun
+1549	Xiaolongbao	Bun
+1550	Alexandertorte	Pastry
+1551	Aloo pie	Pastry
+1552	Apple pie	Pastry
+1553	Apple strudel	Pastry
+1554	Bakewell pudding	Pastry
+1555	Baklava	Pastry
+1556	Bakpia Pathok	Pastry
+1557	Banbury cake	Pastry
+1558	Banitsa	Pastry
+1559	Banket	Pastry
+1560	Bear claw	Pastry
+1561	Belekoy	Pastry
+1562	Belokranjska povitica	Pastry
+1563	Berliner	Pastry
+1564	Bethmännchen	Pastry
+1565	Bichon au citron	Pastry
+1566	Bierock	Pastry
+1567	Birnbrot	Pastry
+1568	Bizcocho	Pastry
+1569	Blachinda	Pastry
+1570	Börek	Pastry
+1571	Bossche bol	Pastry
+1572	Bougatsa	Pastry
+1573	Boyoz	Pastry
+1574	Bridie	Pastry
+1575	Briouat	Pastry
+1576	Bruttiboni	Pastry
+1577	Bundevara	Pastry
+1578	Burek	Pastry
+1579	Canelé	Pastry
+1580	Cannoli	Pastry
+1581	Carac	Pastry
+1582	ChaSan	Pastry
+1583	Chatti Pathiri	Pastry
+1584	Cherry pie	Pastry
+1585	Chorley cake	Pastry
+1586	Chouquette	Pastry
+1587	Choux pastry	Pastry
+1588	Cinnamon Roll	Pastry
+1589	Coca	Pastry
+1590	Conejito	Pastry
+1591	Cornish pasty	Pastry
+1592	Coussin de Lyon	Pastry
+1593	Cream horn	Pastry
+1594	Crocetta of Caltanissetta	Pastry
+1595	Croissant	Pastry
+1596	Croline	Pastry
+1597	Cronut	Pastry
+1598	Croquembouche	Pastry
+1599	Cuban pastry	Pastry
+1600	Curry puff	Pastry
+1601	Dabby-Doughs	Pastry
+1602	Danish pastry	Pastry
+1603	Djevrek	Pastry
+1604	Dutch letter	Pastry
+1605	Eccles cake	Pastry
+1606	Éclair	Pastry
+1607	Empanada	Pastry
+1608	Ensaïmada	Pastry
+1609	Fa gao	Pastry
+1610	Fazuelos, Fijuelas, or Deblas	Pastry
+1611	Fig roll	Pastry
+1612	Fish-shaped pastry	Pastry
+1613	Flaky pastry	Pastry
+1614	Flaons	Pastry
+1615	Flies graveyard	Pastry
+1616	Franzbrötchen	Pastry
+1617	Galette	Pastry
+1618	Gâteau Basque	Pastry
+1619	Gibanica	Pastry
+1620	Gujiya	Pastry
+1621	Gözleme	Pastry
+1622	Gulab jamun	Pastry
+1623	Gundain	Pastry
+1624	Gustavus Adolphus pastry	Pastry
+1625	Gyeongju bread	Pastry
+1626	Haddekuche	Pastry
+1627	Hamantash	Pastry
+1628	Hellimli	Pastry
+1629	Heong Peng	Pastry
+1630	Hot water crust pastry	Pastry
+1631	Huff paste	Pastry
+1632	Inipit	Pastry
+1633	Jachnun	Pastry
+1634	Jalebi	Pastry
+1635	Jesuite	Pastry
+1636	Joulutorttu	Pastry
+1637	Kalács	Pastry
+1638	Kanafeh	Pastry
+1639	Kifli	Pastry
+1640	Klobasnek	Pastry
+1641	Knieküchle	Pastry
+1642	Kolache	Pastry
+1643	Kolompeh	Pastry
+1644	Kołacz	Pastry
+1645	Komaj sehen	Pastry
+1646	Kouign-amann	Pastry
+1647	Krempita	Pastry
+1648	Kringle	Pastry
+1649	Kroštule	Pastry
+1650	Kūčiukai	Pastry
+1651	Kürtőskalács	Pastry
+1652	Ladies' navels	Pastry
+1653	Lattice	Pastry
+1654	Leipziger Lerche	Pastry
+1655	Linzer torte	Pastry
+1656	Lotus seed bun	Pastry
+1657	Ma'amoul	Pastry
+1658	Macarons	Pastry
+1659	Makroudh	Pastry
+1660	Malsouka	Pastry
+1661	Mandelkubb	Pastry
+1662	Mantecadas	Pastry
+1663	Marillenknödel	Pastry
+1664	Marry girl cake	Pastry
+1665	Masan	Pastry
+1666	Mazarin	Pastry
+1667	Miguelitos	Pastry
+1668	Milhoja	Pastry
+1669	Milk-cream strudel	Pastry
+1670	Mille-feuille	Pastry
+1671	Mooncake	Pastry
+1672	Moorkop	Pastry
+1673	Muskazine	Pastry
+1674	Nazook	Pastry
+1675	Nun's puffs	Pastry
+1676	Nunt	Pastry
+1677	Öçpoçmaq	Pastry
+1678	Ox-tongue pastry	Pastry
+1679	Pain au chocolat	Pastry
+1680	Pain aux raisins	Pastry
+1681	Palmier	Pastry
+1682	Pan dulce	Pastry
+1683	Panzarotti	Pastry
+1684	Papanași	Pastry
+1685	Paper wrapped cake	Pastry
+1686	Paris–Brest	Pastry
+1687	Pastel	Pastry
+1688	Pastizz	Pastry
+1689	Pastry heart	Pastry
+1690	Pâté Chaud	Pastry
+1691	Pecan pie	Pastry
+1692	Filo[clarification needed]	Pastry
+1693	Pie	Pastry
+1694	Pineapple bun	Pastry
+1695	Pionono	Pastry
+1696	Pithivier	Pastry
+1697	Plăcintă	Pastry
+1698	Pogača	Pastry
+1699	Poppy seed roll	Pastry
+1700	Pot pie	Pastry
+1701	Prekmurska gibanica	Pastry
+1702	Pretzel	Pastry
+1703	Profiterole	Pastry
+1704	Puff pastry	Pastry
+1705	Punsch-roll	Pastry
+1706	Punschkrapfen	Pastry
+1707	Qottab	Pastry
+1708	Quesito	Pastry
+1709	Rab cake	Pastry
+1710	Remonce	Pastry
+1711	Reuzenbol	Pastry
+1712	Rhubarb tart	Pastry
+1713	Rollò	Pastry
+1714	Roti tissue	Pastry
+1715	Roze koek	Pastry
+1716	Rugelach	Pastry
+1717	Runeberg's torte	Pastry
+1718	Rustico	Pastry
+1719	Sad cake	Pastry
+1720	Samosa	Pastry
+1721	Schaumrolle	Pastry
+1722	Schnecken	Pastry
+1723	Schneeball	Pastry
+1724	Schuxen	Pastry
+1725	Semla	Pastry
+1726	Sfenj	Pastry
+1727	Sfogliatelle	Pastry
+1728	Shortcrust pastry	Pastry
+1729	Sou	Pastry
+1730	Spanakopita	Pastry
+1731	Spina santa	Pastry
+1732	Streusel	Pastry
+1733	Strudel	Pastry
+1734	Stutenkerl	Pastry
+1735	Sufganiyah	Pastry
+1736	Sweetheart cake	Pastry
+1737	Toaster pastry	Pastry
+1738	Torpil	Pastry
+1739	Tortell	Pastry
+1740	Tortita negra	Pastry
+1741	Trdelník	Pastry
+1742	Tu	Pastry
+1743	Turnover	Pastry
+1744	Utap	Pastry
+1745	Vatrushka	Pastry
+1746	Vetkoek	Pastry
+1747	Viennoiserie	Pastry
+1748	Vol-au-vent	Pastry
+1749	Xuixo	Pastry
+1750	Yurla	Pastry
+1751	Zeeuwse bolus	Pastry
+1752	Zlebia	Pastry
+1753	Æbleskiver	Pancakes
+1754	Apam balik	Pancakes
+1755	Appam	Pancakes
+1756	Baghrir	Pancakes
+1757	Bánh cuốn	Pancakes
+1758	Bánh rế	Pancakes
+1759	Bánh xèo	Pancakes
+1760	Bannock	Pancakes
+1761	Blintz	Pancakes
+1762	Borlengo	Pancakes
+1763	Boûkète	Pancakes
+1764	Boxty	Pancakes
+1765	Cachapa	Pancakes
+1766	Chalboribbang	Pancakes
+1767	Chataamari	Pancakes
+1768	Chinese pancake	Pancakes
+1769	Cholermus	Pancakes
+1770	Crempog	Pancakes
+1771	Crêpe	Pancakes
+1772	Crêpe Suzette	Pancakes
+1773	Palatschinken	Pancakes
+1774	David Eyre's pancake	Pancakes
+1775	Dosa	Pancakes
+1776	Dutch baby pancake	Pancakes
+1777	Egg waffle	Pancakes
+1778	Farinata	Pancakes
+1779	Ficelle picarde	Pancakes
+1780	Flädle	Pancakes
+1781	Fläskpannkaka	Pancakes
+1782	Funkaso	Pancakes
+1783	Galette	Pancakes
+1784	Gundel pancake	Pancakes
+1785	Gyabrag	Pancakes
+1786	Hirayachi	Pancakes
+1787	Hortobágyi palacsinta	Pancakes
+1788	Hotteok	Pancakes
+1789	Injera	Pancakes
+1790	Jeon	Pancakes
+1791	Bindaetteok	Pancakes
+1792	Gamjajeon	Pancakes
+1793	Hwajeon	Pancakes
+1794	Kimchijeon	Pancakes
+1795	Meat jun	Pancakes
+1796	Memiljeon	Pancakes
+1797	Pajeon	Pancakes
+1798	Johnnycake	Pancakes
+1799	Kalathappam	Pancakes
+1800	Khanom bueang	Pancakes
+1801	Kouign-amann	Pancakes
+1802	Laobing	Pancakes
+1803	Masala dosa	Pancakes
+1804	Memela	Pancakes
+1805	Milcao	Pancakes
+1806	Mofletta	Pancakes
+1807	Msemen	Pancakes
+1808	Munini-imo	Pancakes
+1809	Murtabak	Pancakes
+1810	Okonomiyaki	Pancakes
+1811	Palatschinke	Pancakes
+1812	Pan bati	Pancakes
+1813	Pannekoek	Pancakes
+1814	Pashti	Pancakes
+1815	Pathiri	Pancakes
+1816	Pesaha Appam	Pancakes
+1817	Pesarattu	Pancakes
+1818	Ploye	Pancakes
+1819	Poffertjes	Pancakes
+1820	Potato pancake	Pancakes
+1821	Quarkkäulchen	Pancakes
+1822	Racuchy	Pancakes
+1823	Rava dosa	Pancakes
+1824	Roti prata	Pancakes
+1825	Scallion pancake	Pancakes
+1826	Scovardă	Pancakes
+1827	Sel roti	Pancakes
+1828	Serabi	Pancakes
+1829	Spring pancake	Pancakes
+1830	Staffordshire oatcake	Pancakes
+1831	Suncake	Pancakes
+1832	Swedish pancake	Pancakes
+1833	Thalipeeth	Pancakes
+1834	Tlacoyo	Pancakes
+1835	Touton	Pancakes
+1836	Uttapam	Pancakes
+1837	50/50 burger	burger
+1838	Angus burger	burger
+1839	Australasian hamburgers	burger
+1840	Banquet burger	burger
+1841	Barbecue burger	burger
+1842	Bøfsandwich	burger
+1843	Butter burger	burger
+1844	Buffalo burger	burger
+1845	California burger	burger
+1846	Carolina burger	burger
+1847	Cheeseburger	burger
+1848	Chili burger	burger
+1849	Curry burger	burger
+1850	Green Chile burger	burger
+1851	Hamdog	burger
+1852	Hawaii burger	burger
+1853	Jucy Lucy	burger
+1854	Kimchi burger	burger
+1855	Luther Burger	burger
+1856	Naan burger	burger
+1857	Pastrami Burger	burger
+1858	Patty melt	burger
+1859	Rice burger	burger
+1860	Salmon burger	burger
+1861	Slider	burger
+1862	Slopper	burger
+1863	Slugburger	burger
+1864	Steak burger	burger
+1865	Teriyaki burger	burger
+1866	Veggie burger	burger
+1867	Angel cake	cake
+1868	Angel food cake	cake
+1869	Apple cake	cake
+1870	Applesauce cake	cake
+1871	Aranygaluska	cake
+1872	Avocado cake	cake
+1873	Babka	cake
+1874	Ballokume	cake
+1875	Basbousa	cake
+1876	Beer cake	cake
+1877	Better than sex cake	cake
+1878	Boston cream pie	cake
+1879	Banana cake/bread	cake
+1880	Banoffee pie	cake
+1881	Bara brith	cake
+1882	Battenberg cake	cake
+1883	Baumkuchen	cake
+1884	Bibingka	cake
+1885	Bienenstich (Bee Sting)	cake
+1886	Birthday cake	cake
+1887	Black Forest cake, often known as "Black Forest gâteau"	cake
+1888	Blitztorte, a "lightning cake"	cake
+1889	Blondie	cake
+1890	Bolo de mel	cake
+1891	Brazil nut cake	cake
+1892	Brownie	cake
+1893	Buccellato	cake
+1894	Budapestlängd	cake
+1895	Bundt cake	cake
+1896	Butter cake	cake
+1897	Butterfly cake	cake
+1898	Cassata	cake
+1899	Carrot cake	cake
+1900	Cheesecake	cake
+1901	Chiffon cake	cake
+1902	Chocolate cake	cake
+1903	Christmas cake	cake
+1904	Cinco leches cake	cake
+1905	Clementine cake	cake
+1906	Coconut cake	cake
+1907	Coffee cake	cake
+1908	Cremeschnitte	cake
+1909	Croquembouche	cake
+1910	Crystal cake	cake
+1911	Cuatro leches cake	cake
+1912	Cupcake	cake
+1913	Dacquoise	cake
+1914	Date and walnut loaf	cake
+1915	Date square	cake
+1916	Depression cake	cake
+1917	Devil's food cake	cake
+1918	Dobos cake	cake
+1919	Dundee cake	cake
+1920	Eccles cake	cake
+1921	Esterházy torte	cake
+1922	Fat rascal	cake
+1923	Faworki	cake
+1924	Fig cake	cake
+1925	Financier	cake
+1926	Flourless chocolate cake	cake
+1927	Fondant Fancy	cake
+1928	Fragelité	cake
+1929	Frog cake	cake
+1930	Fruitcake	cake
+1931	Fountain cake	cake
+1932	Funing big cake	cake
+1933	Genoa cake	cake
+1934	Genoise(Genoese cake)	cake
+1935	Gingerbread	cake
+1936	Gooey butter cake	cake
+1937	Goose Breast	cake
+1938	Hash brownies	cake
+1939	Hot milk cake	cake
+1940	Ice cream cake	cake
+1941	Jaffa Cakes	cake
+1942	Kabuni	cake
+1943	Karpatka	cake
+1944	Kiev cake	cake
+1945	King cake	cake
+1946	Kladdkaka	cake
+1947	Kliņģeris	cake
+1948	Kolacz	cake
+1949	Kolaczki	cake
+1950	Kouign-amann	cake
+1951	Kutia	cake
+1952	Kransekake	cake
+1953	Kremówka	cake
+1954	Krowka	cake
+1955	Lady Baltimore cake	cake
+1956	Lamanki orKlamäti	cake
+1957	Lamington	cake
+1958	Layer cake	cake
+1959	Lemon cake	cake
+1960	Madeira cake	cake
+1961	Makowiec	cake
+1962	Magdalena	cake
+1963	Mantecada	cake
+1964	Marble cake	cake
+1965	Mazurek	cake
+1966	Merveilleux	cake
+1967	Mille-feuille	cake
+1968	Molten chocolate cake	cake
+1969	Mooncake	cake
+1970	Muffin	cake
+1971	Napoleonshat	cake
+1972	Napeleonskake	cake
+1973	Nasturtium cake	cake
+1974	Onion cake	cake
+1975	Oponki or Paczki	cake
+1976	Opera cake	cake
+1977	Orange and polenta cake	cake
+1978	Othellolagkage	cake
+1979	Paczki	cake
+1980	Pan di Spagna	cake
+1981	Pancake	cake
+1982	Panpepato	cake
+1983	Panettone	cake
+1984	Parkin	cake
+1985	Pavlova	cake
+1986	Petit Gâteau	cake
+1987	Petits fours	cake
+1988	Piernik	cake
+1989	Pineapple upside-down cake	cake
+1990	Plum cake	cake
+1991	Pound cake	cake
+1992	Princess cake	cake
+1993	Prinzregententorte	cake
+1994	Pumpkin bread	cake
+1995	Punschkrapfen	cake
+1996	Queen Elizabeth cake	cake
+1997	Qumeshtore me pete	cake
+1998	Red bean cake	cake
+1999	Red velvet cake	cake
+2000	Rum cake	cake
+2001	Rum baba	cake
+2002	Ruske kape	cake
+2003	Sachertorte	cake
+2004	Šakotis	cake
+2005	Salzburger Nockerl	cake
+2006	Sekacz	cake
+2007	Sernik	cake
+2008	Sesame seed cake	cake
+2009	Sfouf	cake
+2010	Simnel cake	cake
+2011	Smoked salmon cheesecake	cake
+2012	Smörgåstårta	cake
+2013	Snowball cake	cake
+2014	Snow skin mooncake	cake
+2015	Soufflé	cake
+2016	Spekkoek	cake
+2017	Spice cake	cake
+2018	Spit cake	cake
+2019	Sponge cake	cake
+2020	St. Honoré cake	cake
+2021	Stack cake	cake
+2022	Strawberry cake	cake
+2023	Streuselkuchen	cake
+2024	Studenterbrød	cake
+2025	Sultana and cherry cake	cake
+2026	Suncake	cake
+2027	Swiss roll	cake
+2028	Tarte Tatin	cake
+2029	Tea loaf	cake
+2030	Teacake	cake
+2031	Tiramisu	cake
+2032	Tompouce	cake
+2033	Torta Tre Monti	cake
+2034	Tres leches cake	cake
+2035	Tunis cake	cake
+2036	Træstammer	cake
+2037	Upside-down cake	cake
+2038	Victoria sponge cake	cake
+2039	Vínarterta	cake
+2040	Wedding cake	cake
+2041	Welsh cake	cake
+2042	Whoopie pies	cake
+2043	Wine cake	cake
+2044	Allahabadi cake	cake
+2045	Allerheiligenstriezel	cake
+2046	Amandine	cake
+2047	Angel cake	cake
+2048	Angel food cake	cake
+2049	Apple cake	cake
+2050	Arany galuska	cake
+2051	Babka	cake
+2052	Banbury cake	cake
+2053	Bánh	cake
+2054	Bánh bò	cake
+2055	Bánh chuối	cake
+2056	Bánh da lợn	cake
+2057	Bánh khoai mì	cake
+2058	Bánh tét	cake
+2059	Battenberg cake	cake
+2060	Baumkuchen	cake
+2061	Berlingozzo	cake
+2062	Better than sex cake	cake
+2063	Bika Ambon	cake
+2064	Birthday cake	cake
+2065	Bizcocho	cake
+2066	Black bun	cake
+2067	Black Forest cake	cake
+2068	Bolo Rei	cake
+2069	Buccellato	cake
+2070	Buckwheat gateau	cake
+2071	Bulla cake	cake
+2072	Bundt cake	cake
+2073	Butter cake	cake
+2074	Butterkuchen	cake
+2075	Cake balls	cake
+2076	Cake pop	cake
+2077	Caraway seed cake	cake
+2078	Carrot cake	cake
+2079	Cassata	cake
+2080	Castella	cake
+2081	Chantilly cake	cake
+2082	Charlotte	cake
+2083	Cheesecake	cake
+2084	Chelsea bun	cake
+2085	Chiffon cake	cake
+2086	Chocolate cake	cake
+2087	Chokladboll	cake
+2088	Chongyang Cake	cake
+2089	Chorley cake	cake
+2090	Christmas cake	cake
+2091	Coconut cake	cake
+2092	Coffee cake	cake
+2093	Cupcake	cake
+2094	Cupcone	cake
+2095	Dacquoise	cake
+2096	Depression cake	cake
+2097	Devil's food cake	cake
+2098	Dirt cake	cake
+2099	Doberge cake	cake
+2100	Dobos torte	cake
+2101	Donauwelle	cake
+2102	Dundee cake	cake
+2103	Eccles cake	cake
+2104	Eggies	cake
+2105	Eierschecke	cake
+2106	Erotic cake	cake
+2107	Esterházy torte	cake
+2108	Fat rascal	cake
+2109	Financier	cake
+2110	Flourless chocolate cake	cake
+2111	Foam cake	cake
+2112	Frankfurter Kranz	cake
+2113	Friand	cake
+2114	Frog cake	cake
+2115	Fruitcake	cake
+2116	Funing big cake	cake
+2117	Garash cake	cake
+2118	Genoa cake	cake
+2119	Genoise	cake
+2120	German chocolate cake	cake
+2121	Gingerbread	cake
+2122	Gingerbread house	cake
+2123	Gooey butter cake	cake
+2124	Groom's cake	cake
+2125	Gugelhupf	cake
+2126	Happy Cake	cake
+2127	Heavy cake	cake
+2128	Herman cake	cake
+2129	Hot milk cake	cake
+2130	Hummingbird cake	cake
+2131	Ice cream cake	cake
+2132	Imagawayaki	cake
+2133	Jaffa Cakes	cake
+2134	Jewish apple cake	cake
+2135	Joffre cake	cake
+2136	Kalathappam	cake
+2137	Kek Lapis Sarawak	cake
+2138	Kentucky jam cake	cake
+2139	Kiev cake	cake
+2140	King cake	cake
+2141	Kladdkaka	cake
+2142	Kornigou	cake
+2143	Kouign-amann	cake
+2144	Krakow gingerbread	cake
+2145	Kransekake	cake
+2146	Kuchen	cake
+2147	Kue cubit	cake
+2148	Ladyfinger	cake
+2149	Lamington	cake
+2150	Lane cake	cake
+2151	Lardy cake	cake
+2152	Layer cake	cake
+2153	Lekach	cake
+2154	Linzer torte	cake
+2155	Madeira cake	cake
+2156	Madeleine	cake
+2157	Malt loaf	cake
+2158	Marble cake	cake
+2159	Mazurek	cake
+2160	Međimurska gibanica	cake
+2161	Meringue	cake
+2162	Molten chocolate cake	cake
+2163	Ontbijtkoek	cake
+2164	Pain d'épices	cake
+2165	Pandan cake	cake
+2166	Panforte	cake
+2167	Panpepato	cake
+2168	Parkin	cake
+2169	Parrozzo	cake
+2170	Pastiera	cake
+2171	Pavlova	cake
+2172	Petit four	cake
+2173	Pinca	cake
+2174	Pink wafer	cake
+2175	Ploatz	cake
+2176	Pound cake	cake
+2177	Prekmurska gibanica	cake
+2178	Princess cake	cake
+2179	Prinzregententorte	cake
+2180	Punschkrapfen	cake
+2181	Put chai ko	cake
+2182	Red bean cake	cake
+2183	Red velvet cake	cake
+2184	Rigó Jancsi	cake
+2185	Rock cake	cake
+2186	Rosca de reyes	cake
+2187	Rum baba	cake
+2188	Rum cake	cake
+2189	Ruske kape	cake
+2190	Sachertorte	cake
+2191	Šakotis	cake
+2192	Šampita	cake
+2193	Sesame seed cake	cake
+2194	Sfouf	cake
+2195	Sheet cake	cake
+2196	Simnel cake	cake
+2197	Snack cake	cake
+2198	Sno Balls	cake
+2199	Song gao	cake
+2200	Spanische Windtorte	cake
+2201	Spekkoek	cake
+2202	Spice cake	cake
+2203	Sponge cake	cake
+2204	St. Honoré cake	cake
+2205	Stack cake	cake
+2206	Stollen	cake
+2207	Streuselkuchen	cake
+2208	Swiss roll	cake
+2209	Tahinopita	cake
+2210	Taiyaki	cake
+2211	Tarta de Santiago	cake
+2212	Tea loaf	cake
+2213	Teacake	cake
+2214	Tin roof pie	cake
+2215	Tipsy cake	cake
+2216	Tiramisu	cake
+2217	Torta alla Monferrina	cake
+2218	Torta caprese	cake
+2219	Torta de nata	cake
+2220	Torta Maria Luisa	cake
+2221	Torta Tre Monti	cake
+2222	Torte	cake
+2223	Tottenham cake	cake
+2224	Tres leches cake	cake
+2225	Tu	cake
+2226	Tula gingerbread	cake
+2227	Tunis cake	cake
+2228	Tunnock's teacake	cake
+2229	Upside-down cake	cake
+2230	Wacky cake	cake
+2231	Wafer	cake
+2232	Waffle	cake
+2233	Wedding cake	cake
+2234	Welsh cake	cake
+2235	White sugar sponge cake	cake
+2236	Wine cake	cake
+2237	Yule log	cake
+2238	Zuger Kirschtorte	cake
+2239	Zwetschgenkuchen	cake
+2240	Abnabat	confectionery
+2241	Acidulated drops	confectionery
+2242	Akanés	confectionery
+2243	Besan barfi	confectionery
+2244	Bonbon	confectionery
+2245	Bourbon ball	confectionery
+2246	Brittle	confectionery
+2247	Bubble gum	confectionery
+2248	Buckeye candy	confectionery
+2249	Bulk confectionery	confectionery
+2250	Butterscotch	confectionery
+2251	Cajeta	confectionery
+2252	Calisson	confectionery
+2253	Candied fruit	confectionery
+2254	Candy	confectionery
+2255	Candy apple	confectionery
+2256	Candy bouquet	confectionery
+2257	Candy cane	confectionery
+2258	Candy cigarette	confectionery
+2259	Candy corn	confectionery
+2260	Candy pumpkin	confectionery
+2261	Caramel	confectionery
+2262	Caramel apple	confectionery
+2263	Caramel corn	confectionery
+2264	Catànies	confectionery
+2265	Cezerye	confectionery
+2266	Chewing gum	confectionery
+2267	Chikki	confectionery
+2268	Choco pie	confectionery
+2269	Chocolate	confectionery
+2270	Chocolate balls	confectionery
+2271	Chocolate bar	confectionery
+2272	Chocolate-coated peanut	confectionery
+2273	Chocolate-covered coffee bean	confectionery
+2274	Chocolate-covered raisin	confectionery
+2275	Chocolate truffle	confectionery
+2276	Churchkhela	confectionery
+2277	Cinnamon toothpick	confectionery
+2278	Cocadas	confectionery
+2279	Coconut candy	confectionery
+2280	Comfit	confectionery
+2281	Cordial	confectionery
+2282	Cotton candy	confectionery
+2283	Cuberdon	confectionery
+2284	Divinity	confectionery
+2285	Dodol	confectionery
+2286	Dominostein	confectionery
+2287	Dragée	confectionery
+2288	Dulce de leche	confectionery
+2289	Edible ink printing	confectionery
+2290	Fālūdhaj	confectionery
+2291	Fondant	confectionery
+2292	Fruit sours	confectionery
+2293	Fudge	confectionery
+2294	Gajak	confectionery
+2295	Gaz	confectionery
+2296	Geplak	confectionery
+2297	Gibraltar rock	confectionery
+2298	Glaze	confectionery
+2299	Gobstopper	confectionery
+2300	Gozinaki	confectionery
+2301	Halva	confectionery
+2302	Hanukkah gelt	confectionery
+2303	Hard candy	confectionery
+2304	Haw flakes	confectionery
+2305	Imarti	confectionery
+2306	Ischoklad	confectionery
+2307	Jelly bean	confectionery
+2308	Jordan almonds	confectionery
+2309	Ka'í Ladrillo	confectionery
+2310	Kaju Katli	confectionery
+2311	Kakinada khaja	confectionery
+2312	Kamarcut	confectionery
+2313	Karah Parshad	confectionery
+2314	Kesaria Peda	confectionery
+2315	Kettle corn	confectionery
+2316	Konfyt	confectionery
+2317	Kosereva	confectionery
+2318	Lacabòn	confectionery
+2319	Laddu	confectionery
+2320	Lakhamari	confectionery
+2321	Lemon drop	confectionery
+2322	Liquorice	confectionery
+2323	Liquorice allsorts	confectionery
+2324	Mampostial	confectionery
+2325	Manjar	confectionery
+2326	Maple sugar	confectionery
+2327	Maple taffy	confectionery
+2328	Marron glacé	confectionery
+2329	Marshmallow	confectionery
+2330	Marshmallow creme	confectionery
+2331	Marzipan	confectionery
+2332	Mendiant	confectionery
+2333	Milk chocolate	confectionery
+2334	Mint	confectionery
+2335	Misri	confectionery
+2336	Modjeska	confectionery
+2337	Mooncake	confectionery
+2338	Moustalevria	confectionery
+2339	Mozartkugel	confectionery
+2340	Noghl	confectionery
+2341	Nonpareils	confectionery
+2342	Nougat	confectionery
+2343	Oblaat	confectionery
+2344	Orange jelly candy	confectionery
+2345	Paçoca	confectionery
+2346	Pashmak	confectionery
+2347	Pastila	confectionery
+2348	Pastille	confectionery
+2349	Peanut butter cup	confectionery
+2350	Pecan log roll	confectionery
+2351	Penuche	confectionery
+2352	Pepero	confectionery
+2353	Persipan	confectionery
+2354	Pirate coins	confectionery
+2355	Pirulín	confectionery
+2356	Polkagris	confectionery
+2357	Pontefract cake	confectionery
+2358	Poolaki	confectionery
+2359	Ptasie mleczko	confectionery
+2360	Queijadinha	confectionery
+2361	Ribbon candy	confectionery
+2362	Rock	confectionery
+2363	Rock candy	confectionery
+2364	Rocky roa	confectionery
+2365	Royal icing	confectionery
+2366	Rum ball	confectionery
+2367	Russian candy	confectionery
+2368	Salt water taffy	confectionery
+2369	Salty liquorice	confectionery
+2370	Sesame seed candy	confectionery
+2371	Sherbet (powder)	confectionery
+2372	Singori	confectionery
+2373	Sohan	confectionery
+2374	Soor ploom	confectionery
+2375	South Asian sweets	confectionery
+2376	Sprinkles	confectionery
+2377	Spunk	confectionery
+2378	Stick candy	confectionery
+2379	Strela candy	confectionery
+2380	Succade	confectionery
+2381	Sugar cake	confectionery
+2382	Sugar mice	confectionery
+2383	Sugar paste	confectionery
+2384	Sugar plum	confectionery
+2385	Suikerboon	confectionery
+2386	Sukhdi	confectionery
+2387	Szaloncukor	confectionery
+2388	Tableting	confectionery
+2389	Tarasari	confectionery
+2390	Teja	confectionery
+2391	Throat lozenge	confectionery
+2392	Tiffin	confectionery
+2393	Tooth-friendly	confectionery
+2394	Turkish delight	confectionery
+2395	Turrón	confectionery
+2396	Zefir	confectionery
+2397	Ammonia cookie	cookie
+2398	Bizcochito	cookie
+2399	Black and white cookie	cookie
+2400	Butter cookie	cookie
+2401	Butter pecan	cookie
+2402	Canestrelli	cookie
+2403	Chocolate chip cookie	cookie
+2404	Chocolate chip cookie dough ice cream	cookie
+2405	Christmas cookies	cookie
+2406	Colaz	cookie
+2407	Cookie bouquet	cookie
+2408	Cookie dough	cookie
+2409	Cookie salad	cookie
+2410	Corn cookie	cookie
+2411	Coyotas	cookie
+2412	Fattigmann	cookie
+2413	Finikia	cookie
+2414	Fortune cookie	cookie
+2415	Ginger nut	cookie
+2416	Guyuria	cookie
+2417	Hallongrotta	cookie
+2418	Jodenkoek	cookie
+2419	Jumble	cookie
+2420	Kichel	cookie
+2421	Kleicha	cookie
+2422	Koloocheh and Masgati	cookie
+2423	Krumkake	cookie
+2424	Kuih semperit	cookie
+2425	Macaroon	cookie
+2426	Maple leaf cream cookies	cookie
+2427	Moravian spice cookies	cookie
+2428	Mustacciuoli	cookie
+2429	Nanaimo bar	cookie
+2430	Nocciolini di Canzo	cookie
+2431	Panellets	cookie
+2432	Peanut butter cookie	cookie
+2433	Pignolo	cookie
+2434	Pizzelle	cookie
+2435	Polvorón	cookie
+2436	Qurabiya	cookie
+2437	Rainbow cookie	cookie
+2438	Reshteh khoshkar	cookie
+2439	Rock cake	cookie
+2440	Rose cookies	cookie
+2441	Rosette	cookie
+2442	Roskette	cookie
+2443	Russian tea cake	cookie
+2444	Sandbakelse	cookie
+2445	Silvana	cookie
+2446	Snickerdoodle	cookie
+2447	Sohan	cookie
+2448	Stroopwafel	cookie
+2449	Sugar cookie	cookie
+2450	Teiglach	cookie
+2451	Thin Mints	cookie
+2452	Tuile	cookie
+2453	Tuticorin macaroon	cookie
+2454	Whoopie pie	cookie
+2455	Banana pudding	custard
+2456	Bavarian cream	custard
+2457	Bean pie	custard
+2458	Berliner	custard
+2459	Bienenstich	custard
+2460	Bird's Custard	custard
+2461	Bob Andy pie	custard
+2462	Boston cream doughnut	custard
+2463	Boston cream pie	custard
+2464	Bougatsa	custard
+2465	Bread and butter pudding	custard
+2466	Buttermilk pie	custard
+2467	Charlotte	custard
+2468	Cheesecake	custard
+2469	Chiboust cream	custard
+2470	Clafoutis	custard
+2471	Coconut custard	custard
+2472	Coconut jam	custard
+2473	Cream pie	custard
+2474	Crème anglaise	custard
+2475	Crème brûlée	custard
+2476	Crème caramel	custard
+2477	Custard pie	custard
+2478	Custard tart	custard
+2479	Éclair	custard
+2480	Egg tart	custard
+2481	Far Breton	custard
+2482	Flanby	custard
+2483	Flapper pie	custard
+2484	Floating island	custard
+2485	Flourless chocolate cake	custard
+2486	Frangipane	custard
+2487	French toast	custard
+2488	Frozen custard	custard
+2489	Galaktoboureko	custard
+2490	Kissel	custard
+2491	Kogel mogel	custard
+2492	Kremna rezina	custard
+2493	Kremówka	custard
+2494	Krempita	custard
+2495	Krofne	custard
+2496	Malvern pudding	custard
+2497	Manchester tart	custard
+2498	Mató de Pedralbes	custard
+2499	Melktert	custard
+2500	Miguelitos	custard
+2501	Mille-feuille	custard
+2502	Nanaimo bar	custard
+2503	Natillas	custard
+2504	Neenish tart	custard
+2505	Norman Tart	custard
+2506	Ozark pudding	custard
+2507	Pączki	custard
+2508	Pastel de nata	custard
+2509	Pio Quinto	custard
+2510	Pot de crème	custard
+2511	Profiterole	custard
+2512	Pumpkin pie	custard
+2513	Queen of Puddings	custard
+2514	Quindim	custard
+2515	Rožata	custard
+2516	Salzburger Nockerl	custard
+2517	Skolebrød	custard
+2518	Soufflé	custard
+2519	Spotted dick	custard
+2520	St. Honoré cake	custard
+2521	Sweet potato pie	custard
+2522	Tarte à la Bouillie	custard
+2523	Tiramisu	custard
+2524	Torta de nata	custard
+2525	Treacle sponge pudding	custard
+2526	Trifle	custard
+2527	Vla	custard
+2528	Watalappam	custard
+2529	Zabaione	custard
+2530	Zeppole	custard
+2531	Chancaca	dessert sauce
+2532	Cherries jubilee	dessert sauce
+2533	Chocolate syrup	dessert sauce
+2534	Crème anglaise	dessert sauce
+2535	Custard	dessert sauce
+2536	Dream Whip	dessert sauce
+2537	Fruit curd	dessert sauce
+2538	Hard sauce	dessert sauce
+2539	Latik	dessert sauce
+2540	Magic Shell	dessert sauce
+2541	Rumtopf	dessert sauce
+2542	Slatko	dessert sauce
+2543	Wet walnuts	dessert sauce
+2544	Zabajone	dessert sauce
+2545	crema pasticciera	dessert sauce
+2546	Crema al mascarpone	dessert sauce
+2547	Angel wings	doughnuts
+2548	Awwamaat	doughnuts
+2549	Bamiyeh	doughnuts
+2550	Baursaki	doughnuts
+2551	Bear claw	doughnuts
+2552	Beignet	doughnuts
+2553	Berliner	doughnuts
+2554	Bombolone	doughnuts
+2555	Boortsog	doughnuts
+2556	Boston cream doughnut	doughnuts
+2557	Brown Bobby	doughnuts
+2558	Buñuelo	doughnuts
+2559	Çäkçäk	doughnuts
+2560	Churro	doughnuts
+2561	Cider doughnut	doughnuts
+2562	Coconut doughnut	doughnuts
+2563	Cruller	doughnuts
+2564	Dutchie	doughnuts
+2565	Fánk	doughnuts
+2566	Fasnacht	doughnuts
+2567	Filhós	doughnuts
+2568	Fried Coke	doughnuts
+2569	Fried dough	doughnuts
+2570	Fritelli	doughnuts
+2571	Fritter	doughnuts
+2572	Frittole	doughnuts
+2573	Fritule	doughnuts
+2574	Funnel cake	doughnuts
+2575	Gogoşi	doughnuts
+2576	Gosh-e Fil	doughnuts
+2577	Imarti	doughnuts
+2578	Jalebi	doughnuts
+2579	Jelly doughnut	doughnuts
+2580	Kleina	doughnuts
+2581	Klenät	doughnuts
+2582	Koeksister	doughnuts
+2583	Kreple	doughnuts
+2584	Krofne	doughnuts
+2585	Lokma	doughnuts
+2586	Long John	doughnuts
+2587	Loukoumades	doughnuts
+2588	Luther Burger	doughnuts
+2589	Mahua	doughnuts
+2590	Malasada	doughnuts
+2591	Maple bacon donut	doughnuts
+2592	Maple bar	doughnuts
+2593	Nonnevot	doughnuts
+2594	Oliebol	doughnuts
+2595	Ox-tongue pastry	doughnuts
+2596	Pączki	doughnuts
+2597	Pastisset	doughnuts
+2598	Pestiños	doughnuts
+2599	Picarones	doughnuts
+2600	Potato doughnut	doughnuts
+2601	Prusurate	doughnuts
+2602	Puff Puff	doughnuts
+2603	Rosette	doughnuts
+2604	Sabudana vada	doughnuts
+2605	Sata andagi	doughnuts
+2606	Sfenj	doughnuts
+2607	Sgabeo	doughnuts
+2608	Shuangbaotai	doughnuts
+2609	Smultring	doughnuts
+2610	Sopaipilla	doughnuts
+2611	Sour cream doughnut	doughnuts
+2612	Sufganiyah	doughnuts
+2613	Timbits	doughnuts
+2614	Toutin	doughnuts
+2615	Tulumba	doughnuts
+2616	Vada	doughnuts
+2617	Youtiao	doughnuts
+2618	Zeppole	doughnuts
+2619	Açaí na tigela	frozen desserts
+2620	Baked Alaska	frozen desserts
+2621	Bombe glacée	frozen desserts
+2622	Café liégeois	frozen desserts
+2623	Cendol	frozen desserts
+2624	Creme de papaya	frozen desserts
+2625	Faloodeh	frozen desserts
+2626	Frozen banana	frozen desserts
+2627	Frozen custard	frozen desserts
+2628	Frozen yogurt	frozen desserts
+2629	Frozie cup	frozen desserts
+2630	Gelato	frozen desserts
+2631	Givré	frozen desserts
+2632	Granita	frozen desserts
+2633	Grattachecca	frozen desserts
+2634	Huckabuck	frozen desserts
+2635	Ice milk	frozen desserts
+2636	Italian ice	frozen desserts
+2637	Kulfi	frozen desserts
+2638	Maíz con hielo	frozen desserts
+2639	Mellorine	frozen desserts
+2640	Nam khaeng sai	frozen desserts
+2641	Orange Whip	frozen desserts
+2642	Paleta	frozen desserts
+2643	Patbingsu	frozen desserts
+2644	Piragua	frozen desserts
+2645	Popsicle	frozen desserts
+2646	Rainbow sherbet	frozen desserts
+2647	Semifreddo	frozen desserts
+2648	Shave ice	frozen desserts
+2649	Shaved ice	frozen desserts
+2650	Slush	frozen desserts
+2651	Sno-ball	frozen desserts
+2652	Snow cone	frozen desserts
+2653	Snow cream	frozen desserts
+2654	Soft serve	frozen desserts
+2655	Sorbet	frozen desserts
+2656	Spoom	frozen desserts
+2657	Tartufo	frozen desserts
+2658	Tasaka Guri-Guri	frozen desserts
+2659	Tutti frutti	frozen desserts
+2660	Zuccotto	frozen desserts
+2661	Affogato	ice cream
+2662	Arctic roll	ice cream
+2663	Bacon sundae	ice cream
+2664	Baked Alaska	ice cream
+2665	Banana split	ice cream
+2666	Biscuit Tortoni	ice cream
+2667	Booza	ice cream
+2668	Choc ice	ice cream
+2669	Choc-Top	ice cream
+2670	Coffee cabinet	ice cream
+2671	Dairy mix	ice cream
+2672	Dame blanche	ice cream
+2673	Dippin' Dots	ice cream
+2674	Dondurma	ice cream
+2675	Flame on the iceberg	ice cream
+2676	Freeze-dried ice cream	ice cream
+2677	Fried ice cream	ice cream
+2678	Gelato	ice cream
+2679	Golden Opulence Sundae	ice cream
+2680	Ice cream bar	ice cream
+2681	Ice cream cake	ice cream
+2682	Ice cream cone	ice cream
+2683	Ice cream float	ice cream
+2684	Ice cream sandwich	ice cream
+2685	Ice cream soda	ice cream
+2686	Ice milk	ice cream
+2687	Indian ice cream (Alaska)	ice cream
+2688	Indian ice cream (Canada)	ice cream
+2689	Knickerbocker glory	ice cream
+2690	Kulfi	ice cream
+2691	Milkshake	ice cream
+2692	Mix-in	ice cream
+2693	Mochi ice cream	ice cream
+2694	Monaka	ice cream
+2695	Parfait	ice cream
+2696	Penny lick	ice cream
+2697	Raspberry Ripple	ice cream
+2698	Screwball	ice cream
+2699	Snow cream	ice cream
+2700	Soft serve	ice cream
+2701	Sorbetes	ice cream
+2702	Spaghettieis	ice cream
+2703	Stracciatella	ice cream
+2704	Sundae	ice cream
+2705	Tin roof pie	ice cream
+2706	Tutti frutti	ice cream
+2707	Banana Split	ben's and jerry's ice cream
+2708	Bonnaroo Buzz	ben's and jerry's ice cream
+2709	Brownie Batter	ben's and jerry's ice cream
+2710	Butter Pecan	ben's and jerry's ice cream
+2711	Cake Batter	ben's and jerry's ice cream
+2712	Cannoli	ben's and jerry's ice cream
+2713	Cheesecake Brownie	ben's and jerry's ice cream
+2714	Cherry Garcia	ben's and jerry's ice cream
+2715	Chocolate	ben's and jerry's ice cream
+2716	Chocolate Chip Cookie Dough	ben's and jerry's ice cream
+2717	Chocolate Fudge Brownie	ben's and jerry's ice cream
+2718	Chocolate Macadamia	ben's and jerry's ice cream
+2719	Chocolate Peanut Buttery Swirl	ben's and jerry's ice cream
+2720	Chocolate Therapy	ben's and jerry's ice cream
+2721	Chocowlate Chip	ben's and jerry's ice cream
+2722	Chubby Hubby	ben's and jerry's ice cream
+2723	Chunky Monkey	ben's and jerry's ice cream
+2724	Cinnamon Buns	ben's and jerry's ice cream
+2725	Coconut Seven Layer Bar	ben's and jerry's ice cream
+2726	Coffee	ben's and jerry's ice cream
+2727	Coffee Coffee BuzzBuzzBuzz	ben's and jerry's ice cream
+2728	Coffee Heath Bar Crunch	ben's and jerry's ice cream
+2729	Crème Brûlée	ben's and jerry's ice cream
+2730	Dave Matthews Band Magic Brownies Encore Edition	ben's and jerry's ice cream
+2731	Dublin Mudslide	ben's and jerry's ice cream
+2732	Dulce Delish	ben's and jerry's ice cream
+2733	Everything But The...	ben's and jerry's ice cream
+2734	Fair Goodness Cake	ben's and jerry's ice cream
+2735	Fossil Fuel™	ben's and jerry's ice cream
+2736	From Russia with Buzz	ben's and jerry's ice cream
+2737	Half Baked	ben's and jerry's ice cream
+2738	Hannah Teter's Maple Blondie	ben's and jerry's ice cream
+2739	Imagine Whirled Peace	ben's and jerry's ice cream
+2740	Karamel Sutra	ben's and jerry's ice cream
+2741	Late Night Snack	ben's and jerry's ice cream
+2742	Milk & Cookies	ben's and jerry's ice cream
+2743	Mint Chocolate Chunk	ben's and jerry's ice cream
+2744	Mint Chocolate Cookie	ben's and jerry's ice cream
+2745	Mission to Marzipan	ben's and jerry's ice cream
+2746	Mud Pie	ben's and jerry's ice cream
+2747	Neapolitan Dynamite	ben's and jerry's ice cream
+2748	New York Super Fudge Chunk	ben's and jerry's ice cream
+2749	Oatmeal Cookie Chunk	ben's and jerry's ice cream
+2750	Peanut Brittle	ben's and jerry's ice cream
+2751	Peanut Butter Cup	ben's and jerry's ice cream
+2752	Phish Food	ben's and jerry's ice cream
+2753	Pistachio Pistachio	ben's and jerry's ice cream
+2754	Red Velvet Cake	ben's and jerry's ice cream
+2755	Schweddy Balls	ben's and jerry's ice cream
+2756	S'mores	ben's and jerry's ice cream
+2757	Stephen Colbert's AmeriCone Dream	ben's and jerry's ice cream
+2758	Strawberry Cheesecake	ben's and jerry's ice cream
+2759	Sweet Cream & Cookies	ben's and jerry's ice cream
+2760	Taste the Lin-Sanity	ben's and jerry's ice cream
+2761	Triple Caramel Chunk	ben's and jerry's ice cream
+2762	The Tonight Dough	ben's and jerry's ice cream
+2763	Turtle Soup	ben's and jerry's ice cream
+2764	Vanilla	ben's and jerry's ice cream
+2765	Vanilla Caramel Fudge	ben's and jerry's ice cream
+2766	Vanilla Fudge Chip	ben's and jerry's ice cream
+2767	Vanilla Heath Bar Crunch	ben's and jerry's ice cream
+2768	Vermonster	ben's and jerry's ice cream
+2769	What A Cluster	ben's and jerry's ice cream
+2770	Willie Nelson's Country Peach Cobbler	ben's and jerry's ice cream
+2771	Black Raspberry	ben's and jerry's ice cream
+2772	Cherry Garcia FroYo	ben's and jerry's ice cream
+2773	Chocolate Birthday Cake FroYo	ben's and jerry's ice cream
+2774	Chocolate Fudge Brownie FroYo	ben's and jerry's ice cream
+2775	Half Baked FroYo	ben's and jerry's ice cream
+2776	Berried Treasure	ben's and jerry's ice cream
+2777	Berry Berry Extraordinary	ben's and jerry's ice cream
+2778	Jamaican Me Crazy	ben's and jerry's ice cream
+2779	Lemonade Sorbet	ben's and jerry's ice cream
+2780	Mango Mango	ben's and jerry's ice cream
+2781	Alexandertorte	pastry
+2782	Allerheiligenstriezel	pastry
+2783	Apple strudel	pastry
+2784	Azerbaijani pakhlava	pastry
+2785	Bakewell pudding	pastry
+2786	Baklava	pastry
+2787	Bakpia	pastry
+2788	Bakpia Pathok	pastry
+2789	Bánh pía	pastry
+2790	Banitsa	pastry
+2791	Banket	pastry
+2792	Bear claw	pastry
+2793	BeaverTails	pastry
+2794	Belekoy	pastry
+2795	Belokranjska povitica	pastry
+2796	Bethmännchen	pastry
+2797	Birnbrot	pastry
+2798	Bizcocho	pastry
+2799	Blachindla	pastry
+2800	Bougatsa	pastry
+2801	Boyoz	pastry
+2802	Briouat	pastry
+2803	Bruttiboni	pastry
+2804	Carac	pastry
+2805	ChaSan	pastry
+2806	Chorley cake	pastry
+2807	Chouquette	pastry
+2808	Choux pastry	pastry
+2809	Cinnamon roll	pastry
+2810	Coca	pastry
+2811	Coussin de Lyon	pastry
+2812	Cream horn	pastry
+2813	Croline	pastry
+2814	Cronut	pastry
+2815	Cuban pastry	pastry
+2816	Dabby-Doughs	pastry
+2817	Danish pastry	pastry
+2818	Djevrek	pastry
+2819	Eccles cake	pastry
+2820	Ensaïmada	pastry
+2821	Fa gao	pastry
+2822	Fazuelos	pastry
+2823	Fig roll	pastry
+2824	Fish-shaped pastry	pastry
+2825	Flaky pastry	pastry
+2826	Flaons	pastry
+2827	Flies graveyard	pastry
+2828	Franzbrötchen	pastry
+2829	Gâteau Basque	pastry
+2830	Gibanica	pastry
+2831	Gözleme	pastry
+2832	Gundain	pastry
+2833	Gyeongju bread	pastry
+2834	Haddekuche	pastry
+2835	Hellimli	pastry
+2836	Heong Peng	pastry
+2837	Hot water crust pastry	pastry
+2838	Huff paste	pastry
+2839	Inipit	pastry
+2840	Jachnun	pastry
+2841	Jalebi	pastry
+2842	Kalács	pastry
+2843	Kanafeh	pastry
+2844	Kitchener bun	pastry
+2845	Klobasnek	pastry
+2846	Knieküchle	pastry
+2847	Krempita	pastry
+2848	Kringle	pastry
+2849	Kroštule	pastry
+2850	Kueh Pie Tee	pastry
+2851	Kürtőskalács	pastry
+2852	Lattice	pastry
+2853	Leipziger Lerche	pastry
+2854	London Cheesecake	pastry
+2855	Lukhmi	pastry
+2856	Ma'amoul	pastry
+2857	Makroudh	pastry
+2858	Malsouka	pastry
+2859	Mandelkubb	pastry
+2860	Mantecadas	pastry
+2861	Marillenknödel	pastry
+2862	Marry girl cake	pastry
+2863	Masan	pastry
+2864	Miguelitos	pastry
+2865	Milhoja	pastry
+2866	Milk-cream strudel	pastry
+2867	Mooncake	pastry
+2868	Moorkop	pastry
+2869	Nǎiyóu sū bǐng	pastry
+2870	Nun's puffs	pastry
+2871	Pan dulce	pastry
+2872	Papanași	pastry
+2873	Paper wrapped cake	pastry
+2874	Pastel	pastry
+2875	Pastizz	pastry
+2876	Pastry heart	pastry
+2877	Pâté chaud	pastry
+2878	Phyllo	pastry
+2879	Pionono	pastry
+2880	Plăcintă	pastry
+2881	Pretzel	pastry
+2882	Profiterole	pastry
+2883	Puff pastry	pastry
+2884	Punsch-roll	pastry
+2885	Punschkrapfen	pastry
+2886	Qottab	pastry
+2887	Quesito	pastry
+2888	Rab cake	pastry
+2889	Remonce	pastry
+2890	Reuzenbol	pastry
+2891	Roti tissue	pastry
+2892	Roze koek	pastry
+2893	Runeberg's torte	pastry
+2894	Sad cake	pastry
+2895	Schnecken	pastry
+2896	Schneeball	pastry
+2897	Schuxen	pastry
+2898	Semla	pastry
+2899	Shortcrust pastry	pastry
+2900	Şöbiyet	pastry
+2901	Sou	pastry
+2902	Spanisch Brötli	pastry
+2903	Spritzkuchen	pastry
+2904	Streusel	pastry
+2905	Strudel	pastry
+2906	Stutenkerl	pastry
+2907	Sufganiyah	pastry
+2908	Sweetheart cake	pastry
+2909	Tahini roll	pastry
+2910	Toaster pastry	pastry
+2911	Torpedo dessert	pastry
+2912	Tortell	pastry
+2913	Tortita negra	pastry
+2914	Tu	pastry
+2915	Turnover	pastry
+2916	Uštipci	pastry
+2917	Utap	pastry
+2918	Vatrushka	pastry
+2919	Veka	pastry
+2920	Vetkoek	pastry
+2921	Vol-au-vent	pastry
+2922	Yurla	pastry
+2923	Zeeuwse bolus	pastry
+2924	Žemlovka	pastry
+2925	Bublik bread	poppy seed pastry
+2926	Germknödel	poppy seed pastry
+2927	Hamantashen	poppy seed pastry
+2928	Kalach	poppy seed pastry
+2929	Kluski z makiem	poppy seed pastry
+2930	Kołacz	poppy seed pastry
+2931	Kutia	poppy seed pastry
+2932	Lemon poppyseedmuffins or cake	poppy seed pastry
+2933	Makovnjača	poppy seed pastry
+2934	Makovník	poppy seed pastry
+2935	Makový závin	poppy seed pastry
+2936	Makówki	poppy seed pastry
+2937	Mohnbeugel	poppy seed pastry
+2938	Mohnstriezel	poppy seed pastry
+2939	Mohnstrudel	poppy seed pastry
+2940	Mákos bejgli	poppy seed pastry
+2941	Mákos guba (Poppy seed bread pudding)	poppy seed pastry
+2942	Mákos metélt (Hungarian poppyseed pasta)	poppy seed pastry
+2943	Obwarzanek	poppy seed pastry
+2944	Poppy seedbagel	poppy seed pastry
+2945	Poppy seedkolache (or kolachy)[20][21]	poppy seed pastry
+2946	Poppy seed roll	poppy seed pastry
+2947	Prekmurska gibanica	poppy seed pastry
+2948	Rice puddings(various) (esp. with black poppy seeds)	poppy seed pastry
+2949	Sushki	poppy seed pastry
+2950	Štrudla s makom	poppy seed pastry
+2951	Колач со афион (cake with poppy)	poppy seed pastry
+2952	Chatti Pathiri	poppy seed pastry
+2953	Hamantash	poppy seed pastry
+2954	Kifli	poppy seed pastry
+2955	Kolach	poppy seed pastry
+2956	Kołacz	poppy seed pastry
+2957	Kūčiukai	poppy seed pastry
+2958	Nunt	poppy seed pastry
+2959	Nut roll	poppy seed pastry
+2960	Poppy seed roll	poppy seed pastry
+2961	Prekmurska gibanica	poppy seed pastry
+2962	Rugelach	poppy seed pastry
+2963	Aloo pie	pie
+2964	Apple crisp Apple crumble	pie
+2965	Apple pie	pie
+2966	Australian and New Zealand meat pie	pie
+2967	Bacon and egg pie	pie
+2968	Bakewell tart	pie
+2969	Banana cream pie	pie
+2970	Banoffee pie	pie
+2971	Bean pie	pie
+2972	Bedfordshire clanger	pie
+2973	Bisteeya	pie
+2974	Blackberry pie	pie
+2975	Black bottom pie	pie
+2976	Black bun	pie
+2977	Blueberry pie	pie
+2978	Bob Andy pie	pie
+2979	Bougatsa	pie
+2980	Boysenberry	pie
+2981	Bridie	pie
+2982	Buko pie	pie
+2983	Bumbleberry pie	pie
+2984	Bundevara	pie
+2985	Bündner Nusstorte	pie
+2986	Burek	pie
+2987	Butter pie	pie
+2988	Butter tart	pie
+2989	Buttermilk pie	pie
+2990	Canelé	pie
+2991	Cantaloupe pie	pie
+2992	Caramel tart	pie
+2993	Cheesecake	pie
+2994	Cheese pie	pie
+2995	Cherry pie	pie
+2996	Chess pie	pie
+2997	Chicken and mushroom pie	pie
+2998	Chiffon pie	pie
+2999	Chinese pie Pâté chinois	pie
+3000	Coconut cream pie	pie
+3001	Cookie Cake Pie	pie
+3002	Corned beef pie	pie
+3003	Cottage pie Shepherd's pie	pie
+3004	Coulibiac	pie
+3005	Cumberland pie	pie
+3006	Curry pie	pie
+3007	Curry puff	pie
+3008	Custard tart	pie
+3009	Derby pie	pie
+3010	Egg tart	pie
+3011	Empanada	pie
+3012	Fish pie Fisherman's Pie	pie
+3013	Flan	pie
+3014	Flapper pie	pie
+3015	Fleischkuekle	pie
+3016	Flipper pie	pie
+3017	Fried pie	pie
+3018	Gibanica	pie
+3019	Green grape pie	pie
+3020	Homity pie	pie
+3021	Hornazo	pie
+3022	Jamaican patty	pie
+3023	Kalakukko	pie
+3024	Karelian pasties	pie
+3025	Key lime pie	pie
+3026	Khachapuri	pie
+3027	Killie pie	pie
+3028	Knish	pie
+3029	Kuchen	pie
+3030	Lemon ice box pie	pie
+3031	Lemon meringue pie	pie
+3032	Manchester tart	pie
+3033	Meat and potato pie	pie
+3034	Meat pie	pie
+3035	Melton Mowbray pork pie	pie
+3036	Mince pie	pie
+3037	Mississippi mud pie	pie
+3038	Natchitoches meat pie	pie
+3039	Neapolitan cake pie	pie
+3040	Neapolitan pie	pie
+3041	Echpochmak	pie
+3042	Pastafrola	pie
+3043	Pastilla bastilla, bsteeya, b'stilla or bstilla	pie
+3044	Pasty	pie
+3045	Peach pie	pie
+3046	Pear tart	pie
+3047	Pecan pie	pie
+3048	Pie a la mode	pie
+3049	Pirog	pie
+3050	Pirozhki pirozhok, piroshki	pie
+3051	Pork pie	pie
+3052	Pot pie	pie
+3053	Pumpkin pie	pie
+3054	Qumeshtore me pete	pie
+3055	Quiche	pie
+3056	Raisin pie	pie
+3057	Rappie pie	pie
+3058	Raspberry pie	pie
+3059	Razzleberry Pie	pie
+3060	Red velvet cake pie	pie
+3061	Red velvet cheesecake pie	pie
+3062	Rhubarb pie	pie
+3063	Sambusac (also known assingara, samosa, or samsa)	pie
+3064	Saskatoonberry pie	pie
+3065	Scotch pie	pie
+3066	Sea-pie Cipaille	pie
+3067	Sfiha	pie
+3068	Shaker Lemon Pie	pie
+3069	Shepherd's Pie	pie
+3070	Shoofly pie	pie
+3071	Soparnik	pie
+3072	Southern tomato pie	pie
+3073	Spanakopita spinach pie	pie
+3074	Stargazy pie	pie
+3075	Steak and kidney pie	pie
+3076	Steak pie	pie
+3077	Strawberry pie	pie
+3078	Strawberry rhubarb pie	pie
+3079	St. Stephen's Day pie	pie
+3080	Sugar pie	pie
+3081	Sweet potato pie[12]	pie
+3082	Tarta de Santiago	pie
+3083	Tiropita Greek Cheese pie	pie
+3084	Torta caprese	pie
+3085	Tourtière	pie
+3086	Treacle tart	pie
+3087	Vlaai	pie
+3088	Watalappam	pie
+3089	Woolton pie[14]	pie
+3090	Zelnik	pie
+3091	Almond jelly	pudding
+3092	Ashure	pudding
+3093	Asida	pudding
+3094	Banana pudding	pudding
+3095	Bánh chuối	pudding
+3096	Bebinca	pudding
+3097	Black pudding	pudding
+3098	Blancmange	pudding
+3099	Blodpalt	pudding
+3100	Bread and butter pudding	pudding
+3101	Bread pudding	pudding
+3102	Brown Betty (dessert)	pudding
+3103	Cabinet pudding	pudding
+3104	Butterscotch pudding	pudding
+3105	Chè	pudding
+3106	Chireta	pudding
+3107	Chocolate pudding	pudding
+3108	Chocolate Biscuit pudding	pudding
+3109	Christmas pudding	pudding
+3110	Clootie	pudding
+3111	Coconut bread pudding	pudding
+3112	Coconut pudding	pudding
+3113	Cottage Pudding	pudding
+3114	Cơm rượu	pudding
+3115	Crème caramel	pudding
+3116	Diplomat pudding	pudding
+3117	Dock pudding	pudding
+3118	Drisheen	pudding
+3119	Dutch baby pancake	pudding
+3120	Espasol	pudding
+3121	Eve's pudding	pudding
+3122	Firni	pudding
+3123	Figgy duff (pudding)	pudding
+3124	Figgy pudding	pudding
+3125	Flummadiddle	pudding
+3126	Flummery	pudding
+3127	Frumenty	pudding
+3128	Goody (dessert)	pudding
+3129	Got fan	pudding
+3130	Groaty pudding	pudding
+3131	Haggis	pudding
+3132	Hasty pudding	pudding
+3133	Haupia	pudding
+3134	Jam Roly-Poly	pudding
+3135	Junket (dessert)	pudding
+3136	Kačamak	pudding
+3137	Kazandibi	pudding
+3138	Keşkül	pudding
+3139	Kheer	pudding
+3140	Kulolo	pudding
+3141	Kutia	pudding
+3142	Langevinger pudding	pudding
+3143	Malvern pudding	pudding
+3144	Malva pudding	pudding
+3145	Mango pudding	pudding
+3146	Moin moin	pudding
+3147	Muhallebi	pudding
+3148	Panna cotta	pudding
+3149	Persimmon pudding	pudding
+3150	Pistachio pudding	pudding
+3151	Po'e	pudding
+3152	Pudding Corn	pudding
+3153	Put chai ko	pudding
+3154	Queen of Puddings	pudding
+3155	Rice pudding	pudding
+3156	Rag Pudding	pudding
+3157	Red pudding	pudding
+3158	Rødgrød orRote Grütze	pudding
+3159	Rượu nếp	pudding
+3160	Sago pudding	pudding
+3161	Scrapple	pudding
+3162	Shole zard	pudding
+3163	Spoonbread	pudding
+3164	Spotted dick	pudding
+3165	Sticky date pudding	pudding
+3166	Sticky toffee pudding	pudding
+3167	Summer pudding	pudding
+3168	Sussex Pond Pudding	pudding
+3169	Sütlaç	pudding
+3170	Tapioca pudding	pudding
+3171	Tavuk göğsü	pudding
+3172	Teurgoule	pudding
+3173	Tiết canh	pudding
+3174	Treacle sponge pudding	pudding
+3175	Vanilla pudding	pudding
+3176	Watalappam	pudding
+3177	White pudding	pudding
+3178	Yorkshire pudding	pudding
+3179	Zerde	pudding
+3180	Banana custard	custard dessert
+3181	Banana pudding	custard dessert
+3182	Bavarian cream	custard dessert
+3183	Bean pie	custard dessert
+3184	Berliner	custard dessert
+3185	Bienenstich	custard dessert
+3186	Bob Andy pie	custard dessert
+3187	Boston cream doughnut	custard dessert
+3188	Boston cream pie	custard dessert
+3189	Bougatsa	custard dessert
+3190	Bread and butter pudding	custard dessert
+3191	Buttermilk pie	custard dessert
+3192	Charlotte	custard dessert
+3193	Cheesecake	custard dessert
+3194	Chiboust cream	custard dessert
+3195	Clafoutis	custard dessert
+3196	Coconut custard	custard dessert
+3197	Coconut jam	custard dessert
+3198	Cream pie	custard dessert
+3199	Crème anglaise	custard dessert
+3200	Crème brûlée	custard dessert
+3201	Crème caramel	custard dessert
+3202	Cremeschnitte	custard dessert
+3203	Custard pie	custard dessert
+3204	Custard tart	custard dessert
+3205	Éclair	custard dessert
+3206	Egg tart	custard dessert
+3207	Far Breton	custard dessert
+3208	Flanby	custard dessert
+3209	Flapper pie	custard dessert
+3210	Flaugnarde	custard dessert
+3211	Floating island	custard dessert
+3212	Flourless chocolate cake	custard dessert
+3213	Frangipane	custard dessert
+3214	Frozen custard	custard dessert
+3215	Galaktoboureko	custard dessert
+3216	Karpatka	custard dessert
+3217	Kissel	custard dessert
+3218	Kogel mogel	custard dessert
+3219	Kremówka (napoleonka)	custard dessert
+3220	Krofne	custard dessert
+3221	Maids of honour tart	custard dessert
+3222	Malvern pudding	custard dessert
+3223	Manchester tart	custard dessert
+3224	Mató de Pedralbes	custard dessert
+3225	Melktert	custard dessert
+3226	Miguelitos	custard dessert
+3227	Mille-feuille	custard dessert
+3228	Nanaimo bar	custard dessert
+3229	Natillas	custard dessert
+3230	Neenish tart	custard dessert
+3231	Norman Tart	custard dessert
+3232	Ozark pudding	custard dessert
+3233	Pączki	custard dessert
+3234	Pastel de nata	custard dessert
+3235	Pio Quinto	custard dessert
+3236	Pot de crème	custard dessert
+3237	Profiterole	custard dessert
+3238	Pumpkin pie	custard dessert
+3239	Queen of Puddings	custard dessert
+3240	Quindim	custard dessert
+3241	Rožata	custard dessert
+3242	Salzburger Nockerl	custard dessert
+3243	Semifreddo	custard dessert
+3244	Skolebrød	custard dessert
+3245	Soufflé	custard dessert
+3246	St. Honoré cake	custard dessert
+3247	Sweet potato pie	custard dessert
+3248	Tarte à la Bouillie	custard dessert
+3249	Tipsy cake	custard dessert
+3250	Tiramisu	custard dessert
+3251	Tompouce	custard dessert
+3252	Torta de nata	custard dessert
+3253	Trifle	custard dessert
+3254	Vla	custard dessert
+3255	Watalappam	custard dessert
+3256	Wuzetka	custard dessert
+3257	Zabaione	custard dessert
+3258	Zeppole	custard dessert
+3259	Aachener Printen	cookie
+3260	Abernethy	cookie
+3261	Acıbadem kurabiyesi	cookie
+3262	Afghan biscuits	cookie
+3263	Alfajor	cookie
+3264	Almond biscuit Almond cake, almond cookie	cookie
+3265	Amaretti di Saronno	cookie
+3266	Animal cracker	cookie
+3267	ANZAC biscuit	cookie
+3268	Apas	cookie
+3269	Apple cider cookie	cookie
+3270	Ballokume (from Turkish bal-lokum)	cookie
+3271	Basler Läckerli Leckerli, Läggerli	cookie
+3272	Bath Oliver	cookie
+3273	Berger Cookie	cookie
+3274	Berner Haselnusslebkuchen	cookie
+3275	Berner Honiglebkuchen	cookie
+3276	Biscotti	cookie
+3277	Biscuit	cookie
+3278	Biscuit roll egg roll	cookie
+3279	Bizcochito biscochito	cookie
+3280	Black and white cookie Half-Moon cookie	cookie
+3281	Boortsog boorsoq, or bawyrsak	cookie
+3282	Bourbon biscuit Bourbon cream or Bourbon	cookie
+3283	Bredela Bredele, Bredle or Winachtsbredele	cookie
+3284	Butter cookie	cookie
+3285	Butter pecan	cookie
+3286	Caramel shortbread Millionaire's Shortbread	cookie
+3287	Carrot cake cookie	cookie
+3288	Cat's tongue cookie (langues de chat)	cookie
+3289	Cavallucci	cookie
+3290	Charcoal biscuit	cookie
+3291	Chocolate biscuit	cookie
+3292	Chocolate chip cookie	cookie
+3293	Chocolate-coated marshmallow treats Chocolate Teacake	cookie
+3294	Christmas cookies	cookie
+3295	Coconut macaroon	cookie
+3296	Cornish fairings	cookie
+3297	Coyotas	cookie
+3298	Cream cracker	cookie
+3299	Custard cream	cookie
+3300	Digestive biscuit	cookie
+3301	Dutch letter	cookie
+3302	Empire biscuit	cookie
+3303	Fig roll	cookie
+3304	Florentine Biscuit	cookie
+3305	Fortune cookie	cookie
+3306	Fudge cookie	cookie
+3307	Garibaldi biscuit	cookie
+3308	Ghorabiye	cookie
+3309	Ghoriba	cookie
+3310	Gingerbread	cookie
+3311	Gingerbread man	cookie
+3312	Ginger biscuits	cookie
+3313	Hamantash	cookie
+3314	Jammie Dodgers	cookie
+3315	Joe Frogger	cookie
+3316	Jodenkoek	cookie
+3317	Jumble	cookie
+3318	Khapse	cookie
+3319	Kichel	cookie
+3320	Kleicha	cookie
+3321	Koulourakia	cookie
+3322	Kourabiedes	cookie
+3323	Krumiri	cookie
+3324	Krumkake	cookie
+3325	Lady Finger (cookie)	cookie
+3326	Lebkuchen	cookie
+3327	Lincoln biscuit	cookie
+3328	Linzer torte	cookie
+3329	Macaroon	cookie
+3330	Macaron	cookie
+3331	Malted milk (biscuit)	cookie
+3332	Maple leaf cream cookies	cookie
+3333	Marie biscuit	cookie
+3334	Moravian spice cookies	cookie
+3335	Nanaimo bar	cookie
+3336	Nice biscuit	cookie
+3337	Nocciolini di Canzo	cookie
+3338	Oat crisps	cookie
+3339	Oatmeal raisin	cookie
+3340	Oreo	cookie
+3341	Panellets	cookie
+3342	Paprenjak	cookie
+3343	Party ring	cookie
+3344	Peanut butter cookie	cookie
+3345	Petit-Beurre	cookie
+3346	Pfeffernüsse	cookie
+3347	Pignolo (macaroon)	cookie
+3348	Piñata cookie	cookie
+3349	Piparkukes	cookie
+3350	Polvorón	cookie
+3351	Pizzelle	cookie
+3352	Rainbow cookie	cookie
+3353	Reshteh Khoshkar	cookie
+3354	Ricciarelli	cookie
+3355	Rich tea	cookie
+3356	Rosette	cookie
+3357	Russian tea cake	cookie
+3358	Shortbread	cookie
+3359	Snickerdoodle	cookie
+3360	Speculaas	cookie
+3361	Springerle	cookie
+3362	Spritzgebäck	cookie
+3363	Stroopwafel	cookie
+3364	Sugar cookie	cookie
+3365	Tahini cookies	cookie
+3366	Tareco	cookie
+3367	Teiglach	cookie
+3368	Tirggel	cookie
+3369	Toll House Cookie	cookie
+3370	Toruń gingerbread	cookie
+3371	Vanillekipferl	cookie
+3372	Wafer	cookie
+3373	Wibele	cookie
+3374	Chipwich	cookie sandwich
+3375	Custard cream	cookie sandwich
+3376	E.L. Fudge Cookies	cookie sandwich
+3377	Hydrox	cookie sandwich
+3378	Ice cream sandwich	cookie sandwich
+3379	It's-It Ice Cream	cookie sandwich
+3380	Jammie Dodgers	cookie sandwich
+3381	Joe Joe's	cookie sandwich
+3382	Maple leaf cream cookies	cookie sandwich
+3383	Maxibon	cookie sandwich
+3384	Milano	cookie sandwich
+3385	Newman's Own	cookie sandwich
+3386	Nutter Butter	cookie sandwich
+3387	Nutty Bars	cookie sandwich
+3388	Oreo	cookie sandwich
+3389	Prinzenrolle	cookie sandwich
+3390	Wafer	cookie sandwich
+3391	Whoopie pie	cookie sandwich
+3392	Alfajor	cookie
+3393	Angel Wings (Chruściki)	cookie
+3394	Anisette	cookie
+3395	Animal cracker	cookie
+3396	Anzac biscuit	cookie
+3397	Berger cookie	cookie
+3398	Berner Haselnusslebkuchen	cookie
+3399	Biscotti	cookie
+3400	Biscuit rose de Reims	cookie
+3401	Black and white cookie	cookie
+3402	Blondie	cookie
+3403	Brownie	cookie
+3404	Butter cookie	cookie
+3405	Chocolate chip cookie	cookie
+3406	Chocolate-coated graham cracker	cookie
+3407	Chocolate-coated marshmallow treat	cookie
+3408	Congo bar	cookie
+3409	Digestive biscuit	cookie
+3410	Fat rascal	cookie
+3411	Fattigmann	cookie
+3412	Flies graveyard	cookie
+3413	Florentine biscuit	cookie
+3414	Fortune cookie	cookie
+3415	Fruit squares and bars	cookie
+3416	Ginger snap	cookie
+3417	Gingerbread house	cookie
+3418	Gingerbread man	cookie
+3419	Graham cookie	cookie
+3420	Hamentashen	cookie
+3421	Jumble	cookie
+3422	Kifli	cookie
+3423	Kolach	cookie
+3424	Koulourakia	cookie
+3425	Krumkake	cookie
+3426	Linzer cookie	cookie
+3427	Macaroon	cookie
+3428	Mexican wedding cake	cookie
+3429	Meringue	cookie
+3430	Nice biscuit	cookie
+3431	Pastelito	cookie
+3432	Peanut butter cookie	cookie
+3433	Pepparkakor	cookie
+3434	Pfeffernüsse	cookie
+3435	Pizzelle	cookie
+3436	Polvorón	cookie
+3437	Qurabiya	cookie
+3438	Rainbow cookie	cookie
+3439	Riposteria	cookie
+3440	Rosette	cookie
+3441	Rum ball	cookie
+3442	Rusk	cookie
+3443	Russian tea cake	cookie
+3444	Rock cake	cookie
+3445	Sablé	cookie
+3446	Sandbakelse	cookie
+3447	Şekerpare	cookie
+3448	Shortbread	cookie
+3449	Snickerdoodle	cookie
+3450	Speculoos	cookie
+3451	Springerle	cookie
+3452	Spritzgebäck (Spritz)	cookie
+3453	Stroopwafel	cookie
+3454	Sugar cookie	cookie
+3455	Tea biscuit	cookie
+3456	Toruń gingerbread	cookie
+3457	Tuile	cookie
+3458	Wafer	cookie
+3459	Windmill cookie	cookie
+3460	Bar cookies	cookie
+3461	Drop cookies	cookie
+3462	Filled cookies	cookie
+3463	Molded cookies	cookie
+3464	No-bake cookies	cookie
+3465	Pressed cookies	cookie
+3466	Refrigerator cookies	cookie
+3467	Rolled cookies	cookie
+3468	Sandwich cookies	cookie
+3469	Acıbadem kurabiyesi	pastry and confections
+3470	Berliner	pastry and confections
+3471	Bun	pastry and confections
+3472	Cake	pastry and confections
+3473	Churro	pastry and confections
+3474	Cracker	pastry and confections
+3475	Cupcake	pastry and confections
+3476	Danish pastry	pastry and confections
+3477	Doughnut	pastry and confections
+3478	Funnel cake	pastry and confections
+3479	Galette	pastry and confections
+3480	Graham cracker	pastry and confections
+3481	Hershey's Cookies 'n' Creme	pastry and confections
+3482	Kit Kat	pastry and confections
+3483	Halvah	pastry and confections
+3484	Ladyfinger	pastry and confections
+3485	Lebkuchen	pastry and confections
+3486	Mille-feuille	pastry and confections
+3487	Marzipan	pastry and confections
+3488	Milk cracker	pastry and confections
+3489	Moon pie	pastry and confections
+3490	Napoleon	pastry and confections
+3491	Nut cluster	pastry and confections
+3492	Pastry	pastry and confections
+3493	Palmier	pastry and confections
+3494	Petit four	pastry and confections
+3495	S'more	pastry and confections
+3496	Snack cake	pastry and confections
+3497	Tartlet	pastry and confections
+3498	Teacake	pastry and confections
+3499	Teething biscuit	pastry and confections
+3500	Whoopie pie	pastry and confections
+3501	Astros	Candy
+3502	Beacon Sweets and Chocolates	Candy
+3503	Massam's	Candy
+3504	Milk candy	Candy
+3505	Dragon's beard candy	Candy
+3506	Orange jelly candy	Candy
+3507	White Rabbit Creamy Candy	Candy
+3508	Zaotang	Candy
+3509	Botan Rice Candy	Candy
+3510	Hi-Chew	Candy
+3511	Konpeitō	Candy
+3512	Meiji	Candy
+3513	Pucca Chocolate	Candy
+3514	Puccho	Candy
+3515	Nata de coco	Candy
+3516	Pastillas de leche	Candy
+3517	Pez	Candy
+3518	Vanparys	Candy
+3519	Cuberdon	Candy
+3520	Orion	Candy
+3521	Calisson	Candy
+3522	Carambar	Candy
+3523	Chocolate truffle	Candy
+3524	Coucougnette	Candy
+3525	Hollywood	Candy
+3526	Milka	Candy
+3527	Fraise Tagada	Gummy
+3528	Gummi bears	Gummy
+3529	Gummi banana strawberry ring	Gummy
+3530	Gummi cherries	Gummy
+3531	Gummi cola bottles	Gummy
+3532	Gummi fish	Gummy
+3533	Gummi raspberries	Gummy
+3534	Gummi worms	Gummy
+3535	Other gummi shapes	Gummy
+3536	Negro (candy)	Candy
+3537	Túró Rudi	candy
+3538	Jordan almonds	candy
+3539	Galatina Sperlari	candy
+3540	Prince Polo	candy
+3541	Queijadinha	candy
+3542	Rom	candy
+3543	Magura	candy
+3544	Eugenia	candy
+3545	Pastila	candy
+3546	Tablet	candy
+3547	Rock candy	candy
+3548	Hanukkah gelt	candy
+3549	Klik	candy
+3550	Pesek Zman	candy
+3551	Galaxy bar	candy
+3552	Cadbury Caramilk	candy
+3553	Saladitos	candy
+3554	Dulce De La Rosa	candy
+3555	Almond Joy	candy
+3556	Ayds	candy
+3557	Big Hunk	candy
+3558	Bit-O-Honey	candy
+3559	Reese's Pieces	candy
+3560	Mounds	candy
+3561	U-No Bar	candy
+3562	TopLine gum	candy
+3563	Trident	candy
+3564	Ambrosoli	candy
+3565	Jet	candy
+3566	Squirrel nut caramel	caramel
+3567	Long Boys	caramel
+3568	Coffee Rio	caramel
+3569	Caramel squares	caramel
+3570	Cadbury	chocolate
+3571	Cookies and Creme Hershey Bar	chocolate
+3572	Dark chocolate	chocolate
+3573	Hershey Bar	chocolate
+3574	Hershey's Kisses	chocolate
+3575	Jersey Milk	chocolate
+3576	Kit Kat	chocolate
+3577	Lindt	chocolate
+3578	Maltesers	chocolate
+3579	Milk Duds	chocolate
+3580	Milky Way	chocolate
+3581	Moiz heads	chocolate
+3582	Peppermint bark	chocolate
+3583	Reese's Peanut Butter Cup	chocolate
+3584	Rolo	chocolate
+3585	Snickers	chocolate
+3586	Twix	chocolate
+3587	Whoppers	chocolate
+3588	Ribbon candy	hard candy
+3589	Butterscotch	hard candy
+3590	Candy Buttons	hard candy
+3591	Candy canes	hard candy
+3592	Gobstoppers /Jawbreakers	hard candy
+3593	Jolly Rancher	hard candy
+3594	Life Savers	hard candy
+3595	Love Heartsor Shannens	hard candy
+3596	PEZ	hard candy
+3597	Rock	hard candy
+3598	Stick candy	hard candy
+3599	Sweethearts	hard candy
+3600	Red Vines	Licorice
+3601	Snaps	Licorice
+3602	Trolli	Licorice
+3603	Twizzlers	Licorice
+3604	Chupa Chups	Lollipops
+3605	Dum Dum Pop	Lollipops
+3606	Lollipop	Lollipops
+3607	Original Gourmet	Lollipops
+3608	Saf-T-Pops	Lollipops
+3609	Sugar Daddy	Lollipops
+3610	Sour Patch Kids	Sour candy
+3611	Sour Punch Straws	Sour candy
+3612	Toxic Waste	Sour candy
+3613	Warheads	Sour candy
+3614	5	chewing gum
+3615	Airwaves	chewing gum
+3616	Babble Joe	chewing gum
+3617	Bazooka	chewing gum
+3618	Beechies	chewing gum
+3619	Big League Chew	chewing gum
+3620	Big Red	chewing gum
+3621	Big Tattoo	chewing gum
+3622	BigBabol [2]	chewing gum
+3623	Bubbaloo	chewing gum
+3624	Bubble Yum	chewing gum
+3625	Bubblicious	chewing gum
+3626	Carmen	chewing gum
+3627	Chiclets	chewing gum
+3628	Chicza	chewing gum
+3629	Cinnaburst	chewing gum
+3630	Clorets	chewing gum
+3631	Dentyne	chewing gum
+3632	Dirol	chewing gum
+3633	Donald Bubble Gum	chewing gum
+3634	Doublemint	chewing gum
+3635	Dubble Bubble	chewing gum
+3636	Eat it	chewing gum
+3637	Eclipse	chewing gum
+3638	Ello Gum	chewing gum
+3639	Europe Chewing Gum	chewing gum
+3640	Excel	chewing gum
+3641	Exit	chewing gum
+3642	Extra	chewing gum
+3643	Freedent	chewing gum
+3644	Freshen Up	chewing gum
+3645	Frooty Bubble Pop	chewing gum
+3646	Fruit Stripe gum	chewing gum
+3647	Fusen gum	chewing gum
+3648	Glee Gum [4]	chewing gum
+3649	Gorila	chewing gum
+3650	Hilal	chewing gum
+3651	Hoodia Gum	chewing gum
+3652	Hubba Bubba	chewing gum
+3653	Ice Breakers	chewing gum
+3654	iCool	chewing gum
+3655	Jenkki	chewing gum
+3656	Judge	chewing gum
+3657	Juicy Fruit	chewing gum
+3658	Kallas	chewing gum
+3659	Lazer	chewing gum
+3660	Lotte	chewing gum
+3661	Love is...	chewing gum
+3662	Maple Leaf Chewing gum	chewing gum
+3663	Master	chewing gum
+3664	Mentos	chewing gum
+3665	Mintad	chewing gum
+3666	Neurogum	chewing gum
+3667	Nicorette	chewing gum
+3668	Orbit	chewing gum
+3669	Peppersmith	chewing gum
+3670	Pintura	chewing gum
+3671	PÜR Gum	chewing gum
+3672	Rasha	chewing gum
+3673	Razzles	chewing gum
+3674	Scottie Chew Crazy Long	chewing gum
+3675	Seham	chewing gum
+3676	Simply Gum	chewing gum
+3677	Splot	chewing gum
+3678	Sportlife	chewing gum
+3679	Spry	chewing gum
+3680	Stimorol	chewing gum
+3681	Super Bubble	chewing gum
+3682	Stride	chewing gum
+3683	Talin Taparia	chewing gum
+3684	Think Gum	chewing gum
+3685	Tidal Wave	chewing gum
+3686	Trident	chewing gum
+3687	Turbo	chewing gum
+3688	V Fresh	chewing gum
+3689	Vibe Energy Gum	chewing gum
+3690	Winterfresh	chewing gum
+3691	Wrigley's Spearmint	chewing gum
+3692	X-Time	chewing gum
+3693	XyloBurst	chewing gum
+3694	Yakee	chewing gum
+3695	Zapp Gum	chewing gum
+3696	ZOFT Gum	chewing gum
+3697	Amplang	cracker
+3698	Animal cracker	cracker
+3699	Bath Oliver	cracker
+3700	Couque de Dinant	cracker
+3701	Cream cracker	cracker
+3702	Crispbread	cracker
+3703	Graham cracker	cracker
+3704	Hardtack	cracker
+3705	Jacob's Oddities	cracker
+3706	Maltose crackers	cracker
+3707	Matzo	cracker
+3708	Mein gon	cracker
+3709	Nantong Xiting Cracker	cracker
+3710	Oatcake	cracker
+3711	Olive no Hana	cracker
+3712	Oyster cracker	cracker
+3713	Pletzel	cracker
+3714	Saltine cracker	cracker
+3715	Taralli	cracker
+3716	Arnott's Shapes	Brand-name crackers
+3717	Bremner Wafer	Brand-name crackers
+3718	Captain's Wafers	Brand-name crackers
+3719	Carr's	Brand-name crackers
+3720	Cheddars	Brand-name crackers
+3721	Cheese Nips	Brand-name crackers
+3722	Cheez-It	Brand-name crackers
+3723	Club Crackers	Brand-name crackers
+3724	Crown Pilot Crackers	Brand-name crackers
+3725	Goldfish (snack)	Brand-name crackers
+3726	In a Biskit	Brand-name crackers
+3727	Le Snak	Brand-name crackers
+3728	Pepperidge Farm	Brand-name crackers
+3729	Premium Plus	Brand-name crackers
+3730	Rice Thins	Brand-name crackers
+3731	Ritz Crackers	Brand-name crackers
+3732	Ry-Krisp	Brand-name crackers
+3733	Ryvita	Brand-name crackers
+3734	SAO (biscuit)	Brand-name crackers
+3735	Triscuit	Brand-name crackers
+3736	TUC (cracker)	Brand-name crackers
+3737	Vegetable Thins	Brand-name crackers
+3738	Wasabröd	Brand-name crackers
+3739	Westminster Cracker Company	Brand-name crackers
+3740	Wheat Thins	Brand-name crackers
+3741	Rengginang	rice cracker
+3742	Rice cracker	rice cracker
+3743	Senbei	rice cracker
+3744	Beika	beika
+3745	Arare (food)	beika
+3746	Bakauke	beika
+3747	Kaki no tane	beika
+3748	Olive no Hana	beika
+3749	Senbei	beika
+3750	Apple pie	sweet pie
+3751	Bakewell tart	sweet pie
+3752	Banoffee pie	sweet pie
+3753	Bean pie	sweet pie
+3754	Bedfordshire clanger	sweet pie
+3755	Black bun	sweet pie
+3756	Blackberry pie	sweet pie
+3757	Blueberry pie	sweet pie
+3758	Bob Andy pie	sweet pie
+3759	Buko pie	sweet pie
+3760	Bumbleberry pie	sweet pie
+3761	Buttermilk pie	sweet pie
+3762	Cherry pie	sweet pie
+3763	Chess pie	sweet pie
+3764	Cobbler	sweet pie
+3765	Cookie Cake Pie	sweet pie
+3766	Cream pie	sweet pie
+3767	Custard pie	sweet pie
+3768	Custard tart	sweet pie
+3769	Derby pie	sweet pie
+3770	Flapper pie	sweet pie
+3771	Fried pie	sweet pie
+3772	Grape pie	sweet pie
+3773	Jelly cream pie	sweet pie
+3774	Key lime pie	sweet pie
+3775	Kuchen	sweet pie
+3776	Lemon ice box pie	sweet pie
+3777	Lemon meringue pie	sweet pie
+3778	Manchester tart	sweet pie
+3779	Mince pie	sweet pie
+3780	Mississippi mud pie	sweet pie
+3781	Pecan pie	sweet pie
+3782	Pirog	sweet pie
+3783	Pumpkin pie	sweet pie
+3784	Razzleberry	sweet pie
+3785	Rhubarb pie	sweet pie
+3786	Rijstevlaai	sweet pie
+3787	Rönttönen	sweet pie
+3788	Shaker Lemon Pie	sweet pie
+3789	Shoofly pie	sweet pie
+3790	Smulpaj	sweet pie
+3791	Snickers pie	sweet pie
+3792	Strawberry pie	sweet pie
+3793	Strawberry rhubarb pie	sweet pie
+3794	Sugar pie	sweet pie
+3795	Sweet potato pie	sweet pie
+3796	Tarta de Santiago	sweet pie
+3797	Treacle tart	sweet pie
+3798	Vlaai	sweet pie
+3799	Bakewell tart	tart
+3800	Butter tart	tart
+3801	Caramel tart	tart
+3802	Charlotte	tart
+3803	Chocolate tart	tart
+3804	Crostata	tart
+3805	Custard tart	tart
+3806	Egg tart	tart
+3807	Gizzada	tart
+3808	Gypsy tart	tart
+3809	Lemon tart	tart
+3810	Manchester tart	tart
+3811	Melktert	tart
+3812	Neenish tart	tart
+3813	Norman Tart	tart
+3814	Pastel de nata	tart
+3815	Pineapple tart	tart
+3816	Quetschentaart	tart
+3817	Rhubarb tart	tart
+3818	Tarte à la Bouillie	tart
+3819	Tarte Tatin	tart
+3820	Treacle tart	tart
+3821	Ábrystir	pudding
+3822	Almond jelly	pudding
+3823	Ashure	pudding
+3824	Asida	pudding
+3825	Bakewell pudding	pudding
+3826	Banana pudding	pudding
+3827	Bánh chuối	pudding
+3828	Bazeen	pudding
+3829	Bebinca	pudding
+3830	Blancmange	pudding
+3831	Blodpalt	pudding
+3832	Bread pudding	pudding
+3833	Brown Betty	pudding
+3834	Capirotada	pudding
+3835	Carrot pudding	pudding
+3836	Chè	pudding
+3837	Cheese pudding	pudding
+3838	Chireta	pudding
+3839	Chocolate biscuit pudding	pudding
+3840	Chocolate pudding	pudding
+3841	Christmas pudding	pudding
+3842	Clootie	pudding
+3843	Cottage Pudding	pudding
+3844	Diplomat pudding	pudding
+3845	Dock pudding	pudding
+3846	Drisheen	pudding
+3847	Dutch baby pancake	pudding
+3848	Figgy duff	pudding
+3849	Flummadiddle	pudding
+3850	Flummery	pudding
+3851	Fruit pudding	pudding
+3852	Frumenty	pudding
+3853	Giga Pudding	pudding
+3854	Goody	pudding
+3855	Götterspeise	pudding
+3856	Hasty pudding	pudding
+3857	Haupia	pudding
+3858	Herrencreme	pudding
+3859	Junket	pudding
+3860	Kačamak	pudding
+3861	Kalamai	pudding
+3862	Kirschenmichel	pudding
+3863	Kulolo	pudding
+3864	Kutia	pudding
+3865	Malva pudding	pudding
+3866	Mango pudding	pudding
+3867	Moin moin	pudding
+3868	Monmouth Pudding	pudding
+3869	Panna cotta	pudding
+3870	Persimmon pudding	pudding
+3871	Pistachio pudding	pudding
+3872	Po'e	pudding
+3873	Put chai ko	pudding
+3874	Rag pudding	pudding
+3875	Red pudding	pudding
+3876	Rice pudding	pudding
+3877	Rødgrød	pudding
+3878	Rømmegrøt	pudding
+3879	Rožata	pudding
+3880	Sago pudding	pudding
+3881	Scrapple	pudding
+3882	Semolina pudding	pudding
+3883	Tapioca pudding	pudding
+3884	Tembleque	pudding
+3885	Tiết canh	pudding
+3886	Welf pudding	pudding
+3887	Alfajor	argentine sweets and desserts
+3888	Alfajor de maicena	argentine sweets and desserts
+3889	Arroz con leche	argentine sweets and desserts
+3890	Balcarce	argentine sweets and desserts
+3891	Bread pudding(budín de pan)	argentine sweets and desserts
+3892	Chocotorta	argentine sweets and desserts
+3893	Colaciones	argentine sweets and desserts
+3894	Cubanitos	argentine sweets and desserts
+3895	Dulce de batata	argentine sweets and desserts
+3896	Dulce de leche	argentine sweets and desserts
+3897	Dulce de membrillo	argentine sweets and desserts
+3898	Garrapiñadas	argentine sweets and desserts
+3899	Crêpes(panqueques)	argentine sweets and desserts
+3900	Pastafrola	argentine sweets and desserts
+3901	Pastelitos criollos	argentine sweets and desserts
+3902	Pionono	argentine sweets and desserts
+3903	Postre vigilante/Queso y dulce	argentine sweets and desserts
+3904	Rogel	argentine sweets and desserts
+3905	Tortas fritas	argentine sweets and desserts
+3906	Zabaione(sambayón)	argentine sweets and desserts
+3907	Ladyfingers(vainillas)	argentine sweets and desserts
+3908	Khobz Mbesses	desserts
+3909	Anzac biscuit	desserts
+3910	Chocolate crackles	desserts
+3911	Frog cake	desserts
+3912	Hedgehog slice	desserts
+3913	Icebox cake	desserts
+3914	Jelly slice	desserts
+3915	Lamington	desserts
+3916	Neenish tart	desserts
+3917	Pavlova	desserts
+3918	White Christmas	desserts
+3919	Açaí na tigela	desserts
+3920	Beijinho	desserts
+3921	Bolo de rolo	desserts
+3922	Brigadeiro	desserts
+3923	Cajuzinho	desserts
+3924	Canjica	desserts
+3925	Creme de papaya	desserts
+3926	Cuajada	desserts
+3927	Curau	desserts
+3928	Goiabada	desserts
+3929	Manjar branco	desserts
+3930	Maria-mole	desserts
+3931	Paçoca	desserts
+3932	Pamonha	desserts
+3933	Papo-de-anjo	desserts
+3934	Pé-de-moleque	desserts
+3935	Quindim	desserts
+3936	Açaí na tigela	Brazilian sweets and desserts
+3937	Ambrosia	Brazilian sweets and desserts
+3938	Baba-de-Moça	Brazilian sweets and desserts
+3939	Banana sweet	Brazilian sweets and desserts
+3940	Beijinho	Brazilian sweets and desserts
+3941	Bijajica	Brazilian sweets and desserts
+3942	Biriba	Brazilian sweets and desserts
+3943	Biroró	Brazilian sweets and desserts
+3944	Bolo de rolo	Brazilian sweets and desserts
+3945	Bolo Sousa Leão	Brazilian sweets and desserts
+3946	Bombocado	Brazilian sweets and desserts
+3947	Brigadeiro	Brazilian sweets and desserts
+3948	Bruaca	Brazilian sweets and desserts
+3949	Cacuanga	Brazilian sweets and desserts
+3950	Cajuzinho	Brazilian sweets and desserts
+3951	Canjica	Brazilian sweets and desserts
+3952	Carolina	Brazilian sweets and desserts
+3953	Cartola	Brazilian sweets and desserts
+3954	Cavaca	Brazilian sweets and desserts
+3955	Chouriço doce	Brazilian sweets and desserts
+3956	Chuvisco	Brazilian sweets and desserts
+3957	Cocadas	Brazilian sweets and desserts
+3958	Cocada branca	Brazilian sweets and desserts
+3959	Cocada morena	Brazilian sweets and desserts
+3960	Cocada preta	Brazilian sweets and desserts
+3961	Creme de papaya	Brazilian sweets and desserts
+3962	Cupulate	Brazilian sweets and desserts
+3963	Curau	Brazilian sweets and desserts
+3964	Doce de espécie	Brazilian sweets and desserts
+3965	Dutch pie	Brazilian sweets and desserts
+3966	Espuma de sapo	Brazilian sweets and desserts
+3967	Fios de ovos	Brazilian sweets and desserts
+3968	Furundum	Brazilian sweets and desserts
+3969	Goiabada	Brazilian sweets and desserts
+3970	Leaf's kiss	Brazilian sweets and desserts
+3971	Mané-pança	Brazilian sweets and desserts
+3972	Manioc cake	Brazilian sweets and desserts
+3973	Manjar blanco	Brazilian sweets and desserts
+3974	Manjar branco	Brazilian sweets and desserts
+3975	Maria-mole	Brazilian sweets and desserts
+3976	Marmelade	Brazilian sweets and desserts
+3977	Mugunzá	Brazilian sweets and desserts
+3978	Olho-de-sogra (Mother-in-Law's Eye)	Brazilian sweets and desserts
+3979	Paçoca	Brazilian sweets and desserts
+3980	Papo de anjo	Brazilian sweets and desserts
+3981	Pave	Brazilian sweets and desserts
+3982	Pé-de-moleque	Brazilian sweets and desserts
+3983	Queijadinha	Brazilian sweets and desserts
+3984	Quindim	Brazilian sweets and desserts
+3985	Rapadura	Brazilian sweets and desserts
+3986	Sagu	Brazilian sweets and desserts
+3987	Sweet rice	Brazilian sweets and desserts
+3988	Tainha na taquara	Brazilian sweets and desserts
+3989	Tortéi	Brazilian sweets and desserts
+3990	Umbuzada	Brazilian sweets and desserts
+3991	Ximango	Brazilian sweets and desserts
+3992	Abar-khabo	Bangladeshi sweets and desserts
+3993	Amriti	Bangladeshi sweets and desserts
+3994	Bonde	Bangladeshi sweets and desserts
+3995	Chhena gaja	Bangladeshi sweets and desserts
+3996	Chhena jalebi	Bangladeshi sweets and desserts
+3997	Chhena kheeri	Bangladeshi sweets and desserts
+3998	Chhena payesh	Bangladeshi sweets and desserts
+3999	Chhena poda	Bangladeshi sweets and desserts
+4000	Cham cham	Bangladeshi sweets and desserts
+4001	Jal-bhora	Bangladeshi sweets and desserts
+4002	Kadapak	Bangladeshi sweets and desserts
+4003	Kalojam	Bangladeshi sweets and desserts
+4004	Kancha-golla	Bangladeshi sweets and desserts
+4005	Kheer er chop	Bangladeshi sweets and desserts
+4006	Kheersagar	Bangladeshi sweets and desserts
+4007	Komolabhog	Bangladeshi sweets and desserts
+4008	Ledikeni	Bangladeshi sweets and desserts
+4009	Lyangcha	Bangladeshi sweets and desserts
+4010	Malapua	Bangladeshi sweets and desserts
+4011	Mihidana	Bangladeshi sweets and desserts
+4012	Milk cake	Bangladeshi sweets and desserts
+4013	Mitha dahi	Bangladeshi sweets and desserts
+4014	Narkeler naru	Bangladeshi sweets and desserts
+4015	Pantua	Bangladeshi sweets and desserts
+4016	Pati shapta	Bangladeshi sweets and desserts
+4017	Pithe	Bangladeshi sweets and desserts
+4018	Pranohora	Bangladeshi sweets and desserts
+4019	Rabri	Bangladeshi sweets and desserts
+4020	Rajbhog	Bangladeshi sweets and desserts
+4021	Rasabali	Bangladeshi sweets and desserts
+4022	Rasgulla	Bangladeshi sweets and desserts
+4023	Raskadamba	Bangladeshi sweets and desserts
+4024	Rasmalai	Bangladeshi sweets and desserts
+4025	Sandesh	Bangladeshi sweets and desserts
+4026	Shor bhaja	Bangladeshi sweets and desserts
+4027	Shor puria	Bangladeshi sweets and desserts
+4028	Sitabhog	Bangladeshi sweets and desserts
+4029	BeaverTails	desserts
+4030	Butter tart	desserts
+4031	Nanaimo bar	desserts
+4032	Persian	desserts
+4033	Pouding chômeur	desserts
+4034	Sugar pie	desserts
+4035	Kuchen	desserts
+4036	Mote con huesillo	desserts
+4037	Murta con membrillo	desserts
+4038	Picarones	desserts
+4039	Alfajor	Chilean desserts
+4040	Tortas	Chilean desserts
+4041	Queques	Chilean desserts
+4042	Pasteles	Chilean desserts
+4043	Tartaletas	Chilean desserts
+4044	Torta tres leches	Chilean desserts
+4045	Picarones	Chilean desserts
+4046	Pan de huevo	Chilean desserts
+4047	Cuchuflí	Chilean desserts
+4048	Barquillo	Chilean desserts
+4049	Berlines	Chilean desserts
+4050	Kuchen	Chilean desserts
+4051	Pie de Limon	Chilean desserts
+4052	Queque	Chilean desserts
+4053	Almond cookie	Chinese desserts
+4054	Almond jelly	Chinese desserts
+4055	Banana roll	Chinese desserts
+4056	Black sesame roll	Chinese desserts
+4057	Black sesame soup	Chinese desserts
+4058	Banana	Chinese desserts
+4059	Chao hong guo	Chinese desserts
+4060	Chicken wing	Chinese desserts
+4061	Chinese bakery products	Chinese desserts
+4062	Chongyang Cake 	Chinese desserts
+4063	Coconut bar	Chinese desserts
+4064	Crystal cake	Chinese desserts
+4065	Custard tart	Chinese desserts
+4066	Cut cake	Chinese desserts
+4067	Douhua	Chinese desserts
+4068	Dragon's beard candy	Chinese desserts
+4069	Egg custard tarts	Chinese desserts
+4070	Egg tart	Chinese desserts
+4071	Egg tong sui	Chinese desserts
+4072	Eggies	Chinese desserts
+4073	Fried ice cream	Chinese desserts
+4074	Funing big cake	Chinese desserts
+4075	Chicken Fried rice	Chinese desserts
+4076	Ginger milk curd	Chinese desserts
+4077	Grass jelly	Chinese desserts
+4078	Guilinggao	Chinese desserts
+4079	Hasma	Chinese desserts
+4080	Huangqiao sesame cake	Chinese desserts
+4081	Jiuniang	Chinese desserts
+4082	Kai kou xiao	Chinese desserts
+4083	Lotus seed paste	Chinese desserts
+4084	Mango pudding	Chinese desserts
+4085	Mooncakes	Chinese desserts
+4086	Mahua	Chinese desserts
+4087	Mango pudding	Chinese desserts
+4088	Mi san dao	Chinese desserts
+4089	Mooncake	Chinese desserts
+4090	Nai lao	Chinese desserts
+4091	Nian gao	Chinese desserts
+4092	Nuomici	Chinese desserts
+4093	Orange jelly candy	Chinese desserts
+4094	Pandan cake	Chinese desserts
+4095	Put chai ko	Chinese desserts
+4096	Red bean cake	Chinese desserts
+4097	Red bean soup	Chinese desserts
+4098	Rice pudding	Chinese desserts
+4099	Rooster olives	Chinese desserts
+4100	Sachima	Chinese desserts
+4101	Song gao	Chinese desserts
+4102	Sugar painting	Chinese desserts
+4103	Sweet potato soup	Chinese desserts
+4104	Sweetheart cake	Chinese desserts
+4105	Tanghulu	Chinese desserts
+4106	Tangyuan	Chinese desserts
+4107	Tapioca pudding	Chinese desserts
+4108	Tong sui	Chinese desserts
+4109	White Rabbit Creamy Candy	Chinese desserts
+4110	White sugar sponge cake	Chinese desserts
+4111	Xi gua lao	Chinese desserts
+4112	Kolach	desserts
+4113	Míša	desserts
+4114	Pulla	Finnish desserts
+4115	Cinnamon rolls (korvapuustit)	Finnish desserts
+4116	Golden cloudberry dessert	Finnish desserts
+4117	Kiisseli	Finnish desserts
+4118	Vispipuuro	Finnish desserts
+4119	Runeberg's tart	Finnish desserts
+4120	Rönttönen pastry	Finnish desserts
+4121	Café liégeois	French desserts
+4122	Calisson	French desserts
+4123	Charlotte	French desserts
+4124	Clafoutis	French desserts
+4125	Coconut cake	French desserts
+4126	Crème brûlée	French desserts
+4127	Crêpe Suzette	French desserts
+4128	Custard tart	French desserts
+4129	Dariole	French desserts
+4130	Éclair	French desserts
+4131	Flaugnarde	French desserts
+4132	Floating island	French desserts
+4133	Kouign-amann	French desserts
+4134	Macaron	French desserts
+4135	Mendiant	French desserts
+4136	Mousse	French desserts
+4137	Norman Tart	French desserts
+4138	Opera cake	French desserts
+4139	Pain d'épices	French desserts
+4140	Pêche Melba	French desserts
+4141	Pièce montée	French desserts
+4142	Poire belle Hélène	French desserts
+4143	Pot de crème	French desserts
+4144	Pralines	French desserts
+4145	Profiterole	French desserts
+4146	Tarte Tatin	French desserts
+4147	Teurgoule	French desserts
+4148	Yule log	French desserts
+4149	Angel wings	French pastry
+4150	Beignet	French pastry
+4151	Bichon au citron	French pastry
+4152	Brioche	French pastry
+4153	Canelé	French pastry
+4154	Coussin de Lyon	French pastry
+4155	Croissant	French pastry
+4156	Croquembouche	French pastry
+4157	Croustade	French pastry
+4158	Éclair [6]	French pastry
+4159	Financier	French pastry
+4160	Gâteau à la broche	French pastry
+4161	Gougère	French pastry
+4162	Jesuite	French pastry
+4163	Macaron	French pastry
+4164	Madeleine	French pastry
+4165	Mille-feuille	French pastry
+4166	Pain au chocolat	French pastry
+4167	Pain aux raisins	French pastry
+4168	Palmier	French pastry
+4169	Paris–Brest	French pastry
+4170	Petit four	French pastry
+4171	Puits d'amour	French pastry
+4172	Religieuse	French pastry
+4173	St. Honoré cake	French pastry
+4174	Tuile	French pastry
+4175	Viennoiserie	French pastry
+4176	Vitréais	French pastry
+4177	Abondance	French cheese
+4178	Banon	French cheese
+4179	Beaufort	French cheese
+4180	Bleu d'Auvergne	French cheese
+4181	Bleu des Causses	French cheese
+4182	Bleu de Gex, du Haut-Jura, or de Septmoncel	French cheese
+4183	Bleu du Vercors-Sassenage	French cheese
+4184	Brie de Meaux	French cheese
+4185	Brie de Melun	French cheese
+4186	Brocciu Cara or Brocciu	French cheese
+4187	Cabecou	French cheese
+4188	Cancoillotte	French cheese
+4189	Cantal, Fourme de Cantal, or Cantalet	French cheese
+4190	Camembert de Normandie	French cheese
+4191	Cazelle de Saint Affrique	French cheese
+4192	Chabichou du Poitou	French cheese
+4193	Chaource	French cheese
+4194	Chevrotin	French cheese
+4195	Comté	French cheese
+4196	Crottin de Chavignol	French cheese
+4197	Emmental de Savoie	French cheese
+4198	Emmental français est-central	French cheese
+4199	Époisses de Bourgogne	French cheese
+4200	Fourme d'Ambert	French cheese
+4201	Fourme de Montbrison	French cheese
+4202	Fromage blanc or fromage frais	French cheese
+4203	Gruyère	French cheese
+4204	Laguiole	French cheese
+4205	Langres	French cheese
+4206	Livarot	French cheese
+4207	Mâconnais	French cheese
+4208	Maroilles or Marolles	French cheese
+4209	Mimolette	French cheese
+4210	Mont d'or, or Vacherin du Haut-Doubs	French cheese
+4211	Morbier	French cheese
+4212	Munster or Munster-Géromé	French cheese
+4213	Neufchâtel	French cheese
+4214	Ossau-lraty	French cheese
+4215	Pélardon	French cheese
+4216	Picodon de l'Ardèche or de la Drôme	French cheese
+4217	Pont-l'Évêque	French cheese
+4218	Pouligny-Saint-Pierre	French cheese
+4219	Reblochon or Reblochon de Savoie	French cheese
+4220	Rigotte de Condrieu	French cheese
+4221	Rocamadour	French cheese
+4222	Roquefort	French cheese
+4223	Sainte-Maure de Touraine	French cheese
+4224	Saint-Nectaire	French cheese
+4225	Saint-Félicien	French cheese
+4226	Salers	French cheese
+4227	Selles-sur-Cher	French cheese
+4228	Tome des Bauges (fr)	French cheese
+4229	Tomme de Savoie and Haute-Savoie	French cheese
+4230	Tomme des Pyrénées	French cheese
+4231	Trou du Cru	French cheese
+4232	Valençay	French cheese
+4233	Baguette	French bread
+4234	Ficelle	French bread
+4235	Flûte	French bread
+4236	Fougasse	French bread
+4237	French stick	French bread
+4238	Pain de campagne	French bread
+4239	Bûche de Noël	French desserts
+4240	Café liégeois	French desserts
+4241	Clafoutis	French desserts
+4242	Crème brûlée	French desserts
+4243	Crepes	French desserts
+4244	Croquembouche	French desserts
+4245	Éclair	French desserts
+4246	Far Breton	French desserts
+4247	Fraisier	French desserts
+4248	Galette des rois	French desserts
+4249	Gateau au yaourt	French desserts
+4250	Macarons	French desserts
+4251	Madeleine	French desserts
+4252	Mille-feuilles	French desserts
+4253	Mousse au chocolat	French desserts
+4254	Pain au chocolat	French desserts
+4255	Pain perdu	French desserts
+4256	Quatre-quarts	French desserts
+4257	Saint Honoré	French desserts
+4258	Soufflé	French desserts
+4259	Tarte Tatin	French desserts
+4260	Tarte tropezienne	French desserts
+4261	Baba au rhum	Lorraine dishes
+4262	Bouchée à la reine	Lorraine dishes
+4263	Crepe et fruit	Lorraine dishes
+4264	Fuseau lorrain	Lorraine dishes
+4265	Glace Plombières	Lorraine dishes
+4266	Pâté lorrain	Lorraine dishes
+4267	Macarons de Nancy	Lorraine dishes
+4268	Madeleine	Lorraine dishes
+4269	Potée Lorraine	Lorraine dishes
+4270	Quiche Lorraine	Lorraine dishes
+4271	Tarte à la brimbelle (Myrtille)	Lorraine dishes
+4272	Tarte à la mirabelle	Lorraine dishes
+4273	Tête de veau	Lorraine dishes
+4274	Tourte	Lorraine dishes
+4275	Baeckeoffe	Alsace dishes
+4276	Carpe frites	Alsace dishes
+4277	Choucroute garnie	Alsace dishes
+4278	Coq au Riesling	Alsace dishes
+4279	Knack / saucisse de Strasbourg	Alsace dishes
+4280	Kouglof	Alsace dishes
+4281	Presskopf	Alsace dishes
+4282	Rosbif à l'alsacienne	Alsace dishes
+4283	Spätzle	Alsace dishes
+4284	Tarte à l'oignon	Alsace dishes
+4285	Tarte flambée / Flammekueche	Alsace dishes
+4286	Matelote	Normandy dishes
+4287	Moules à la crème Normande	Normandy dishes
+4288	Tarte Normande	Normandy dishes
+4289	Teurgoule	Normandy dishes
+4290	Tripes à la mode de Caen	Normandy dishes
+4291	Crêpes	Britanny dishes
+4292	Far Breton	Brittany dishes
+4293	Kig ha farz	Brittany dishes
+4294	Kouign amann	Brittany dishes
+4295	Poulet à la bretonne	Brittany dishes
+4296	Andouillettes	Loire Valley/Central France dishes
+4297	Rillettes	Loire Valley/Central France dishes
+4298	Bœuf bourguignon	Burgundy dishes
+4299	Coq au vin	Burgundy dishes
+4300	Escargots de Bourgogne	Burgundy dishes
+4301	Gougère	Burgundy dishes
+4302	Jambon persillé	Burgundy dishes
+4303	Oeufs en meurette	Burgundy dishes
+4304	Pôchouse	Burgundy dishes
+4305	Andouillette	Rhône-Alpes dishes
+4306	Fondue savoyarde	Rhône-Alpes dishes
+4307	Gratin dauphinois	Rhône-Alpes dishes
+4308	Quenelle	Rhône-Alpes dishes
+4309	Raclette	Rhône-Alpes dishes
+4310	Soupe à l'oignon	Rhône-Alpes dishes
+4311	Tartiflette	Rhône-Alpes dishes
+4312	Aligot	Aveyron/Cantal dishes
+4313	Gargonschnov Tripoux	Aveyron/Cantal dishes
+4314	Pansette de Gerzat	Aveyron/Cantal dishes
+4315	Salade Aveyronaise	Aveyron/Cantal dishes
+4316	Truffade	Aveyron/Cantal dishes
+4317	Cassoulet	Toulousain dishes
+4318	Bourride	Languedoc-Roussillon dishes
+4319	Brandade de morue	Languedoc-Roussillon dishes
+4320	Cargolade	Languedoc-Roussillon dishes
+4321	Clapassade	Languedoc-Roussillon dishes
+4322	Encornets farcis	Languedoc-Roussillon dishes
+4323	Rouille de seiche	Languedoc-Roussillon dishes
+4324	Trinxat	Languedoc-Roussillon dishes
+4325	Aïoli	Provence/Côte d'Azur dishes
+4326	Bouillabaisse	Provence/Côte d'Azur dishes
+4327	Calisson	Provence/Côte d'Azur dishes
+4328	Chichi (french churro)	Provence/Côte d'Azur dishes
+4329	Daube provençale	Provence/Côte d'Azur dishes
+4330	Fougasse	Provence/Côte d'Azur dishes
+4331	Gateau des rois	Provence/Côte d'Azur dishes
+4332	Gibassier	Provence/Côte d'Azur dishes
+4333	Navette	Provence/Côte d'Azur dishes
+4334	Oreilette	Provence/Côte d'Azur dishes
+4335	Pan-bagnat	Provence/Côte d'Azur dishes
+4336	Panisses	Provence/Côte d'Azur dishes
+4337	Pieds paquets	Provence/Côte d'Azur dishes
+4338	Pissaladière	Provence/Côte d'Azur dishes
+4339	Pompe à l'huile	Provence/Côte d'Azur dishes
+4340	Quince cheese	Provence/Côte d'Azur dishes
+4341	Ratatouille	Provence/Côte d'Azur dishes
+4342	Salade Niçoise	Provence/Côte d'Azur dishes
+4343	Socca	Provence/Côte d'Azur dishes
+4344	Soupe au pistou	Provence/Côte d'Azur dishes
+4345	Tapenade	Provence/Côte d'Azur dishes
+4346	Tarte tropézienne	Provence/Côte d'Azur dishes

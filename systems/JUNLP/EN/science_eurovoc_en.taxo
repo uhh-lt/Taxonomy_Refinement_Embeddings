@@ -1,0 +1,342 @@
+0	acoustics	acoustics
+0	acoustics	science
+1	administrative science	science
+2	aerodynamics	aerodynamics
+2	aerodynamics	physics
+2	aerodynamics	dynamics
+2	aerodynamics	dynamic
+3	agronomy	agronomy
+3	agronomy	cultural
+4	analytical chemistry	analysis
+4	analytical chemistry	chemistry
+4	analytical chemistry	analytical
+5	ancient history	history
+5	ancient history	ancient
+5	ancient history	world
+6	animal taxonomy	taxonomy
+7	applied sciences	science
+7	applied sciences	applied
+7	applied sciences	physics
+7	applied sciences	sciences
+7	applied sciences	system
+7	applied sciences	stem
+8	archaeology	archaeology
+9	astronautics	astronautics
+9	astronautics	science
+10	astronomy	astronomy
+11	atom	atom
+11	atom	language
+11	atom	system
+11	atom	stem
+11	atom	particle
+12	behavioural sciences	science
+12	behavioural sciences	sciences
+12	behavioural sciences	behavioural
+13	bilingualism	science
+13	bilingualism	multilingualism
+13	bilingualism	bilingualism
+13	bilingualism	language
+14	biochemistry	chemistry
+14	biochemistry	biochemistry
+15	bioclimatology	bioclimatology
+15	bioclimatology	climatology
+16	biology	biology
+16	biology	ecology
+17	biometrics	biometrics
+17	biometrics	human
+18	botany	botany
+18	botany	biology
+18	botany	plant
+18	botany	science
+18	botany	sciences
+19	cartography	cartography
+20	chemistry	chemistry
+20	chemistry	science
+20	chemistry	sciences
+21	cindynics	analysis
+22	climatology	climatology
+23	contemporary history	modern
+23	contemporary history	world
+23	contemporary history	contemporary
+23	contemporary history	history
+24	cosmology	cosmology
+24	cosmology	world
+24	cosmology	physics
+24	cosmology	physical
+25	criminology	criminology
+25	criminology	sociology
+25	criminology	education
+26	cultural geography	geography
+27	cybernetics	cybernetics
+27	cybernetics	system
+27	cybernetics	stem
+28	cytology	biology
+28	cytology	cell
+28	cytology	cytology
+28	cytology	science
+29	DNA	dna
+29	DNA	world
+29	DNA	science
+29	DNA	life
+30	earth sciences	science
+30	earth sciences	earth
+30	earth sciences	sciences
+30	earth sciences	physical
+30	earth sciences	physics
+31	ecology	ecology
+31	ecology	history
+32	economic geography	geography
+32	economic geography	economic
+33	economics	economics
+33	economics	economic
+34	electrochemistry	chemistry
+34	electrochemistry	electrochemistry
+35	electronics	electronics
+35	electronics	electron
+36	electrotechnology	electrotechnology
+36	electrotechnology	electronics
+37	embryo and foetus	science
+38	enzyme	enzyme
+39	ethics	ethics
+39	ethics	philosophy
+39	ethics	system
+39	ethics	stem
+39	ethics	modern
+39	ethics	science
+40	ethnography	ethnography
+40	ethnography	language
+41	ethnology	ethnology
+41	ethnology	science
+42	eugenics	eugenics
+42	eugenics	genetics
+43	European language	european
+43	European language	language
+43	European language	living
+44	fundamental particle	particle
+44	fundamental particle	fundamental
+45	genetics	genetics
+45	genetics	science
+45	genetics	biology
+45	genetics	linguistics
+45	genetics	genetic
+46	geochemistry	chemistry
+46	geochemistry	geochemistry
+46	geochemistry	geology
+47	geodesy	geodesy
+48	geographical information system	information
+48	geographical information system	system
+48	geographical information system	stem
+48	geographical information system	science
+49	geography	geography
+49	geography	earth
+50	geology	geology
+51	geomorphology	geomorphology
+52	geophysics	geophysics
+52	geophysics	physics
+52	geophysics	science
+52	geophysics	physical
+53	geopolitics	geopolitics
+53	geopolitics	political
+53	geopolitics	system
+53	geopolitics	stem
+53	geopolitics	politics
+54	histology	histology
+54	histology	atom
+55	historical figure	historical
+56	historical geography	geography
+56	historical geography	historical
+57	history	history
+57	history	science
+57	history	atom
+57	history	human
+57	history	european
+57	history	system
+57	history	stem
+57	history	life
+57	history	dna
+57	history	test
+58	human geography	geography
+58	human geography	human
+59	hydrogeology	geology
+59	hydrogeology	hydrogeology
+59	hydrogeology	hydrology
+60	hydrology	hydrology
+60	hydrology	science
+60	hydrology	sciences
+61	industrial chemistry	chemistry
+61	industrial chemistry	industrial
+62	industrial sociology	sociology
+62	industrial sociology	industrial
+63	information science	science
+63	information science	information
+63	information science	sciences
+63	information science	psychology
+63	information science	education
+63	information science	stem
+64	ionising radiation	radiation
+64	ionising radiation	ionising
+65	language	language
+65	language	science
+65	language	mathematics
+65	language	analysis
+65	language	linguistics
+66	language policy	policy
+66	language policy	language
+67	laser physics	science
+67	laser physics	physics
+67	laser physics	optics
+68	life sciences	science
+68	life sciences	sciences
+68	life sciences	life
+69	linguistics	linguistics
+69	linguistics	language
+69	linguistics	science
+69	linguistics	linguistic
+70	living language	language
+70	living language	modern
+70	living language	living
+71	mathematics	mathematics
+72	medieval history	history
+72	medieval history	european
+72	medieval history	medieval
+73	meteorology	meteorology
+73	meteorology	cultural
+73	meteorology	orology
+74	metrology	metrology
+75	microorganism	microorganism
+75	microorganism	life
+75	microorganism	cell
+75	microorganism	biology
+75	microorganism	animal
+76	mineralogy	mineralogy
+77	minority language	language
+77	minority language	minority
+78	modern history	modern
+78	modern history	history
+78	modern history	world
+78	modern history	contemporary
+79	multilingualism	bilingualism
+79	multilingualism	multilingualism
+79	multilingualism	language
+80	neurobiology	biology
+80	neurobiology	neurobiology
+81	non-European language	european
+81	non-European language	language
+81	non-European language	european language
+82	nuclear physics	physics
+82	nuclear physics	nuclear
+82	nuclear physics	atom
+82	nuclear physics	science
+83	oceanography	oceanography
+83	oceanography	science
+83	oceanography	sciences
+83	oceanography	geography
+83	oceanography	ocean
+84	optics	optics
+85	parasitology	parasitology
+85	parasitology	ecology
+86	personality	personality
+87	petrology	petrology
+87	petrology	geology
+88	pharmacology	pharmacology
+88	pharmacology	science
+88	pharmacology	medicine
+89	philosophy	philosophy
+89	philosophy	system
+89	philosophy	stem
+89	philosophy	political
+90	philosophy of science	philosophy
+90	philosophy of science	science
+90	philosophy of science	stem
+91	photochemistry	chemistry
+91	photochemistry	photochemistry
+92	physical sciences	physics
+92	physical sciences	science
+92	physical sciences	physical
+92	physical sciences	sciences
+93	plant taxonomy	taxonomy
+93	plant taxonomy	plant
+94	plasma physics	plasma
+94	plasma physics	physics
+95	political geography	geography
+95	political geography	political
+96	political science	political
+96	political science	science
+96	political science	sciences
+96	political science	analysis
+97	political sociology	sociology
+97	political sociology	political
+98	prehistory	history
+98	prehistory	prehistory
+98	prehistory	animal
+99	psychoanalysis	analysis
+99	psychoanalysis	psychoanalysis
+99	psychoanalysis	psychology
+99	psychoanalysis	analytical
+100	psychology	science
+100	psychology	psychology
+100	psychology	sciences
+101	psychometric test	test
+101	psychometric test	psychometric
+101	psychometric test	analysis
+102	radiobiology	biology
+102	radiobiology	radiobiology
+102	radiobiology	radiation
+102	radiobiology	physics
+102	radiobiology	biophysics
+102	radiobiology	radio
+103	regional geography	geography
+103	regional geography	regional
+104	regional language	language
+104	regional language	regional
+104	regional language	minority
+105	rural sociology	sociology
+105	rural sociology	rural
+106	science	science
+106	science	test
+106	science	sciences
+107	sedimentology	sedimentology
+107	sedimentology	geology
+108	seismology	seismology
+109	sexuality	sexuality
+109	sexuality	human
+109	sexuality	biology
+109	sexuality	atom
+109	sexuality	plant
+110	social sciences	science
+110	social sciences	social
+110	social sciences	sciences
+111	sociology	sociology
+111	sociology	physics
+111	sociology	social
+112	sociology of education	education
+112	sociology of education	sociology
+113	soil analysis	test
+113	soil analysis	analysis
+113	soil analysis	soil
+114	soil chemistry	chemistry
+114	soil chemistry	soil
+115	soil science	science
+115	soil science	soil
+115	soil science	sciences
+116	soil type	soil
+116	soil type	type
+117	space science	science
+117	space science	space
+117	space science	sciences
+118	spectrometry	spectrometry
+118	spectrometry	analysis
+119	stem cell	stem
+119	stem cell	cell
+119	stem cell	biology
+119	stem cell	embryo
+119	stem cell	science
+120	thermodynamics	thermodynamics
+120	thermodynamics	dynamics
+120	thermodynamics	dynamic
+121	urban sociology	sociology
+122	volcanology	volcanology
+123	world history	history
+124	zoology	zoology
+124	zoology	science
+124	zoology	oology

@@ -1,0 +1,379 @@
+0	aanpassing aan de klimaatverandering	klimaatverandering
+0	aanpassing aan de klimaatverandering	klimaat
+1	aansprakelijkheid voor milieuschade	milieu
+2	aap	environment
+3	aardschok	environment
+4	achteruitgang van het milieu	milieu
+5	Adriatische Zee	zee
+6	afgewerkte olie	environment
+7	afval	afval
+8	afvalverwijdering	afval
+9	afvalwater	afval
+9	afvalwater	afvalwater
+9	afvalwater	water
+10	akoestische vervuiling	vervuiling
+11	Antarctica	environment
+12	aquatisch milieu	milieu
+13	Arctica	environment
+14	Atlantische Oceaan	oceaan
+15	atmosfeer	environment
+16	atmosferische omstandigheden	environment
+17	beer	environment
+18	beheer van afvalstoffen	afval
+18	beheer van afvalstoffen	beheer
+18	beheer van afvalstoffen	afvalstoffen
+18	beheer van afvalstoffen	stof
+19	beheer van de hulpbronnen	beheer
+19	beheer van de hulpbronnen	hulpbronnen
+20	beleid inzake klimaatverandering	klimaatverandering
+20	beleid inzake klimaatverandering	beleid
+20	beleid inzake klimaatverandering	klimaat
+21	berg	environment
+22	beschermd gebied	beschermd
+22	beschermd gebied	gebied
+23	beschermde soort	beschermd
+23	beschermde soort	soort
+24	bescherming tegen geluidshinder	bescherming
+24	bescherming tegen geluidshinder	tegen
+24	bescherming tegen geluidshinder	hinder
+25	bescherming van de fauna	bescherming
+25	bescherming van de fauna	fauna
+26	bescherming van de flora	bescherming
+26	bescherming van de flora	flora
+27	bescherming van het landschap	bescherming
+27	bescherming van het landschap	land
+28	bescherming van het water	bescherming
+28	bescherming van het water	water
+29	bescherming van hulpbronnen	hulpbronnen
+29	bescherming van hulpbronnen	bescherming
+30	bestrijding van de verontreiniging	bestrijding
+30	bestrijding van de verontreiniging	verontreiniging
+31	bestrijding van verspilling	bestrijding
+32	biodiversiteit	environment
+33	biologische afbreekbaarheid	biologische
+34	biologische norm	biologische
+34	biologische norm	norm
+35	biosfeer	environment
+36	biotoop	environment
+37	bodemverontreiniging	verontreiniging
+38	brand	brand
+39	brandbaar product	brand
+39	brandbaar product	product
+40	brandbestrijding	bestrijding
+40	brandbestrijding	brand
+41	broeikaseffect	environment
+42	broeikasgas	environment
+43	buideldier	environment
+44	chemisch afval	afval
+44	chemisch afval	chemisch
+45	chemische verontreiniging	verontreiniging
+45	chemische verontreiniging	chemisch
+46	Chiroptera	environment
+47	continentaal plat	environment
+48	corrosie	environment
+49	cycloon	environment
+50	diepzee-exploitatie	zee
+51	dierenbescherming	bescherming
+52	dierlijke reserves	reserves
+53	dolfijn	environment
+54	drinkwater	water
+55	droogte	droogte
+56	droogtezone	droogte
+56	droogtezone	zone
+57	ecologisch evenwicht	environment
+58	economisch instrument voor het milieu	milieu
+59	ecosysteem	ecosysteem
+60	ecosysteem van het land	ecosysteem
+60	ecosysteem van het land	land
+61	Egeïsche Zee	zee
+62	eiland	land
+63	elektromagnetische schadelijke invloed	schadelijke
+63	elektromagnetische schadelijke invloed	invloed
+64	elektronisch afval	afval
+65	emissiehandel	emissiehandel
+66	emissierechten	emissierechten
+67	energievoorraad	environment
+68	equatoriale gordel	gordel
+69	erosie	environment
+70	estuarium	environment
+71	EU-emissierechten	emissierechten
+72	EU-milieubeleid	milieu
+72	EU-milieubeleid	beleid
+72	EU-milieubeleid	milieubeleid
+73	EU-regeling voor de emissiehandel	emissiehandel
+74	eutrofiëring	environment
+75	evaluatie van de hulpbronnen	hulpbronnen
+76	fauna	fauna
+77	flora	flora
+78	fysisch milieu	milieu
+78	fysisch milieu	fysisch
+79	gebruik van het water	water
+79	gebruik van het water	gebruik
+80	geluidsniveau	environment
+81	gematigde zone	zone
+82	geofysisch milieu	milieu
+82	geofysisch milieu	fysisch
+83	gevaarlijk afval	afval
+83	gevaarlijk afval	gevaarlijk
+84	gevaarlijke stof	gevaarlijk
+84	gevaarlijke stof	stof
+85	gezamenlijke uitvoering	uitvoer
+86	giftige stof	stof
+87	graad van verontreiniging	verontreiniging
+88	grensoverschrijdende verontreiniging	verontreiniging
+89	grondrijkdom	rijkdom
+90	grondwater	water
+91	hergebruik van afvalstoffen	afval
+91	hergebruik van afvalstoffen	afvalstoffen
+91	hergebruik van afvalstoffen	gebruik
+91	hergebruik van afvalstoffen	stof
+92	het Kanaal	environment
+93	hinder	hinder
+94	huishoudelijk afval	afval
+95	Ierse Zee	zee
+96	ijs	environment
+97	illegale stortplaats	environment
+98	in zee storten van afvalstoffen	afval
+98	in zee storten van afvalstoffen	afvalstoffen
+98	in zee storten van afvalstoffen	stof
+98	in zee storten van afvalstoffen	zee
+99	Indische Oceaan	oceaan
+100	industrieafval	afval
+101	industrieel risico	risico
+102	industriële verontreiniging	verontreiniging
+103	insect	insect
+104	insectenbestrijding	bestrijding
+104	insectenbestrijding	insect
+105	invloed op het milieu	milieu
+105	invloed op het milieu	invloed
+106	Ionische Zee	zee
+107	jachtvoorschriften	environment
+108	kankerverwekkende stof	stof
+109	Kaspische Zee	zee
+110	klimaat	klimaat
+111	klimaatgordel	gordel
+111	klimaatgordel	klimaat
+112	klimaatsverandering	klimaat
+113	knaagdier	environment
+114	kosten door verontreiniging	verontreiniging
+115	koude zone	zone
+116	kustbescherming	bescherming
+117	kuststrook	environment
+118	kustvervuiling	vervuiling
+119	kustwaterbodem	water
+120	kwelwater	water
+121	kwetsbaar gebied	gebied
+122	landbouwafval	afval
+122	landbouwafval	land
+122	landbouwafval	landbouw
+123	landbouwcatastrofe	land
+123	landbouwcatastrofe	landbouw
+124	lawaai	environment
+125	Ligurische Zee	zee
+126	luchtverontreinigende stof	stof
+126	luchtverontreinigende stof	verontreinigende
+127	luchtverontreiniging	verontreiniging
+128	lynx	environment
+129	marien ecosysteem	ecosysteem
+129	marien ecosysteem	marien
+130	marien milieu	milieu
+130	marien milieu	marien
+131	mariene soort	soort
+131	mariene soort	marien
+132	mechanische trilling	environment
+133	mechanisme voor schone ontwikkeling	environment
+134	meer	environment
+135	metaalafval	afval
+136	Middellandse Zee	zee
+136	Middellandse Zee	land
+137	milieu	milieu
+138	milieu-indicator	milieu
+139	milieubeleid	milieu
+139	milieubeleid	beleid
+139	milieubeleid	milieubeleid
+140	milieubescherming	milieu
+140	milieubescherming	bescherming
+141	milieueconomie	milieu
+142	milieueducatie	milieu
+143	milieuheffing	milieu
+144	milieukwaliteit	milieu
+145	milieunorm	milieu
+145	milieunorm	norm
+146	milieuonderzoek	milieu
+147	milieurecht	milieu
+148	milieustatistiek	milieu
+149	minder vervuilend voertuig	minder
+149	minder vervuilend voertuig	vervuilend
+150	minerale reserves	reserves
+150	minerale reserves	minerale
+151	minerale reserves uit de zeebodem	reserves
+151	minerale reserves uit de zeebodem	zee
+151	minerale reserves uit de zeebodem	minerale
+151	minerale reserves uit de zeebodem	zeebodem
+152	nationaal park	nationaal
+152	nationaal park	park
+153	nationaal park in de stad	nationaal
+153	nationaal park in de stad	park
+154	natuurlijk risico	risico
+154	natuurlijk risico	natuurlijk
+155	natuurlijke reserves	reserves
+155	natuurlijke reserves	natuurlijk
+156	natuurramp	ramp
+157	natuurreservaat	environment
+158	niet-ioniserende straling	environment
+159	niet-recycleerbaar afval	afval
+160	Noordelijke IJszee	zee
+160	Noordelijke IJszee	ijszee
+161	Noordzee	zee
+162	Noorse Zee	zee
+163	oceaan	environment
+164	ondergrondse opslag van afvalstoffen	afval
+164	ondergrondse opslag van afvalstoffen	afvalstoffen
+164	ondergrondse opslag van afvalstoffen	stof
+164	ondergrondse opslag van afvalstoffen	opslag
+165	ontbladering	environment
+166	ontbossing	environment
+167	ontginning van de hulpbronnen	hulpbronnen
+167	ontginning van de hulpbronnen	ontginning
+168	ontginning van de zeeën	zee
+168	ontginning van de zeeën	ontginning
+169	Oostzee	zee
+170	oppervlaktewater	water
+170	oppervlaktewater	vlakte
+171	opslag van afvalstoffen	afval
+171	opslag van afvalstoffen	afvalstoffen
+171	opslag van afvalstoffen	stof
+171	opslag van afvalstoffen	opslag
+172	opwarming van het klimaat	klimaat
+173	organische verontreiniging	verontreiniging
+174	overstroming	environment
+175	ozon	environment
+176	pelsdier	environment
+177	plaatselijke vervuiling	vervuiling
+178	plantaardige reserves	reserves
+178	plantaardige reserves	plant
+179	poolgebied	gebied
+180	radioactief afval	afval
+180	radioactief afval	radioactief
+181	radioactief afvalwater	afval
+181	radioactief afvalwater	afvalwater
+181	radioactief afvalwater	water
+181	radioactief afvalwater	radioactief
+182	radioactieve verontreiniging	verontreiniging
+183	ramp door menselijk toedoen	ramp
+184	rampgebied	gebied
+184	rampgebied	ramp
+185	reptiel	environment
+186	residu van bestrijdingsmiddel	bestrijding
+187	rijkdom van de zee	zee
+187	rijkdom van de zee	rijkdom
+188	risicopreventie	risico
+189	Rode Zee	zee
+190	roofbouw op hulpbronnen	hulpbronnen
+191	ruimtelijk beheer	beheer
+192	schadelijke plant	schadelijke
+192	schadelijke plant	plant
+193	statiegeldheffing op vervuilend product	product
+193	statiegeldheffing op vervuilend product	vervuilend
+194	Stille Oceaan	oceaan
+195	stilstaand water	water
+196	stof	stof
+197	stratosfeervervuilende stof	stof
+197	stratosfeervervuilende stof	vervuilend
+197	stratosfeervervuilende stof	stratosfeer
+198	subtropische zone	zone
+198	subtropische zone	tropische
+199	thermische verontreiniging	verontreiniging
+200	toevallige vervuiling	vervuiling
+201	toezicht op de verontreiniging	verontreiniging
+201	toezicht op de verontreiniging	toezicht
+202	toezicht op het milieu	milieu
+202	toezicht op het milieu	toezicht
+203	tropische zone	zone
+203	tropische zone	tropische
+204	Tyrrheense Zee	zee
+205	uitputting van hulpbronnen	hulpbronnen
+206	uitvoer van afvalstoffen	afval
+206	uitvoer van afvalstoffen	afvalstoffen
+206	uitvoer van afvalstoffen	stof
+206	uitvoer van afvalstoffen	uitvoer
+207	verbranding van afval	afval
+207	verbranding van afval	brand
+207	verbranding van afval	verbranding
+208	verbrandingsgas	brand
+208	verbrandingsgas	verbranding
+209	verhandelbaar vervuilingsquotum	vervuiling
+210	vermindering van gasemissie	minder
+211	vernietiging van de gewassen	environment
+212	vernieuwbare reserves	reserves
+213	verontreinigd gebied	gebied
+214	verontreinigende stof	stof
+214	verontreinigende stof	verontreinigende
+215	verontreiniging	verontreiniging
+216	verontreiniging door auto's	verontreiniging
+217	verontreiniging door de landbouw	verontreiniging
+217	verontreiniging door de landbouw	land
+217	verontreiniging door de landbouw	landbouw
+218	verontreiniging door koolwaterstoffen	water
+218	verontreiniging door koolwaterstoffen	verontreiniging
+218	verontreiniging door koolwaterstoffen	stof
+219	verontreiniging door metalen	verontreiniging
+220	verontreiniging door schepen	verontreiniging
+221	verontreiniging van de stratosfeer	verontreiniging
+221	verontreiniging van de stratosfeer	stratosfeer
+222	verontreiniging van de waterlopen	water
+222	verontreiniging van de waterlopen	verontreiniging
+223	verontreiniging van tellurische oorsprong	verontreiniging
+224	verontreiniging van voedingsmiddelen	verontreiniging
+225	vervanging van hulpbronnen	hulpbronnen
+226	vervuiler-betaalt-principe	environment
+227	vervuiling van de zee	vervuiling
+227	vervuiling van de zee	zee
+228	verzuring	environment
+229	vlakte	vlakte
+230	vochtige zone	zone
+231	vogel	environment
+232	voorkoming van verontreiniging	verontreiniging
+233	voorziening tegen vervuiling	vervuiling
+233	voorziening tegen vervuiling	tegen
+234	vulkaanuitbarsting	environment
+235	waarschuwingsdienst voor aardbevingen	environment
+236	walvis	environment
+237	warmtelozing	environment
+238	water	water
+239	wateranalyse	water
+240	waterbehandeling	water
+241	waterbeheer	beheer
+241	waterbeheer	water
+242	waterbehoefte	water
+243	waterloop	water
+244	waterverbruik	water
+245	waterverontreinigende stof	water
+245	waterverontreinigende stof	stof
+245	waterverontreinigende stof	verontreinigende
+246	waterverontreiniging	water
+246	waterverontreiniging	verontreiniging
+247	watervoorraad	water
+248	weer en wind	environment
+249	wild leven	wild
+250	wild zoogdier	wild
+250	wild zoogdier	zoogdier
+251	woestijn	woestijn
+252	woestijnvorming	woestijn
+253	wolf	environment
+254	zee	zee
+255	zeebodem	zee
+255	zeebodem	zeebodem
+256	zeehond	zee
+257	zeezoogdier	zee
+257	zeezoogdier	zoogdier
+258	ziekenhuisafval	afval
+259	zoet water	water
+260	zout water	water
+261	Zuidelijke IJszee	zee
+261	Zuidelijke IJszee	ijszee
+262	zuivering	zuivering
+263	zuiveringsslib	zuivering
+264	zure regen	environment
+265	Zwarte Zee	zee
+266	zwemwater	water

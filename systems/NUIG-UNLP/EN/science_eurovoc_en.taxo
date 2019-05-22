@@ -1,0 +1,218 @@
+0	administrative science	science
+1	analytical chemistry	biochemistry
+2	analytical chemistry	industrial chemistry
+3	analytical chemistry	spectrometry
+4	analytical chemistry	chemistry
+5	ancient history	archaeology
+6	ancient history	medieval history
+7	ancient history	modern history
+8	ancient history	prehistory
+9	ancient history	history
+10	animal taxonomy	taxonomy
+11	applied sciences	social sciences
+12	applied sciences	sciences
+13	archaeology	ancient history
+14	archaeology	prehistory
+15	archaeology	history
+16	behavioural sciences	social sciences
+17	behavioural sciences	sciences
+18	bilingualism	language policy
+19	bilingualism	minority language
+20	bilingualism	multilingualism
+21	bilingualism	policy
+22	climatology	earth sciences
+23	climatology	geomorphology
+24	climatology	geophysics
+25	climatology	hydrology
+26	climatology	meteorology
+27	climatology	oceanography
+28	climatology	sciences
+29	contemporary history	medieval history
+30	contemporary history	modern history
+31	contemporary history	history
+32	criminology	political science
+33	criminology	psychology
+34	criminology	social sciences
+35	criminology	sociology
+36	criminology	science
+37	cultural geography	economic geography
+38	cultural geography	historical geography
+39	cultural geography	human geography
+40	cultural geography	political geography
+41	cultural geography	geography
+42	earth sciences	geophysics
+43	earth sciences	oceanography
+44	earth sciences	physical sciences
+45	earth sciences	social sciences
+46	earth sciences	sciences
+47	economic geography	cultural geography
+48	economic geography	geopolitics
+49	economic geography	historical geography
+50	economic geography	human geography
+51	economic geography	political geography
+52	economic geography	geography
+53	economics	political science
+54	economics	social sciences
+55	economics	sociology
+56	economics	science
+57	embryo and foetus	and foetus
+58	european language	language
+59	fundamental particle	particle
+60	geographical information system	information system
+61	geophysics	earth sciences
+62	geophysics	geochemistry
+63	geophysics	geodesy
+64	geophysics	oceanography
+65	geophysics	seismology
+66	geophysics	sciences
+67	geopolitics	contemporary history
+68	geopolitics	economic geography
+69	geopolitics	political geography
+70	geopolitics	history
+71	historical figure	figure
+72	historical geography	ancient history
+73	historical geography	contemporary history
+74	historical geography	cultural geography
+75	historical geography	economic geography
+76	historical geography	medieval history
+77	historical geography	political geography
+78	historical geography	geography
+79	human geography	cultural geography
+80	human geography	economic geography
+81	human geography	world history
+82	human geography	geography
+83	industrial chemistry	analytical chemistry
+84	industrial chemistry	physical sciences
+85	industrial chemistry	chemistry
+86	industrial sociology	sociology
+87	information science	social sciences
+88	information science	science
+89	ionising radiation	radiation
+90	language policy	bilingualism
+91	language policy	minority language
+92	language policy	multilingualism
+93	language policy	policy
+94	laser physics	nuclear physics
+95	laser physics	optics
+96	laser physics	plasma physics
+97	laser physics	physics
+98	life sciences	earth sciences
+99	life sciences	physical sciences
+100	life sciences	social sciences
+101	life sciences	sciences
+102	living language	language
+103	medieval history	ancient history
+104	medieval history	contemporary history
+105	medieval history	modern history
+106	medieval history	history
+107	meteorology	climatology
+108	meteorology	earth sciences
+109	meteorology	geophysics
+110	meteorology	hydrology
+111	meteorology	oceanography
+112	meteorology	seismology
+113	meteorology	sciences
+114	metrology	analytical chemistry
+115	metrology	geodesy
+116	metrology	chemistry
+117	mineralogy	earth sciences
+118	mineralogy	geochemistry
+119	mineralogy	geology
+120	mineralogy	geophysics
+121	mineralogy	petrology
+122	mineralogy	sciences
+123	minority language	bilingualism
+124	minority language	language policy
+125	minority language	regional language
+126	minority language	language
+127	modern history	ancient history
+128	modern history	contemporary history
+129	modern history	medieval history
+130	modern history	political science
+131	modern history	world history
+132	modern history	history
+133	non-european language	language
+134	nuclear physics	plasma physics
+135	nuclear physics	physics
+136	oceanography	climatology
+137	oceanography	earth sciences
+138	oceanography	geophysics
+139	oceanography	hydrology
+140	oceanography	meteorology
+141	oceanography	sciences
+142	philosophy of science	science
+143	physical sciences	earth sciences
+144	physical sciences	life sciences
+145	physical sciences	social sciences
+146	physical sciences	sciences
+147	plant taxonomy	taxonomy
+148	plasma physics	nuclear physics
+149	plasma physics	physics
+150	political geography	cultural geography
+151	political geography	economic geography
+152	political geography	geopolitics
+153	political geography	human geography
+154	political geography	geography
+155	political science	economics
+156	political science	psychology
+157	political science	social sciences
+158	political science	sociology
+159	political science	science
+160	political sociology	criminology
+161	political sociology	political science
+162	political sociology	sociology
+163	political sociology	sociology
+164	psychology	political science
+165	psychology	social sciences
+166	psychology	sociology
+167	psychology	science
+168	psychometric test	test
+169	regional geography	cultural geography
+170	regional geography	economic geography
+171	regional geography	historical geography
+172	regional geography	human geography
+173	regional geography	geography
+174	regional language	minority language
+175	regional language	language
+176	rural sociology	agronomy
+177	rural sociology	cultural geography
+178	rural sociology	sociology
+179	rural sociology	soil science
+180	rural sociology	urban sociology
+181	rural sociology	sociology
+182	social sciences	economics
+183	social sciences	physical sciences
+184	social sciences	political science
+185	social sciences	sociology
+186	social sciences	sciences
+187	sociology	economics
+188	sociology	political science
+189	sociology	psychology
+190	sociology	social sciences
+191	sociology	science
+192	sociology of education	criminology
+193	sociology of education	political sociology
+194	sociology of education	sociology
+195	sociology of education	of education
+196	soil analysis	analysis
+197	soil chemistry	soil science
+198	soil chemistry	chemistry
+199	soil science	agronomy
+200	soil science	science
+201	soil type	type
+202	space science	astronomy
+203	space science	earth sciences
+204	space science	geophysics
+205	space science	science
+206	stem cell	cell
+207	urban sociology	criminology
+208	urban sociology	industrial sociology
+209	urban sociology	political sociology
+210	urban sociology	rural sociology
+211	urban sociology	sociology
+212	urban sociology	sociology of education
+213	urban sociology	sociology
+214	world history	ancient history
+215	world history	human geography
+216	world history	modern history
+217	world history	history

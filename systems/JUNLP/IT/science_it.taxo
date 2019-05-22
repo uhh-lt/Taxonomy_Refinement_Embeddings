@@ -1,0 +1,773 @@
+0	sistemi elettromeccanici	sistemi
+1	biologico e fisico	biologico
+2	storia delle religioni orientali	storia
+2	storia delle religioni orientali	delle
+2	storia delle religioni orientali	religioni
+3	antropologia linguistica	antropologia
+3	antropologia linguistica	linguistica
+4	metafisica	fisica
+5	religione	religione
+6	semantica	antica
+6	semantica	semantica
+7	psicologia	psicologia
+8	immunopatologia	patologia
+9	fisiologia comparativa	fisiologia
+9	fisiologia comparativa	comparativa
+10	letteratura portoghese	letteratura
+11	termodinamica	dinamica
+12	linguaggi di programmazione	linguaggi
+12	linguaggi di programmazione	lingua
+13	navigazione, guida, controllo e dinamica	controllo
+13	navigazione, guida, controllo e dinamica	dinamica
+14	tecnologia della comunicazione e dei nuovi media	tecnologia
+14	tecnologia della comunicazione e dei nuovi media	comunicazione
+14	tecnologia della comunicazione e dei nuovi media	dei
+15	linguistica spagnola	linguistica
+15	linguistica spagnola	spagnola
+16	estetica	etica
+17	filosofia della mente	filosofia
+17	filosofia della mente	mente
+18	nanotecnologia	tecnologia
+19	linguistica francese	linguistica
+19	linguistica francese	francese
+20	filosofia della scienza	filosofia
+20	filosofia della scienza	scienza
+21	progettazione assistita da calcolatore e da elaboratore	progettazione
+22	ecologia microbiana	ecologia
+23	teoria, conoscenza e scienza	scienza
+23	teoria, conoscenza e scienza	teoria
+24	immuniprofilassi	science
+25	ingegneria dei sistemi	sistemi
+25	ingegneria dei sistemi	dei
+25	ingegneria dei sistemi	ingegneria
+26	controllo di processo e sistemi	sistemi
+26	controllo di processo e sistemi	controllo
+27	logica e fondamenti della matematica	logica
+27	logica e fondamenti della matematica	matematica
+28	botanica	botanica
+29	sistemi do memorizzazione di dati	sistemi
+30	sistemi e fisiologia integrativa	sistemi
+30	sistemi e fisiologia integrativa	fisiologia
+31	matematica	matematica
+32	acquacoltura e pesca	science
+33	acustica, dinamica, e controllo	controllo
+33	acustica, dinamica, e controllo	dinamica
+34	linguistica antropologica	linguistica
+34	linguistica antropologica	logica
+35	storia antica	storia
+35	storia antica	antica
+36	pragmatica	science
+37	glaciologia	science
+38	scienze agronomiche	scienze
+39	neuroscienza cellulare	scienza
+39	neuroscienza cellulare	neuroscienza
+39	neuroscienza cellulare	cellulare
+40	ingegneria del software	ingegneria
+41	comunicazione organizzativa	comunicazione
+42	biomateriali	materia
+42	biomateriali	materiali
+43	sismologia	science
+44	biologia del cancro	biologia
+45	epistemologia	science
+46	storia	storia
+47	dinamica non lineare	dinamica
+47	dinamica non lineare	non
+48	fisica atomica, molecolare e ottica	fisica
+48	fisica atomica, molecolare e ottica	molecolare
+48	fisica atomica, molecolare e ottica	ottica
+49	teoria degli insiemi	teoria
+49	teoria degli insiemi	degli
+50	storia di genere	storia
+50	storia di genere	genere
+51	chimica	chimica
+52	ingegneria fisica	ingegneria
+52	ingegneria fisica	fisica
+53	cosmologia	cosmologia
+54	chimica ambientale	chimica
+54	chimica ambientale	ambientale
+55	batteriologia	science
+56	ingegneria ambientale	ingegneria
+56	ingegneria ambientale	ambientale
+57	statistiche e probabilità	statistiche
+57	statistiche e probabilità	probabilità
+58	circuiti	science
+59	psicologia dei movimenti	psicologia
+59	psicologia dei movimenti	dei
+60	acquisizione della seconda lingua	acquisizione
+60	acquisizione della seconda lingua	lingua
+61	trattamento del segnale	science
+62	paleontologia	paleontologia
+63	antropologia culturale	antropologia
+63	antropologia culturale	culturale
+63	antropologia culturale	cultura
+64	farmaco e sanità	farmaco
+64	farmaco e sanità	sanità
+65	composizione	composizione
+66	clima	clima
+67	elettrotecnica	science
+68	analisi armonica e rappresentazione	analisi
+69	popolazione biologica	logica
+69	popolazione biologica	popolazione
+69	popolazione biologica	biologica
+70	ingegneria industriale	ingegneria
+70	ingegneria industriale	industriale
+71	studi biblici	studi
+72	fisica dei minerali	dei
+72	fisica dei minerali	fisica
+73	orticoltura	science
+74	metallurgia	metallurgia
+75	cosmochimica	chimica
+76	neuroscienze computazionali	scienze
+76	neuroscienze computazionali	neuroscienze
+77	astrodinamica	dinamica
+78	comunicazione sanitaria	comunicazione
+79	farmacochimica	chimica
+79	farmacochimica	farmaco
+80	criminologia	science
+81	scienza delle membrane	delle
+81	scienza delle membrane	scienza
+82	storia militare	storia
+83	fisica della materia condensata	fisica
+83	fisica della materia condensata	materia
+84	fluidi complessi	fluidi
+85	chimica medicinale	chimica
+85	chimica medicinale	medicina
+86	nutrizione biochimica	chimica
+86	nutrizione biochimica	nutrizione
+86	nutrizione biochimica	biochimica
+87	teoria economica	teoria
+87	teoria economica	economica
+88	paleobiologia	biologia
+89	economia	economia
+90	biostatistica	statistica
+91	demografia, popolazione, e ecologia	ecologia
+91	demografia, popolazione, e ecologia	popolazione
+92	storia della filosofia	storia
+92	storia della filosofia	filosofia
+93	patologia vegetale	patologia
+93	patologia vegetale	vegetale
+94	ingegneria del petrolio	ingegneria
+95	biogeochimica	chimica
+95	biogeochimica	geochimica
+96	sociologia	sociologia
+97	fenomeni di trasporto	trasporto
+98	analisi	analisi
+99	ricerca operativa	ricerca
+99	ricerca operativa	per
+100	comunicazione digitale	comunicazione
+100	comunicazione digitale	digitale
+101	immaginografia biomedica ed ottica biomedicale	ottica
+102	geochimica	chimica
+102	geochimica	geochimica
+103	diversità linguistica	linguistica
+104	musica	musica
+105	sistemi dinamici	sistemi
+105	sistemi dinamici	dinamici
+106	politica americana	politica
+106	politica americana	americana
+107	comunicazione	comunicazione
+108	microbiologia alimentare	biologia
+108	microbiologia alimentare	microbiologia
+108	microbiologia alimentare	alimentare
+109	nutrizione internazionale	nutrizione
+109	nutrizione internazionale	internazionale
+110	cultura popolare americana	americana
+110	cultura popolare americana	cultura
+111	scienza dei polimeri	dei
+111	scienza dei polimeri	scienza
+111	scienza dei polimeri	polimeri
+112	linguistica computazionale	linguistica
+112	linguistica computazionale	computazionale
+113	trasformazione alimentare	alimentare
+114	Ingegneria strutturale	strutturale
+114	Ingegneria strutturale	struttura
+115	metodologie	science
+116	dinamica applicata	dinamica
+116	dinamica applicata	applicata
+117	studi urbani	studi
+118	processi fisici	science
+119	scienze dell'atmosfera	scienze
+119	scienze dell'atmosfera	dell'
+120	ecologia acquatica	ecologia
+121	scienze fisiche	scienze
+122	trasmissione del calore e combustione	science
+123	musicologia	musicologia
+124	ingegneria aerospaziale	ingegneria
+125	dinamica dei fluidi	dinamica
+125	dinamica dei fluidi	dei
+125	dinamica dei fluidi	fluidi
+126	lingue e società latinoamericane	lingue
+126	lingue e società latinoamericane	società
+127	crescita e sviluppo	sviluppo
+128	storia europea	storia
+128	storia europea	europea
+129	meteorologia	science
+130	sistema operativo	sistema
+130	sistema operativo	per
+131	tribologia	science
+132	antropologia sociale	antropologia
+132	antropologia sociale	sociale
+133	storia sociale	storia
+133	storia sociale	sociale
+134	studi americani	studi
+134	studi americani	americani
+135	equazione differenziale alle derivate parziali	alle
+136	letteratura inglese, arcipelago britannico	letteratura
+136	letteratura inglese, arcipelago britannico	inglese
+137	linguistica del discorso	linguistica
+138	lingue e società dell'Asia meridionale e sud-orientale	lingue
+138	lingue e società dell'Asia meridionale e sud-orientale	società
+138	lingue e società dell'Asia meridionale e sud-orientale	dell'
+138	lingue e società dell'Asia meridionale e sud-orientale	asia
+138	lingue e società dell'Asia meridionale e sud-orientale	orientale
+139	genetica vegetale	vegetale
+139	genetica vegetale	genetica
+139	genetica vegetale	etica
+140	genetica molecolare	molecolare
+140	genetica molecolare	genetica
+140	genetica molecolare	etica
+141	strutture e materiali	materia
+141	strutture e materiali	materiali
+142	psicologia della salute	psicologia
+143	letteratura inglese, America del Nord	letteratura
+143	letteratura inglese, America del Nord	inglese
+143	letteratura inglese, America del Nord	america
+144	meccanica dei fluidi	dei
+144	meccanica dei fluidi	fluidi
+144	meccanica dei fluidi	meccanica
+145	fonetica	etica
+146	sociologia regionale	sociologia
+147	storia medievale	storia
+148	probabilità	probabilità
+149	scienze ambientali	scienze
+150	neurobiologia del comportamento	biologia
+151	fisiologia evolutiva	fisiologia
+152	epidemiologia nutrizionale	epidemiologia
+153	metodologia statistica	statistica
+154	ingegneria informatica	ingegneria
+154	ingegneria informatica	informatica
+155	ergonomia	science
+156	economia internazionale	economia
+156	economia internazionale	internazionale
+157	scienza dei materiali	dei
+157	scienza dei materiali	scienza
+157	scienza dei materiali	materia
+157	scienza dei materiali	materiali
+158	ricerca dell'acqua dolce	ricerca
+158	ricerca dell'acqua dolce	dell'
+159	ingegneria bioelettrica e neuroingegneria	ingegneria
+160	psicologia sociale	psicologia
+160	psicologia sociale	sociale
+161	storia dell'arte e dell'architettura statunitense	storia
+161	storia dell'arte e dell'architettura statunitense	dell'arte
+161	storia dell'arte e dell'architettura statunitense	dell'
+161	storia dell'arte e dell'architettura statunitense	arte
+161	storia dell'arte e dell'architettura statunitense	architettura
+162	pensiero religioso	science
+163	psicologia dello sviluppo	psicologia
+163	psicologia dello sviluppo	sviluppo
+164	letteratura francese e francofona	letteratura
+164	letteratura francese e francofona	francese
+164	letteratura francese e francofona	francofona
+165	linguistica	linguistica
+166	drammaturgia	science
+167	storea dell'arte contemporanea	dell'arte
+167	storea dell'arte contemporanea	dell'
+167	storea dell'arte contemporanea	arte
+168	fabbricazione	fabbricazione
+169	documentazione delle lingue	delle
+169	documentazione delle lingue	lingue
+170	ottica	ottica
+171	biologia dello sviluppo	biologia
+171	biologia dello sviluppo	sviluppo
+172	ingegneria marittima	ingegneria
+173	matematica applicata	matematica
+173	matematica applicata	applicata
+174	biologia computazionale	biologia
+174	biologia computazionale	computazionale
+175	botanica	botanica
+176	disuguaglianza e stratificazione	science
+177	storia della scienza, tecnologia, e medicina	storia
+177	storia della scienza, tecnologia, e medicina	tecnologia
+177	storia della scienza, tecnologia, e medicina	scienza
+177	storia della scienza, tecnologia, e medicina	medicina
+178	allevamente vegetale	mente
+178	allevamente vegetale	vegetale
+178	allevamente vegetale	alle
+179	meccanica quantistica	meccanica
+179	meccanica quantistica	quantistica
+180	studi delle prestazioni	delle
+180	studi delle prestazioni	studi
+181	lingua e letteratura tedesca	letteratura
+181	lingua e letteratura tedesca	lingua
+181	lingua e letteratura tedesca	tedesca
+182	fisiologia microbica	fisiologia
+182	fisiologia microbica	microbica
+183	geometria e topologia	geometria
+184	neuroscienze cognitive	scienze
+184	neuroscienze cognitive	neuroscienze
+185	storia delle religioni occidentali	storia
+185	storia delle religioni occidentali	delle
+185	storia delle religioni occidentali	religioni
+186	virologia	science
+187	biomedico	science
+188	scienza politica	scienza
+188	scienza politica	politica
+189	controllo del traffico aereo	controllo
+190	sistemi dinamici	sistemi
+190	sistemi dinamici	dinamici
+191	elettronica digitale	digitale
+191	elettronica digitale	elettronica
+192	analisi numerica	analisi
+192	analisi numerica	numeri
+193	trasporto biologico	biologico
+193	trasporto biologico	trasporto
+194	filosofia	filosofia
+195	pubbliche relazioni/pubblicità	relazioni
+195	pubbliche relazioni/pubblicità	pubblici
+196	sociologia agricola	sociologia
+197	storia degli Stati Uniti	storia
+197	storia degli Stati Uniti	degli
+198	tossicologia	science
+199	statistiche applicate	statistiche
+199	statistiche applicate	applicate
+200	teologia	science
+201	elettromagnetismo	magnetismo
+202	politica e sviluppo sociale	politica
+202	politica e sviluppo sociale	sviluppo
+202	politica e sviluppo sociale	sociale
+203	natura e relazioni all'interno della società	società
+203	natura e relazioni all'interno della società	relazioni
+204	teatro	teatro
+205	studi radiotelevisivi	studi
+206	tecnologia della carta e della pasta per carta	tecnologia
+206	tecnologia della carta e della pasta per carta	per
+207	studi cinematografici americani	studi
+207	studi cinematografici americani	americani
+208	fonologia	science
+209	tettonica e struttura	struttura
+210	etica	etica
+211	ecologia terrestre	ecologia
+212	mondo islamico/storia del Vicino Oriente	storia
+212	mondo islamico/storia del Vicino Oriente	vicino
+212	mondo islamico/storia del Vicino Oriente	oriente
+213	teoria dei numeri	dei
+213	teoria dei numeri	teoria
+213	teoria dei numeri	numeri
+214	galassie esterne	science
+215	razza ed etnia	razza
+216	elettrico ed elettronica	elettronica
+217	scienza alimentare	scienza
+217	scienza alimentare	alimentare
+218	meccanica applicata	applicata
+218	meccanica applicata	meccanica
+219	comunicazione interpersonale/in piccoli gruppi	comunicazione
+219	comunicazione interpersonale/in piccoli gruppi	per
+220	letteratura drammatica, critica e teoria	letteratura
+220	letteratura drammatica, critica e teoria	teoria
+220	letteratura drammatica, critica e teoria	critica
+221	letteratura in inglese, America del nord, etnica e minoranza	letteratura
+221	letteratura in inglese, America del nord, etnica e minoranza	inglese
+221	letteratura in inglese, America del nord, etnica e minoranza	america
+222	relazioni internazionali	relazioni
+223	epidemiologia	epidemiologia
+223	epidemiologia	miologia
+224	logica e fondamenta	logica
+225	geografia fisica e ambientale	fisica
+225	geografia fisica e ambientale	ambientale
+225	geografia fisica e ambientale	geografia
+226	storia delle donne	storia
+226	storia delle donne	delle
+227	affari pubblici	pubblici
+228	deontologia e filosofia politica	filosofia
+228	deontologia e filosofia politica	politica
+229	economia agraria e delle risorse	delle
+229	economia agraria e delle risorse	economia
+230	microbiologia	biologia
+230	microbiologia	microbiologia
+231	sistemi e ingegneria integrata	sistemi
+231	sistemi e ingegneria integrata	ingegneria
+232	descrizione della lingua	lingua
+233	letteratura spagnola	letteratura
+233	letteratura spagnola	spagnola
+234	ecologia comportamentale	ecologia
+234	ecologia comportamentale	comportamentale
+235	astrofisica e astronomia	fisica
+235	astrofisica e astronomia	astrofisica
+235	astrofisica e astronomia	astronomia
+236	psicologia di comunità	psicologia
+236	psicologia di comunità	comunità
+237	farmacologia	farmaco
+237	farmacologia	farmacologia
+238	ingegneria biologica	ingegneria
+238	ingegneria biologica	logica
+238	ingegneria biologica	biologica
+239	scienza delle finanze	delle
+239	scienza delle finanze	scienza
+240	modelli e metodi	science
+241	chimica degli alimenti	degli
+241	chimica degli alimenti	chimica
+242	genomica	genomica
+243	linguistiche tedesche	linguistiche
+244	chimica dei polimeri	dei
+244	chimica dei polimeri	chimica
+244	chimica dei polimeri	polimeri
+245	famiglia, vita, e società	società
+245	famiglia, vita, e società	vita
+246	teoria politica	teoria
+246	teoria politica	politica
+247	economia del lavoro	economia
+248	agronomia	science
+249	storia culturale	storia
+249	storia culturale	culturale
+249	storia culturale	cultura
+250	cognizione e percezione	per
+251	dinamica/sistemi dinamici	sistemi
+251	dinamica/sistemi dinamici	dinamica
+251	dinamica/sistemi dinamici	dinamici
+252	particelle elementari e teoria dei campi e delle stringhe	delle
+252	particelle elementari e teoria dei campi e delle stringhe	dei
+252	particelle elementari e teoria dei campi e delle stringhe	teoria
+253	linguistiche applicate	applicate
+253	linguistiche applicate	linguistiche
+254	sanità ambientale	ambientale
+254	sanità ambientale	sanità
+255	ingegneria fisica	ingegneria
+255	ingegneria fisica	fisica
+256	sistemi informativi	sistemi
+257	cultura materiale americana	materia
+257	cultura materiale americana	americana
+257	cultura materiale americana	cultura
+257	cultura materiale americana	materiale
+258	politica pubblica	politica
+258	politica pubblica	pubblica
+259	scienze forestali	scienze
+260	neuroscienze dello sviluppo	scienze
+260	neuroscienze dello sviluppo	neuroscienze
+260	neuroscienze dello sviluppo	sviluppo
+261	retorica e composizione	composizione
+262	nutrizione della comunità	nutrizione
+262	nutrizione della comunità	comunità
+263	lingua e letteratura francese e francofona	letteratura
+263	lingua e letteratura francese e francofona	francese
+263	lingua e letteratura francese e francofona	lingua
+263	lingua e letteratura francese e francofona	francofona
+264	econometria	science
+265	biotecnologie alimentari	science
+266	biofisica	fisica
+266	biofisica	biofisica
+267	controllo sociale, diritto, criminalità e devianza	controllo
+267	controllo sociale, diritto, criminalità e devianza	sociale
+268	astronomia e astrofisica	fisica
+268	astronomia e astrofisica	astrofisica
+268	astronomia e astrofisica	astronomia
+269	materiali strutturali	materia
+269	materiali strutturali	materiali
+269	materiali strutturali	struttura
+270	chinesiologia	science
+271	galenica	science
+272	lavoro, economia e organizzazioni	economia
+273	psicologia sociale ed interazione	psicologia
+273	psicologia sociale ed interazione	sociale
+274	ingegneria biomeccanica	ingegneria
+274	ingegneria biomeccanica	meccanica
+274	ingegneria biomeccanica	biomeccanica
+275	ingegneria e gestione della costruzione	ingegneria
+275	ingegneria e gestione della costruzione	gestione
+276	storia dell' Africa	storia
+276	storia dell' Africa	dell'
+277	endocrinologia	science
+278	geofisica	fisica
+279	biologia strutturale	biologia
+279	biologia strutturale	strutturale
+279	biologia strutturale	struttura
+280	fabbricazione di dispositivi a semiconduttore ed elettrici	fabbricazione
+280	fabbricazione di dispositivi a semiconduttore ed elettrici	semiconduttore
+280	fabbricazione di dispositivi a semiconduttore ed elettrici	elettrici
+281	scienze del suolo	scienze
+282	scienze	scienze
+283	storia intellettuale	storia
+284	comunicazione di massa	comunicazione
+285	genere, razza, sessualità, ed etnicità in comunicazione	comunicazione
+285	genere, razza, sessualità, ed etnicità in comunicazione	genere
+285	genere, razza, sessualità, ed etnicità in comunicazione	razza
+285	genere, razza, sessualità, ed etnicità in comunicazione	sessualità
+285	genere, razza, sessualità, ed etnicità in comunicazione	etnici
+286	immunologia	immunologia
+287	scienze della vita	scienze
+287	scienze della vita	vita
+288	lingua e letteratura	letteratura
+288	lingua e letteratura	lingua
+289	nutrizione umana	nutrizione
+289	nutrizione umana	umana
+290	elettricità ed energia	elettrici
+290	elettricità ed energia	energia
+291	nutrizione comparata	nutrizione
+291	nutrizione comparata	comparata
+292	spazio e ambiente	science
+293	reti	science
+294	ingegneria meccanica	ingegneria
+294	ingegneria meccanica	meccanica
+295	psicologia clinica	psicologia
+295	psicologia clinica	clinica
+296	greco bizantino e moderno	science
+297	teorie statistische	science
+298	equazioni differenziali ordinarie	science
+299	economia industriale	industriale
+299	economia industriale	economia
+300	chimica dei materiali	dei
+300	chimica dei materiali	chimica
+300	chimica dei materiali	materia
+300	chimica dei materiali	materiali
+301	sintassi	science
+302	fotonica	science
+303	storia della diplomazia	storia
+304	fisiologia dell' allenamento	fisiologia
+304	fisiologia dell' allenamento	alle
+304	fisiologia dell' allenamento	dell'
+305	lingue antiche	lingue
+305	lingue antiche	antiche
+306	ingegneria civile	ingegneria
+307	archeologico	science
+308	studi giornalistici	studi
+309	personalità e contesti sociali	per
+309	personalità e contesti sociali	sociali
+310	ingegneria molecolare, cellulare, e tissutale	ingegneria
+310	ingegneria molecolare, cellulare, e tissutale	cellulare
+310	ingegneria molecolare, cellulare, e tissutale	molecolare
+311	cosmologia, relatività, e gravità	cosmologia
+312	geometria algebrica	geometria
+313	strumentazione di controllo	controllo
+314	comunicazione internazionale e interculturale	comunicazione
+314	comunicazione internazionale e interculturale	culturale
+314	comunicazione internazionale e interculturale	internazionale
+314	comunicazione internazionale e interculturale	cultura
+315	ingegneria	ingegneria
+316	scienze della Terra	scienze
+317	ottimaizzazione della progettazione multidisciplinare	progettazione
+318	ecologica evoluzionistica	logica
+319	oceanografia	science
+320	neuroscienze	scienze
+320	neuroscienze	neuroscienze
+321	scienze lattiero casearie	scienze
+322	ingegneria biochimica e biomolecolare	ingegneria
+322	ingegneria biochimica e biomolecolare	molecolare
+322	ingegneria biochimica e biomolecolare	chimica
+322	ingegneria biochimica e biomolecolare	biochimica
+323	geografia	geografia
+324	arte e archittetura antiche, medievali, rinascimentali e barocche	antiche
+324	arte e archittetura antiche, medievali, rinascimentali e barocche	arte
+324	arte e archittetura antiche, medievali, rinascimentali e barocche	archittetura
+325	politica comparata	politica
+325	politica comparata	comparata
+326	amministrazione pubblica	pubblica
+327	vulcanologia	science
+328	compilatori	science
+329	letteratura comparata	letteratura
+329	letteratura comparata	comparata
+330	acquisizione della prima lingua	acquisizione
+330	acquisizione della prima lingua	lingua
+331	storia dell' America latina	storia
+331	storia dell' America latina	america
+331	storia dell' America latina	dell'
+332	fisiologia cellulare	fisiologia
+332	fisiologia cellulare	cellulare
+333	biologia molecolare	biologia
+333	biologia molecolare	molecolare
+334	lingue e società dell' Asia orientale	lingue
+334	lingue e società dell' Asia orientale	società
+334	lingue e società dell' Asia orientale	dell'
+334	lingue e società dell' Asia orientale	asia
+334	lingue e società dell' Asia orientale	orientale
+335	studi critici e culturali	studi
+335	studi critici e culturali	cultura
+336	storia del teatro	storia
+336	storia del teatro	teatro
+337	zoologia	zoologia
+338	ingegneria meccanica	ingegneria
+338	ingegneria meccanica	meccanica
+339	sociolinguistica	linguistica
+340	genere e sessualità	genere
+340	genere e sessualità	sessualità
+341	dinamiche non lineari	non
+342	biologia cellulare	cellulare
+342	biologia cellulare	biologia
+343	ingegneria chimica	ingegneria
+343	ingegneria chimica	chimica
+344	letteratura inglese, anglofona	letteratura
+344	letteratura inglese, anglofona	inglese
+345	filosofia continentale	filosofia
+346	economia comportamentale	economia
+346	economia comportamentale	comportamentale
+347	gestione forestale	gestione
+348	psicologia del lavoro	psicologia
+349	discipline umanistiche	science
+350	lingue e civiltà dell' Europa	lingue
+350	lingue e civiltà dell' Europa	dell'
+350	lingue e civiltà dell' Europa	civiltà
+351	zoologia	zoologia
+352	lingue e civiltà slaviche	lingue
+352	lingue e civiltà slaviche	civiltà
+353	storia della critica e della teoria	storia
+353	storia della critica e della teoria	teoria
+353	storia della critica e della teoria	critica
+354	veicoli spaziali	veicoli
+355	lingue e civiltà africane	lingue
+355	lingue e civiltà africane	civiltà
+356	controllo automatico	controllo
+357	biochimica	chimica
+357	biochimica	biochimica
+358	biologia forestica	biologia
+359	sociologia delle culture	delle
+359	sociologia delle culture	sociologia
+360	avicoltura scientifica	scientifica
+361	intelligenza artificiale	science
+362	biometria	science
+363	psicolinguistica	linguistica
+364	il sole e il sistema solare	sistema
+365	sanità pubblica	sanità
+365	sanità pubblica	pubblica
+366	sistemi hardware	sistemi
+367	fisica	fisica
+368	microbiologia patogenica	biologia
+368	microbiologia patogenica	microbiologia
+369	letteratura latinoamericana	letteratura
+369	letteratura latinoamericana	americana
+370	storia dell' arte moderna e dell' archittetura	storia
+370	storia dell' arte moderna e dell' archittetura	dell'
+370	storia dell' arte moderna e dell' archittetura	arte
+370	storia dell' arte moderna e dell' archittetura	archittetura
+371	fisiologia	fisiologia
+372	materiale ceramico	materia
+372	materiale ceramico	materiale
+373	polimero e materiali organici	materia
+373	polimero e materiali organici	materiali
+374	studi etnici	studi
+374	studi etnici	etnici
+375	algebra	algebra
+376	collegamento in rete	science
+377	filosofia del linguaggio	linguaggi
+377	filosofia del linguaggio	filosofia
+377	filosofia del linguaggio	lingua
+378	biomeccanica	meccanica
+378	biomeccanica	biomeccanica
+379	architettura dei calcolatori	dei
+379	architettura dei calcolatori	architettura
+380	Linge  e civiltà del Vicino Oriente	vicino
+380	Linge  e civiltà del Vicino Oriente	oriente
+380	Linge  e civiltà del Vicino Oriente	civiltà
+381	neuroscienza molecolare	scienza
+381	neuroscienza molecolare	neuroscienza
+381	neuroscienza molecolare	molecolare
+382	la matematica discreta e combinatoria	matematica
+383	filosofia della religione	religione
+383	filosofia della religione	filosofia
+384	immunologia delle malattie infettive	delle
+384	immunologia delle malattie infettive	immunologia
+385	genetica	etica
+385	genetica	genetica
+386	nutrizione molecolare	molecolare
+386	nutrizione molecolare	nutrizione
+387	robotica	science
+388	selvicoltura	science
+389	linguistica storica e comparativa	linguistica
+389	linguistica storica e comparativa	comparativa
+390	fisiologia molecolare	fisiologia
+390	fisiologia molecolare	molecolare
+391	antropologia	antropologia
+392	ecologia microbica	ecologia
+392	ecologia microbica	microbica
+393	archeologia classica e storia dell' arte	storia
+393	archeologia classica e storia dell' arte	dell'
+393	archeologia classica e storia dell' arte	arte
+393	archeologia classica e storia dell' arte	classica
+394	informatica	informatica
+395	resistenza meccanica	meccanica
+396	geologia	geologia
+397	geografia umana	geografia
+397	geografia umana	umana
+398	controllo motorio	controllo
+399	storia dell' Asia	storia
+399	storia dell' Asia	dell'
+399	storia dell' Asia	asia
+400	algoritmi	science
+401	macroeconomia	economia
+402	tipologia linguistica	linguistica
+403	neurolinguistica	linguistica
+404	aerodinamica	dinamica
+405	filosofia femminista	filosofia
+405	filosofia femminista	femminista
+406	letteratura tedesca	letteratura
+406	letteratura tedesca	tedesca
+407	chimica fysica	chimica
+408	scienze sociali	scienze
+408	scienze sociali	sociali
+409	storia dell' arte e architettura orientale	storia
+409	storia dell' arte e architettura orientale	dell'
+409	storia dell' arte e architettura orientale	arte
+409	storia dell' arte e architettura orientale	orientale
+409	storia dell' arte e architettura orientale	architettura
+410	chimica inorganica	chimica
+410	chimica inorganica	organica
+411	veicoli aeronautici	veicoli
+412	nutrizione	nutrizione
+413	femminista, genere e studi di sessualità	genere
+413	femminista, genere e studi di sessualità	studi
+413	femminista, genere e studi di sessualità	sessualità
+413	femminista, genere e studi di sessualità	femminista
+414	chimica analitica	chimica
+415	le stelle, il mezzo interstellare e la galassia	science
+416	psicologia cognitiva	psicologia
+416	psicologia cognitiva	cognitiva
+417	etno-musicologia	musicologia
+418	sistemi e communicazione	sistemi
+419	storia politica	storia
+419	storia politica	politica
+420	chimica organica	chimica
+420	chimica organica	organica
+421	storia della religione	storia
+421	storia della religione	religione
+422	sistemi energetici	sistemi
+423	botanica	botanica
+424	patologia	patologia
+425	nutrizione clinica	nutrizione
+425	nutrizione clinica	clinica
+426	linguistica e filologia indoeuropea	linguistica
+426	linguistica e filologia indoeuropea	europea
+426	linguistica e filologia indoeuropea	filologia
+427	ingegneria geotecnica	ingegneria
+428	filosofia antica	filosofia
+428	filosofia antica	antica
+429	teoria musicale	teoria
+429	teoria musicale	musica
+430	propulsione e energia	energia
+431	influenza sociale e comunicazione politica	comunicazione
+431	influenza sociale e comunicazione politica	politica
+431	influenza sociale e comunicazione politica	sociale
+432	fisica nucleare	fisica
+432	fisica nucleare	nucleare
+433	grafica	science
+434	ecologia	ecologia
+435	nutrizione genetica	nutrizione
+435	nutrizione genetica	genetica
+435	nutrizione genetica	etica
+436	psicobiologia	biologia
+437	parassitologia	science
+438	storia economica	storia
+438	storia economica	economica
+439	morfologia	morfologia
+440	leteratura classica e filologia	classica
+440	leteratura classica e filologia	filologia
+441	semiconduttore e materiali ottici	materia
+441	semiconduttore e materiali ottici	materiali
+441	semiconduttore e materiali ottici	semiconduttore
+442	biofisica e chimica fisica	fisica
+442	biofisica e chimica fisica	chimica
+442	biofisica e chimica fisica	biofisica
+443	sistema informativo territoriale	sistema
+444	informatica scientifica	informatica
+444	informatica scientifica	scientifica
+445	interfacce uomo-macchina	science
+446	neurosicenza dei sistemi	sistemi
+446	neurosicenza dei sistemi	dei
+447	entomologia	science

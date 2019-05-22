@@ -1,0 +1,181 @@
+45534	antarctique	arctique
+45690	antarctique	climat
+47796	assainissement	eau
+47800	assainissement	environnement
+44589	atmosphère	polluant
+44608	atmosphère	environnement
+11863	baleine	océan
+11905	baleine	faune
+15614	biodiversité	environnement
+15642	biodiversité	qualité de l'environnement
+6215	biotope	écosystème
+6304	biotope	environnement
+14018	bruit	environnement
+14080	bruit	nuisance
+23833	changement climatique	océan
+23860	changement climatique	environnement
+32102	corrosion	eau
+32106	corrosion	environnement
+818	cours d'eau	eutrophisation
+980	cours d'eau	eau
+25984	cyclone	eau
+26006	cyclone	climat
+26801	dauphin	faune
+26854	dauphin	oiseau
+1464	déchet	pollution
+15167	déchet agricole	déchet
+14901	déchet chimique	déchet
+38575	déchet dangereux	déchet
+61983	déchet hospitalier	déchet
+34851	déchet industriel	déchet
+25275	déchet ménager	déchet
+44161	déchet métallique	déchet
+30861	déchet non récupérable	déchet
+61717	déchet radioactif	déchet
+63845	déchet électronique	déchet
+24924	désert	environnement
+18176	désertification	changement climatique
+18180	désertification	désert
+18274	désertification	environnement
+48864	eau	environnement
+48892	eau	qualité de l'environnement
+27048	eau de baignade	eau
+10024	eau potable	eau
+10077	eau potable	ressource en eau
+51525	environnement physique	environnement
+4956	estuaire	milieu marin
+4970	estuaire	eau
+5720	eutrophisation	pollution
+5772	eutrophisation	environnement
+53973	faune	lac
+50507	flore	acidification
+50515	flore	lac
+27564	gaz à effet de serre	atmosphère
+27565	gaz à effet de serre	polluant
+24658	gestion de l'eau	environnement
+39554	gestion des déchets	environnement
+43008	glace	eau
+43012	glace	environnement
+12635	impact sur l'environnement	zone tropicale
+12370	incendie	pollution
+12422	incendie	environnement
+29926	inondation	pollution
+29974	inondation	eau
+3393	insecte	faune
+3446	insecte	oiseau
+30492	littoral	milieu marin
+30506	littoral	eau
+32653	loup	faune
+32682	loup	singe
+8694	lutte contre la pollution	eau
+8698	lutte contre la pollution	environnement
+5981	lutte contre le gaspillage	recyclage des déchets
+52869	lynx	faune
+52922	lynx	oiseau
+30240	mer	eau
+30244	mer	environnement
+8890	mer noire	mer
+5403	mer rouge	océan indien
+45140	milieu marin	environnement
+45155	milieu marin	faune
+27777	montagne	littoral
+27850	montagne	environnement
+55576	nuisance électromagnétique	nuisance
+42728	océan	milieu marin
+42742	océan	eau
+10799	océan antarctique	océan
+28089	océan arctique	océan
+20641	océan atlantique	océan
+22503	océan indien	océan
+65862	océan pacifique	océan
+7352	ours	antarctique
+7383	ours	faune
+14797	ozone	polluant
+14816	ozone	environnement
+43678	parc national urbain	parc national
+4710	phoque	flore
+4723	phoque	faune
+33916	plaine	pollution
+33968	plaine	environnement
+18	politique de l'environnement de l'ue	politique de l'environnement
+44870	polluant	eau
+44874	polluant	environnement
+60284	polluant atmosphérique	polluant
+28895	polluant de l'eau	polluant
+33683	polluant stratosphérique	polluant
+36092	pollution	eau
+36096	pollution	environnement
+59187	pollution accidentelle	pollution
+45355	pollution acoustique	pollution
+47217	pollution atmosphérique	pollution
+47268	pollution atmosphérique	environnement
+39769	pollution automobile	pollution
+46951	pollution chimique	pollution
+3592	pollution de l'eau	pollution
+3644	pollution de l'eau	environnement
+3706	pollution de l'eau	nuisance
+70093	pollution des aliments	pollution
+40567	pollution des cours d'eau	pollution
+18754	pollution des côtes	pollution
+22744	pollution du sol	pollution
+70625	pollution industrielle	pollution
+57857	pollution locale	pollution
+41897	pollution marine	pollution
+6518	pollution organique	pollution
+29128	pollution par l'agriculture	pollution
+69295	pollution par les hydrocarbures	pollution
+11572	pollution par les métaux	pollution
+9178	pollution par les navires	pollution
+43227	pollution radioactive	pollution
+17690	pollution stratosphérique	pollution
+15828	pollution tellurique	pollution
+16094	pollution thermique	pollution
+69827	pollution transfrontière	pollution
+8413	poussière	polluant
+8494	poussière	nuisance
+10220	protection de l'environnement	mer
+10294	protection de l'environnement	environnement
+35290	protection des eaux	assainissement
+30776	prévention de la pollution	environnement
+30825	prévention de la pollution	ressource en eau
+24053	prévention des risques	littoral
+24126	prévention des risques	environnement
+34727	recyclage des déchets	gestion des déchets
+34766	recyclage des déchets	environnement
+36643	reptile	faune
+36696	reptile	oiseau
+2832	ressource minérale sous-marine	ressource minérale
+59572	rongeur	oiseau
+2262	réchauffement climatique	pollution
+2314	réchauffement climatique	environnement
+61700	singe	oiseau
+16944	stockage des déchets	environnement
+4438	sécheresse	eau
+4460	sécheresse	climat
+9672	séisme	cyclone
+9762	séisme	environnement
+19068	traitement de l'eau	eau
+1121	zone humide	biodiversité
+1190	zone humide	plaine
+26250	écosystème	eau
+26254	écosystème	environnement
+1959	écosystème marin	écosystème
+28294	écosystème terrestre	écosystème
+39288	élimination des déchets	environnement
+48598	épuisement des ressources	environnement
+49662	érosion	environnement
+49677	érosion	faune
+20328	île	mer
+20375	île	océan
+1	arctique	environnement
+2	climat	environnement
+3	qualité de l'environnement	environnement
+4	nuisance	environnement
+5	oiseau	environnement
+6	ressource en eau	environnement
+7	lac	environnement
+8	acidification	environnement
+9	zone tropicale	environnement
+10	parc national	environnement
+11	politique de l'environnement	environnement
+12	ressource minérale	environnement

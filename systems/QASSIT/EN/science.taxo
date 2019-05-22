@@ -1,0 +1,708 @@
+1	american film studies	american studies
+2	harmonic analysis and representation	analysis
+3	numerical analysis	analysis
+4	medieval history	ancient history
+5	asian art and architecture history	asian history
+6	bioelectrical and neuroengineering	biochemical and biomolecular engineering
+7	biogeochemistry	biochemical and biomolecular engineering
+8	biological engineering	biochemical and biomolecular engineering
+9	biological psychology	biochemical and biomolecular engineering
+10	biophysics	biochemical and biomolecular engineering
+11	cancer biology	biochemical and biomolecular engineering
+12	cell biology	biochemical and biomolecular engineering
+13	cellular neuroscience	biochemical and biomolecular engineering
+14	cellular physiology	biochemical and biomolecular engineering
+15	chemical engineering	biochemical and biomolecular engineering
+16	cosmology	biochemical and biomolecular engineering
+17	electromagnetics	biochemical and biomolecular engineering
+18	external galaxies	biochemical and biomolecular engineering
+19	glaciology	biochemical and biomolecular engineering
+20	metallurgy	biochemical and biomolecular engineering
+21	molecular, cellular, and tissue engineering	biochemical and biomolecular engineering
+22	optics	biochemical and biomolecular engineering
+23	petroleum engineering	biochemical and biomolecular engineering
+24	photonics	biochemical and biomolecular engineering
+25	physics	biochemical and biomolecular engineering
+26	stars, interstellar medium and the galaxy	biochemical and biomolecular engineering
+27	the sun and the solar system	biochemical and biomolecular engineering
+28	thermodynamics	biochemical and biomolecular engineering
+29	toxicology	biochemical and biomolecular engineering
+30	tribology	biochemical and biomolecular engineering
+31	biometry	bioelectrical and neuroengineering
+32	catalysis and reaction engineering	chemical engineering
+33	analytical chemistry	chemistry
+34	environmental chemistry	chemistry
+35	food chemistry	chemistry
+36	inorganic chemistry	chemistry
+37	materials chemistry	chemistry
+38	medicinal chemistry	chemistry
+39	organic chemistry	chemistry
+40	physical chemistry	chemistry
+41	polymer chemistry	chemistry
+42	digital circuits	circuits
+43	communication technology and new media	communication
+44	health communication	communication
+45	international and intercultural communication	communication
+46	interpersonal/small group communication	communication
+47	mass communication	communication
+48	organizational communication	communication
+49	social influence and political communication	communication
+50	rhetoric and composition	composition
+51	computer-aided engineering and design	computer engineering
+52	cosmology, relativity, and gravity	cosmology
+53	dynamics/dynamical systems	dynamical systems
+54	south and southeast asian languages and societies	east asian languages and societies
+55	aquatic ecology	ecology
+56	behavioral ecology	ecology
+57	demography, population, and ecology	ecology
+58	evolutionary ecology	ecology
+59	microbial ecology	ecology
+60	terrestrial ecology	ecology
+61	agricultural and resource economics	economics
+62	behavioral economics	economics
+63	international economics	economics
+64	labor economics	economics
+65	macroeconomics	economics
+66	public economics	economics
+67	acoustics, dynamics, and controls	engineering
+68	aeronautical vehicles	engineering
+69	aerospace engineering	engineering
+70	air traffic control	engineering
+71	civil engineering	engineering
+72	climate	engineering
+73	construction engineering/management	engineering
+74	control theory	engineering
+75	dynamic systems	engineering
+76	dynamical systems	engineering
+77	electrical and electronics	engineering
+78	electrical engineering	engineering
+79	electro-mechanical systems	engineering
+80	engineering science	engineering
+81	science	engineering
+82	ergonomics	engineering
+83	exercise physiology	engineering
+84	forest management	engineering
+85	geotechnical engineering	engineering
+86	growth and development	engineering
+87	industrial engineering	engineering
+88	instrumentation	engineering
+89	mechanical engineering	engineering
+90	motor control	engineering
+91	multi-vehicle systems	engineering
+92	navigation, guidance, control and dynamics	engineering
+93	ocean engineering	engineering
+94	operational research	engineering
+95	place and environment	engineering
+96	process control and systems	engineering
+97	space vehicles	engineering
+98	structural engineering	engineering
+99	systems and integrative physiology	engineering
+100	systems engineering	engineering
+101	systems neuroscience	engineering
+102	aerodynamics	engineering science
+103	aerodynamics	science
+104	african languages and societies	engineering science
+105	african languages and societies	science
+106	agronomy	engineering science
+107	agronomy	science
+108	algebra	engineering science
+109	algebra	science
+110	algebraic geometry	engineering science
+111	algebraic geometry	science
+112	algorithms	engineering science
+113	algorithms	science
+114	american politics	engineering science
+115	american politics	science
+116	american studies	engineering science
+117	american studies	science
+118	analysis	engineering science
+119	analysis	science
+120	anthropology	engineering science
+121	anthropology	science
+122	applied dynamics	engineering science
+123	applied dynamics	science
+124	applied linguistics	engineering science
+125	applied linguistics	science
+126	applied mechanics	engineering science
+127	applied mechanics	science
+128	applied statistics	engineering science
+129	applied statistics	science
+130	aquaculture and fisheries	engineering science
+131	aquaculture and fisheries	science
+132	archaeological	engineering science
+133	archaeological	science
+134	artificial intelligence	engineering science
+135	artificial intelligence	science
+136	astrodynamics	engineering science
+137	astrodynamics	science
+138	astronomy and astrophysics	engineering science
+139	astronomy and astrophysics	science
+140	astrophysics and astronomy	engineering science
+141	astrophysics and astronomy	science
+142	atmospheric sciences	engineering science
+143	atmospheric sciences	science
+144	bacteriology	engineering science
+145	bacteriology	science
+146	behavioral neurobiology	engineering science
+147	behavioral neurobiology	science
+148	biblical studies	engineering science
+149	biblical studies	science
+150	biochemical and biomolecular engineering	engineering science
+151	biochemical and biomolecular engineering	science
+152	biochemistry	engineering science
+153	biochemistry	science
+154	biological and physical	engineering science
+155	biological and physical	science
+156	biomaterials	engineering science
+157	biomaterials	science
+158	biomechanical engineering	engineering science
+159	biomechanical engineering	science
+160	biomechanics	engineering science
+161	biomechanics	science
+162	biomedical	engineering science
+163	biomedical	science
+164	biostatistics	engineering science
+165	biostatistics	science
+166	biotransport	engineering science
+167	biotransport	science
+168	botany	engineering science
+169	botany	science
+170	broadcast studies	engineering science
+171	broadcast studies	science
+172	ceramic materials	engineering science
+173	ceramic materials	science
+174	chemistry	engineering science
+175	chemistry	science
+176	circuits	engineering science
+177	circuits	science
+178	classical literature and philology	engineering science
+179	classical literature and philology	science
+180	classics	engineering science
+181	classics	science
+182	cognition and perception	engineering science
+183	cognition and perception	science
+184	communication	engineering science
+185	communication	science
+186	comparative literature	engineering science
+187	comparative literature	science
+188	comparative politics	engineering science
+189	comparative politics	science
+190	compilers	engineering science
+191	compilers	science
+192	complex fluids	engineering science
+193	complex fluids	science
+194	composition	engineering science
+195	composition	science
+196	computational biology	engineering science
+197	computational biology	science
+198	computer architecture	engineering science
+199	computer architecture	science
+200	computer engineering	engineering science
+201	computer engineering	science
+202	computer science	engineering science
+203	computer science	science
+204	cosmochemistry	engineering science
+205	cosmochemistry	science
+206	criminology	engineering science
+207	criminology	science
+208	critical and cultural studies	engineering science
+209	critical and cultural studies	science
+210	crop sciences	engineering science
+211	crop sciences	science
+212	cultural anthropology	engineering science
+213	cultural anthropology	science
+214	dairy science	engineering science
+215	dairy science	science
+216	data storage systems	engineering science
+217	data storage systems	science
+218	demography, population, and ecology	engineering science
+219	demography, population, and ecology	science
+220	developmental biology	engineering science
+221	developmental biology	science
+222	digital communications	engineering science
+223	digital communications	science
+224	ecology	engineering science
+225	ecology	science
+226	econometrics	engineering science
+227	econometrics	science
+228	economic theory	engineering science
+229	economic theory	science
+230	economics	engineering science
+231	economics	science
+232	endocrinology	engineering science
+233	endocrinology	science
+234	energy systems	engineering science
+235	energy systems	science
+236	engineering	engineering science
+237	engineering	science
+238	engineering mechanics	engineering science
+239	engineering mechanics	science
+240	english language and literature	engineering science
+241	english language and literature	science
+242	entomology	engineering science
+243	entomology	science
+244	environmental engineering	engineering science
+245	environmental engineering	science
+246	environmental health	engineering science
+247	environmental health	science
+248	environmental sciences	engineering science
+249	environmental sciences	science
+250	epidemiology	engineering science
+251	epidemiology	science
+252	epistemology	engineering science
+253	epistemology	science
+254	esthetics	engineering science
+255	esthetics	science
+256	ethics	engineering science
+257	ethics	science
+258	ethnic studies	engineering science
+259	ethnic studies	science
+260	ethnomusicology	engineering science
+261	ethnomusicology	science
+262	european languages and societies	engineering science
+263	european languages and societies	science
+264	family, life course, and society	engineering science
+265	family, life course, and society	science
+266	first language acquisition	engineering science
+267	first language acquisition	science
+268	fluid dynamics	engineering science
+269	fluid dynamics	science
+270	fluid mechanics	engineering science
+271	fluid mechanics	science
+272	food processing	engineering science
+273	food processing	science
+274	food science	engineering science
+275	food science	science
+276	forest biology	engineering science
+277	forest biology	science
+278	forest sciences	engineering science
+279	forest sciences	science
+280	french and francophone literature	engineering science
+281	french and francophone literature	science
+282	fresh water studies	engineering science
+283	fresh water studies	science
+284	gender and sexuality	engineering science
+285	gender and sexuality	science
+286	genetics	engineering science
+287	genetics	science
+288	genomics	engineering science
+289	genomics	science
+290	geochemistry	engineering science
+291	geochemistry	science
+292	geographic information sciences	engineering science
+293	geographic information sciences	science
+294	geography	engineering science
+295	geography	science
+296	geology	engineering science
+297	geology	science
+298	geometry and topology	engineering science
+299	geometry and topology	science
+300	geophysics	engineering science
+301	geophysics	science
+302	german literature	engineering science
+303	german literature	science
+304	graphics	engineering science
+305	graphics	science
+306	hardware systems	engineering science
+307	hardware systems	science
+308	health psychology	engineering science
+309	health psychology	science
+310	heat transfer, combustion	engineering science
+311	heat transfer, combustion	science
+312	history	engineering science
+313	history	science
+314	history of science, technology, and medicine	engineering science
+315	history of science, technology, and medicine	science
+316	horticulture	engineering science
+317	horticulture	science
+318	human computer interfaces	engineering science
+319	human computer interfaces	science
+320	humanities	engineering science
+321	humanities	science
+322	immunology	engineering science
+323	immunology	science
+324	immunopathology	engineering science
+325	immunopathology	science
+326	immunoprophylaxis	engineering science
+327	immunoprophylaxis	science
+328	industrial organization	engineering science
+329	industrial organization	science
+330	inequality and stratification	engineering science
+331	inequality and stratification	science
+332	information systems	engineering science
+333	information systems	science
+334	international economics	engineering science
+335	international economics	science
+336	international relations	engineering science
+337	international relations	science
+338	journalism studies	engineering science
+339	journalism studies	science
+340	kinesiology	engineering science
+341	kinesiology	science
+342	language description	engineering science
+343	language description	science
+344	language documentation	engineering science
+345	language documentation	science
+346	latin american languages and societies	engineering science
+347	latin american languages and societies	science
+348	life science	engineering science
+349	life science	science
+350	linguistic anthropology	engineering science
+351	linguistic anthropology	science
+352	linguistic diversity	engineering science
+353	linguistic diversity	science
+354	linguistics	engineering science
+355	linguistics	science
+356	literature in english, anglophone	engineering science
+357	literature in english, anglophone	science
+358	literature in english, british isles	engineering science
+359	literature in english, british isles	science
+360	literature in english, north america	engineering science
+361	literature in english, north america	science
+362	logic and foundations	engineering science
+363	logic and foundations	science
+364	manufacturing	engineering science
+365	manufacturing	science
+366	materials science	engineering science
+367	materials science	science
+368	mathematics	engineering science
+369	mathematics	science
+370	medicine and health	engineering science
+371	medicine and health	science
+372	membrane science	engineering science
+373	membrane science	science
+374	metaphysics	engineering science
+375	metaphysics	science
+376	meteorology	engineering science
+377	meteorology	science
+378	methodologies	engineering science
+379	methodologies	science
+380	microbiology	engineering science
+381	microbiology	science
+382	models and methods	engineering science
+383	models and methods	science
+384	molecular biology	engineering science
+385	molecular biology	science
+386	molecular genetics	engineering science
+387	molecular genetics	science
+388	morphology	engineering science
+389	morphology	science
+390	music	engineering science
+391	music	science
+392	musicology	engineering science
+393	musicology	science
+394	nanotechnology fabrication	engineering science
+395	nanotechnology fabrication	science
+396	nature and society relations	engineering science
+397	nature and society relations	science
+398	networking	engineering science
+399	networking	science
+400	networks	engineering science
+401	networks	science
+402	neurolinguistics	engineering science
+403	neurolinguistics	science
+404	neuroscience	engineering science
+405	neuroscience	science
+406	non-linear dynamic	engineering science
+407	non-linear dynamic	science
+408	non-linear dynamics	engineering science
+409	non-linear dynamics	science
+410	number theory	engineering science
+411	number theory	science
+412	nutrition	engineering science
+413	nutrition	science
+414	nutritional epidemiology	engineering science
+415	nutritional epidemiology	science
+416	oceanography	engineering science
+417	oceanography	science
+418	ordinary differential equations	engineering science
+419	ordinary differential equations	science
+420	os	engineering science
+421	os	science
+422	paleobiology	engineering science
+423	paleobiology	science
+424	paleontology	engineering science
+425	paleontology	science
+426	parasitology	engineering science
+427	parasitology	science
+428	partial differential equations	engineering science
+429	partial differential equations	science
+430	pathology	engineering science
+431	pathology	science
+432	performance studies	engineering science
+433	performance studies	science
+434	personality and social contexts	engineering science
+435	personality and social contexts	science
+436	pharmaceutics	engineering science
+437	pharmaceutics	science
+438	pharmacology	engineering science
+439	pharmacology	science
+440	philosophy	engineering science
+441	philosophy	science
+442	phonetics	engineering science
+443	phonetics	science
+444	phonology	engineering science
+445	phonology	science
+446	physical processes	engineering science
+447	physical processes	science
+448	physical science	engineering science
+449	physical science	science
+450	physiology	engineering science
+451	physiology	science
+452	plant biology	engineering science
+453	plant biology	science
+454	plant breeding	engineering science
+455	plant breeding	science
+456	plant genetics	engineering science
+457	plant genetics	science
+458	plant science	engineering science
+459	plant science	science
+460	playwriting	engineering science
+461	playwriting	science
+462	political science	engineering science
+463	political science	science
+464	political theory	engineering science
+465	political theory	science
+466	politics and social change	engineering science
+467	politics and social change	science
+468	polymer and organic materials	engineering science
+469	polymer and organic materials	science
+470	polymer science	engineering science
+471	polymer science	science
+472	population biology	engineering science
+473	population biology	science
+474	portuguese literature	engineering science
+475	portuguese literature	science
+476	poultry science	engineering science
+477	poultry science	science
+478	power and energy	engineering science
+479	power and energy	science
+480	pragmatics	engineering science
+481	pragmatics	science
+482	probability	engineering science
+483	probability	science
+484	programming languages	engineering science
+485	programming languages	science
+486	propulsion and power	engineering science
+487	propulsion and power	science
+488	psycholinguistics	engineering science
+489	psycholinguistics	science
+490	psychology	engineering science
+491	psychology	science
+492	public administration	engineering science
+493	public administration	science
+494	public affairs	engineering science
+495	public affairs	science
+496	public health	engineering science
+497	public health	science
+498	public policy	engineering science
+499	public policy	science
+500	pulp/paper technology	engineering science
+501	pulp/paper technology	science
+502	race and ethnicity	engineering science
+503	race and ethnicity	science
+504	religion	engineering science
+505	religion	science
+506	religious thought	engineering science
+507	religious thought	science
+508	robotics	engineering science
+509	robotics	science
+510	scientific computing	engineering science
+511	scientific computing	science
+512	seismology	engineering science
+513	seismology	science
+514	semantics	engineering science
+515	semantics	science
+516	set theory	engineering science
+517	set theory	science
+518	signal processing	engineering science
+519	signal processing	science
+520	slavic languages and societies	engineering science
+521	slavic languages and societies	science
+522	social anthropology	engineering science
+523	social anthropology	science
+524	social control, law, crime, and deviance	engineering science
+525	social control, law, crime, and deviance	science
+526	social science	engineering science
+527	social science	science
+528	sociolinguistics	engineering science
+529	sociolinguistics	science
+530	sociology	engineering science
+531	sociology	science
+532	software engineering	engineering science
+533	software engineering	science
+534	soil science	engineering science
+535	soil science	science
+536	spanish literature	engineering science
+537	spanish literature	science
+538	speech and rhetorical studies	engineering science
+539	speech and rhetorical studies	science
+540	statistical methodology	engineering science
+541	statistical methodology	science
+542	statistical theory	engineering science
+543	statistical theory	science
+544	structural biology	engineering science
+545	structural biology	science
+546	structural materials	engineering science
+547	structural materials	science
+548	structures and materials	engineering science
+549	structures and materials	science
+550	syntax	engineering science
+551	syntax	science
+552	systems and communications	engineering science
+553	systems and communications	science
+554	tectonics and structure	engineering science
+555	tectonics and structure	science
+556	theatre	engineering science
+557	theatre	science
+558	theology	engineering science
+559	theology	science
+560	theory, knowledge and science	engineering science
+561	theory, knowledge and science	science
+562	transport phenomena	engineering science
+563	transport phenomena	science
+564	urban studies	engineering science
+565	urban studies	science
+566	virology	engineering science
+567	virology	science
+568	vulcanology	engineering science
+569	vulcanology	science
+570	wood science	engineering science
+571	wood science	science
+572	work, economy and organizations	engineering science
+573	work, economy and organizations	science
+574	zoology	engineering science
+575	zoology	science
+576	ethics and political philosophy	ethics
+577	second language acquisition	first language acquisition
+578	food biotechnology	food science
+579	food chemistry	food science
+580	food microbiology	food science
+581	french and francophone language and literature	french and francophone literature
+582	feminist, gender and sexuality studies	gender and sexuality
+583	gender, race, sexuality, and ethnicity in communication	gender and sexuality
+584	human geography	geography
+585	physical and environmental geography	geography
+586	german language and literature	german literature
+587	african history	history
+588	american art and architecture history	history
+589	american film studies	history
+590	american material culture	history
+591	american popular culture	history
+592	ancient history	history
+593	asian history	history
+594	byzantine and modern greek	history
+595	classical archaeology and art history	history
+596	contemporary art history	history
+597	cultural history	history
+598	diplomatic history	history
+599	east asian languages and societies	history
+600	economic history	history
+601	european history	history
+602	gender history	history
+603	history of philosophy	history
+604	history of religion	history
+605	history of science, technology, and medicine	history
+606	intellectual history	history
+607	islamic world/near east history	history
+608	latin american history	history
+609	military history	history
+610	modern art and architecture history	history
+611	near eastern languages and societies	history
+612	political history	history
+613	social history	history
+614	theatre history	history
+615	theory and criticism history	history
+616	united states history	history
+617	women’s history	history
+618	history of religions of eastern origins	history of religion
+619	history of religions of western origin	history of religion
+620	immunology of infectious disease	immunology
+621	latin american literature	latin american history
+622	animal science	life science
+623	earth science	life science
+624	anthropological linguistics	linguistics
+625	applied linguistics	linguistics
+626	comparative and historical linguistics	linguistics
+627	computational linguistics	linguistics
+628	discourse linguistics	linguistics
+629	french linguistics	linguistics
+630	german linguistics	linguistics
+631	indo-european linguistics and philology	linguistics
+632	spanish linguistics	linguistics
+633	typological linguistics	linguistics
+634	literature in english, north america, ethnic and minority	literature in english, north america
+635	logic and foundations of mathematics	logic and foundations
+636	electronic devices and semiconductor manufacturing	manufacturing
+637	bioimaging and biomedical optics	materials science
+638	materials chemistry	materials science
+639	mechanics of materials	materials science
+640	semiconductor and optical materials	materials science
+641	applied mathematics	mathematics
+642	discrete mathematics and combinatorics	mathematics
+643	logic and foundations of mathematics	mathematics
+644	medicinal-pharmaceutical chemistry	medicinal chemistry
+645	environmental microbiology	microbiology
+646	pathogenic microbiology	microbiology
+647	ancient, medieval, renaissance and baroque art and architecture	modern art and architecture history
+648	music theory	music
+649	cellular neuroscience	neuroscience
+650	cognitive neuroscience	neuroscience
+651	computational neuroscience	neuroscience
+652	developmental neuroscience	neuroscience
+653	molecular neuroscience	neuroscience
+654	systems neuroscience	neuroscience
+655	elementary particles and fields and string theory	number theory
+656	biochemical nutrition	nutrition
+657	clinical nutrition	nutrition
+658	community nutrition	nutrition
+659	comparative nutrition	nutrition
+660	genetic nutrition	nutrition
+661	human nutrition	nutrition
+662	international nutrition	nutrition
+663	molecular nutrition	nutrition
+664	ancient philosophy	philosophy
+665	continental philosophy	philosophy
+666	ethics and political philosophy	philosophy
+667	feminist philosophy	philosophy
+668	philosophy of language	philosophy
+669	philosophy of mind	philosophy
+670	philosophy of religion	philosophy
+671	philosophy of science	philosophy
+672	physical chemistry	physical science
+673	atomic, molecular and optical physics	physics
+674	biological and chemical physics	physics
+675	condensed matter physics	physics
+676	cosmology, relativity, and gravity	physics
+677	elementary particles and fields and string theory	physics
+678	engineering physics	physics
+679	mineral physics	physics
+680	nuclear physics	physics
+681	plasma and beam physics	physics
+682	quantum physics	physics
+683	cellular physiology	physiology
+684	comparative physiology	physiology
+685	evolutionary physiology	physiology
+686	exercise physiology	physiology
+687	microbial physiology	physiology
+688	molecular physiology	physiology
+689	plant pathology	plant science
+690	statistics and probability	probability
+691	biological psychology	psychology
+692	clinical psychology	psychology
+693	cognitive psychology	psychology
+694	community psychology	psychology
+695	developmental psychology	psychology
+696	health psychology	psychology
+697	industrial and organizational psychology	psychology
+698	psychology of movement	psychology
+699	social psychology	psychology
+700	public relations/advertising	public policy
+701	philosophy of religion	religion
+702	social psychology and interaction	social psychology
+703	regional sociology	sociology
+704	rural sociology	sociology
+705	sociology of culture	sociology
+706	multidisciplinary design optimization	systems engineering
+707	systems and integrative engineering	systems engineering
+708	dramatic literature, criticism and theory	theory and criticism history

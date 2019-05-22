@@ -1,0 +1,459 @@
+52909	abnormal psychology	psychology
+131710	aeromechanics	mechanics
+10040	aeronautics	science
+87029	agrobiology	biology
+35780	algebra	mathematics
+103307	analysis	mathematics
+59931	analytic geometry	geometry
+59963	analytic geometry	calculus
+60134	analytic geometry	mathematics
+69732	anatomy	biomedical science
+33028	angiology	anatomy
+16682	anthropology	science
+16716	anthropology	social science
+29507	applied mathematics	mathematics
+26709	applied psychology	psychology
+26713	applied psychology	medicine
+12727	astrodynamics	dynamics
+81912	astrometry	astronomy
+123438	astrophysics	physics
+123609	astrophysics	astronomy
+20073	avionics	electronics
+20282	avionics	mathematics
+129801	biochemistry	chemistry
+4140	bioclimatology	climatology
+4360	bioclimatology	ecology
+81379	biogeography	geography
+81481	biogeography	ecology
+81494	biogeography	biology
+133287	biomedical science	science
+133293	biomedical science	medical science
+121547	biomedicine	medicine
+36353	biophysics	physics
+36476	biophysics	biology
+36512	biophysics	biochemistry
+16458	biosystematics	ichthyology
+16577	biosystematics	systematics
+57720	botany	natural science
+57878	botany	biology
+129966	brain science	science
+68990	calculus	mathematics
+25544	cardiology	medical science
+25599	cardiology	neurology
+25606	cardiology	medicine
+25682	cardiology	surgery
+25788	cardiology	internal medicine
+55910	celestial mechanics	physics
+56064	celestial mechanics	mechanics
+56082	celestial mechanics	astronomy
+39594	civics	social science
+28235	classical mechanics	physics
+28389	classical mechanics	mechanics
+28400	classical mechanics	mathematics
+106829	clinical anatomy	anatomy
+119329	clinical psychology	psychology
+2660	cognitive neuroscience	science
+2669	cognitive neuroscience	cognitive science
+2724	cognitive neuroscience	psychology
+2945	cognitive neuroscience	neuroscience
+114532	cognitive psychology	psychology
+32181	cognitive science	science
+32214	cognitive science	social science
+32244	cognitive science	psychology
+74357	comparative anatomy	anatomy
+74483	comparative anatomy	biology
+74494	comparative anatomy	zoology
+39993	comparative psychology	psychology
+91883	compound morphology	morphology
+27425	computational linguistics	linguistics
+27628	computational linguistics	clinical psychology
+40499	correlation	analysis
+40550	correlation	statistics
+33654	cosmetic dentistry	dentistry
+67152	cosmology	astronomy
+135000	cryobiology	biology
+124632	cryptanalysis	analysis
+12992	crystallography	science
+13012	crystallography	biophysics
+13196	crystallography	chemistry
+70588	curvilinear correlation	correlation
+74846	cytogenetics	genetics
+1356	deixis	pragmatics
+71405	dental anatomy	anatomy
+116088	dental surgery	surgery
+27752	dentistry	science
+27791	dentistry	obstetrics
+27820	dentistry	medicine
+100370	derivational morphology	morphology
+127067	descriptive grammar	grammar
+120783	descriptive linguistics	linguistics
+46681	developmental anatomy	anatomy
+125971	developmental psychology	psychology
+34515	dialect geography	geography
+44096	differential calculus	calculus
+44267	differential calculus	mathematics
+67349	dynamics	physics
+67503	dynamics	mechanics
+67514	dynamics	mathematics
+21110	earth science	science
+21189	earth science	natural science
+111752	ecology	biology
+26397	economic geography	geography
+103333	economic geology	geology
+18896	economics	science
+18930	economics	social science
+30094	electrochemistry	physical chemistry
+30167	electrochemistry	analysis
+30170	electrochemistry	chemistry
+59455	electromagnetism	magnetism
+59600	electromagnetism	physics
+76409	electron optics	optics
+22890	electrostatics	statics
+23038	electrostatics	electromagnetism
+49967	elementary geometry	geometry
+50171	elementary geometry	mathematics
+62179	embryology	anatomy
+122654	emergency medicine	medicine
+65869	endocrinology	anatomy
+65882	endocrinology	comparative anatomy
+47388	entomology	natural science
+47533	entomology	ecology
+47546	entomology	biology
+61235	enzymology	biochemistry
+117339	epidemiology	psychiatry
+57127	ethology	ecology
+57140	ethology	biology
+5612	eugenics	science
+5843	eugenics	genetics
+112121	exobiology	biology
+104569	experimental psychology	psychology
+115410	femtochemistry	chemistry
+46270	finance	medicine
+46403	finance	analysis
+46454	finance	statistics
+37829	fluid mechanics	physics
+37983	fluid mechanics	mechanics
+64352	forensic medicine	medicine
+3855	formal semantics	semantics
+91421	fourier analysis	analysis
+123030	fractal geometry	geometry
+123233	fractal geometry	mathematics
+95759	functional anatomy	anatomy
+83333	genetic engineering	genetics
+83392	genetic engineering	biotechnology
+114335	genetics	biology
+21479	genomics	science
+21716	genomics	biology
+21769	genomics	biotechnology
+84757	geochemistry	physical geography
+84779	geochemistry	analysis
+84782	geochemistry	chemistry
+131351	geodesy	mathematics
+4821	geology	natural history
+4874	geology	science
+4953	geology	natural science
+56735	geometry	analysis
+56813	geometry	mathematics
+27014	geophysics	science
+27128	geophysics	physics
+42190	geopolitics	finance
+42264	geopolitics	geography
+42415	geopolitics	politics
+109551	geriatrics	internal medicine
+48617	grammar	analysis
+48684	grammar	mechanics
+122327	gross anatomy	anatomy
+24818	group theory	algebra
+24875	group theory	geometry
+25079	group theory	mathematics
+75497	gynecology	surgery
+75577	gynecology	ecology
+77380	hematology	pathology
+77471	hematology	biochemistry
+10882	hemodynamics	dynamics
+102169	herpetology	zoology
+37019	historical linguistics	linguistics
+13703	home economics	economics
+13730	home economics	science
+101288	hydrodynamics	dynamics
+87709	hydrology	physical geography
+69753	hydrostatics	statics
+69932	hydrostatics	physics
+97200	hyperbolic geometry	geometry
+97403	hyperbolic geometry	mathematics
+82612	ichthyology	zoology
+115779	immunochemistry	chemistry
+115847	immunochemistry	biochemistry
+110276	immunology	biology
+110322	immunology	biomedical science
+128672	immunopathology	pathology
+42437	inflectional morphology	morphology
+59118	information science	science
+80723	inorganic chemistry	chemistry
+2030	integral calculus	calculus
+2201	integral calculus	mathematics
+121178	internal medicine	medicine
+14532	jungian psychology	psychology
+23693	kinematics	science
+23894	kinematics	analysis
+23961	kinematics	mechanics
+79132	lexical semantics	semantics
+15206	life science	science
+60448	limnology	ecology
+60461	limnology	biology
+62457	linear algebra	algebra
+62717	linear algebra	mathematics
+25237	macrobiotics	medicine
+17051	magnetism	science
+17165	magnetism	physics
+47156	malacology	paleontology
+47188	malacology	zoology
+293	mammalogy	paleontology
+325	mammalogy	zoology
+72265	marine archeology	archeology
+108951	matrix algebra	algebra
+109211	matrix algebra	mathematics
+128030	mechanics	mathematics
+31074	medical science	science
+24495	memory	psychology
+24501	memory	electronics
+24636	memory	experimental psychology
+24663	memory	cognitive psychology
+3398	metallurgy	science
+3466	metallurgy	medicine
+36887	metamathematics	mathematics
+62980	meteorology	orology
+14800	microbiology	life science
+14837	microbiology	science
+14905	microbiology	medicine
+15074	microbiology	biology
+5954	microeconomics	economics
+72512	microscopic anatomy	anatomy
+94040	molecular biology	biology
+86230	molecular genetics	molecular biology
+86285	molecular genetics	genetics
+86291	molecular genetics	biology
+815	morphology	science
+857	morphology	linguistics
+868	morphology	grammar
+1016	morphology	analysis
+1052	morphology	biology
+60703	myology	anatomy
+9302	natural history	science
+58011	natural science	science
+54352	negative correlation	correlation
+13429	neonatology	medicine
+13487	neonatology	gynecology
+13505	neonatology	surgery
+44836	neuroanatomy	anatomy
+44849	neuroanatomy	comparative anatomy
+45011	neuroanatomy	neuroscience
+22586	neurobiology	science
+22647	neurobiology	neurology
+22650	neurobiology	psychology
+22686	neurobiology	endocrinology
+22762	neurobiology	molecular biology
+22823	neurobiology	biology
+22871	neurobiology	neuroscience
+125580	neurolinguistics	linguistics
+51351	neurology	urology
+51436	neurology	medicine
+51618	neurology	internal medicine
+51653	neurology	neuroscience
+25878	neurophysiology	physiology
+25907	neurophysiology	science
+25968	neurophysiology	neurology
+26192	neurophysiology	neuroscience
+12260	neuropsychiatry	medical science
+12315	neuropsychiatry	neurology
+12543	neuropsychiatry	psychiatry
+134025	neuroscience	science
+77643	non euclidean geometry	geometry
+43871	nonparametric statistics	statistics
+19265	nuclear medicine	science
+19333	nuclear medicine	medicine
+19336	nuclear medicine	radiology
+19379	nuclear medicine	physics
+108309	nuclear physics	physics
+10410	numerical analysis	applied mathematics
+10610	numerical analysis	analysis
+10661	numerical analysis	statistics
+10688	numerical analysis	mathematics
+43318	obstetrics	medicine
+43394	obstetrics	surgery
+41104	oncology	medicine
+41150	oncology	physics
+41273	oncology	biology
+78080	ophthalmology	surgery
+9671	optics	science
+9785	optics	physics
+118362	organic chemistry	chemistry
+14096	orthodontics	dentistry
+17426	orthopedics	medical science
+17564	orthopedics	surgery
+18302	otology	surgery
+78642	paleoanthropology	anthropology
+78890	paleoanthropology	paleontology
+34262	paleobiology	biology
+85764	paleobotany	botany
+85901	paleobotany	paleontology
+85922	paleobotany	biology
+128863	paleoclimatology	climatology
+126869	paleoecology	ecology
+39347	paleoethnography	ethnography
+83593	paleogeography	geography
+88573	paleogeology	geology
+11808	paleomammalogy	mammalogy
+5425	paleopathology	pathology
+64786	paleozoology	oology
+64868	paleozoology	paleontology
+64900	paleozoology	zoology
+34794	partial correlation	correlation
+130449	particle physics	physics
+96218	pathology	analysis
+15575	pediatrics	science
+15643	pediatrics	medicine
+15768	pediatrics	anesthesiology
+102226	petroleum geology	geology
+31643	petrology	analysis
+57503	pharmacogenetics	genetics
+57529	pharmacogenetics	psychopharmacology
+66258	pharmacokinetics	pharmacology
+66329	pharmacokinetics	analysis
+77033	pharmacology	chemistry
+8975	phonology	linguistics
+93638	photochemistry	chemistry
+112590	physical anthropology	anthropology
+76295	physical chemistry	chemistry
+95032	physical geography	geography
+29661	physiological psychology	psychology
+29882	physiological psychology	neuroscience
+17789	physiology	science
+18026	physiology	biology
+18072	physiology	biomedical science
+69284	phytochemistry	chemistry
+69353	phytochemistry	biochemistry
+31886	plane geometry	geometry
+32090	plane geometry	mathematics
+65504	plasma physics	physics
+49593	pneumatics	electronics
+49602	pneumatics	natural science
+98263	positive correlation	correlation
+8606	prescriptive linguistics	linguistics
+120281	problem solving	mathematics
+21923	projective geometry	geometry
+58580	proteomics	analysis
+58616	proteomics	biology
+6583	protoarcheology	archeology
+93200	protozoology	oology
+93313	protozoology	zoology
+135236	psychodynamics	dynamics
+123823	psychopharmacology	pharmacology
+106095	psychophysics	physics
+32828	pure mathematics	mathematics
+6737	quadratics	algebra
+2310	quantum electrodynamics	quantum field theory
+2395	quantum electrodynamics	dynamics
+35984	quantum field theory	physics
+36149	quantum field theory	mathematics
+23324	quantum mechanics	science
+23438	quantum mechanics	physics
+23566	quantum mechanics	organic chemistry
+23592	quantum mechanics	mechanics
+23603	quantum mechanics	mathematics
+107940	quantum physics	physics
+70473	radio astronomy	astronomy
+47915	radiobiology	biology
+48251	radiochemistry	chemistry
+55259	radiology	analysis
+46105	realpolitik	politics
+83951	regional anatomy	anatomy
+112522	rheumatology	podiatry
+49433	set theory	mathematics
+33563	silviculture	forestry
+53181	social anthropology	anthropology
+35166	social psychology	social science
+35196	social psychology	psychology
+35362	social psychology	sociology
+41406	social science	science
+89981	sociobiology	biology
+37388	sociolinguistics	linguistics
+80265	solar physics	physics
+80406	solar physics	astrophysics
+80436	solar physics	astronomy
+63990	solid geometry	geometry
+64193	solid geometry	mathematics
+133032	solid state physics	physics
+65090	space medicine	medicine
+3104	spherical geometry	geometry
+3308	spherical geometry	mathematics
+3315	spherical geometry	astronomy
+71732	sports medicine	medicine
+85348	spurious correlation	correlation
+4619	statics	physics
+4773	statics	mechanics
+11261	statistical mechanics	physics
+11415	statistical mechanics	mechanics
+122126	statistics	mathematics
+84190	structural genomics	genomics
+95558	structuralism	mathematics
+20346	supply side economics	economics
+82280	surgery	neuroscience
+48828	synchronic linguistics	linguistics
+7130	syntax	linguistics
+7141	syntax	grammar
+75867	taxonomy	ichthyology
+75959	taxonomy	biology
+1553	therapeutics	science
+1621	therapeutics	medicine
+1683	therapeutics	pharmacology
+1717	therapeutics	toxicology
+1790	therapeutics	biology
+72974	thermochemistry	chemistry
+107561	thermodynamics	dynamics
+124868	thoracic medicine	medicine
+19755	topography	geography
+19867	topography	archeology
+87440	topology	mathematics
+89576	toxicology	analysis
+68486	traumatology	surgery
+68524	traumatology	pathology
+101015	triangulation	analysis
+101086	triangulation	politics
+127661	trigonometry	mathematics
+80957	tropical medicine	medicine
+81070	tropical medicine	pathology
+22361	urology	surgery
+50280	vector algebra	algebra
+50529	vector algebra	mechanics
+51953	vertebrate paleontology	paleontology
+73946	veterinary medicine	medicine
+80064	virology	biomedical science
+80071	virology	biotechnology
+1	psychology	science
+2	biology	science
+3	mathematics	science
+4	medicine	science
+5	astronomy	science
+6	physics	science
+7	electronics	science
+8	chemistry	science
+9	climatology	science
+10	geography	science
+11	systematics	science
+12	zoology	science
+13	linguistics	science
+14	pragmatics	science
+15	psychiatry	science
+16	semantics	science
+17	biotechnology	science
+18	politics	science
+19	paleontology	science
+20	archeology	science
+21	orology	science
+22	ethnography	science
+23	oology	science
+24	anesthesiology	science
+25	podiatry	science
+26	forestry	science
+27	sociology	science

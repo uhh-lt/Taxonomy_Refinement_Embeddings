@@ -1,0 +1,365 @@
+1	tradeable emission permit	acid rain
+2	fur-bearing animal	animal life
+3	protection of animal life	animal life
+4	Antarctic Ocean	Antarctica
+5	Arctic Ocean	Arctic
+6	water management	area management
+7	stratospheric pollution	atmosphere
+8	atmospheric pollutant	atmospheric conditions
+9	stratospheric pollutant	atmospheric pollutant
+10	atmospheric pollutant	atmospheric pollution
+11	stratospheric pollution	atmospheric pollution
+12	stratospheric pollution	chemical pollution
+13	tradeable emission permit	clean development mechanism
+14	arid zone	climate
+15	climate change	climate
+16	climatic zone	climate
+17	EU Emissions Trading Scheme	climate
+18	humid zone	climate
+19	subtropical zone	climate
+20	adaptation to climate change	climate change
+21	climate change policy	climate change
+22	EU emission allowance	climate change
+23	tradeable emission permit	climate change policy
+24	EU emission allowance	cost of pollution
+25	tradeable emission permit	cost of pollution
+26	anti-pollution device	degree of pollution
+27	agricultural disaster	disaster area
+28	unauthorised dumping	dumping of waste
+29	marine ecosystem	ecosystem
+30	terrestrial ecosystem	ecosystem
+31	EU emission allowance	emission allowance
+32	tradeable emission permit	emission allowance
+33	EU emission allowance	emission trading
+34	tradeable emission permit	emission trading
+35	renewable resources	energy resources
+36	acidification	environment
+37	animal life	environment
+38	animal resources	environment
+39	Antarctica	environment
+40	aquatic environment	environment
+41	Arctic	environment
+42	area management	environment
+43	Atlantic Ocean	environment
+44	atmosphere	environment
+45	bad weather	environment
+46	biodiversity	environment
+47	biological standard	environment
+48	biosphere	environment
+49	biotope	environment
+50	bird	environment
+51	Chiroptera	environment
+52	clean development mechanism	environment
+53	climate	environment
+54	coastal pollution	environment
+55	conservation of resources	environment
+56	corrosion	environment
+57	countryside conservation	environment
+58	cyclone	environment
+59	dangerous substance	environment
+60	decontamination	environment
+61	defoliation	environment
+62	deforestation	environment
+63	degradation of the environment	environment
+64	deposit on a polluting product	environment
+65	destruction of crops	environment
+66	disaster area	environment
+67	dolphin	environment
+68	drought	environment
+69	dust	environment
+70	earthquake	environment
+71	ecological balance	environment
+72	economic instrument for the environment	environment
+73	ecosystem	environment
+74	electromagnetic interference	environment
+75	emission allowance	environment
+76	emission trading	environment
+77	energy resources	environment
+78	English Channel	environment
+79	environmental economics	environment
+80	environmental education	environment
+81	environmental impact	environment
+82	environmental indicator	environment
+83	environmental law	environment
+84	environmental liability	environment
+85	environmental monitoring	environment
+86	environmental policy	environment
+87	environmental protection	environment
+88	environmental research	environment
+89	environmental standard	environment
+90	environmental tax	environment
+91	equatorial zone	environment
+92	erosion	environment
+93	estuary	environment
+94	EU Emissions Trading Scheme	environment
+95	EU environmental policy	environment
+96	evaluation of resources	environment
+97	exhaustion of resources	environment
+98	exploitation of resources	environment
+99	fire	environment
+100	flood	environment
+101	frigid zone	environment
+102	geophysical environment	environment
+103	global warming	environment
+104	greenhouse gas	environment
+105	hunting regulations	environment
+106	ice	environment
+107	Indian Ocean	environment
+108	insect	environment
+109	island	environment
+110	joint implementation	environment
+111	lake	environment
+112	littoral	environment
+113	lynx	environment
+114	man-made disaster	environment
+115	management of resources	environment
+116	marine ecosystem	environment
+117	marine environment	environment
+118	marine life	environment
+119	marsupial	environment
+120	mechanical vibration	environment
+121	mineral resources	environment
+122	monkey	environment
+123	mountain	environment
+124	national park	environment
+125	natural disaster	environment
+126	natural resources	environment
+127	nature reserve	environment
+128	noise	environment
+129	non-ionising radiation	environment
+130	non-polluting vehicle	environment
+131	nuisance	environment
+132	ocean	environment
+133	ozone	environment
+134	Pacific Ocean	environment
+135	physical environment	environment
+136	plain	environment
+137	plant life	environment
+138	plant resources	environment
+139	polar region	environment
+140	polluter pays principle	environment
+141	pollution	environment
+142	protected area	environment
+143	protection of animals	environment
+144	quality of the environment	environment
+145	radioactive effluent	environment
+146	reduction of gas emissions	environment
+147	replacement of resources	environment
+148	reptile	environment
+149	risk prevention	environment
+150	rodent	environment
+151	sea	environment
+152	seal	environment
+153	seismic monitoring	environment
+154	sensitive area	environment
+155	stratospheric pollution	environment
+156	temperate zone	environment
+157	terrestrial ecosystem	environment
+158	tropical zone	environment
+159	volcanic eruption	environment
+160	waste	environment
+161	water	environment
+162	watercourse	environment
+163	whale	environment
+164	wildlife	environment
+165	tradeable emission permit	environmental economics
+166	stratospheric pollution	environmental impact
+167	EU emission allowance	environmental law
+168	tradeable emission permit	environmental law
+169	EU environmental policy	environmental policy
+170	stratospheric pollutant	environmental protection
+171	environmental statistics	environmental research
+172	stratospheric pollution	environmental research
+173	tradeable emission permit	environmental standard
+174	EU emission allowance	environmental tax
+175	tradeable emission permit	environmental tax
+176	tradeable emission permit	EU Emissions Trading Scheme
+177	EU emission allowance	EU environmental policy
+178	tradeable emission permit	EU environmental policy
+179	over-exploitation of resources	exploitation of resources
+180	fire protection	fire
+181	EU emission allowance	global warming
+182	tradeable emission permit	global warming
+183	tradeable emission permit	greenhouse effect
+184	EU emission allowance	greenhouse gas
+185	greenhouse effect	greenhouse gas
+186	pollution from land-based sources	industrial pollution
+187	underground storage of waste	industrial waste
+188	pollution from land-based sources	local pollution
+189	marine pollution	marine environment
+190	marine ecosystem	marine life
+191	Ligurian Sea	Mediterranean Sea
+192	underwater mineral resources	mineral resources
+193	national city park	national park
+194	agricultural disaster	natural disaster
+195	deposit on a polluting product	natural resources
+196	underwater mineral resources	natural resources
+197	noise level	noise
+198	noise pollution	noise level
+199	noise protection	noise level
+200	Irish Sea	North Sea
+201	Norwegian Sea	North Sea
+202	underwater mineral resources	ocean
+203	anti-pollution device	oil pollution
+204	stratospheric pollutant	organic pollution
+205	stratospheric pollution	ozone
+206	stratospheric pollutant	physical environment
+207	harmful plant	plant life
+208	protection of plant life	plant life
+209	tradeable emission permit	plant resources
+210	water pollutant	pollutant
+211	cost of pollution	pollution
+212	degree of pollution	pollution
+213	local pollution	pollution
+214	noise pollution	pollution
+215	oil pollution	pollution
+216	polluter pays principle	pollution
+217	pollution control	pollution
+218	prevention of pollution	pollution
+219	water pollution	pollution
+220	anti-pollution device	pollution control
+221	motor vehicle pollution	pollution control
+222	pollution control measures	pollution control
+223	stratospheric pollution	pollution control
+224	tradeable emission permit	pollution control measures
+225	pollution from agricultural sources	pollution from land-based sources
+226	protected species	protected area
+227	protection of animal life	protection of animals
+228	tradeable emission permit	quality of the environment
+229	radioactive effluent	radioactive pollution
+230	radioactive effluent	radioactive waste
+231	EU emission allowance	reduction of gas emissions
+232	tradeable emission permit	reduction of gas emissions
+233	underwater mineral resources	resources of the sea
+234	Adriatic Sea	sea
+235	Aegean Sea	sea
+236	Baltic Sea	sea
+237	Black Sea	sea
+238	Caspian Sea	sea
+239	continental shelf	sea
+240	exploitation of the seas	sea
+241	inshore grounds	sea
+242	Ionian Sea	sea
+243	Mediterranean Sea	sea
+244	North Sea	sea
+245	Red Sea	sea
+246	resources of the sea	sea
+247	sea-bed	sea
+248	Tyrrhenian Sea	sea
+249	exploitation of the sea-bed	sea-bed
+250	radioactive effluent	storage of waste
+251	underground storage of waste	storage of waste
+252	stratospheric pollutant	stratospheric pollution
+253	underwater mineral resources	surface water
+254	carcinogenic substance	toxic substance
+255	subtropical zone	tropical zone
+256	carcinogenic substance	use of water
+257	coastal pollution	use of water
+258	marine pollution	use of water
+259	non-polluting vehicle	use of water
+260	non-recoverable waste	use of water
+261	percolation water	use of water
+262	pollution from land-based sources	use of water
+263	radioactive effluent	use of water
+264	sewage sludge	use of water
+265	soil pollution	use of water
+266	stratospheric pollution	use of water
+267	underground storage of waste	use of water
+268	water pollutant	use of water
+269	water protection	use of water
+270	water resources	use of water
+271	oil pollution	used oil
+272	agricultural waste	waste
+273	chemical waste	waste
+274	deposit on a polluting product	waste
+275	domestic waste	waste
+276	dumping of waste	waste
+277	electronic waste	waste
+278	export of waste	waste
+279	hazardous waste	waste
+280	hospital waste	waste
+281	industrial waste	waste
+282	metal waste	waste
+283	non-recoverable waste	waste
+284	radioactive waste	waste
+285	storage of waste	waste
+286	waste disposal	waste
+287	waste management	waste
+288	waste recycling	waste
+289	radioactive effluent	waste disposal
+290	radioactive effluent	waste management
+291	waste incineration	waste management
+292	acid rain	water
+293	agricultural waste	water
+294	aquatic environment	water
+295	arid zone	water
+296	atmospheric conditions	water
+297	bathing water	water
+298	bear	water
+299	biodegradability	water
+300	chemical waste	water
+301	climatic zone	water
+302	combustion gases	water
+303	desert	water
+304	desertification	water
+305	domestic waste	water
+306	drinking water	water
+307	EU emission allowance	water
+308	eutrophication	water
+309	exploitation of the sea-bed	water
+310	exploitation of the seas	water
+311	export of waste	water
+312	fight against insects	water
+313	fight against wastage	water
+314	food contamination	water
+315	freshwater	water
+316	fur-bearing animal	water
+317	groundwater	water
+318	harmful plant	water
+319	industrial hazard	water
+320	inflammable product	water
+321	inshore grounds	water
+322	marine ecosystem	water
+323	marine mammal	water
+324	metal waste	water
+325	natural hazard	water
+326	pesticide residue	water
+327	pollutant	water
+328	polluted area	water
+329	polluter pays principle	water
+330	pollution control measures	water
+331	stagnant water	water
+332	surface water	water
+333	terrestrial ecosystem	water
+334	thermal discharge	water
+335	toxic substance	water
+336	unauthorised dumping	water
+337	use of water	water
+338	used oil	water
+339	wastewater	water
+340	water management	water
+341	water pollution	water
+342	wild mammal	water
+343	wolf	water
+344	deposit on a polluting product	water management
+345	atmospheric pollutant	water pollutant
+346	accidental pollution	water pollution
+347	anti-pollution device	water pollution
+348	atmospheric pollution	water pollution
+349	chemical pollution	water pollution
+350	coastal pollution	water pollution
+351	industrial pollution	water pollution
+352	marine pollution	water pollution
+353	metal pollution	water pollution
+354	organic pollution	water pollution
+355	pollution from ships	water pollution
+356	pollution of waterways	water pollution
+357	radioactive pollution	water pollution
+358	soil pollution	water pollution
+359	thermal pollution	water pollution
+360	coastal protection	water protection
+361	protection of animal life	water protection
+362	protection of plant life	water protection
+363	deposit on a polluting product	water resources
+364	soil resources	water resources
+365	underwater mineral resources	water resources

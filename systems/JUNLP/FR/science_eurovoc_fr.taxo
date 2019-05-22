@@ -1,0 +1,158 @@
+0	acoustique	science
+1	ADN	science
+2	aérodynamique	dynamique
+3	agronomie	science
+4	analyse du sol	analyse
+4	analyse du sol	sol
+5	archéologie	archéologie
+6	astronautique	science
+7	astronomie	astronomie
+8	atome	science
+9	bilinguisme	science
+10	biochimie	chimie
+11	bioclimatologie	climatologie
+12	biologie	biologie
+13	biométrie	science
+14	botanique	science
+15	cartographie	science
+16	cellule souche	science
+17	chimie	chimie
+18	chimie analytique	chimie
+19	chimie du sol	sol
+19	chimie du sol	chimie
+20	chimie industrielle	chimie
+21	cindynique	science
+22	classification des animaux	classification
+23	classification des végétaux	classification
+24	climatologie	climatologie
+25	cosmologie	cosmologie
+26	criminologie	science
+27	cybernétique	science
+28	cytologie	science
+29	écologie	écologie
+30	électrochimie	chimie
+31	électronique	électronique
+32	électrotechnique	science
+33	embryon et fœtus	science
+34	enzyme	science
+35	éthique	éthique
+36	ethnographie	ethnographie
+37	ethnologie	science
+38	eugénique	science
+39	génétique	génétique
+40	géochimie	chimie
+40	géochimie	géochimie
+41	géodésie	science
+42	géographie	géographie
+43	géographie culturelle	géographie
+44	géographie économique	géographie
+44	géographie économique	économique
+45	géographie historique	géographie
+45	géographie historique	historique
+46	géographie humaine	géographie
+46	géographie humaine	humaine
+47	géographie politique	géographie
+47	géographie politique	politique
+48	géographie régionale	géographie
+48	géographie régionale	régionale
+49	géologie	géologie
+50	géomorphologie	science
+51	géophysique	physique
+52	géopolitique	politique
+53	histoire	histoire
+54	histoire ancienne	histoire
+54	histoire ancienne	ancienne
+55	histoire contemporaine	histoire
+56	histoire médiévale	histoire
+57	histoire moderne	histoire
+58	histoire universelle	histoire
+59	histologie	science
+60	hydrogéologie	géologie
+61	hydrologie	science
+62	langage	science
+63	langue européenne	langue
+63	langue européenne	européenne
+64	langue minoritaire	langue
+65	langue non européenne	langue
+65	langue non européenne	européenne
+66	langue régionale	régionale
+66	langue régionale	langue
+67	langue vivante	langue
+68	linguistique	linguistique
+69	mathématiques	mathématiques
+70	météorologie	orologie
+71	métrologie	science
+72	micro-organisme	science
+73	minéralogie	science
+74	multilinguisme	science
+75	neurobiologie	biologie
+76	océanographie	science
+77	optique	optique
+78	parasitologie	science
+79	particule élémentaire	science
+80	personnalité	personnalité
+81	personnalité historique	historique
+81	personnalité historique	personnalité
+82	pétrologie	science
+83	pharmacologie	pharmacologie
+84	philosophie	philosophie
+85	philosophie des sciences	philosophie
+85	philosophie des sciences	sciences
+85	philosophie des sciences	science
+86	photochimie	chimie
+87	physique des lasers	physique
+88	physique du plasma	physique
+89	physique nucléaire	physique
+89	physique nucléaire	nucléaire
+90	politique linguistique	politique
+90	politique linguistique	linguistique
+91	préhistoire	histoire
+92	psychanalyse	analyse
+93	psychologie	psychologie
+94	radiobiologie	biologie
+95	rayonnement ionisant	science
+96	science administrative	science
+97	science de l'espace	science
+98	science de l'information	science
+99	science des sols	sol
+99	science des sols	science
+100	science économique	économique
+100	science économique	science
+101	science politique	politique
+101	science politique	science
+102	sciences	sciences
+102	sciences	science
+103	sciences appliquées	sciences
+103	sciences appliquées	science
+104	sciences de la terre	sciences
+104	sciences de la terre	science
+105	sciences de la vie	sciences
+105	sciences de la vie	science
+105	sciences de la vie	vie
+106	sciences du comportement	sciences
+106	sciences du comportement	science
+107	sciences physiques	sciences
+107	sciences physiques	physique
+107	sciences physiques	science
+108	sciences sociales	sciences
+108	sciences sociales	science
+108	sciences sociales	sociale
+108	sciences sociales	social
+109	sédimentologie	science
+110	sexualité	science
+111	sismologie	science
+112	sociologie	sociologie
+113	sociologie de l'éducation	sociologie
+114	sociologie du travail	sociologie
+115	sociologie politique	politique
+115	sociologie politique	sociologie
+116	sociologie rurale	sociologie
+117	sociologie urbaine	sociologie
+118	spectrométrie	science
+119	système d'information géographique	science
+120	test psychométrique	science
+121	thermodynamique	dynamique
+122	type de sol	sol
+123	volcanologie	science
+124	zoologie	zoologie
+124	zoologie	oologie

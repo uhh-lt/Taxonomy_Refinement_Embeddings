@@ -1,0 +1,2157 @@
+0	absinthe	food
+1	lait acidophilus	lait
+2	adobo	food
+3	agar-agar	food
+4	aioli	food
+5	alcool	alcool
+6	ale	ale
+7	luzerne	food
+8	allemande	food
+9	piment de la Jamaïque	piment
+10	extrait d’amande	amande
+10	extrait d’amande	d’amande
+10	extrait d’amande	extrait
+11	pâte alimentaire alphabet	pâte
+11	pâte alimentaire alphabet	alimentaire
+11	pâte alimentaire alphabet	aliment
+11	pâte alimentaire alphabet	lime
+12	vin liturgique	vin
+13	amaretto	food
+14	ambroisie	food
+15	amontillado	food
+16	pain anadama	pain
+17	vinaigrette aux anchois	vin
+17	vinaigrette aux anchois	vinaigrette
+17	vinaigrette aux anchois	anchois
+17	vinaigrette aux anchois	vinaigre
+17	vinaigrette aux anchois	aigre
+18	pâte d’anchois	pâte
+18	pâte d’anchois	anchois
+19	pizza aux anchois	anchois
+19	pizza aux anchois	pizza
+20	sauce aux anchois	anchois
+20	sauce aux anchois	sauce
+21	angelica	food
+22	anis	anis
+23	anisette	anis
+24	antipasto	food
+25	apéritif	food
+26	hors-d’œuvre	d’œuvre
+27	vin cuit	vin
+27	vin cuit	cuit
+28	boulette de pommes	boulette
+28	boulette de pommes	pommes
+28	boulette de pommes	pomme
+29	gelée de pomme	gelée
+29	gelée de pomme	pomme
+30	jus de pommes	pommes
+30	jus de pommes	pomme
+30	jus de pommes	jus
+31	chausson aux pommes	pommes
+31	chausson aux pommes	pomme
+31	chausson aux pommes	chausson
+32	Applejack	food
+33	compote de pommes	pomme
+33	compote de pommes	pommes
+33	compote de pommes	pot
+33	compote de pommes	compote
+34	aqua vitae	aqua
+35	aquavit	aqua
+36	armagnac	food
+37	arrack	food
+38	arroz con pollo	con
+39	ashcake	cake
+40	aspartame	food
+41	aspic	food
+42	complexe B	food
+43	bagel	bagel
+44	baguette	food
+45	omelette norvégienne	omelette
+46	pomme de terre au four	pomme
+46	pomme de terre au four	terre
+46	pomme de terre au four	four
+47	biscuit	biscuit
+47	biscuit	cuit
+48	alimentation équilibrée	alimentation
+48	alimentation équilibrée	aliment
+48	alimentation équilibrée	lime
+49	pain aux bananes	pain
+49	pain aux bananes	banane
+50	banana split	split
+51	bannique	food
+52	banquet	food
+53	bap	food
+54	barbecue	barbecue
+54	barbecue	barbe
+55	sauce barbecue	sauce
+55	sauce barbecue	barbe
+55	sauce barbecue	bar
+55	sauce barbecue	barbecue
+56	côtes levées grillées	grillé
+57	orge	orge
+58	sucre d'orge	orge
+58	sucre d'orge	sucre
+59	sirop d’orgeat	orge
+59	sirop d’orgeat	sirop
+59	sirop d’orgeat	d’orge
+60	barmbrack	barm
+60	barmbrack	bar
+61	basilic	food
+62	bathtub gin	gin
+63	pâte	pâte
+64	bleu bavarois	bleu
+64	bleu bavarois	bavarois
+65	bavarois	bavarois
+66	laurier	food
+67	tofu	food
+68	trempette aux haricots	trempette
+68	trempette aux haricots	haricots
+68	trempette aux haricots	haricot
+69	tostada aux haricots	haricots
+69	tostada aux haricots	tostada
+69	tostada aux haricots	haricot
+70	bear claw	food
+71	béarnaise	food
+72	beaujolais	eau
+73	bœuf bourguignon	bœuf
+73	bœuf bourguignon	bourguignon
+73	bœuf bourguignon	œuf
+74	bouillon de bœuf	bœuf
+74	bouillon de bœuf	bouillon
+74	bouillon de bœuf	œuf
+75	goulash de bœuf	bœuf
+75	goulash de bœuf	œuf
+76	ragoût de bœuf	bœuf
+76	ragoût de bœuf	ragoût
+76	ragoût de bœuf	œuf
+77	bœuf stroganov	bœuf
+77	bœuf stroganov	œuf
+78	bœuf Wellington	bœuf
+78	bœuf Wellington	œuf
+79	bière	bière
+80	sucre de betterave	sucre
+81	benedictine	food
+82	Bercy	food
+83	boisson	boisson
+84	bialy	food
+85	bigos	food
+86	biotine	food
+87	bière de bouleau	bière
+87	bière de bouleau	eau
+88	alimentation des oiseaux	alimentation
+88	alimentation des oiseaux	eau
+88	alimentation des oiseaux	aliment
+88	alimentation des oiseaux	lime
+89	biryani	food
+90	biscuit	biscuit
+90	biscuit	cuit
+91	Bishop	food
+92	bisque	food
+93	bouchée	food
+94	bitok	food
+95	amer	mer
+96	Bitter Lemon	food
+97	amer	mer
+98	pain noir	pain
+98	pain noir	noir
+99	olive noire	noir
+99	olive noire	olive
+100	poivre noir	noir
+100	poivre noir	poivre
+101	thé noir	noir
+101	thé noir	thé
+102	blanc	blanc
+103	blanc-manger	blanc
+104	régime non-irritant	régime
+105	blended whiskey	whiskey
+106	bleu	bleu
+107	vinaigrette aux fromage bleu	vin
+107	vinaigrette aux fromage bleu	vinaigrette
+107	vinaigrette aux fromage bleu	bleu
+107	vinaigrette aux fromage bleu	fromage
+107	vinaigrette aux fromage bleu	vinaigre
+107	vinaigrette aux fromage bleu	aigre
+108	gélose pour dénombrement	food
+109	farine de sang	farine
+109	farine de sang	sang
+110	Bloody Mary	mary
+111	vinaigrette aux fromage bleu	vin
+111	vinaigrette aux fromage bleu	vinaigrette
+111	vinaigrette aux fromage bleu	bleu
+111	vinaigrette aux fromage bleu	fromage
+111	vinaigrette aux fromage bleu	vinaigre
+111	vinaigrette aux fromage bleu	aigre
+112	yaourt aux bleuets	bleu
+112	yaourt aux bleuets	yaourt
+113	vin rosé	vin
+114	planche	food
+115	bock	bock
+116	repas cuit	cuit
+116	repas cuit	repas
+117	œuf à la coque	œuf
+117	œuf à la coque	coq
+118	bomber	food
+119	bonbon	bonbon
+120	bourrache	food
+121	bordeaux	bordeaux
+121	bordeaux	eau
+122	bordelaise	bordelaise
+123	bortsch	bortsch
+124	Boston Baked Beans	food
+125	eau embouteillée	eau
+126	bouillabaisse	food
+127	bouillon	bouillon
+128	cube de bouillon	bouillon
+128	cube de bouillon	cube
+129	bourbon	food
+130	bourguignon	bourguignon
+131	son	food
+132	muffin au son	muffin
+133	branch water	branch
+133	branch water	water
+134	eau-de-vie	eau
+135	brandyball	brandy
+136	pain	pain
+137	pâte à pain	pâte
+137	pâte à pain	pain
+138	sauce au pain	pain
+138	sauce au pain	sauce
+139	gressin	food
+140	matières panifiables	food
+141	petit-déjeuner	petit-déjeuner
+141	petit-déjeuner	déjeuner
+141	petit-déjeuner	jeu
+141	petit-déjeuner	petit
+142	café	café
+143	fromage brick	fromage
+144	Brie	food
+145	brioche	brioche
+146	nougatine	nougatine
+146	nougatine	nougat
+147	fève	fève
+148	bouillon	bouillon
+149	brown betty	brown
+150	pain complet	pain
+151	beurre noisette	noisette
+151	beurre noisette	beurre
+152	riz cargo	riz
+152	riz cargo	cargo
+153	sauce brune	sauce
+153	sauce brune	brun
+154	cassonade	food
+155	mélange à brownies	brown
+155	mélange à brownies	mélange
+156	brunch	brun
+157	brunswick stew	brun
+158	gomme à mâcher	gomme
+159	sarrasin	food
+160	aile de poulet à la mode de Buffalo	poulet
+160	aile de poulet à la mode de Buffalo	mode
+160	aile de poulet à la mode de Buffalo	poule
+160	aile de poulet à la mode de Buffalo	ail
+161	buffet	food
+162	boulghour	boulghour
+163	boulghour pilaf	boulghour
+163	boulghour pilaf	pilaf
+164	BUllshot	hot
+165	brioche	brioche
+166	burgoo	goo
+167	vin de Bourgogne	vin
+168	burrito	food
+169	noix de coco de Burton	noix
+169	noix de coco de Burton	coco
+170	déjeuner d’affaires	déjeuner
+170	déjeuner d’affaires	jeu
+171	beurre	beurre
+172	babeurre	beurre
+172	babeurre	babeurre
+173	biscuit au babeurre	cuit
+173	biscuit au babeurre	biscuit
+173	biscuit au babeurre	beurre
+173	biscuit au babeurre	babeurre
+174	caramel écossais	caramel
+174	caramel écossais	écossais
+175	sandwich	sandwich
+176	ration C	ration
+176	ration C	rat
+177	cabernet	food
+178	cachou	chou
+179	salade César	salade
+180	café au lait	lait
+180	café au lait	café
+181	café noir	noir
+181	café noir	café
+182	café royale	ale
+182	café royale	café
+183	café latte	café
+184	mélange à gâteau	eau
+184	mélange à gâteau	mélange
+184	mélange à gâteau	gâteau
+185	aspic	food
+186	vin de Californie	vin
+187	calvados	food
+188	thé de batiste	thé
+189	camembert	food
+190	tisane de la camomille	tisane
+191	canapé	food
+192	graine à canari	graine
+192	graine à canari	canari
+192	graine à canari	grain
+193	vin des canaries	vin
+193	vin des canaries	canari
+194	pomme d'amour	pomme
+194	pomme d'amour	mou
+195	zeste d’agrumes confits	con
+195	zeste d’agrumes confits	zeste
+195	zeste d’agrumes confits	confit
+196	fruit confit	con
+196	fruit confit	fruit
+196	fruit confit	confit
+197	sucrerie	sucre
+198	friandise	food
+199	sucre d’orge	sucre
+199	sucre d’orge	orge
+199	sucre d’orge	d’orge
+200	candy dorn	food
+201	œuf en sucre	sucre
+201	œuf en sucre	œuf
+202	sucre de canne	sucre
+202	sucre de canne	canne
+203	aliments en conserve	con
+203	aliments en conserve	aliments
+203	aliments en conserve	conserve
+203	aliments en conserve	aliment
+203	aliments en conserve	lime
+204	viande en conserve	viande
+204	viande en conserve	con
+204	viande en conserve	conserve
+204	viande en conserve	viand
+205	cannelloni	canne
+206	câpre	câpre
+207	sauce aux câpres	sauce
+207	sauce aux câpres	câpre
+208	cappuccino	food
+209	caramel	caramel
+209	caramel	mel
+210	carvi	carvi
+211	graine de carvi	graine
+211	graine de carvi	carvi
+211	graine de carvi	grain
+212	surcharge glucidique	food
+213	carbonara	food
+214	cardamome	food
+215	caroube	food
+216	jus de carotte	jus
+216	jus de carotte	carotte
+217	pudding aux carottes	carotte
+217	pudding aux carottes	pudding
+218	cassareep	food
+219	casserole	casserole
+220	sucre semoule	sucre
+220	sucre semoule	semoule
+220	sucre semoule	mou
+221	aliments pour chats	aliments
+221	aliments pour chats	aliment
+221	aliments pour chats	lime
+222	ketchup	ketchup
+223	tourteau pour bétail	eau
+223	tourteau pour bétail	tourteau
+223	tourteau pour bétail	ail
+224	poivre de Cayenne	poivre
+225	sel de céleri	sel
+225	sel de céleri	céleri
+226	graine de céleri	graine
+226	graine de céleri	céleri
+226	graine de céleri	grain
+227	branche de céleri	branch
+227	branche de céleri	céleri
+228	centre	food
+229	lait certifié	lait
+230	chablis	food
+231	halla	alla
+232	champagne	champagne
+233	coupe de champagne	champagne
+234	chapati	food
+235	chardonnay	food
+236	charlotte	charlotte
+237	charlotte russe	charlotte
+237	charlotte russe	russe
+238	chartreuse	food
+239	cheddar	food
+240	fromage	fromage
+241	trempette au fromage	trempette
+241	trempette au fromage	fromage
+242	fondue au fromage	fromage
+242	fondue au fromage	fondue
+242	fondue au fromage	fondu
+243	pizza aux fromages	pizza
+243	pizza aux fromages	fromage
+244	sauce au fromage	sauce
+244	sauce au fromage	fromage
+245	fromage à tartiner	fromage
+245	fromage à tartiner	tart
+245	fromage à tartiner	tartiner
+246	cheeseburger	cheese
+247	salade du chef	salade
+248	chenin blanc	blanc
+249	cerfeuil	cerfeuil
+250	fromage Cheshire	fromage
+251	chewing-gum	food
+252	chianti	food
+253	bouillon de poulet	bouillon
+253	bouillon de poulet	poulet
+253	bouillon de poulet	poule
+254	poulet cacciatore	poulet
+254	poulet cacciatore	poule
+255	casserole de poulet	poulet
+255	casserole de poulet	casserole
+255	casserole de poulet	poule
+256	cordon bleu de poulet	bleu
+256	cordon bleu de poulet	poulet
+256	cordon bleu de poulet	cordon
+256	cordon bleu de poulet	poule
+257	aliments pour poulets	poulet
+257	aliments pour poulets	aliments
+257	aliments pour poulets	aliment
+257	aliments pour poulets	poule
+257	aliments pour poulets	lime
+258	poulet à la Kiev	poulet
+258	poulet à la Kiev	poule
+259	poulet Marengo	poulet
+259	poulet Marengo	poule
+260	poulet au paprika	poulet
+260	poulet au paprika	paprika
+260	poulet au paprika	poule
+261	salade de poulet	poulet
+261	salade de poulet	salade
+261	salade de poulet	poule
+262	sandwich au poulet	poulet
+262	sandwich au poulet	sandwich
+262	sandwich au poulet	poule
+263	soupe au poulet	soupe
+263	soupe au poulet	poule
+263	soupe au poulet	soup
+263	soupe au poulet	poulet
+264	ragoût de poulet	ragoût
+264	ragoût de poulet	poulet
+264	ragoût de poulet	poule
+265	taco au poulet	poulet
+265	taco au poulet	taco
+265	taco au poulet	poule
+266	poulet Tetrazzini	poulet
+266	poulet Tetrazzini	poule
+267	chicorée	food
+268	chili	chili
+269	chili-dog	chili
+270	chili	chili
+271	sauce chili	sauce
+271	sauce chili	chili
+272	vinaigre chili	vin
+272	vinaigre chili	chili
+272	vinaigre chili	vinaigre
+272	vinaigre chili	aigre
+273	moutarde chinoise	moutarde
+273	moutarde chinoise	mou
+274	chip	food
+275	ciboulette	boulette
+275	ciboulette	ciboule
+276	choc ice	choc
+276	choc ice	ice
+277	œuf en chocolat	œuf
+277	œuf en chocolat	choc
+277	œuf en chocolat	chocolat
+278	fondue au chocolat	fondue
+278	fondue au chocolat	choc
+278	fondue au chocolat	chocolat
+278	fondue au chocolat	fondu
+279	fondant au chocolat	choc
+279	fondant au chocolat	chocolat
+279	fondant au chocolat	fondant
+280	glace au chocolat	choc
+280	glace au chocolat	chocolat
+280	glace au chocolat	glace
+281	baiser chocolaté	choc
+281	baiser chocolaté	chocolat
+282	lait au chocolat	lait
+282	lait au chocolat	choc
+282	lait au chocolat	chocolat
+283	mousse au chocolat	choc
+283	mousse au chocolat	chocolat
+283	mousse au chocolat	mousse
+283	mousse au chocolat	mou
+284	pouding au chocolat	choc
+284	pouding au chocolat	chocolat
+284	pouding au chocolat	pouding
+285	sauce au chocolat	sauce
+285	sauce au chocolat	choc
+285	sauce au chocolat	chocolat
+286	morceau de choix	eau
+286	morceau de choix	morceau
+287	choline	food
+288	chop suey	food
+289	bouffe	food
+290	chow mein	chow
+291	chowchow	chow
+292	chaudrée	chaudrée
+292	chaudrée	chaud
+293	chutney	food
+294	chyme	food
+295	cidre	cidre
+296	vinaigre de cidre	vin
+296	vinaigre de cidre	vinaigre
+296	vinaigre de cidre	cidre
+296	vinaigre de cidre	aigre
+297	cannelle	cannelle
+297	cannelle	canne
+298	pain à la canelle	pain
+298	pain à la canelle	canelle
+299	kanelbulle	food
+300	pain grillé à la canelle	pain
+300	pain grillé à la canelle	canelle
+300	pain grillé à la canelle	grillé
+301	lait caillé	lait
+301	lait caillé	caillé
+301	lait caillé	ail
+302	chaudrée de palourdes	chaudrée
+302	chaudrée de palourdes	palourdes
+302	chaudrée de palourdes	chaud
+303	trempette aux paourdes	trempette
+304	palourdes de la nouvelle-Angeleterre	terre
+304	palourdes de la nouvelle-Angeleterre	palourdes
+305	bordeaux	bordeaux
+305	bordeaux	eau
+306	verre de bordeaux	bordeaux
+306	verre de bordeaux	eau
+307	beurre clarifié	beurre
+308	sauge sclarée	sauge
+309	régime liquide strict	régime
+309	régime liquide strict	liquide
+310	crème caillée	caillé
+310	crème caillée	crème
+310	crème caillée	ail
+311	girofle	food
+312	club sandwich	sandwich
+313	cobbler	food
+314	Coca-Cola	food
+315	cocktail	cocktail
+315	cocktail	ail
+316	sauce cocktail	sauce
+316	sauce cocktail	ail
+316	sauce cocktail	cocktail
+317	cacao	cacao
+318	lait de coco	lait
+318	lait de coco	coco
+318	lait de coco	lai
+319	morue en croquettes	croquettes
+319	morue en croquettes	croquette
+319	morue en croquettes	rue
+320	café	café
+321	pause café	café
+322	liqueur de café	café
+322	liqueur de café	liqueur
+323	succédanés de café	café
+324	cognac	food
+325	coca	food
+326	Colbert	food
+327	Cold Duck	food
+328	salade de chou	salade
+328	salade de chou	chou
+329	Collins	food
+330	colorant	food
+331	colostrum	food
+332	comestible	food
+333	confit	con
+333	confit	confit
+334	aliment-réconfort	con
+334	aliment-réconfort	aliment
+334	aliment-réconfort	fort
+334	aliment-réconfort	lime
+335	consoude	con
+336	commissariat	food
+337	compote	compote
+337	compote	pot
+338	concentré	con
+338	concentré	concentré
+339	concoction	con
+340	lait concentré sucré	lait
+340	lait concentré sucré	concentré
+340	lait concentré sucré	sucré
+340	lait concentré sucré	lai
+340	lait concentré sucré	con
+341	condiment	con
+342	confiserie	con
+343	confiture	con
+343	confiture	confit
+343	confiture	confiture
+344	congee	con
+345	congou	con
+346	conserver	con
+346	conserver	conserve
+347	consommé	som
+347	consommé	con
+348	petit-déjeuner continental	con
+348	petit-déjeuner continental	petit-déjeuner
+348	petit-déjeuner continental	déjeuner
+348	petit-déjeuner continental	jeu
+348	petit-déjeuner continental	petit
+349	barbecue	barbecue
+349	barbecue	barbe
+350	refroidisseur	food
+351	coq au vin	vin
+351	coq au vin	coq
+352	coquille	coq
+352	coquille	coquille
+353	coquilles Saint-Jacques	coq
+353	coquilles Saint-Jacques	coquille
+354	coriandre	food
+355	maïs	maïs
+356	gâteau de maïs	eau
+356	gâteau de maïs	gâteau
+356	gâteau de maïs	maïs
+357	croustille de maïs	maïs
+358	chaudrée de maïs	maïs
+358	chaudrée de maïs	chaud
+358	chaudrée de maïs	chaudrée
+359	gluten de maïs	maïs
+359	gluten de maïs	gluten
+360	muffin au maïs	muffin
+360	muffin au maïs	maïs
+361	pudding au maïs	pudding
+361	pudding au maïs	maïs
+362	sucre de maïs	sucre
+362	sucre de maïs	maïs
+363	sirop de maïs	maïs
+363	sirop de maïs	sirop
+364	whiskey de maïs	whiskey
+364	whiskey de maïs	maïs
+365	pain de maïs	pain
+365	pain de maïs	maïs
+366	hachis de bœuf et pâtes	pâte
+366	hachis de bœuf et pâtes	bœuf
+366	hachis de bœuf et pâtes	œuf
+366	hachis de bœuf et pâtes	hachis
+366	hachis de bœuf et pâtes	pâtes
+367	farine de maïs	maïs
+367	farine de maïs	farine
+367	farine de maïs	far
+368	cornpone	food
+369	balsamite	food
+370	vins de Provence	vin
+371	cottage cheese	cottage
+371	cottage cheese	cheese
+372	cottage pie	cottage
+372	cottage pie	pie
+373	barbe à papa	barbe
+373	barbe à papa	papa
+374	pastille contre la toux	con
+375	plat	plat
+376	couscous	food
+377	cocktail de crabe	cocktail
+377	cocktail de crabe	crabe
+377	cocktail de crabe	ail
+378	crabe louie	crabe
+379	blé concassé	con
+379	blé concassé	blé
+380	cracker	food
+381	jus de canneberge	jus
+381	jus de canneberge	canne
+381	jus de canneberge	canneberge
+382	sauce aux canneberges	sauce
+382	sauce aux canneberges	canne
+382	sauce aux canneberges	canneberge
+383	crème	crème
+384	fromage à la crème	crème
+384	fromage à la crème	fromage
+385	sauce à la crème	sauce
+385	sauce à la crème	crème
+386	crème soda	crème
+386	crème soda	soda
+387	alimentation de démarrage	alimentation
+387	alimentation de démarrage	aliment
+387	alimentation de démarrage	lime
+388	crème brûlée	crème
+389	crème caramel	caramel
+389	crème caramel	crème
+390	crème de cacao	crème
+390	crème de cacao	cacao
+391	crème de menthe	crème
+391	crème de menthe	menthe
+392	fève de cacao criollo	fève
+392	fève de cacao criollo	cacao
+393	croquette	croquette
+394	brioche du carème	brioche
+395	crouton	food
+396	crudités	cru
+397	gingembre confit	con
+397	gingembre confit	gin
+397	gingembre confit	confit
+397	gingembre confit	gingembre
+398	mâchonnement	food
+399	milieu de culture	food
+400	tasse	food
+401	tasse	food
+402	curaçao	food
+403	caillé	caillé
+403	caillé	ail
+404	curry	curry
+405	poudre de cari	poudre
+406	sauce curry	sauce
+406	sauce curry	curry
+407	crème anglaise	crème
+407	crème anglaise	anglaise
+407	crème anglaise	anglais
+408	dainty	food
+409	daiquiri	food
+410	produit laitier	lait
+410	produit laitier	produit
+410	produit laitier	lai
+411	pâtisserie danoise	food
+412	danablu	food
+413	darjeeling	food
+414	pain brun	pain
+414	pain brun	brun
+415	pain aux dattes	pain
+415	pain aux dattes	dattes
+416	pain aux dattes et aux noix	pain
+416	pain aux dattes et aux noix	noix
+416	pain aux dattes et aux noix	dattes
+417	café décaféiné	café
+418	aliments déshydraté	aliments
+418	aliments déshydraté	aliment
+418	aliments déshydraté	lime
+418	aliments déshydraté	rat
+419	sucre démérara	sucre
+420	demi-glace	glace
+421	dessert	dessert
+422	vin liquoreux	vin
+423	œuf mimosa	œuf
+423	œuf mimosa	mimosa
+424	régime pour diabétique	régime
+425	régime	régime
+426	alimentaire	alimentaire
+426	alimentaire	aliment
+426	alimentaire	lime
+427	complément allimentaire	lime
+428	aneth	aneth
+429	cornichon à l’aneth	aneth
+429	cornichon à l’aneth	cornichon
+430	graine d’aneth	graine
+430	graine d’aneth	aneth
+430	graine d’aneth	grain
+431	dîner	food
+432	sauce	sauce
+433	plat	plat
+434	Divinity	vin
+435	aliment pour chiens	aliment
+435	aliment pour chiens	lime
+436	dolmas	food
+437	Dom Pedro	food
+438	crème double	crème
+439	Double Gloucester	food
+440	pâte	pâte
+441	bière à la pression	bière
+442	dragée	food
+443	drambuie	food
+444	vinaigrette	vin
+444	vinaigrette	vinaigre
+444	vinaigrette	aigre
+444	vinaigrette	vinaigrette
+445	eau potable	eau
+445	eau potable	pot
+445	eau potable	table
+446	café filtré	café
+447	drop scone	con
+447	drop scone	drop
+447	drop scone	scone
+448	vermouth sec	vermouth
+448	vermouth sec	sec
+448	vermouth sec	mou
+449	dubonnet	food
+450	pâté de canard	pâté
+451	sauce duck	sauce
+452	Duff	food
+453	boulette	boulette
+454	œuf de Pâques	œuf
+455	eau-de-vie	eau
+456	Edam	food
+457	œuf	œuf
+458	egg cream	egg
+459	omelette foo-yung	omelette
+460	pâté impérial	pâté
+461	blanc d’œuf	blanc
+461	blanc d’œuf	œuf
+461	blanc d’œuf	d’œuf
+462	jaune d’œuf	œuf
+462	jaune d’œuf	d’œuf
+462	jaune d’œuf	jaune
+463	lait de poule	lait
+463	lait de poule	poule
+463	lait de poule	lai
+464	œufs Bénédictine	œuf
+464	œufs Bénédictine	œufs
+465	élixir	food
+466	emmenthal	food
+467	enchilada	food
+468	muffin anglais	muffin
+468	muffin anglais	anglais
+469	entrée	food
+470	espagnole	espagnol
+471	expresso	food
+472	lait concentré non sucré	lait
+472	lait concentré non sucré	concentré
+472	lait concentré non sucré	sucré
+472	lait concentré non sucré	lai
+472	lait concentré non sucré	con
+473	régime à la mode	régime
+473	régime à la mode	mode
+474	falafel	food
+475	Fanny Adams	food
+476	nourriture	nourriture
+477	farina	food
+478	restauration rapide	ration
+478	restauration rapide	rat
+479	vitamine liposoluble	vitamine
+480	aliments	aliments
+480	aliments	aliment
+480	aliments	lime
+481	céréales fourragères	ale
+481	céréales fourragères	four
+482	fenouil	fenouil
+483	graine de fenouil	graine
+483	graine de fenouil	grain
+483	graine de fenouil	fen
+483	graine de fenouil	fenouil
+484	fenugrec	food
+485	ration du combat	ration
+485	ration du combat	rat
+486	farce	food
+487	fines herbes	herbe
+488	finger food	food
+489	alcool fort	alcool
+489	alcool fort	fort
+490	croquette de poisson	croquette
+490	croquette de poisson	poisson
+490	croquette de poisson	pois
+491	chaudrée de poisson	chaudrée
+491	chaudrée de poisson	poisson
+491	chaudrée de poisson	pois
+491	chaudrée de poisson	chaud
+492	alevin	ale
+492	alevin	vin
+493	fish house punch	house
+493	fish house punch	punch
+494	pain de poisson	pain
+494	pain de poisson	poisson
+494	pain de poisson	pois
+495	farine de poisson	farine
+495	farine de poisson	poisson
+495	farine de poisson	pois
+496	mousse de poisson	mousse
+496	mousse de poisson	poisson
+496	mousse de poisson	mou
+496	mousse de poisson	pois
+497	ragoût de poisson	ragoût
+497	ragoût de poisson	poisson
+497	ragoût de poisson	pois
+498	bâtonnet de poisson	poisson
+498	bâtonnet de poisson	pois
+498	bâtonnet de poisson	bâton
+499	pâte de poisson	pâte
+499	pâte de poisson	poisson
+499	pâte de poisson	pois
+500	mélange cinq épices	mélange
+500	mélange cinq épices	ice
+501	pétillement	food
+502	flan	food
+503	pain plat	pain
+503	pain plat	plat
+504	aromaticien	food
+505	flip	food
+506	farine	farine
+506	farine	far
+507	flummery	mer
+508	fourrage	four
+509	foie gras	gras
+510	fondant	fondant
+511	fondue	fondue
+511	fondue	fondu
+512	alimentation	alimentation
+512	alimentation	aliment
+512	alimentation	lime
+513	cache de nourriture	nourriture
+513	cache de nourriture	cache
+514	denrée alimentaire	alimentaire
+514	denrée alimentaire	aliment
+514	denrée alimentaire	lime
+515	chair à saucisse	food
+516	lait artificiel	lait
+517	vin muté	vin
+518	pain français	pain
+518	pain français	français
+519	vinaigrette française	vin
+519	vinaigrette française	vinaigrette
+519	vinaigrette française	vinaigre
+519	vinaigrette française	français
+519	vinaigrette française	aigre
+520	frites	frites
+520	frites	frit
+521	miche de pain	pain
+522	pain perdu	pain
+523	fricassée	food
+524	œuf au plat	œuf
+524	œuf au plat	plat
+525	riz frit	riz
+525	riz frit	frit
+526	frittata	frit
+527	cuisses de grenouilles	food
+528	crème anglaise congelée	gelée
+528	crème anglaise congelée	con
+528	crème anglaise congelée	crème
+528	crème anglaise congelée	anglaise
+528	crème anglaise congelée	anglais
+528	crème anglaise congelée	congelée
+529	dessert congelée	gelée
+529	dessert congelée	con
+529	dessert congelée	dessert
+529	dessert congelée	congelée
+530	aliments surgelés	aliments
+530	aliments surgelés	aliment
+530	aliments surgelés	surgelé
+530	aliments surgelés	lime
+531	jus d’orange surgelé	jus
+531	jus d’orange surgelé	d’orange
+531	jus d’orange surgelé	surgelé
+531	jus d’orange surgelé	orange
+532	yaourt glacé	yaourt
+532	yaourt glacé	aou
+532	yaourt glacé	glacé
+533	salade de fruits	fruit
+533	salade de fruits	fruits
+533	salade de fruits	salade
+534	crème pâtissière aux fruits	fruit
+534	crème pâtissière aux fruits	crème
+534	crème pâtissière aux fruits	fruits
+535	jus de fruits	jus
+535	jus de fruits	fruit
+535	jus de fruits	fruits
+536	jus de fruit	jus
+536	jus de fruit	fruit
+537	punch au fruits	fruit
+537	punch au fruits	punch
+537	punch au fruits	fruits
+538	salade de fruits	fruit
+538	salade de fruits	fruits
+538	salade de fruits	salade
+539	caramel mou	caramel
+539	caramel mou	mou
+539	caramel mou	mel
+540	galantine	food
+541	Galliano	food
+542	ail	ail
+543	pain à l’ail	pain
+543	pain à l’ail	ail
+543	pain à l’ail	l’ail
+544	beurre à l’ail	beurre
+544	beurre à l’ail	ail
+544	beurre à l’ail	l’ail
+545	ciboule de chine	ciboule
+545	ciboule de chine	chine
+546	sel d'ail	sel
+546	sel d'ail	ail
+547	gaspacho	food
+548	carpe farcie	farci
+549	gélatine	food
+550	jelly	food
+551	générique	food
+552	Genève	food
+553	ghi	food
+554	cornichon	cornichon
+555	vrille	food
+556	gin	gin
+557	gin Rickey	gin
+557	gin Rickey	rickey
+558	Gin Sling	sling
+559	gingembre	gin
+559	gingembre	gingembre
+560	soda gingembre	gin
+560	soda gingembre	soda
+560	soda gingembre	gingembre
+561	bière de gingembre	gin
+561	bière de gingembre	bière
+561	bière de gingembre	gingembre
+562	glögg	food
+563	pain avec gluten	pain
+563	pain avec gluten	gluten
+564	régime sans gluten	régime
+564	régime sans gluten	gluten
+565	fromage de chèvre	fromage
+566	gorgonzola	food
+567	gouda	food
+568	goulasch	food
+569	pain Graham	pain
+569	pain Graham	graham
+570	biscuit Graham	cuit
+570	biscuit Graham	biscuit
+570	biscuit Graham	graham
+571	grain	grain
+572	grand marnier	food
+573	sucre cristallisé	sucre
+574	gelée de raisin	gelée
+574	gelée de raisin	raisin
+575	jus de raisin	jus
+575	jus de raisin	raisin
+576	jus de pamplemousse	jus
+576	jus de pamplemousse	mousse
+576	jus de pamplemousse	mou
+576	jus de pamplemousse	pamplemousse
+577	zestes de pamplemousse	zeste
+577	zestes de pamplemousse	mousse
+577	zestes de pamplemousse	mou
+577	zestes de pamplemousse	pamplemousse
+578	grappa	food
+579	grasshopper	gras
+580	fromage râpé	fromage
+581	sauce d’un rôti	sauce
+581	sauce d’un rôti	rôti
+582	olive verte	olive
+582	olive verte	verte
+582	olive verte	vert
+583	soupe de petits pois	soupe
+583	soupe de petits pois	petits
+583	soupe de petits pois	pois
+583	soupe de petits pois	petit
+584	salade verte	salade
+584	salade verte	verte
+584	salade verte	vert
+585	thé vert	thé
+585	thé vert	vert
+586	grenadine	food
+587	grissino	food
+588	mouture	mou
+589	gruaux	gruau
+590	grog	grog
+591	gruau	gruau
+592	gruyère	food
+593	guacamole	mole
+594	Guinness	food
+595	gomme	gomme
+596	gombo	food
+597	jujube	food
+598	gyros	food
+599	haggis	food
+600	sandwich au jambon	sandwich
+601	hamburger	hamburger
+602	pain hamburger	pain
+602	pain hamburger	hamburger
+603	Handkäse	food
+604	œuf dur	œuf
+604	œuf dur	dur
+605	bonbon dur	bonbon
+605	bonbon dur	dur
+606	cidre brut	cidre
+607	pain kaiser	pain
+608	brandy butter	butt
+608	brandy butter	butter
+608	brandy butter	brandy
+609	biscuit de mer	cuit
+609	biscuit de mer	biscuit
+609	biscuit de mer	mer
+610	Harvey Wallbanger	food
+611	hachis	hachis
+612	hasty pudding	pudding
+613	foin	food
+614	crème épaisse	crème
+615	herbe	herbe
+616	tisane	tisane
+617	salade d'harengs	salade
+618	régime hyperprotéiné	régime
+619	High Tea	food
+620	highball	food
+621	Johnnycake	cake
+622	hollandaise	olla
+623	bière artisanale	ale
+623	bière artisanale	bière
+624	frites maison	frites
+624	frites maison	frit
+625	hominy	hominy
+626	lait homogénéisé	lait
+627	miel	miel
+627	miel	mie
+628	honey bun	food
+629	gnôle	food
+630	ballote	food
+631	hors d’œuvre	d’œuvre
+632	raifort	fort
+632	raifort	raifort
+633	sauce au raifort	sauce
+633	sauce au raifort	raifort
+633	sauce au raifort	fort
+634	hôte	food
+635	sauce chocolat fondant	sauce
+635	sauce chocolat fondant	choc
+635	sauce chocolat fondant	chocolat
+635	sauce chocolat fondant	fondant
+636	hot pot	hot
+636	hot pot	pot
+637	sauce piquante	sauce
+638	grog chaud	grog
+638	grog chaud	chaud
+639	hotchpotch	hot
+639	hotchpotch	pot
+640	hot-dog	hot-dog
+640	hot-dog	hot
+641	houmous	mou
+642	sauce chasseur	sauce
+643	hushpuppy	food
+644	hydromel	mel
+645	hyson	food
+646	hysope	food
+647	glace	lac
+647	glace	glace
+648	glace	lac
+648	glace	glace
+649	gâteau glacé	eau
+649	gâteau glacé	gâteau
+649	gâteau glacé	glacé
+650	cornet à glace	glace
+650	cornet à glace	corn
+651	crème glacée	crème
+651	crème glacée	glacé
+651	crème glacée	glacée
+652	sucette glacée	glacé
+652	sucette glacée	glacée
+652	sucette glacée	sucette
+653	lait glacé	lait
+653	lait glacé	glacé
+654	thé glacé	thé
+654	thé glacé	glacé
+655	eau glacée	eau
+655	eau glacée	glacé
+655	eau glacée	glacée
+656	café glacé	café
+656	café glacé	glacé
+657	sucre glace	sucre
+657	sucre glace	glace
+658	aliments ingérés	aliments
+658	aliments ingérés	aliment
+658	aliments ingérés	lime
+659	ingrédient	food
+660	inositol	food
+661	café instentané	café
+662	irlandais	irlandais
+663	Irish coffee	food
+664	soda bread irlandais	soda
+664	soda bread irlandais	irlandais
+665	ragoût irlandais	ragoût
+665	ragoût irlandais	irlandais
+666	pain italien	pain
+666	pain italien	italien
+667	vinaigrette à l’italienne	vin
+667	vinaigrette à l’italienne	vinaigrette
+667	vinaigrette à l’italienne	vinaigre
+667	vinaigrette à l’italienne	italien
+667	vinaigrette à l’italienne	aigre
+668	pomme de terre en chemise	pomme
+668	pomme de terre en chemise	terre
+669	confiture	con
+669	confiture	confit
+669	confiture	confiture
+670	rhum jamaïcain	rhum
+671	jambalaya	food
+672	Jawbreaker	food
+673	Jello	food
+674	gelée	gelée
+675	bonbon haricot	bonbon
+675	bonbon haricot	haricot
+676	johnnycake	cake
+677	vin de carafe	vin
+678	jus	jus
+679	jujube	food
+680	julep	food
+681	julienne	food
+682	baies de genièvre	food
+683	junket	food
+684	ration K	ration
+684	ration K	rat
+685	kebab	food
+686	kahlúa	food
+687	pain kaiser	pain
+688	kava	food
+689	kedgeree	food
+690	croquettes	croquettes
+690	croquettes	croquette
+691	Kirsch	food
+692	kischk	food
+693	Kiss	food
+694	knish	food
+695	cacher	cache
+696	koumis	food
+697	Kümmel	food
+698	kvas	food
+699	tressage	food
+700	lager	food
+701	curry d'agneau	eau
+701	curry d'agneau	curry
+702	garde-manger	food
+703	lasagne	food
+704	Cène	food
+705	lekvár	food
+706	mélisse officinale	ale
+707	crème de citron	crème
+707	crème de citron	citron
+708	lemon drop	drop
+709	extrait de citron	extrait
+709	extrait de citron	citron
+710	jus de citron	jus
+710	jus de citron	citron
+711	huilde de citron	citron
+712	zeste de citron	zeste
+712	zeste de citron	citron
+713	limonade	limonade
+714	mélange à limonade	mélange
+714	mélange à limonade	limonade
+715	soupe aux lentilles	soupe
+716	réglisse	food
+717	liebfraumilch	food
+718	liederkranz	food
+719	Life Savers	food
+720	bière légère	bière
+720	bière légère	légère
+721	crème légère	crème
+721	crème légère	légère
+722	alimentation légère	alimentation
+722	alimentation légère	aliment
+722	alimentation légère	légère
+722	alimentation légère	lime
+723	Limburger	food
+724	jus de lime	jus
+724	jus de lime	lime
+725	limeade	lime
+726	Limpa	food
+727	liqueur	liqueur
+728	régime liquide	régime
+728	régime liquide	liquide
+729	alcool	alcool
+730	eau Lithia	eau
+731	pin à encens	pin
+732	labskaus	food
+733	beurre de homard	beurre
+733	beurre de homard	homard
+734	Homard Newburg	food
+735	ragoût de homard	ragoût
+735	ragoût de homard	homard
+736	homard Thermidor	homard
+736	homard Thermidor	the
+737	sucette	sucette
+738	livèche	food
+739	régime hypocalorique	régime
+740	régime faible en gras	régime
+740	régime faible en gras	gras
+740	régime faible en gras	faible
+741	lait faible en gras	lait
+741	lait faible en gras	gras
+741	lait faible en gras	faible
+742	régime pauvre en sodium	régime
+743	losange	sang
+744	sucre en morceaux	sucre
+744	sucre en morceaux	eau
+744	sucre en morceaux	morceau
+745	déjeuner	déjeuner
+745	déjeuner	jeu
+746	lutefisk	food
+747	sauce lyonnaise	sauce
+747	sauce lyonnaise	lyon
+748	salade de macaroni	salade
+749	macis	food
+750	macédoine	food
+751	macon	con
+752	régime macrobiotique	régime
+753	madère	food
+754	madrilène	food
+755	malvoisie	food
+756	malt	malt
+757	lait malté	lait
+757	lait malté	malt
+758	Manhattan	manhattan
+759	chaudrée de palourdes Manhattan	chaudrée
+759	chaudrée de palourdes Manhattan	palourdes
+759	chaudrée de palourdes Manhattan	chaud
+759	chaudrée de palourdes Manhattan	manhattan
+760	manzanilla	food
+761	sirop d'érable	sirop
+762	marasquin	food
+763	marc	food
+764	margarine	food
+765	margarita	food
+766	marinade	food
+767	marinara	food
+768	marjolaine	lai
+769	marmelade	marmelade
+770	marmite	marmite
+771	moelle	food
+772	marsala	food
+773	guimauve	guimauve
+774	poussière de guimauve	guimauve
+775	Martini	food
+776	maryland chicken	food
+777	massepain	pain
+778	mascarpone	food
+779	purée	purée
+780	purée de pommes de terre	pommes
+780	purée de pommes de terre	pomme
+780	purée de pommes de terre	terre
+780	purée de pommes de terre	purée
+781	mast	food
+782	maté	food
+783	matelote	food
+784	matza	matza
+785	farine de matza	farine
+785	farine de matza	matza
+786	Maitrank	food
+787	mayonnaise	may
+788	hydromel	mel
+789	repas	repas
+790	pain de viande	pain
+790	pain de viande	viande
+790	pain de viande	viand
+791	boulette	boulette
+792	médoc	food
+793	toast Melba	toast
+794	menu	food
+795	Merlot	food
+796	mezcal	food
+797	mess	food
+798	metheglin	food
+799	micronutriment	nutriment
+800	lait	lait
+800	lait	lai
+801	punch au lait	lait
+801	punch au lait	punch
+802	millet	food
+803	mimosa	mimosa
+804	viande hâchée	viande
+804	viande hâchée	viand
+805	viande hâchée	viande
+805	viande hâchée	viand
+806	eau minérale	ale
+806	eau minérale	eau
+807	menthe	menthe
+808	sauce à la menthe	menthe
+808	sauce à la menthe	sauce
+809	nourriture miraculeuse	nourriture
+810	miso	food
+811	mélange	mélange
+812	boisson mélangée	boisson
+813	fouet électrique	fouet
+814	moka	food
+815	fausse soupe de tortue	soupe
+815	fausse soupe de tortue	tortue
+815	fausse soupe de tortue	soup
+816	mélasse	food
+817	moisissure	sure
+818	salade en gelée	gelée
+818	salade en gelée	salade
+819	mole	mole
+820	glutamate monosodique	food
+821	Montrachet	food
+822	moo goo gai pan	moo
+822	moo goo gai pan	goo
+823	alcool de contrebande	alcool
+823	alcool de contrebande	con
+824	sauce Mornay	sauce
+825	Moselle	sel
+826	lait maternel	lait
+827	moussaka	mou
+828	mousse	mousse
+828	mousse	mou
+829	mozzarella	food
+830	muenster	food
+831	muffin	muffin
+832	cidre chaud	cidre
+832	cidre chaud	chaud
+833	vin chaud	vin
+833	vin chaud	chaud
+834	chuadrée Mulligan	food
+835	mulligatawny	food
+836	multivitamine	vitamine
+837	bière de Munich	bière
+838	muscadet	muscade
+839	muscat	food
+840	sauce aux champignons	sauce
+840	sauce aux champignons	champignon
+840	sauce aux champignons	pignon
+841	purée de petits pois	petits
+841	purée de petits pois	pois
+841	purée de petits pois	purée
+841	purée de petits pois	petit
+842	moût	food
+843	moutarde	mou
+843	moutarde	moutarde
+844	sauce moutarde	sauce
+844	sauce moutarde	moutarde
+844	sauce moutarde	mou
+845	graine de moutarde	graine
+845	graine de moutarde	moutarde
+845	graine de moutarde	mou
+845	graine de moutarde	grain
+846	nacho	food
+847	naan	food
+848	Nantua	food
+849	capucine	food
+850	tranche napolitaine	tranche
+851	bière sans alcool	bière
+851	bière sans alcool	alcool
+851	bière sans alcool	san
+852	nectar	food
+853	negus	food
+854	nesselrode	sel
+855	alcool rectifié	alcool
+856	chaudrée de palourdes du Maine	chaudrée
+856	chaudrée de palourdes du Maine	palourdes
+856	chaudrée de palourdes du Maine	chaud
+857	niacine	food
+858	nypa	food
+859	poudre de lait écrémé	lait
+859	poudre de lait écrémé	poudre
+859	poudre de lait écrémé	écrémé
+860	nonpareille	food
+861	nosh	food
+862	nougat	nougat
+863	barre de nougat	nougat
+863	barre de nougat	barre
+864	barre aux noisettes	noisette
+864	barre aux noisettes	barre
+865	pain aux noix	pain
+865	pain aux noix	noix
+866	beurre de noix	noix
+866	beurre de noix	beurre
+867	noix muscade	noix
+867	noix muscade	muscade
+868	nutriment	nutriment
+869	avoine	avoine
+870	oatcake	cake
+871	gruau	gruau
+872	oenomel	food
+873	tourteau	eau
+873	tourteau	tourteau
+874	tourteau	eau
+874	tourteau	tourteau
+875	oktoberfest	food
+876	vieux jeu	jeu
+877	olive	olive
+878	olla podrida	olla
+879	omelette	omelette
+880	bagel aux oignons	bagel
+880	bagel aux oignons	oignons
+881	pain aux oignons	pain
+881	pain aux oignons	oignons
+882	beurre aux oignons	beurre
+882	beurre aux oignons	oignons
+883	petit pain à l’oignon	pain
+883	petit pain à l’oignon	petit
+884	sel aux oignons	sel
+884	sel aux oignons	oignons
+885	oolong	food
+886	sandwich à une tranche	sandwich
+886	sandwich à une tranche	tranche
+887	jus d'orange	jus
+887	jus d'orange	d'orange
+887	jus d'orange	orange
+888	liqueur d'orange	liqueur
+888	liqueur d'orange	d'orange
+888	liqueur d'orange	orange
+889	marmelade d’orange	d’orange
+889	marmelade d’orange	marmelade
+889	marmelade d’orange	orange
+890	peau d’orange	eau
+890	peau d’orange	d’orange
+890	peau d’orange	peau
+890	peau d’orange	orange
+891	orange pekoe	orange
+892	soda à l’orange	soda
+892	soda à l’orange	orange
+893	orangeade	orange
+894	osso buco	food
+895	ouzo	food
+896	soupe de queue de bœuf	œuf
+896	soupe de queue de bœuf	bœuf
+896	soupe de queue de bœuf	soupe
+896	soupe de queue de bœuf	queue
+896	soupe de queue de bœuf	soup
+897	biscuits d’huîtres	cuit
+897	biscuits d’huîtres	biscuit
+897	biscuits d’huîtres	d’huîtres
+898	ragoût d’huîtres	ragoût
+898	ragoût d’huîtres	d’huîtres
+899	paddy	food
+900	paella	food
+901	bière blonde	bière
+902	pâte à crêpes	pâte
+903	acide pantothénique	thé
+903	acide pantothénique	acide
+904	jus de papaye	jus
+904	jus de papaye	papa
+905	paprika	paprika
+906	parfait	food
+907	parker house roll	house
+907	parker house roll	roll
+908	parmesan	parmesan
+909	persil	persil
+910	pâtes	pâte
+910	pâtes	pâtes
+911	salade de pâtes	pâte
+911	salade de pâtes	salade
+911	salade de pâtes	pâtes
+912	lait pasteurisé	lait
+913	pastis	food
+914	pâte	pâte
+915	pâté	pâté
+916	steak haché	steak
+917	pavlova	food
+918	farine de pois	farine
+918	farine de pois	pois
+919	soupe aux pois	soupe
+919	soupe aux pois	pois
+919	soupe aux pois	soup
+920	crème glacée à la pêche	crème
+920	crème glacée à la pêche	glacé
+920	crème glacée à la pêche	glacée
+920	crème glacée à la pêche	pêche
+921	pêche Melbe	pêche
+922	sauce aux pêches	sauce
+922	sauce aux pêches	pêche
+923	barre d'arachide	barre
+923	barre d'arachide	d'arachide
+924	nougatine aux cacahuètes	nougatine
+924	nougatine aux cacahuètes	nougat
+925	beurre d'arachides	beurre
+925	beurre d'arachides	d'arachide
+926	orge perlée	orge
+926	orge perlée	perlée
+927	hominy perlée	hominy
+927	hominy perlée	perlée
+928	pease pudding	pudding
+929	panucci	food
+930	poivre	poivre
+931	moulin à poivre	poivre
+931	moulin à poivre	mou
+932	sauce au piment	piment
+932	sauce au piment	sauce
+933	bifteck au poivre	poivre
+933	bifteck au poivre	bifteck
+934	menthe poivrée	menthe
+935	huile essentielle de menthe	menthe
+935	huile essentielle de menthe	huile
+936	York peppermint patty	food
+937	pizza au pepperoni	pizza
+938	Pepsi	food
+939	Périssable	food
+940	Pernod	food
+941	poiré	food
+942	pesto	food
+943	aliment pour animaux	aliment
+943	aliment pour animaux	lime
+944	faisan sous cloche	food
+945	philtre	food
+946	phosphate	food
+947	pâte phyllo	pâte
+948	piccalilli	food
+949	saumure	saumure
+950	relish	food
+951	pique-nique	food
+952	pièce de résistance	food
+953	pilaf	pilaf
+954	pils	food
+955	Pina Colada	food
+956	jus d'ananas	jus
+957	Pink Lady	food
+958	Pinole	food
+959	pinot blanc	blanc
+959	pinot blanc	pin
+959	pinot blanc	pinot
+960	pinot noir	noir
+960	pinot noir	pin
+960	pinot noir	pinot
+961	pierogie	pie
+962	pita	food
+963	pizza	pizza
+964	farine ordinaire	farine
+964	farine ordinaire	ordinaire
+965	Planter’s Punch	food
+966	assiette	food
+967	vin ordinaire	vin
+967	vin ordinaire	ordinaire
+968	ploughman's lunch	food
+969	christmas pudding	pudding
+970	sauce aux prunes	sauce
+971	œuf poché	œuf
+972	poï	food
+973	soda	soda
+974	pop-corn	corn
+974	pop-corn	pop
+974	pop-corn	pop-corn
+975	graine de pop-corn	graine
+975	graine de pop-corn	grain
+975	graine de pop-corn	pop-corn
+976	popover	food
+977	graine de pavot	graine
+977	graine de pavot	grain
+978	bouillie	food
+979	porto	food
+980	porter	food
+981	postum	food
+982	pot-au-feu	pot
+983	potage	potage
+983	potage	pot
+984	pomme de terre	pomme
+984	pomme de terre	terre
+985	salade de pommes de terre	pommes
+985	salade de pommes de terre	pomme
+985	salade de pommes de terre	terre
+985	salade de pommes de terre	salade
+986	peau de pomme de terre	pomme
+986	peau de pomme de terre	terre
+986	peau de pomme de terre	eau
+986	peau de pomme de terre	peau
+987	poteen	pot
+988	potion	pot
+989	potluck	pot
+990	plat en casserole	casserole
+990	plat en casserole	plat
+991	potage	potage
+991	potage	pot
+992	poulette	poulet
+992	poulette	poule
+993	pousse-café	café
+994	lait en poudre	lait
+994	lait en poudre	poudre
+994	lait en poudre	lai
+995	crème anglaise en poudre	crème
+995	crème anglaise en poudre	poudre
+995	crème anglaise en poudre	anglaise
+995	crème anglaise en poudre	anglais
+996	sucre en poudre	sucre
+996	sucre en poudre	poudre
+997	power breakfast	food
+998	praline	food
+999	bretzel	bretzel
+1000	fromage fondu	fromage
+1000	fromage fondu	fondu
+1001	proof spirit	food
+1002	pruno	food
+1003	pudding	pudding
+1004	pâte à choux	pâte
+1004	pâte à choux	chou
+1005	pâte feuilletée	pâte
+1006	pulque	food
+1007	punch	punch
+1008	purée	purée
+1009	purloo	food
+1010	fromage blanc	blanc
+1010	fromage blanc	fromage
+1011	quesadilla	food
+1012	pain éclair	pain
+1012	pain éclair	lai
+1013	ragoût	ragoût
+1014	pain aux raisins	pain
+1014	pain aux raisins	raisin
+1014	pain aux raisins	raisins
+1015	raïta	food
+1016	ramequin	food
+1017	fromage rat	fromage
+1017	fromage rat	rat
+1018	ratafia	rat
+1019	ratatouille	rat
+1020	ration	ration
+1020	ration	rat
+1021	ravigote	food
+1022	lait cru	lait
+1022	lait cru	cru
+1023	prémélangé	food
+1024	vin rouge	vin
+1024	vin rouge	rouge
+1025	régime	régime
+1026	réfection	food
+1027	rafraîchissement	food
+1028	rafraîchissement	food
+1029	haricots frits	haricots
+1029	haricots frits	frit
+1029	haricots frits	haricot
+1030	relish	food
+1031	sauce remoulade	sauce
+1031	sauce remoulade	mou
+1032	retsina	food
+1033	Reuben	food
+1034	vin du Rhin	vin
+1035	vin de la vallée du rhône	vin
+1036	riz	riz
+1037	Rickey	rickey
+1038	ricotta	food
+1039	riesling	food
+1040	Rioja	food
+1041	risotto	food
+1042	risolle	food
+1043	Rob Roy	food
+1044	sucre candi	sucre
+1045	rollmops	roll
+1046	Roly Poly	food
+1047	racinette	food
+1048	roquefort	fort
+1049	romarin	food
+1050	Rotgut	food
+1051	fourrage	four
+1052	roulade	food
+1053	roux	food
+1054	rue des jardins	rue
+1055	rhum	rhum
+1056	sauce russe	sauce
+1056	sauce russe	russe
+1057	seigle	seigle
+1058	pain de seigle	pain
+1058	pain de seigle	seigle
+1059	saccharine	food
+1060	sack	food
+1061	safran	food
+1062	sauge	sauge
+1063	Saint-Émilion	food
+1064	saké	food
+1065	salade	salade
+1066	crème pour salades	salade
+1066	crème pour salades	crème
+1067	steak Salisbury	steak
+1068	salmigondi	food
+1069	salmis	food
+1070	salsa	salsa
+1071	sel	sel
+1072	pain de sel à la hausse	pain
+1072	pain de sel à la hausse	sel
+1073	biscotin salé	food
+1074	sambuca	food
+1075	samoussa	mou
+1076	sandwich	sandwich
+1077	plaque intermédiaire	food
+1078	schabziger	food
+1079	salsepareille	food
+1080	sashimi	food
+1081	sassafras	food
+1082	sauce	sauce
+1083	sauerbraten	rat
+1084	choucroute	chou
+1085	pizza au pepperoni	pizza
+1086	sauté	food
+1087	Sauternes	food
+1088	sauvignon blanc	blanc
+1089	sarriette	sarriette
+1090	sazerac	food
+1091	lait frémi	lait
+1092	langoustine	food
+1093	schnaps	food
+1094	schnitzel	food
+1095	scone	con
+1095	scone	scone
+1096	scotch	scotch
+1097	bouillon écossais	bouillon
+1097	bouillon écossais	écossais
+1098	scotch egg	egg
+1098	scotch egg	scotch
+1099	scotch woodcock	scotch
+1100	œufs brouillés	œuf
+1100	œufs brouillés	œufs
+1101	scrapple	food
+1102	screwdriver	food
+1103	scrumpy	cru
+1104	sel assaisonné	sel
+1105	séder	food
+1106	farine fermentante	farine
+1107	eau gazeuse	eau
+1107	eau gazeuse	gazeuse
+1108	lait demi-écrémé	lait
+1108	lait demi-écrémé	écrémé
+1109	semoule	semoule
+1109	semoule	mou
+1110	graine de sésame	graine
+1110	graine de sésame	grain
+1110	graine de sésame	sésame
+1111	Johnnycake	cake
+1112	sorbet	food
+1113	xérès	food
+1114	shortcake	cake
+1115	beurre de crevette	beurre
+1115	beurre de crevette	crevette
+1116	cocktail de crevettes	cocktail
+1116	cocktail de crevettes	ail
+1116	cocktail de crevettes	crevette
+1117	pizza sicilienne	pizza
+1118	plat d’accompagnement	plat
+1119	Sidecar	food
+1120	ensilage	food
+1121	Simnel	food
+1122	pain skillet	pain
+1123	skilly	food
+1124	lait écrémé	lait
+1124	lait écrémé	écrémé
+1125	Sling	sling
+1126	slivovitz	food
+1127	prunelle	food
+1128	drèche	food
+1129	sloppy joe	food
+1130	escargot	cargo
+1131	slumgullion	food
+1132	smoothie	moo
+1133	smörgåsbord	food
+1134	aliment à grignoter	aliment
+1134	aliment à grignoter	lime
+1135	Snowball	food
+1136	soave	food
+1137	craquelin	food
+1138	eau gazeuse	eau
+1138	eau gazeuse	gazeuse
+1139	régime sémi-liquide	régime
+1139	régime sémi-liquide	liquide
+1140	boisson gazeuse	boisson
+1140	boisson gazeuse	gazeuse
+1141	bretzel mou	mou
+1141	bretzel mou	bretzel
+1142	rouleau mou	eau
+1142	rouleau mou	mou
+1142	rouleau mou	rouleau
+1143	sorgho	food
+1144	soubise	food
+1145	souchong	food
+1146	soufflé	soufflé
+1147	soul food	food
+1148	soupe	soupe
+1148	soupe	soup
+1149	soupe du jour	soupe
+1150	aigre	aigre
+1151	apin aigre	pin
+1151	apin aigre	aigre
+1152	crème sure	crème
+1152	crème sure	sure
+1153	sour mash	sour
+1154	lait acidifié	lait
+1155	acide citrique	acide
+1156	balle aigre	aigre
+1157	souvláki	food
+1158	sauce soja	sauce
+1158	sauce soja	soja
+1159	lait de soja	lait
+1159	lait de soja	soja
+1160	farine de soja	farine
+1160	farine de soja	soja
+1161	spaghetti	spaghetti
+1162	sauce à spaghetti	sauce
+1162	sauce à spaghetti	spaghetti
+1163	SPAM	food
+1164	paprika espagnol	paprika
+1164	paprika espagnol	espagnol
+1165	riz espagnol	riz
+1165	riz espagnol	espagnol
+1166	vin mousseux	vin
+1166	vin mousseux	mousse
+1166	vin mousseux	mou
+1167	huile de menthe verte	menthe
+1167	huile de menthe verte	verte
+1167	huile de menthe verte	vert
+1167	huile de menthe verte	huile
+1168	spécial	food
+1169	herbe	herbe
+1170	split	split
+1171	soupe aux pois cassés	soupe
+1171	soupe aux pois cassés	pois
+1172	pain à la cuillère	pain
+1173	spotted dick	pot
+1174	pâte à tartiner	pâte
+1174	pâte à tartiner	tartiner
+1175	eau de source	eau
+1175	eau de source	sour
+1176	Jacqueline	food
+1177	bière d'épinette	bière
+1177	bière d'épinette	pin
+1178	repas substantiel	repas
+1179	amidon	food
+1180	steak au poivre	poivre
+1180	steak au poivre	steak
+1181	sauce à bifteck	sauce
+1181	sauce à bifteck	bifteck
+1182	steak tartare	steak
+1182	steak tartare	tartare
+1183	pouding à la vapeur	pouding
+1184	ragoût	ragoût
+1185	stick	food
+1186	bâton de cannelle	canne
+1186	bâton de cannelle	cannelle
+1186	bâton de cannelle	bâton
+1187	stilton	food
+1188	Stinger	food
+1189	bouillon cube	bouillon
+1189	bouillon cube	cube
+1190	stodge	food
+1191	stout	food
+1192	cannes	canne
+1193	vin de paille	vin
+1193	vin de paille	ail
+1194	daïquiri aux fraises	fraises
+1194	daïquiri aux fraises	fraise
+1195	glace à la fraise	glace
+1195	glace à la fraise	fraise
+1196	confiture de fraises	con
+1196	confiture de fraises	confit
+1196	confiture de fraises	confiture
+1196	confiture de fraises	fraises
+1196	confiture de fraises	fraise
+1197	fromage à effilocher	fromage
+1198	chou farci	chou
+1198	chou farci	farci
+1199	poivrons farcis	farci
+1200	farce	food
+1201	succotash	food
+1202	bière	bière
+1203	suet pudding	pudding
+1204	sucre	sucre
+1205	sucre candi	sucre
+1206	sirop de sucre	sucre
+1206	sirop de sucre	sirop
+1207	eau sucrée	eau
+1207	eau sucrée	sucré
+1208	pain de sucre	pain
+1208	pain de sucre	sucre
+1209	amélanchier du Canada	food
+1210	sukiyaki	yak
+1211	sarriette	sarriette
+1212	thé soleil	thé
+1213	souper	soupe
+1214	sushi	sushi
+1215	boulettes suédoises	boulette
+1215	boulettes suédoises	suédois
+1216	pain de seigle suédois	pain
+1216	pain de seigle suédois	seigle
+1216	pain de seigle suédois	suédois
+1217	sucré	sucré
+1218	cerfeuil musqué	cerfeuil
+1219	cidre doux	cidre
+1220	maïs sucré	sucré
+1220	maïs sucré	maïs
+1221	saumure sucré	sucré
+1221	saumure sucré	saumure
+1222	rouleau sucré	eau
+1222	rouleau sucré	sucré
+1222	rouleau sucré	rouleau
+1223	vermouth sucré	sucré
+1223	vermouth sucré	vermouth
+1223	vermouth sucré	mou
+1224	aspérule odorante	food
+1225	édulcorant	food
+1226	sucrerie	sucre
+1227	fromage suisse	fromage
+1227	fromage suisse	suisse
+1228	bifteck à la suisse	bifteck
+1228	bifteck à la suisse	suisse
+1229	Swizzle	food
+1230	syllabub	food
+1231	sirop	sirop
+1232	Tabasco	food
+1233	taboulé	food
+1234	vin de table	vin
+1234	vin de table	table
+1235	taco	taco
+1236	sauce taco	sauce
+1236	sauce taco	taco
+1237	tire	food
+1238	tahini	food
+1239	tamal	tamal
+1240	gâteau tamal	eau
+1240	gâteau tamal	gâteau
+1240	gâteau tamal	tamal
+1241	tapenade	food
+1242	tapioca	food
+1243	pudding tapioco	pudding
+1244	estragon	food
+1245	sauce tartare	sauce
+1245	sauce tartare	tart
+1245	sauce tartare	tartare
+1246	thé	thé
+1247	sachet de thé	thé
+1248	pain de thé	pain
+1248	pain de thé	thé
+1249	sorte de thé	thé
+1250	tempura	food
+1251	tequila	food
+1252	teriyaki	yak
+1253	terrine	food
+1254	tetrazzini	food
+1255	Mille-îles	food
+1256	thym	food
+1257	timbale	ale
+1258	Timothy	food
+1259	tipsy cake	cake
+1260	tiramisu	food
+1261	tisane	tisane
+1262	toast	toast
+1263	tokay	food
+1264	concentré de tomates	con
+1264	concentré de tomates	concentré
+1264	concentré de tomates	tomate
+1265	jus de tomate	jus
+1265	jus de tomate	tomate
+1266	pâte de tomate	pâte
+1266	pâte de tomate	tomate
+1267	sauce tomate	sauce
+1267	sauce tomate	tomate
+1268	tonique	food
+1269	croustille de maïs	maïs
+1270	salade	salade
+1271	tostada	tostada
+1272	The Training Table	the
+1273	mélasse	food
+1274	trifle	food
+1275	triple crème	crème
+1275	triple crème	triple
+1276	triple sec	sec
+1276	triple sec	triple
+1277	truffe	food
+1278	tuck	food
+1279	salade de thon	salade
+1280	dinde farci	farci
+1281	café turc	café
+1282	loukoum	food
+1283	curcuma	food
+1284	chausson	chausson
+1285	soupe de tortue	soupe
+1285	soupe de tortue	tortue
+1285	soupe de tortue	soup
+1286	Tutti Frutti	food
+1287	vanille	vanille
+1288	gousse de vanille	vanille
+1289	glace à la vanille	glace
+1289	glace à la vanille	vanille
+1290	pudding à la vanille	pudding
+1290	pudding à la vanille	vanille
+1291	cépage	food
+1292	cordon bleu de veau	bleu
+1292	cordon bleu de veau	eau
+1292	cordon bleu de veau	cordon
+1292	cordon bleu de veau	veau
+1293	veau parmesan	eau
+1293	veau parmesan	parmesan
+1293	veau parmesan	veau
+1294	végétarisme	food
+1295	Velveeta	food
+1296	verdicchio	food
+1297	vermouth	vermouth
+1297	vermouth	mou
+1298	viand	viand
+1299	eau Vichy	eau
+1300	vichyssoise	food
+1301	vin ordinaire	vin
+1301	vin ordinaire	ordinaire
+1302	vinaigre	vin
+1302	vinaigre	vinaigre
+1302	vinaigre	aigre
+1303	millésime	food
+1304	Virgin Mary	gin
+1304	Virgin Mary	mary
+1305	vitamine	vitamine
+1306	vitamine A1	vitamine
+1307	vitamine A2	vitamine
+1308	vitamine B1	vitamine
+1309	vitamine B12	vitamine
+1310	vitamine B2	vitamine
+1311	vitamine B6	vitamine
+1312	vitamine BC	vitamine
+1313	vitamine C	vitamine
+1314	vitamine D	vitamine
+1315	vitamine E	vitamine
+1316	vitamine K	vitamine
+1317	vitamine K1	vitamine
+1318	vitamine K3	vitamine
+1319	vitamine P	vitamine
+1320	pilule vitamine	vitamine
+1321	vodka	vodka
+1322	vodka-martini	vodka
+1323	Vouvray	food
+1324	gaufrette	food
+1325	salade Waldorf	salade
+1326	wasabi	food
+1327	wassail	ail
+1328	eau	eau
+1329	water biscuit	cuit
+1329	water biscuit	biscuit
+1329	water biscuit	water
+1330	glace	lac
+1330	glace	glace
+1331	vitamine hydrosoluble	vitamine
+1332	Weissbier	food
+1333	weizenbier	food
+1334	weizenbock	bock
+1335	Welsh	food
+1336	Western	food
+1337	blé	blé
+1338	farine de blé	farine
+1338	farine de blé	blé
+1339	germe de blé	blé
+1340	lactosérum	food
+1341	fouet	fouet
+1342	crème chantilly	crème
+1343	whiskey	whiskey
+1344	Whiskey Sour	food
+1345	pain blanc	pain
+1345	pain blanc	blanc
+1346	poivre blanc	poivre
+1346	poivre blanc	blanc
+1347	riz blanc	blanc
+1347	riz blanc	riz
+1348	White Russion	food
+1349	sauce blanche	sauce
+1349	sauce blanche	blanc
+1350	vin blanc	vin
+1350	vin blanc	blanc
+1351	lait entier	lait
+1351	lait entier	entier
+1352	farine de blé entier	farine
+1352	farine de blé entier	blé
+1352	farine de blé entier	entier
+1353	rôti Wiener	rôti
+1354	riz sauvage	riz
+1355	vin	vin
+1356	sauce au vin	vin
+1356	sauce au vin	sauce
+1357	vinaigre de vin	vin
+1357	vinaigre de vin	vinaigre
+1357	vinaigre de vin	aigre
+1358	sarriette des montagnes	sarriette
+1359	huile Wintergreen	huile
+1360	won ton	food
+1361	sauce Worcester	sauce
+1362	moût	food
+1363	wrap	food
+1364	beurre de yak	beurre
+1364	beurre de yak	yak
+1365	lait de yak	lait
+1365	lait de yak	yak
+1366	yaourt	yaourt
+1366	yaourt	aou
+1367	jaune d'œuf	œuf
+1367	jaune d'œuf	jaune
+1368	yorkshire pudding	pudding
+1369	Yquem	food
+1370	sabayon	food
+1371	zinfandel	food
+1372	Zombie	food
+1373	biscotte	food
+1374	vitamine a	vitamine
+1375	badianier de chine	chine
+1376	sauce bolognaise	sauce
+1376	sauce bolognaise	bolo
+1377	soufflé au fromage	fromage
+1377	soufflé au fromage	soufflé
+1378	sauce bordelaise	sauce
+1378	sauce bordelaise	lai
+1378	sauce bordelaise	bordelaise
+1379	crème de fraise	crème
+1379	crème de fraise	fraise
+1380	petite marmite	marmite
+1380	petite marmite	petit
+1381	crème fraîche	crème
+1382	salade niçoise	salade
+1383	carbonade flamande	amande

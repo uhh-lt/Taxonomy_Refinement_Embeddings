@@ -1,0 +1,164 @@
+1	medieval history	ancient history
+2	information science	applied sciences
+3	animal taxonomy	biology
+4	cytology	biology
+5	plant taxonomy	biology
+6	zoology	biology
+7	analytical chemistry	chemistry
+8	biochemistry	chemistry
+9	electrochemistry	chemistry
+10	geochemistry	chemistry
+11	industrial chemistry	chemistry
+12	photochemistry	chemistry
+13	soil chemistry	chemistry
+14	bioclimatology	climatology
+15	political geography	cultural geography
+16	non-European language	European language
+17	cultural geography	geography
+18	historical geography	geography
+19	human geography	geography
+20	regional geography	geography
+21	geochemistry	geology
+22	geomorphology	geology
+23	hydrogeology	geology
+24	mineralogy	geology
+25	petrology	geology
+26	sedimentology	geology
+27	administrative science	history
+28	applied sciences	history
+29	archaeology	history
+30	astronautics	history
+31	bilingualism	history
+32	climatology	history
+33	cosmology	history
+34	cultural geography	history
+35	earth sciences	history
+36	embryo and foetus	history
+37	ethics	history
+38	ethnology	history
+39	eugenics	history
+40	geographical information system	history
+41	geopolitics	history
+42	historical figure	history
+43	historical geography	history
+44	human geography	history
+45	language policy	history
+46	life sciences	history
+47	living language	history
+48	nuclear physics	history
+49	philosophy	history
+50	political science	history
+51	prehistory	history
+52	psychoanalysis	history
+53	regional geography	history
+54	social sciences	history
+55	sociology	history
+56	soil science	history
+57	soil type	history
+58	space science	history
+59	world history	history
+60	economic geography	human geography
+61	ethnography	human geography
+62	political geography	human geography
+63	ethnography	language
+64	ethnology	language
+65	European language	language
+66	geographical information system	language
+67	geopolitics	language
+68	historical figure	language
+69	language policy	language
+70	linguistics	language
+71	living language	language
+72	multilingualism	language
+73	prehistory	language
+74	psychoanalysis	language
+75	world history	language
+76	physical sciences	life sciences
+77	minority language	living language
+78	non-European language	living language
+79	regional language	living language
+80	contemporary history	modern history
+81	medieval history	modern history
+82	bilingualism	multilingualism
+83	psychometric test	personality
+84	philosophy of science	philosophy
+85	psychoanalysis	psychology
+86	psychometric test	psychology
+87	acoustics	science
+88	administrative science	science
+89	aerodynamics	science
+90	agronomy	science
+91	analytical chemistry	science
+92	applied sciences	science
+93	astronautics	science
+94	astronomy	science
+95	atom	science
+96	biology	science
+97	biometrics	science
+98	botany	science
+99	cartography	science
+100	chemistry	science
+101	cindynics	science
+102	cosmology	science
+103	cybernetics	science
+104	DNA	science
+105	earth sciences	science
+106	ecology	science
+107	economics	science
+108	electrochemistry	science
+109	electronics	science
+110	electrotechnology	science
+111	enzyme	science
+112	eugenics	science
+113	genetics	science
+114	geochemistry	science
+115	geodesy	science
+116	geography	science
+117	geology	science
+118	geophysics	science
+119	histology	science
+120	history	science
+121	hydrology	science
+122	industrial chemistry	science
+123	ionising radiation	science
+124	language	science
+125	laser physics	science
+126	life sciences	science
+127	mathematics	science
+128	meteorology	science
+129	metrology	science
+130	microorganism	science
+131	neurobiology	science
+132	nuclear physics	science
+133	oceanography	science
+134	optics	science
+135	parasitology	science
+136	personality	science
+137	pharmacology	science
+138	philosophy of science	science
+139	photochemistry	science
+140	plasma physics	science
+141	political science	science
+142	psychology	science
+143	radiobiology	science
+144	seismology	science
+145	sexuality	science
+146	social sciences	science
+147	soil chemistry	science
+148	soil science	science
+149	space science	science
+150	spectrometry	science
+151	stem cell	science
+152	thermodynamics	science
+153	volcanology	science
+154	behavioural sciences	social sciences
+155	criminology	sociology
+156	industrial sociology	sociology
+157	political sociology	sociology
+158	rural sociology	sociology
+159	sociology of education	sociology
+160	urban sociology	sociology
+161	soil analysis	soil type
+162	fundamental particle	space science
+163	ancient history	world history
+164	modern history	world history

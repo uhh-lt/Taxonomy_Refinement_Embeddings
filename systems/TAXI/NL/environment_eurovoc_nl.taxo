@@ -1,0 +1,92 @@
+69270	Antarctica	Arctica
+29502	Arctica	insect
+11765	Atlantische Oceaan	oceaan
+32791	EU-emissierechten	emissierechten
+12418	EU-milieubeleid	milieubeleid
+14691	Indische Oceaan	oceaan
+30918	Stille Oceaan	oceaan
+44522	afvalwater	water
+41914	aquatisch milieu	milieu
+40136	bodemverontreiniging	verontreiniging
+20744	chemisch afval	afval
+59554	chemische verontreiniging	verontreiniging
+11271	drinkwater	water
+51920	ecosysteem van het land	ecosysteem
+43354	elektronisch afval	afval
+2030	erosie	brand
+51846	fauna	insect
+47807	flora	fauna
+47856	flora	insect
+35795	fysisch milieu	milieu
+18221	geofysisch milieu	fysisch milieu
+18239	geofysisch milieu	milieu
+7976	gevaarlijk afval	afval
+54500	grensoverschrijdende verontreiniging	verontreiniging
+27232	grondwater	water
+27368	grondwater	verontreiniging
+34842	huishoudelijk afval	afval
+9306	industrieafval	afval
+58224	industriële verontreiniging	verontreiniging
+949	klimaat	milieu
+980	klimaat	milieubeleid
+18453	kwelwater	water
+6380	landbouwafval	afval
+70998	luchtverontreinigende stof	verontreinigende stof
+5290	luchtverontreiniging	verontreiniging
+43408	marien ecosysteem	ecosysteem
+51224	marien milieu	milieu
+42822	metaalafval	afval
+1248	minerale reserves uit de zeebodem	minerale reserves
+5975	nationaal park	natuurreservaat
+56148	nationaal park in de stad	nationaal park
+61176	niet-recycleerbaar afval	afval
+16742	oceaan	atmosfeer
+15579	ontbossing	milieu
+63674	oppervlaktewater	water
+9812	organische verontreiniging	verontreiniging
+22859	ozon	broeikasgas
+25266	radioactief afval	afval
+39468	radioactief afvalwater	water
+39534	radioactief afvalwater	afvalwater
+65141	radioactieve verontreiniging	verontreiniging
+43724	stilstaand water	water
+12594	stof	hinder
+12646	stof	gevaarlijke stof
+62650	subtropische zone	tropische zone
+16994	thermische verontreiniging	verontreiniging
+21714	verbranding van afval	brand
+53170	verontreiniging door auto's	verontreiniging
+23910	verontreiniging door de landbouw	verontreiniging
+44392	verontreiniging door koolwaterstoffen	verontreiniging
+768	verontreiniging door metalen	verontreiniging
+17526	verontreiniging door schepen	verontreiniging
+46520	verontreiniging van de stratosfeer	verontreiniging
+21516	verontreiniging van de waterlopen	verontreiniging
+24708	verontreiniging van tellurische oorsprong	verontreiniging
+5822	verontreiniging van voedingsmiddelen	verontreiniging
+26850	water	atmosfeer
+26861	water	estuarium
+39875	waterverontreinigende stof	verontreinigende stof
+55830	waterverontreiniging	verontreiniging
+6711	zee	oceaan
+6749	zee	water
+35108	ziekenhuisafval	afval
+20315	zoet water	water
+67930	zout water	water
+10473	zwemwater	water
+1	insect	milieu
+2	emissierechten	milieu
+3	milieubeleid	milieu
+4	verontreiniging	milieu
+5	afval	milieu
+6	ecosysteem	milieu
+7	brand	milieu
+8	verontreinigende stof	milieu
+9	minerale reserves	milieu
+10	natuurreservaat	milieu
+11	atmosfeer	milieu
+12	broeikasgas	milieu
+13	hinder	milieu
+14	gevaarlijke stof	milieu
+15	tropische zone	milieu
+16	estuarium	milieu

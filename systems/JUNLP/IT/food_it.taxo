@@ -1,0 +1,1864 @@
+0	acqua	acqua
+1	alimenti	ali
+1	alimenti	alimenti
+2	data	food
+3	porto	porto
+4	supremo	food
+5	arancia	food
+6	vino	vino
+6	vino	vin
+7	sale	ale
+7	sale	sale
+8	riso	riso
+9	frutta	frutta
+10	zucchero	zucchero
+11	soldato	food
+12	seme	seme
+13	caramella	caramel
+13	caramella	mel
+13	caramella	caramella
+14	mela	mela
+14	mela	mel
+15	carne	carne
+15	carne	carn
+16	caffè	caffè
+17	latte	latte
+18	rucola	cola
+19	birra	birra
+20	vettore	food
+21	panna	panna
+21	panna	pan
+22	uovo	uovo
+23	mais	mais
+24	grano	grano
+25	pane	pane
+25	pane	pan
+26	ciliegia	food
+27	formaggio	formaggio
+28	amaro	food
+29	bacca	food
+30	miele	miele
+30	miele	mie
+31	uva	food
+32	menta	menta
+33	menta	menta
+34	salvia	food
+35	manzo	manzo
+36	farina	farina
+36	farina	far
+37	erbe	food
+38	pepe	pepe
+39	peperone	pepe
+39	peperone	per
+40	patatine	tatin
+40	patatine	pata
+41	torta	torta
+42	limetta	food
+43	succo	succo
+44	zuppa	zuppa
+45	distillato	distillato
+46	fagiolo	fagiolo
+47	pasticcio	food
+48	verdura	food
+49	sugo	sugo
+50	patata	patata
+50	patata	pata
+51	pizza	pizza
+52	basilico	food
+53	verdura	food
+54	noce di cocco	noce
+54	noce di cocco	cocco
+55	banana	banana
+56	castagna	castagna
+57	limone	food
+58	maiale	maiale
+59	fungo	fun
+60	zucca	zucca
+61	bevanda	bevanda
+62	noce	noce
+63	spezia	spezia
+64	panificio	pan
+65	lievito	lievito
+66	orzo	orzo
+67	segale	ale
+67	segale	segale
+68	idromele	mele
+68	idromele	mel
+69	fico	fico
+70	pesca	pesca
+71	cipolla	cipolla
+71	cipolla	olla
+72	rum	rum
+73	frutti di mare	frutti
+73	frutti di mare	mare
+74	madeleine	food
+75	rosmarino	food
+76	intingolo	food
+77	prugna	food
+78	pomodoro	pomodoro
+79	senape	senape
+80	soto	soto
+81	gin	gin
+82	cereali	cereali
+82	cereali	cereal
+82	cereali	ali
+83	whisky	food
+84	aglio	aglio
+85	salsa	salsa
+86	mango	mango
+86	mango	mang
+87	sciroppo	sciroppo
+88	pasta	pasta
+89	cannella	cannella
+90	brandy	brandy
+90	brandy	bran
+91	arachide	arachide
+92	salsiccia	salsiccia
+93	finanziere	food
+94	pera	pera
+94	pera	per
+95	mandorla	mandorla
+96	cavolo	cavolo
+97	pisello	sel
+98	pasticceria	food
+99	aceto	aceto
+100	vodka	vodka
+101	miglio	food
+102	pane tostato	pane
+102	pane tostato	pan
+103	zucca	zucca
+104	sidro	sidro
+105	sherry	food
+106	ananas	ananas
+107	pane dolce	pane
+107	pane dolce	dolce
+107	pane dolce	pan
+108	pasta	pasta
+109	favo	food
+110	budino	budino
+111	spaghetti	spaghetti
+112	igname	food
+113	biscotto	biscotto
+114	avena	avena
+115	toto	food
+116	infusione	fusi
+117	carota	food
+118	kiwi	food
+119	lecca lecca	food
+120	cracker	cracker
+121	cavolo riccio	cavolo
+122	popcorn	corn
+122	popcorn	pop
+122	popcorn	popcorn
+123	melone	mel
+124	lattuga	food
+125	sushi	sushi
+126	pancake	pancake
+126	pancake	pan
+126	pancake	cake
+127	cetriolo	food
+128	aneto	aneto
+129	noodles	noodles
+129	noodles	noodle
+130	mandarino tangerino	food
+131	porro	porro
+132	melassa	mela
+132	melassa	mel
+133	sugo di carne	carne
+133	sugo di carne	sugo
+133	sugo di carne	carn
+134	parkin	food
+135	zucca	zucca
+136	zuppa d' avena	zuppa
+136	zuppa d' avena	avena
+137	prezzemolo	food
+138	fudge	fudge
+139	caramello	caramel
+139	caramello	mel
+140	tofu	food
+141	torta	torta
+142	spinaci	food
+143	albicocca	food
+144	broccolo	food
+145	grano saraceno	grano
+145	grano saraceno	saraceno
+146	lecca lecca	food
+147	asparago	food
+148	melograno	grano
+148	melograno	mel
+149	liquore	liquore
+150	anacardo	cardo
+151	gelato	gelato
+152	ketchup	ketchup
+153	papaia	food
+154	salato	food
+155	pompelmo	food
+156	goody	food
+157	ciambella	ciambella
+158	ciambella	ciambella
+159	avocado	food
+160	tamarindo	food
+161	sedano	sedano
+161	sedano	dan
+162	maionese	food
+163	timo	food
+164	gaufre	food
+165	wafel	food
+166	bietola	bietola
+167	toffee	food
+168	pecan	food
+169	brodo	brodo
+170	coriandolo	food
+171	guava	food
+172	jerky	food
+173	pita	pita
+174	jeon	jeon
+175	farina d' avena	farina
+175	farina d' avena	avena
+175	farina d' avena	far
+176	rabarbaro	barba
+176	rabarbaro	bar
+177	condimento	condimento
+178	sego	food
+179	cotogno	food
+180	phở	food
+181	tortilla	tortilla
+182	maccheroni	food
+183	roti	roti
+184	marshmallow	marshmallow
+185	paprica	rica
+186	polenta di mais	mais
+187	goro	food
+188	rapa	rapa
+189	udon	udon
+190	acetosa	aceto
+190	acetosa	acetosa
+191	latticello	food
+192	cavolfiore	food
+193	salame	food
+194	chutney	food
+195	cumino	cumino
+196	canna da zucchero	zucchero
+197	bagel	bagel
+198	amaranto	food
+199	muffin	muffin
+200	haggis	food
+201	ravanello	food
+202	cachi	food
+203	brezel	brezel
+204	gumbo	gum
+205	grits	food
+206	aji	aji
+207	kix	food
+208	toffee	food
+209	carciofo	food
+210	ribes	food
+211	farina di mais	mais
+211	farina di mais	farina
+211	farina di mais	far
+212	gombo	food
+213	liquirizia	food
+214	nocciola	nocciola
+215	cupcake	cake
+216	cupcake	cake
+217	crescione	food
+218	pistacchio	pistacchio
+219	salsa di soia	salsa
+219	salsa di soia	soia
+220	puran poli	poli
+221	dashi	food
+222	sorbetto	food
+223	olio d' oliva	olio
+224	penne	food
+225	sambal	sam
+226	yogurt	yogurt
+227	origano	food
+228	kasha	food
+229	dosa	food
+230	cicoria	food
+231	suet	food
+232	pitha	pitha
+233	focaccia azzima	focaccia
+234	pastinaca	pastina
+235	matzah	food
+236	dragoncello	drago
+237	barbabietola	bietola
+237	barbabietola	babi
+237	barbabietola	barba
+237	barbabietola	bar
+238	castella	food
+239	gomma da masticare	food
+240	borragine	gin
+241	litchi	food
+242	vermut	vermut
+243	boršč	food
+244	quinoa	food
+245	ghiacciolo	ghi
+245	ghiacciolo	ghiaccio
+246	erba di grano	grano
+246	erba di grano	erba
+247	carney's	carne
+247	carney's	carn
+248	erba cipollina	erba
+248	erba cipollina	polli
+249	torrone	food
+250	kissel	sel
+251	bisque	food
+252	latte di cocco	latte
+252	latte di cocco	cocco
+253	pesto	food
+254	maggiorana	rana
+255	patata dolce	patata
+255	patata dolce	dolce
+255	patata dolce	pata
+256	ravioli	food
+257	anice	food
+258	schnapps	food
+259	guacamole	mole
+260	tahina	food
+261	rambutan	food
+262	melanzana	mela
+262	melanzana	mel
+262	melanzana	lan
+263	scalogno	food
+264	gulasch	gulasch
+265	marinatura	food
+266	mangostana	mango
+266	mangostana	mang
+267	gemelli	mel
+268	piti	food
+269	tempeh	food
+270	vino rosso	vino
+270	vino rosso	vin
+270	vino rosso	rosso
+271	malanga	lan
+271	malanga	mala
+272	granola	grano
+273	zuppa	zuppa
+274	bratwurst	bratwurst
+275	babka	food
+276	fico d' India	fico
+277	challah	food
+278	lanterne	lan
+279	calas	food
+280	eggnog	egg
+281	sorbetto	food
+282	gallette	alle
+283	panna	panna
+283	panna	pan
+284	hot dog	hot
+284	hot dog	dog
+285	hot dog	hot
+285	hot dog	dog
+286	ding dong	ding
+287	idli	food
+288	pulla	food
+289	crespella	food
+290	laksa	food
+291	torta	torta
+292	gazpacho	food
+293	vino bianco	vino
+293	vino bianco	bianco
+293	vino bianco	vin
+294	physalis	food
+295	paio	food
+296	rutabaga	food
+297	panna acida	panna
+297	panna acida	acida
+297	panna acida	pan
+298	lipie	pie
+299	nespolo del Giappone	food
+300	brioche	brioche
+301	Weetabix	food
+302	jelly bean	food
+303	soufflé	soufflé
+304	kulen pita	pita
+305	olio vegetale	olio
+306	cereali da colazione	cereali
+306	cereali da colazione	colazione
+306	cereali da colazione	cola
+306	cereali da colazione	cereal
+307	longan	longan
+308	Stollen	food
+309	harissa	food
+310	kalach	food
+311	sciroppo di mais	mais
+311	sciroppo di mais	sciroppo
+312	rasam	sam
+313	bollo	food
+314	focaccia	focaccia
+315	gumdrop	food
+316	mamey	food
+317	salsa chili	salsa
+317	salsa chili	chili
+318	vino spumante	vino
+319	bicarbonato	food
+320	kumquat	food
+321	latte condensato	latte
+322	juk	juk
+323	lamian	mian
+324	lievito chimico	lievito
+325	krakowska	food
+326	chapati	food
+327	acqua in bottiglia	acqua
+328	bevanda energetica	bevanda
+329	empanada	pan
+329	empanada	panada
+330	fougasse	food
+331	formaggio cremoso	formaggio
+332	sangria	san
+333	barretta di cioccolato	barretta
+333	barretta di cioccolato	cioccolato
+333	barretta di cioccolato	cola
+333	barretta di cioccolato	bar
+334	taftan	food
+335	crepe olandese	des
+335	crepe olandese	lan
+336	pan di spagna	pan
+337	nettarine	food
+338	kuchen	kuchen
+339	contorno	food
+340	ragù	ragù
+341	zapote	food
+342	bhakri	food
+343	spätzle	food
+344	baati	food
+345	amandine	food
+346	olio di cocco	cocco
+346	olio di cocco	olio
+347	pozol	food
+348	frutta secca	frutta
+349	barretta 	barretta
+349	barretta 	bar
+350	tiramisù	food
+351	consommé	som
+352	pasta di fagioli	pasta
+352	pasta di fagioli	fagioli
+353	brodo di pollo	brodo
+353	brodo di pollo	pollo
+354	paska	food
+355	mantou	food
+356	knipp	food
+357	concentrato di pomodoro	pomodoro
+357	concentrato di pomodoro	concentrato
+358	minestrone	food
+359	zuppa di pasta	zuppa
+359	zuppa di pasta	pasta
+360	annona	food
+361	salsa di pesce	salsa
+361	salsa di pesce	pesce
+362	mortadella	food
+363	pecel	food
+364	foccacina	food
+365	bialy	food
+366	salsefrica	food
+367	fusilli	fusi
+368	salsa barbecue	salsa
+368	salsa barbecue	barbecue
+368	salsa barbecue	bar
+369	Olio di semi di sesamo	semi
+369	Olio di semi di sesamo	sesamo
+369	Olio di semi di sesamo	sam
+370	ricotta	food
+371	acqua gassata	acqua
+371	acqua gassata	sata
+372	cono gelato	gelato
+373	okonomiyaki	yaki
+374	diot	food
+375	tagliatelle	food
+376	longaniza	longan
+377	crema ganache	crema
+378	hasty pudding	ding
+378	hasty pudding	pudding
+379	leberwurst	food
+380	cavolo rapa	cavolo
+380	cavolo rapa	rapa
+381	tortellini	tortel
+382	cotoletta di maiale	maiale
+383	mămăligă	food
+384	ciabatta	food
+385	piki	food
+386	jicama	food
+387	torta di cioccolata	torta
+387	torta di cioccolata	cioccolata
+387	torta di cioccolata	cola
+388	grissino	food
+389	latte di soia	latte
+389	latte di soia	soia
+390	buccellato	food
+391	torta nuziale	torta
+392	aioli	food
+393	simit	food
+394	sancocho	san
+395	salsa Worcester	salsa
+396	ganjang	food
+397	teacake	cake
+397	teacake	tea
+398	semla	food
+399	zopf	food
+400	cioccolata calda	cioccolata
+400	cioccolata calda	calda
+400	cioccolata calda	cola
+401	cocco affettato	cocco
+402	cardo	cardo
+403	thukpa	food
+404	farfel	far
+405	thukpa	food
+406	condimento	condimento
+407	ajiaco	aji
+408	torrone	food
+409	kutia	kut
+410	olio alimentare	menta
+410	olio alimentare	olio
+410	olio alimentare	alimentare
+411	tesori nascosti	food
+412	pasta istantanea	pasta
+413	crostino	food
+414	mapo	food
+415	torta a strati	torta
+416	latticini	food
+417	capellini	food
+418	caldo verde	caldo
+418	caldo verde	verde
+419	filone	food
+420	carambola	food
+421	dolcificante artificiale	food
+422	pane nero	pane
+422	pane nero	pan
+422	pane nero	nero
+423	vichyssoise	food
+424	spaghetti di riso	riso
+424	spaghetti di riso	spaghetti
+425	šči	food
+426	salsa di arachidi	salsa
+427	chimichurri	food
+428	boerewors	food
+429	frutto della passione	frutto
+430	pandoro	pan
+431	vermicelli di riso	riso
+432	sanguinaccio	san
+433	torta di avena	torta
+433	torta di avena	avena
+434	pane bianco	pane
+434	pane bianco	bianco
+434	pane bianco	pan
+435	tamarillo	food
+436	parotta	food
+437	carne fresca	carne
+437	carne fresca	carn
+438	andouille	andouille
+439	bastoncino di zucchero	zucchero
+439	bastoncino di zucchero	bastoncino
+440	zuppa	zuppa
+441	ladurée	food
+442	torta Sacher	torta
+443	antipasto	pasto
+444	zuppa di miso	zuppa
+445	antidoro	food
+446	pathiri	food
+447	bami	food
+448	solyanka	food
+449	feijoa	food
+450	močnik	food
+451	savoiardi	food
+452	fritelli	food
+453	fette biscottate	food
+454	rice krispies	rice
+454	rice krispies	pie
+455	salsa tucupi	salsa
+456	bebinca	food
+457	pinca	food
+458	rigatoni	food
+459	linguine	food
+460	sinigang	food
+461	antipasto	pasto
+462	tourin	food
+463	pici	food
+464	latte condensato	latte
+465	kyselo	sel
+466	rugbrød	food
+467	ptitim	food
+468	sucuk	food
+469	pasta istantanea	pasta
+470	quisp	food
+471	alloro	food
+472	bolillo	food
+473	baumkuchen	kuchen
+474	cozonac	food
+475	semifreddo	semi
+475	semifreddo	red
+476	ponzu	food
+477	tapenade	food
+478	vino di riso	vino
+478	vino di riso	riso
+479	coulis	food
+480	olio di semi di soia	soia
+480	olio di semi di soia	olio
+480	olio di semi di soia	semi
+481	peanut butter cups	butter
+481	peanut butter cups	nut
+481	peanut butter cups	butt
+482	æbleskiver	food
+483	semi di sesamo	semi
+483	semi di sesamo	sesamo
+483	semi di sesamo	sam
+484	farfalle	alle
+484	farfalle	far
+485	crostata	crostata
+485	crostata	crosta
+486	kishka	food
+487	taiyaki	yaki
+488	patacón	pata
+489	butifarra	far
+490	pane integrale	pane
+490	pane integrale	pan
+491	vino da dessert	vino
+491	vino da dessert	des
+491	vino da dessert	vin
+491	vino da dessert	dessert
+492	zuppa di piselli	zuppa
+492	zuppa di piselli	sel
+492	zuppa di piselli	piselli
+493	naengguk	guk
+494	chorba	food
+495	caffè istantaneo	caffè
+496	peperoncini in polvere	pepe
+496	peperoncini in polvere	polvere
+496	peperoncini in polvere	per
+497	macadamia	food
+498	crosta	crosta
+499	anpan	pan
+500	manchet	food
+501	ucha	food
+502	saucisson	food
+503	shreddies	red
+504	olio di semi di arachide	arachide
+504	olio di semi di arachide	olio
+504	olio di semi di arachide	semi
+505	tembleque	food
+506	salsa marrone	salsa
+506	salsa marrone	arro
+507	figgy duff	food
+508	pesarattu	food
+509	okroshka	food
+510	rouille	food
+511	bresaola	food
+512	salsa di mela	mela
+512	salsa di mela	salsa
+512	salsa di mela	mel
+513	penia	food
+514	citronella	food
+515	salca besciamella	mel
+516	latte in polvere	latte
+516	latte in polvere	polvere
+517	mettwurst	food
+518	zuppa acida	zuppa
+518	zuppa acida	acida
+519	lahore	food
+520	estratto di vaniglia	estratto
+520	estratto di vaniglia	vaniglia
+521	arracacha	food
+522	czernina	food
+523	mafé	food
+524	murtabak	bak
+525	merguez	food
+526	macedonia	food
+527	sobrassada	food
+528	pistou	food
+529	salsa di ostriche	salsa
+530	serabi	food
+531	cavatelli	food
+532	corn flakes	corn
+532	corn flakes	flakes
+533	boxty	food
+534	zuppa di tartaruga	zuppa
+534	zuppa di tartaruga	tarta
+534	zuppa di tartaruga	tart
+534	zuppa di tartaruga	tartaruga
+535	pudding natalizio	ding
+535	pudding natalizio	pudding
+536	filetto di maiale	maiale
+537	folar	food
+538	chocos	food
+539	cervelat	food
+540	kalács	food
+541	panada	pan
+541	panada	panada
+542	kitcha	food
+543	ficelle	food
+544	Weißwurst 	food
+545	salsa spagnola	salsa
+546	oliebol	food
+547	pastina	pastina
+548	andouillette	andouille
+549	çörek	food
+550	tortelloni	tortel
+551	cellophane noodles	noodles
+551	cellophane noodles	noodle
+552	misua	food
+553	oatibix	food
+554	malapua	mala
+555	rawon	food
+556	blini	food
+557	acqua tonica	acqua
+557	acqua tonica	tonica
+558	salsa tartara	salsa
+558	salsa tartara	tarta
+558	salsa tartara	tart
+558	salsa tartara	tartara
+559	cannelloni	food
+560	pinolo	food
+561	mustamakkara	food
+562	cioccolate menta	menta
+562	cioccolate menta	cola
+563	frutti di mare freschi.	frutti
+563	frutti di mare freschi.	mare
+564	panforte	pan
+565	polvere di aglio	aglio
+565	polvere di aglio	polvere
+566	chistorra	food
+567	granula	food
+568	pane integrale	pane
+568	pane integrale	pan
+569	hotteok	hot
+570	cheez whiz	food
+571	vasilopita	pita
+572	timbits	food
+573	sugo	sugo
+574	frutto del drago	frutto
+574	frutto del drago	drago
+575	batchoy	choy
+576	torta di carote	torta
+577	fuet	food
+578	radici di zenzero	food
+579	yaki udon	udon
+579	yaki udon	yaki
+580	beef noodle soup	beef
+580	beef noodle soup	noodle
+580	beef noodle soup	soup
+581	olio di canola	olio
+582	konro	food
+583	pastiera	food
+584	syrniki	food
+585	pane fritto	pane
+585	pane fritto	pan
+586	barmbrack	barm
+586	barmbrack	bar
+587	zoni	food
+588	manwich	food
+589	crusca con uvette	food
+590	garbure	food
+591	grano macinato	grano
+591	grano macinato	macinato
+592	romesco	food
+593	laufabrauð	food
+594	landjäger	lan
+595	lucanica	food
+596	formaggio spalmabile	formaggio
+596	formaggio spalmabile	spalmabile
+597	seme di girasole	seme
+598	bockwurst	food
+599	latte di mandorla	latte
+599	latte di mandorla	mandorla
+600	pogača	food
+601	kaeng som	som
+602	castagna d' acqua	acqua
+602	castagna d' acqua	castagna
+603	panino da hot dog	hot
+603	panino da hot dog	dog
+603	panino da hot dog	pan
+603	panino da hot dog	panino
+604	noce del Brasile	noce
+605	currant bun	bun
+606	tortilla di mais	mais
+606	tortilla di mais	tortilla
+607	imoni	food
+608	carne congelata	carne
+608	carne congelata	carn
+609	zuppa di pomodoro	zuppa
+609	zuppa di pomodoro	pomodoro
+610	rassol'nik	food
+611	korovai	food
+612	rookworst	food
+613	pandebono	pan
+614	atemoya	food
+615	Frosties	food
+616	basbousa	food
+617	panela	pane
+617	panela	pan
+618	tarte tatin	tatin
+618	tarte tatin	tart
+619	falukorv	food
+620	pastirma	food
+621	seme di girasole	seme
+622	tlacoyo	food
+623	buchteln	food
+624	manzo di Kobe	manzo
+625	teewurst	food
+626	moronga	food
+627	tom yam	tom
+627	tom yam	yam
+628	pound cake	cake
+629	moambe	food
+630	costine di maiale	maiale
+631	crema di mais	mais
+631	crema di mais	crema
+632	oille	food
+633	bucatini	food
+634	orecchiette	food
+635	rotini	roti
+636	kommissbrot	brot
+637	trdlo	food
+638	budino alla crema	budino
+638	budino alla crema	crema
+639	harira	food
+640	sujebi	food
+641	salsa avgolemono	salsa
+642	pambazo	food
+643	rotelle	food
+644	salsa satay	salsa
+644	salsa satay	sata
+645	vlaai	food
+646	ajoblanco	blanc
+646	ajoblanco	lan
+647	noce di cola	noce
+647	noce di cola	cola
+648	sambar	sam
+648	sambar	bar
+649	cavolini di Bruxelles	food
+650	kaszanka	food
+651	acini di pepe	pepe
+652	extrawurst	food
+653	alheira	food
+654	seme di finocchio	seme
+654	seme di finocchio	finocchio
+654	seme di finocchio	occhi
+655	kugelis	food
+656	champorado	food
+657	maiale salata	maiale
+657	maiale salata	salata
+658	rúgbrauð	food
+659	koeksister	food
+660	coffee cake	cake
+661	mang tomas	tom
+661	mang tomas	mang
+662	spaghetti cinesi	spaghetti
+663	coffee cake	cake
+664	ostia	food
+665	mulligatawny	food
+666	strozzapreti	food
+667	salsa alla menta	menta
+667	salsa alla menta	salsa
+668	budino di Natale	budino
+669	trenette	food
+670	salsa hogao	salsa
+671	chocapic	food
+672	torta degli angeli	torta
+673	coney island hot dog	hot
+673	coney island hot dog	dog
+673	coney island hot dog	lan
+674	bak kut teh	bak
+674	bak kut teh	kut
+675	olio di semi di mais	mais
+675	olio di semi di mais	olio
+675	olio di semi di mais	semi
+676	marraqueta	food
+677	cece	food
+678	kufta	food
+679	torta di frutta	frutta
+679	torta di frutta	torta
+680	phitti	food
+681	colorante alimentare	menta
+681	colorante alimentare	alimentare
+682	bakarkhani	bak
+682	bakarkhani	kha
+683	rượu nếp	food
+684	yogurt gelato	gelato
+684	yogurt gelato	yogurt
+685	salsa rosa	salsa
+685	salsa rosa	rosa
+686	zuppa di zucca	zuppa
+686	zuppa di zucca	zucca
+687	nagasari	food
+688	lekach	food
+689	toast alla francese	toast
+689	toast alla francese	francese
+690	pane croccante	pane
+690	pane croccante	pan
+691	fanesca	food
+692	ribollita	food
+693	gamjatang	food
+694	babaco	food
+695	jeonbokjuk	jeon
+695	jeonbokjuk	juk
+696	vastedda	food
+697	mock turtle	food
+698	salsa di mirtilli	salsa
+699	spekkoek	food
+700	paški baškotin	food
+701	cudighi	food
+702	foglie d' ulivo	foglie
+703	zuppa di mais	mais
+703	zuppa di mais	zuppa
+704	torta red velvet	torta
+704	torta red velvet	red
+705	radice di loto	radice
+706	cheese puffs	cheese
+706	cheese puffs	puffs
+707	zuppa di sangue	zuppa
+707	zuppa di sangue	san
+708	pane cubano	pane
+708	pane cubano	pan
+709	bhatura	food
+710	escudella i carn d' olla	carn
+710	escudella i carn d' olla	olla
+711	topinambur	food
+712	maghiritsa	food
+713	special k	food
+714	isterband	erba
+715	kesme	food
+716	sufganiyot	food
+717	sugar puffs	puffs
+718	ciambellone	ciambellone
+719	burro di mele	burro
+719	burro di mele	mele
+719	burro di mele	mel
+720	bacello di vaniglia	vaniglia
+721	torta con semi di sesamo	torta
+721	torta con semi di sesamo	semi
+721	torta con semi di sesamo	sesamo
+721	torta con semi di sesamo	sam
+722	agrodolce	dolce
+723	sata andagi	sata
+724	gajar ka halwa	food
+725	bologna sausage	sausage
+725	bologna sausage	bolo
+726	dacquoise	food
+727	snack cake	cake
+727	snack cake	snack
+728	zuppa di cipolla	zuppa
+728	zuppa di cipolla	cipolla
+728	zuppa di cipolla	olla
+729	salsa per bistecca	salsa
+729	salsa per bistecca	per
+730	briciola	food
+731	pain au chocolat	cola
+731	pain au chocolat	pain
+731	pain au chocolat	chocolat
+732	matnakash	food
+733	torta alla monferrina	torta
+734	cipolla in polvere	cipolla
+734	cipolla in polvere	polvere
+734	cipolla in polvere	olla
+735	zuppa di acetosa	zuppa
+735	zuppa di acetosa	aceto
+735	zuppa di acetosa	acetosa
+736	malawach	mala
+737	manzo di Kobe	manzo
+738	suisse dolce	dolce
+739	pane tandoori	pane
+739	pane tandoori	pan
+740	zosui	food
+741	jagdwurst	food
+742	chiffon cake	cake
+743	balep korkun	food
+744	salsa di rafano	salsa
+744	salsa di rafano	rafano
+745	moin moin	food
+746	carbonade flamande	food
+747	pane alla banana	pane
+747	pane alla banana	banana
+747	pane alla banana	pan
+748	ajdov kruh	food
+749	sfenj	fen
+750	salsa bernese	salsa
+751	salume	food
+752	corn dog	dog
+752	corn dog	corn
+753	tony's turboz	food
+754	bratwurst	bratwurst
+755	svartsoppa	food
+756	golden nuggets	golden
+757	bigoli	food
+758	pane di Pecica	pane
+758	pane di Pecica	pan
+759	mela cannella	mela
+759	mela cannella	cannella
+759	mela cannella	mel
+760	tripoline	poli
+761	salsa al curry	salsa
+761	salsa al curry	curry
+762	ontbijtkoek	food
+763	salsa lyonnaise	salsa
+763	salsa lyonnaise	lyon
+764	bregenwurst	food
+765	bánh bó	bánh
+766	barm cake	cake
+766	barm cake	barm
+766	barm cake	bar
+767	uirō	food
+768	empal gentong	food
+769	pane d' orzo	pane
+769	pane d' orzo	orzo
+769	pane d' orzo	pan
+770	corzetti	food
+771	pane veloce	pane
+771	pane veloce	pan
+771	pane veloce	velo
+772	zuppa all' uovo	uovo
+772	zuppa all' uovo	zuppa
+772	zuppa all' uovo	all'
+773	pain de mie	pain
+773	pain de mie	mie
+774	miguelitos	food
+775	rumali roti	rum
+775	rumali roti	roti
+776	pain aux raisins	pain
+776	pain aux raisins	raisin
+777	appam	appam
+778	mollette	food
+779	kongguksu	guk
+779	kongguksu	guksu
+780	manjar branco	bran
+781	hochzeitssuppe	food
+782	xab momo	momo
+783	torta di carne	carne
+783	torta di carne	torta
+783	torta di carne	carn
+784	crempog	food
+785	pizza al taglio	pizza
+785	pizza al taglio	aglio
+786	panbrioche	brioche
+786	panbrioche	pan
+787	salsa tkemali	salsa
+788	garganelli	food
+789	šakotis	food
+790	pane tapalapa	pane
+790	pane tapalapa	pan
+791	ga'at	food
+792	meat patty	food
+793	salsa beurre blanc	salsa
+793	salsa beurre blanc	blanc
+793	salsa beurre blanc	lan
+794	pasta wonton	pasta
+795	jatjuk	juk
+796	budino al pistacchio	budino
+796	budino al pistacchio	pistacchio
+797	sugo pizza	sugo
+797	sugo pizza	pizza
+798	tortilla de rescoldo	tortilla
+799	torta tedesca al cioccolato	torta
+799	torta tedesca al cioccolato	cioccolato
+799	torta tedesca al cioccolato	cola
+799	torta tedesca al cioccolato	des
+800	flatbrød	food
+801	salsiccia a colazione	salsiccia
+801	salsiccia a colazione	colazione
+801	salsiccia a colazione	cola
+802	bún bò huế	bún
+803	crunchy nut	nut
+803	crunchy nut	crunch
+804	potatiskorv	food
+805	latto di riso	riso
+806	tacacá	food
+807	kalguksu	guk
+807	kalguksu	guksu
+808	crispy critters	crisp
+809	boston cream doughnut	nut
+809	boston cream doughnut	boston
+809	boston cream doughnut	cream
+810	ingrediente	red
+811	croxetti	food
+812	ciauscolo	food
+813	ketchup al curry	ketchup
+813	ketchup al curry	curry
+814	tortel di patate	tortel
+814	tortel di patate	patate
+814	tortel di patate	pata
+815	michetta	food
+816	babi panggang	pan
+816	babi panggang	babi
+817	cabanossi	food
+818	cullen skink	food
+819	molfetta	food
+820	torta di natale	torta
+821	greenwich pizza	pizza
+822	gastrique	food
+823	torta al burro	torta
+823	torta al burro	burro
+824	pølser	food
+825	brioche speziato	spezia
+825	brioche speziato	brioche
+826	zuppa del canavese	zuppa
+827	budino di tapioca	budino
+827	budino di tapioca	tapioca
+828	salsiccia estate	salsiccia
+829	torta del principe reggente	torta
+829	torta del principe reggente	principe
+829	torta del principe reggente	egg
+830	gomguk	guk
+831	pane agliato	pane
+831	pane agliato	pan
+832	pluot	food
+833	suchki	food
+834	salsa veloutè	salsa
+835	porra antequerana	food
+836	changua	food
+837	marmellata di latte	latte
+837	marmellata di latte	marmellata
+837	marmellata di latte	mel
+838	honey smacks	honey
+839	colaci	cola
+840	gamjajeon	jeon
+841	bika ambon	food
+842	kapusniak	food
+843	phu quoc	food
+844	scott's porage oats	food
+845	ciambella con panna acida	panna
+845	ciambella con panna acida	ciambella
+845	ciambella con panna acida	acida
+845	ciambella con panna acida	pan
+846	bavette	food
+847	salsa albufera	salsa
+848	zapiekanka	pie
+849	soto ayam	soto
+849	soto ayam	yam
+850	budino di sago	budino
+851	torta al cioccolato senza farina	farina
+851	torta al cioccolato senza farina	torta
+851	torta al cioccolato senza farina	cioccolato
+851	torta al cioccolato senza farina	cola
+851	torta al cioccolato senza farina	far
+852	campanelle	pane
+852	campanelle	pan
+853	zuppa di goulash	zuppa
+854	pane di altamura	pane
+854	pane di altamura	pan
+855	suikerbrood	food
+856	boston butt	boston
+856	boston butt	butt
+857	torta tres leches	torta
+858	torta dobos	torta
+859	hot cross bun	hot
+859	hot cross bun	bun
+860	zuppa di coda di manzo	manzo
+860	zuppa di coda di manzo	zuppa
+861	vino da cucina	vino
+861	vino da cucina	cucina
+862	pain d' épices	pain
+863	ittici surgelati	surgelati
+864	sopa de pata	pata
+865	boston cream pie	boston
+865	boston cream pie	cream
+865	boston cream pie	pie
+866	budino di formaggio	formaggio
+866	budino di formaggio	budino
+867	vánočka	food
+868	pane dei morti	pane
+868	pane dei morti	pan
+868	pane dei morti	dei
+869	olio di riso	riso
+869	olio di riso	olio
+870	salsa xo	salsa
+871	pane di cocco	pane
+871	pane di cocco	cocco
+871	pane di cocco	pan
+872	torta speziata	torta
+872	torta speziata	spezia
+873	ragù bolognese	ragù
+873	ragù bolognese	bolo
+874	ripieno	pie
+874	ripieno	ripieno
+875	manzo biologico	manzo
+876	post toasties	toast
+877	occhi di lupo	occhi
+878	khakhra	kha
+879	rosette de lyon	lyon
+880	salsiccia di Debrecen	salsiccia
+881	bouneschlupp	food
+882	ryynimakkara	food
+883	sally bun	bun
+884	kanelbulle	food
+885	somebody's mother's chocolate sauce	som
+885	somebody's mother's chocolate sauce	cola
+885	somebody's mother's chocolate sauce	chocolat
+885	somebody's mother's chocolate sauce	sauce
+886	zuppa alla modenese	zuppa
+887	torta tre monti	torta
+888	fregula	food
+889	siskonmakkara	food
+890	zuppa di cetrioli	zuppa
+891	miyeok guk	guk
+892	pesaha appam	appam
+893	torta genovese	torta
+894	rømmegrøt	food
+895	burro nocciola	nocciola
+895	burro nocciola	burro
+896	soba di okinawa	soba
+897	crépinette	food
+898	casoncelli	food
+899	hulatang	food
+900	tian mian jiang	tian
+900	tian mian jiang	mian
+901	tarta de santiago	tarta
+901	tarta de santiago	tart
+901	tarta de santiago	san
+902	colomba pasquale	pasqua
+903	thalipeeth	food
+904	fläskkorv	food
+905	bánh tét	bánh
+906	minestra maritata	minestra
+907	chili dog	dog
+907	chili dog	chili
+908	kream krunch	food
+909	smultring	food
+910	shahe fen	fen
+911	brown bobby	food
+912	focaccia alle olive	focaccia
+912	focaccia alle olive	alle
+913	thenthuk	food
+914	stoner kebab	food
+915	pane di scali	pane
+915	pane di scali	pan
+916	pain brié	pain
+917	chowder di mais	mais
+917	chowder di mais	chowder
+918	noodles d fagioli mung	noodles
+918	noodles d fagioli mung	fagioli
+918	noodles d fagioli mung	noodle
+918	noodles d fagioli mung	mung
+919	almojábana	food
+920	zuppa ezogelin	zuppa
+921	rupjmaize	food
+922	pan de yuca	pan
+923	skilandis	lan
+924	potbrood	food
+925	rubaboo	food
+926	sugo all' amatriciana	sugo
+926	sugo all' amatriciana	all'
+927	torta caprese	torta
+928	torta madeira	torta
+928	torta madeira	dei
+929	tavuk göğsü	food
+930	zuppa di fagioli rossi	zuppa
+930	zuppa di fagioli rossi	fagioli
+930	zuppa di fagioli rossi	rossi
+931	cotechino di  modena	food
+932	pane di pasqua	pane
+932	pane di pasqua	pan
+932	pane di pasqua	pasqua
+933	french toast crunch	toast
+933	french toast crunch	crunch
+934	salsa nantua	salsa
+935	ragù napoletano	ragù
+936	torta di rabarbero	torta
+936	torta di rabarbero	bar
+937	lardy cake	cake
+938	bánh bò	bánh
+939	bresì	food
+940	salsa suprema	salsa
+941	zuppa all' Imperatrice	zuppa
+941	zuppa all' Imperatrice	pera
+941	zuppa all' Imperatrice	rice
+941	zuppa all' Imperatrice	per
+941	zuppa all' Imperatrice	all'
+942	burebrot	brot
+943	germoglio di fagiolo mungo	fagiolo
+943	germoglio di fagiolo mungo	mung
+944	bara brith	bar
+945	lai fun	fun
+946	scotch broth	brot
+947	uncle sam cereal	sam
+947	uncle sam cereal	cereal
+948	cioccolato per la cottura	cioccolato
+948	cioccolato per la cottura	cola
+948	cioccolato per la cottura	per
+949	bún mắm	bún
+950	kue keranjang	food
+951	kulajda	food
+952	pane all' uvetta	pane
+952	pane all' uvetta	pan
+952	pane all' uvetta	all'
+953	semifreddo	semi
+953	semifreddo	red
+954	pizza napoletana	pizza
+955	noodles vietnamita	noodles
+955	noodles vietnamita	noodle
+956	burro di noci	burro
+956	burro di noci	noci
+957	pique verde boricua	verde
+958	unni appam	appam
+958	unni appam	unni
+959	zuppa dell' intestino di maiale	zuppa
+959	zuppa dell' intestino di maiale	maiale
+959	zuppa dell' intestino di maiale	dell'
+960	minestra di pane	pane
+960	minestra di pane	pan
+960	minestra di pane	minestra
+961	Sciroppo Aromatizzato	food
+962	fudge cake	fudge
+962	fudge cake	cake
+963	torta al burro	torta
+963	torta al burro	burro
+964	noodles fritti di Shanghai	noodles
+964	noodles fritti di Shanghai	noodle
+965	ketwurst	food
+966	helmipuuro	food
+967	mbejú	food
+968	torta di fagioli rossi	torta
+968	torta di fagioli rossi	fagioli
+968	torta di fagioli rossi	rossi
+969	sprinkle spangles	pan
+970	roti prata	roti
+971	candy corn	corn
+972	salsa gribiche	salsa
+973	limequat	food
+974	zuppa di birra	birra
+974	zuppa di birra	zuppa
+975	buddy buddies	food
+976	zuppa teologa	zuppa
+977	ghotab	hot
+978	hog's pudding	ding
+978	hog's pudding	pudding
+979	cencioni	food
+980	basler brot	brot
+981	horse bread	bread
+982	wanko soba	soba
+983	saang mein	food
+984	sel roti	roti
+984	sel roti	sel
+985	crostata neenish	crostata
+985	crostata neenish	crosta
+986	tekwan	food
+987	bazlama	food
+988	torta chongyang	torta
+989	fusi	fusi
+990	chalboribbang	food
+991	cheonsachae	food
+992	pullman loaf	loaf
+993	salsa veneziana	salsa
+994	penny bun	bun
+995	jjolmyeon	food
+996	filoz	food
+997	pasta alfabeto	pasta
+998	zurek	food
+999	likëngë	food
+1000	bánh xèo	bánh
+1001	salsiccia di Vienna	salsiccia
+1002	salsiccia di Cumberland	salsiccia
+1002	salsiccia di Cumberland	lan
+1003	zampa di maiale sottaceto	maiale
+1003	zampa di maiale sottaceto	aceto
+1004	fagottini	food
+1005	piatto preparato	piatto
+1005	piatto preparato	preparato
+1006	gooey butter cake	butter
+1006	gooey butter cake	cake
+1006	gooey butter cake	butt
+1007	tipsy cake	cake
+1008	bahn beo	food
+1009	tohax	food
+1010	smorz	food
+1011	Gelbwurst	food
+1012	salsa miele all' aglio	miele
+1012	salsa miele all' aglio	aglio
+1012	salsa miele all' aglio	salsa
+1012	salsa miele all' aglio	all'
+1012	salsa miele all' aglio	mie
+1013	quetschentaart	food
+1014	youtazi	food
+1015	kulolo	food
+1016	mezzelune	food
+1017	hyderabadi marag	food
+1018	pane morbido senza crosta	pane
+1018	pane morbido senza crosta	pan
+1018	pane morbido senza crosta	crosta
+1019	golden crisp	golden
+1019	golden crisp	crisp
+1020	ábrystir	food
+1021	caramel tart	caramel
+1021	caramel tart	tart
+1021	caramel tart	mel
+1022	salvitxada	food
+1023	salume	food
+1024	prezzemolo	food
+1025	david eyre's pancake	pancake
+1025	david eyre's pancake	pan
+1025	david eyre's pancake	cake
+1026	salsa meuniere	salsa
+1027	Thüringer Rostbratwurst	bratwurst
+1028	houmous	food
+1029	valle d' Aosta Lard d' Arnad	alle
+1030	salsa soubise	salsa
+1031	ciambella	ciambella
+1032	bevanda frizzante	bevanda
+1033	salsa ravigote	salsa
+1034	chipa guasu	chipa
+1035	kharcho	kha
+1036	guarnizione	food
+1037	zuppa di pesce cantonese	zuppa
+1037	zuppa di pesce cantonese	pesce
+1038	zuppa del pescatore	zuppa
+1038	zuppa del pescatore	pesca
+1039	tom kha gai	tom
+1039	tom kha gai	kha
+1040	coco pops	pops
+1040	coco pops	pop
+1041	pane dolce portoghese	porto
+1041	pane dolce portoghese	pane
+1041	pane dolce portoghese	dolce
+1041	pane dolce portoghese	pan
+1042	zuppa acida della Stiria	zuppa
+1042	zuppa acida della Stiria	acida
+1043	ready brek	food
+1044	kreple	food
+1045	ho hos	food
+1046	snack alla frutta	frutta
+1046	snack alla frutta	snack
+1047	tequeño	food
+1048	olio spray da cucina	olio
+1048	olio spray da cucina	cucina
+1049	conchiglie	food
+1050	bakpia pathok	bak
+1051	tian mo	tian
+1052	pane alla birra	birra
+1052	pane alla birra	pane
+1052	pane alla birra	pan
+1053	schupfnudel	food
+1054	pane di patate	pane
+1054	pane di patate	pan
+1054	pane di patate	patate
+1054	pane di patate	pata
+1055	passatelli	food
+1056	colston bun	bun
+1057	wodzionka	food
+1058	frittella alla gundel	frittella
+1059	salsiccia ahle	salsiccia
+1060	zuppa di porro	zuppa
+1060	zuppa di porro	porro
+1061	qingtang wanzi	food
+1062	taglierini	food
+1063	sedano rapa	sedano
+1063	sedano rapa	rapa
+1063	sedano rapa	dan
+1064	eve's pudding	ding
+1064	eve's pudding	pudding
+1065	zuppa di rosa canina	zuppa
+1065	zuppa di rosa canina	rosa
+1066	surnoli	food
+1067	panino di colazione	colazione
+1067	panino di colazione	pan
+1067	panino di colazione	panino
+1067	panino di colazione	cola
+1068	noodle coreano	noodle
+1069	köttsoppa	food
+1070	sugo di aragosta	sugo
+1071	manchester tart	tart
+1072	prežganka	food
+1073	dodger dog	dog
+1074	pane anadema	pane
+1074	pane anadema	pan
+1075	frittella cinese	frittella
+1075	frittella cinese	cinese
+1076	chikhirtma	food
+1077	kamby arro	arro
+1078	cu mian	mian
+1079	brodo instantaneo	brodo
+1080	torta della felicità	torta
+1081	pak choi	choi
+1082	khrenovina	food
+1083	sfouf	food
+1084	crazy cow	food
+1085	bolo de mel	bolo
+1085	bolo de mel	mel
+1086	crenvurst	food
+1087	olio di noci	olio
+1087	olio di noci	noci
+1088	fat rascal	food
+1089	salsa ai funghi	salsa
+1089	salsa ai funghi	fun
+1090	halfsies	food
+1091	kupati	food
+1092	pane di riso	riso
+1092	pane di riso	pane
+1092	pane di riso	pan
+1093	psarosoupa	soup
+1094	torta al vino	vino
+1094	torta al vino	torta
+1095	cabinet pudding	ding
+1095	cabinet pudding	pudding
+1096	anellini	food
+1097	pane ticinese	pane
+1097	pane ticinese	pan
+1097	pane ticinese	cinese
+1098	sushi pizza	pizza
+1098	sushi pizza	sushi
+1099	pizza Hawaiana	pizza
+1100	tartufo al cioccolato	cioccolato
+1100	tartufo al cioccolato	cola
+1100	tartufo al cioccolato	tart
+1101	ebraica di mele	mele
+1101	ebraica di mele	mel
+1102	dripping cake	cake
+1103	zuppetta bruna di Windsor	food
+1104	dundee cake	cake
+1105	torta gitana	torta
+1106	panino belga	pan
+1106	panino belga	panino
+1107	pillus	food
+1108	bermuda fish chowder	chowder
+1109	lecythis	food
+1110	olio di semi di canapa	olio
+1110	olio di semi di canapa	semi
+1110	olio di semi di canapa	canapa
+1111	kai kou xiao	kai
+1112	zuppa di tacos	zuppa
+1112	zuppa di tacos	taco
+1113	sunny boy cereal	cereal
+1114	kornigou	food
+1115	scorcolga	food
+1116	pizza carbonara	pizza
+1117	kuy teav	tea
+1118	chikkolee	food
+1119	barba di drago	drago
+1119	barba di drago	barba
+1119	barba di drago	bar
+1120	pane al cardamomo	pane
+1120	pane al cardamomo	pan
+1120	pane al cardamomo	momo
+1121	pan bati	pan
+1122	bizcocho	food
+1123	maple bar	bar
+1124	babà	food
+1125	pane adobe	pane
+1125	pane adobe	pan
+1126	complete wheat bran flakes	flakes
+1126	complete wheat bran flakes	wheat
+1126	complete wheat bran flakes	bran
+1127	malvern pudding	ding
+1127	malvern pudding	pudding
+1128	Zuppa di fagioli del senato	fagioli
+1129	butajiru	aji
+1130	disney mickey's magix	food
+1131	chipa so' o	chipa
+1132	vispipuuro	food
+1133	hallulla	food
+1134	pane twist	pane
+1134	pane twist	pan
+1135	torta opera	torta
+1135	torta opera	pera
+1135	torta opera	per
+1136	ching bo leung	food
+1137	zuppa di ortiche	zuppa
+1138	salsiccia di morteau	salsiccia
+1138	salsiccia di morteau	tea
+1139	gazpachuelo	food
+1140	pane di graham	pane
+1140	pane di graham	pan
+1141	raisin wheats	wheat
+1141	raisin wheats	raisin
+1142	pane alla salsiccia	pane
+1142	pane alla salsiccia	salsiccia
+1142	pane alla salsiccia	pan
+1143	salsa caruso	salsa
+1144	eccles cake	cake
+1145	torta di foglie di pandano	torta
+1145	torta di foglie di pandano	pan
+1145	torta di foglie di pandano	foglie
+1145	torta di foglie di pandano	dan
+1146	Welfenspeise	fen
+1147	mykyrokka	food
+1148	salsiccia di Frankfurt	salsiccia
+1149	koldskål	food
+1150	torta al latte calda	latte
+1150	torta al latte calda	torta
+1150	torta al latte calda	calda
+1151	kitchen bouquet	food
+1152	newmarket sausage	sausage
+1153	salsa verde	salsa
+1153	salsa verde	verde
+1154	chunchullo	food
+1155	tea loaf	loaf
+1155	tea loaf	tea
+1156	Annona muricata	food
+1157	spotted dick	food
+1158	salsiccia di glamoragn	salsiccia
+1159	simnel cake	cake
+1160	ciambellone alla marmellata	ciambellone
+1160	ciambellone alla marmellata	marmellata
+1160	ciambellone alla marmellata	mel
+1161	sacchettoni	food
+1162	noce di soia	noce
+1162	noce di soia	soia
+1163	janggukjuk	juk
+1163	janggukjuk	guk
+1164	arisa pitha	pitha
+1165	suaasat	food
+1166	zuppa primavera	zuppa
+1167	panfocaccia	focaccia
+1167	panfocaccia	pan
+1168	zuppa di ciliegie	zuppa
+1169	torta marmorizzata	torta
+1170	kuzumochi	food
+1171	galette des Rois	des
+1172	pane di pasqua	pane
+1172	pane di pasqua	pan
+1172	pane di pasqua	pasqua
+1173	flummadiddle	food
+1174	coltura iniziale	food
+1175	reese's puffs	puffs
+1176	Kluski czarne	food
+1177	linguettine	food
+1178	daktyla	food
+1179	kc masterpiece	pie
+1180	bath bun	bun
+1181	zuppa di trippa	zuppa
+1182	cookie crisp	crisp
+1183	maull's barbecue sauce	barbecue
+1183	maull's barbecue sauce	sauce
+1183	maull's barbecue sauce	bar
+1184	mafaldine	food
+1185	torta al cumino	torta
+1185	torta al cumino	cumino
+1186	lussekatt	food
+1187	honey nut clusters	nut
+1187	honey nut clusters	honey
+1188	sussex pond pudding	ding
+1188	sussex pond pudding	pudding
+1189	shirataki	food
+1190	pane amish dell' amicizia	pane
+1190	pane amish dell' amicizia	pan
+1190	pane amish dell' amicizia	dell'
+1190	pane amish dell' amicizia	amicizia
+1191	frutta ricoperta di cioccolato	frutta
+1191	frutta ricoperta di cioccolato	cioccolato
+1191	frutta ricoperta di cioccolato	cola
+1191	frutta ricoperta di cioccolato	per
+1191	frutta ricoperta di cioccolato	ricoperta
+1192	mafalde	food
+1193	tahinopita	pita
+1194	nshkhar	kha
+1195	pan mee	pan
+1196	gulgukbap	guk
+1197	stottie cake	cake
+1198	veda bread	bread
+1199	far breton	far
+1200	mi san dao	san
+1201	bredela	red
+1202	panino preparato	pan
+1202	panino preparato	panino
+1202	panino preparato	preparato
+1203	torta pazza	torta
+1204	Oxford sauce	sauce
+1205	sciroppo di agave	sciroppo
+1206	cottage loaf	loaf
+1207	muskazine	food
+1208	honey loops	honey
+1209	budino di malva	budino
+1210	dotori guksu	guk
+1210	dotori guksu	guksu
+1211	watalappam	appam
+1212	latte di papavero	latte
+1213	stringozzi	food
+1214	wafle crisp	crisp
+1215	cereali di  grano saraceno	grano
+1215	cereali di  grano saraceno	cereali
+1215	cereali di  grano saraceno	saraceno
+1215	cereali di  grano saraceno	cereal
+1216	hummingbird cake 	cake
+1217	torta erotica	torta
+1217	torta erotica	roti
+1218	torta esterházy	torta
+1219	kai - lan	kai
+1219	kai - lan	lan
+1220	miscela per biscotti	per
+1220	miscela per biscotti	miscela
+1221	cereali rocky road	cereali
+1221	cereali rocky road	cereal
+1222	lazarakia	food
+1223	caldo di pollo	pollo
+1223	caldo di pollo	caldo
+1224	lincolnshire salsiccia	salsiccia
+1225	noodle coreano	noodle
+1226	noodles surgelati	noodles
+1226	noodles surgelati	noodle
+1226	noodles surgelati	surgelati
+1227	cröonchy stars	food
+1228	gyabrag	food
+1229	ciavàr	food
+1230	torta dell' amicizia	torta
+1230	torta dell' amicizia	dell'
+1230	torta dell' amicizia	amicizia
+1231	minestra di fegato	minestra
+1232	mannish water	food
+1233	crostata di ananas	ananas
+1233	crostata di ananas	crostata
+1233	crostata di ananas	crosta
+1234	zuppa di pasta	zuppa
+1234	zuppa di pasta	pasta
+1235	pork roll	food
+1236	carne in scattola	carne
+1236	carne in scattola	carn
+1237	hot dog vegetariano	hot
+1237	hot dog vegetariano	dog
+1238	brodo nero	brodo
+1238	brodo nero	nero
+1239	michigan hot dog	hot
+1239	michigan hot dog	dog
+1240	pizza greca	pizza
+1241	corn pops	corn
+1241	corn pops	pops
+1241	corn pops	pop
+1242	ciambella al cocco	cocco
+1242	ciambella al cocco	ciambella
+1243	salsa cumberland	salsa
+1243	salsa cumberland	lan
+1244	prodotto di soia	soia
+1245	salsiccia di pleşcoi	salsiccia
+1246	himbasha	food
+1247	changzhou sesame torta	torta
+1247	changzhou sesame torta	sam
+1248	zuppa ogbono	zuppa
+1249	zucchero colorato	zucchero
+1250	salsa di pane	pane
+1250	salsa di pane	salsa
+1250	salsa di pane	pan
+1251	dan dan noodles	noodles
+1251	dan dan noodles	noodle
+1251	dan dan noodles	dan
+1252	lasagnette	food
+1253	berlingozzo	food
+1254	cruncheroos	crunch
+1255	salsa albert	salsa
+1256	torta di riso soffiato	riso
+1256	torta di riso soffiato	torta
+1257	salsa vierge	salsa
+1258	estratto di mandorla	mandorla
+1258	estratto di mandorla	estratto
+1259	salsa café de paris	salsa
+1260	nintendo cereali sistema	cereali
+1260	nintendo cereali sistema	cereal
+1261	kladdkaka	food
+1262	bolo rei	bolo
+1263	pane lento	pane
+1263	pane lento	pan
+1264	pizza grigliata	pizza
+1265	salsa golf	salsa
+1266	morning funnies	fun
+1266	morning funnies	unni
+1267	pane viennese	pane
+1267	pane viennese	pan
+1268	regensburger  knacker	food
+1269	sagnarelli	food
+1270	chipped beef	beef
+1271	torta garash	torta
+1272	torta matta	torta
+1273	pane maori	pane
+1273	pane maori	pan
+1274	salsa di frutta	frutta
+1274	salsa di frutta	salsa
+1275	lane cake	cake
+1275	lane cake	lan
+1276	noodles ubriachi	noodles
+1276	noodles ubriachi	noodle
+1277	kek lapis sarawak	food
+1278	češnovka	food
+1279	pane esseno	pane
+1279	pane esseno	pan
+1280	olio al peperoncino	pepe
+1280	olio al peperoncino	olio
+1280	olio al peperoncino	per
+1281	guagua de  pan	pan
+1282	torta dell' anima	torta
+1282	torta dell' anima	dell'
+1283	clackers	food
+1284	beghrir	food
+1285	biáng biáng noodles	noodles
+1285	biáng biáng noodles	noodle
+1286	choi sum	choi
+1287	cavolo neor	cavolo
+1288	rântaş	food
+1289	cake pop	cake
+1289	cake pop	pop
+1290	pane maltese	pane
+1290	pane maltese	pan
+1291	dado	food
+1292	marshmallow	marshmallow
+1293	brutto ma buono	food
+1294	product 19	food
+1295	banh canh	food
+1296	ciambella di patate	ciambella
+1296	ciambella di patate	patate
+1296	ciambella di patate	pata
+1297	pastisset	food
+1298	salsa mala	salsa
+1298	salsa mala	mala
+1299	vino rosato	vino
+1299	vino rosato	rosa
+1300	pizza messicana	pizza
+1301	mohnnudeln	food
+1302	brandy butter	brandy
+1302	brandy butter	butter
+1302	brandy butter	butt
+1302	brandy butter	bran
+1303	pane afghano	pane
+1303	pane afghano	pan
+1304	colocasia	food
+1305	latte di canapa	latte
+1305	latte di canapa	canapa
+1306	miscela di cocktail	miscela
+1307	miscela di brezel	brezel
+1307	miscela di brezel	miscela
+1308	egg waffle 	egg
+1309	torta delle principesse	torta
+1309	torta delle principesse	principe
+1310	louis dressing	food
+1311	acqua aromatizzata	acqua
+1312	assortimento di cioccolato	cioccolato
+1312	assortimento di cioccolato	cola
+1313	salsa O . K.	salsa
+1314	pane nazionale	pane
+1314	pane nazionale	pan
+1315	insalata mista	salata
+1316	latte d' avena	latte
+1316	latte d' avena	avena
+1317	babà	food
+1318	cheese dog	dog
+1318	cheese dog	cheese
+1319	ciccioli	food
+1320	radice di yucca	radice
+1321	yu choy	choy
+1322	fagiolo secco	fagiolo
+1323	perla di zucchero	zucchero
+1323	perla di zucchero	per
+1324	amido	food
+1325	cavallino alfalfa	food
+1326	Brosimum alicastrum	rum
+1327	radice di barbaforte	radice
+1327	radice di barbaforte	barba
+1327	radice di barbaforte	bar
+1328	foglio di cactus	food
+1329	boršč	food
+1330	piatto surgelato	gelato
+1330	piatto surgelato	piatto
+1331	conchiglia di taco	taco
+1332	nocciola ricoperta di cioccolato	nocciola
+1332	nocciola ricoperta di cioccolato	cioccolato
+1332	nocciola ricoperta di cioccolato	cola
+1332	nocciola ricoperta di cioccolato	per
+1332	nocciola ricoperta di cioccolato	ricoperta
+1333	sciroppo per granite	sciroppo
+1333	sciroppo per granite	per
+1334	khao poon	kha
+1335	salsa di pesca	pesca
+1335	salsa di pesca	salsa
+1336	mapo	food
+1337	tequila	food
+1338	sapotiglia	food
+1339	ohaw	food
+1340	vino rosato	vino
+1340	vino rosato	rosa
+1341	finocchio	finocchio
+1341	finocchio	occhi
+1342	saveloy	food
+1343	gobo	food

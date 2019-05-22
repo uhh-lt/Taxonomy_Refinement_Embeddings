@@ -1,0 +1,149 @@
+0	acustica	science
+1	aerodinamica	dinamica
+2	agronomia	science
+3	analisi del terreno	analisi
+3	analisi del terreno	terreno
+4	archeologia	archeologia
+5	astronautica	science
+6	astronomia	astronomia
+7	atomo	science
+8	bilinguismo	science
+9	biochimica	chimica
+9	biochimica	biochimica
+10	bioclimatologia	climatologia
+11	biologia	biologia
+12	biometria	science
+13	botanica	botanica
+14	cartografia	science
+15	cellula staminale	science
+16	chimica	chimica
+17	chimica analitica	chimica
+18	chimica del terreno	terreno
+18	chimica del terreno	chimica
+19	chimica industriale	chimica
+20	cibernetica	etica
+21	cindinica	science
+22	citologia	science
+23	classificazione degli animali	classificazione
+24	classificazione delle piante	classificazione
+25	climatologia	climatologia
+26	cosmologia	cosmologia
+27	criminologia	science
+28	DNA	science
+29	ecologia	ecologia
+30	elettrochimica	chimica
+31	elettronica	elettronica
+32	elettrotecnica	science
+33	embrione e feto	science
+34	enzima	science
+35	etica	etica
+36	etnografia	etnografia
+37	etnologia	science
+38	eugenetica	etica
+38	eugenetica	genetica
+39	farmacologia	farmaco
+39	farmacologia	farmacologia
+40	filosofia	filosofia
+41	filosofia della scienza	filosofia
+41	filosofia della scienza	scienza
+42	fisica del plasma	fisica
+43	fisica laser	fisica
+44	fisica nucleare	fisica
+44	fisica nucleare	nucleare
+45	fotochimica	chimica
+46	genetica	etica
+46	genetica	genetica
+47	geochimica	chimica
+47	geochimica	geochimica
+48	geodesia	science
+49	geofisica	fisica
+50	geografia	geografia
+51	geografia culturale	geografia
+52	geografia economica	geografia
+52	geografia economica	economica
+53	geografia politica	geografia
+53	geografia politica	politica
+54	geografia regionale	geografia
+54	geografia regionale	regionale
+55	geografia storica	geografia
+55	geografia storica	storica
+56	geografia umana	geografia
+56	geografia umana	umana
+57	geologia	geologia
+58	geomorfologia	science
+59	geopolitica	politica
+60	geoscienze	scienze
+61	idrogeologia	geologia
+62	idrologia	science
+63	istologia	science
+64	lingua europea	lingua
+64	lingua europea	europea
+65	lingua minoritaria	lingua
+66	lingua non europea	lingua
+66	lingua non europea	europea
+67	lingua regionale	regionale
+67	lingua regionale	lingua
+68	lingua viva	lingua
+69	linguaggio	lingua
+70	linguistica	linguistica
+71	matematica	matematica
+72	meteorologia	science
+73	metrologia	science
+74	microrganismo	science
+75	mineralogia	science
+76	neurobiologia	biologia
+77	oceanografia	science
+78	ottica	ottica
+79	parassitologia	science
+80	particella elementare	science
+81	personalità	personalità
+82	personalità storica	storica
+82	personalità storica	personalità
+83	petrologia	science
+84	poliglottismo	science
+85	politica linguistica	politica
+85	politica linguistica	linguistica
+86	preistoria	storia
+87	psicanalisi	analisi
+88	psicologia	psicologia
+89	radiazione ionizzante	science
+90	radiobiologia	biologia
+91	scienza del comportamento	scienza
+92	scienza del terreno	terreno
+92	scienza del terreno	scienza
+93	scienze	scienze
+94	scienze amministrative	scienze
+95	scienze applicate	scienze
+96	scienze biologiche	scienze
+97	scienze dell'informazione	scienze
+97	scienze dell'informazione	informazione
+98	scienze economiche	scienze
+99	scienze fisiche	scienze
+100	scienze politiche	scienze
+101	scienze sociali	scienze
+101	scienze sociali	sociali
+102	scienze spaziali	scienze
+103	sedimentologia	science
+104	sessualità	science
+105	sismologia	science
+106	sistema di informazione geografica	informazione
+107	sociologia	sociologia
+108	sociologia del lavoro	sociologia
+109	sociologia dell'educazione	sociologia
+110	sociologia politica	politica
+110	sociologia politica	sociologia
+111	sociologia rurale	sociologia
+112	sociologia urbana	sociologia
+113	spettrometria	science
+114	storia	storia
+115	storia antica	storia
+115	storia antica	antica
+116	storia contemporanea	storia
+117	storia medievale	storia
+118	storia moderna	storia
+119	storia universale	storia
+120	termodinamica	dinamica
+121	test psicometrico	science
+122	tipo di terreno	terreno
+123	vulcanologia	science
+124	zoologia	zoologia

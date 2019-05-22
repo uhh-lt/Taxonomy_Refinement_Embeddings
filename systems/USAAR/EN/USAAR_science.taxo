@@ -1,0 +1,312 @@
+0	matrix algebra	algebra
+1	vector algebra	algebra
+2	linear algebra	algebra
+3	soil analysis	analysis
+4	numerical analysis	analysis
+5	fourier analysis	analysis
+6	microscopic anatomy	anatomy
+7	comparative anatomy	anatomy
+8	clinical anatomy	anatomy
+9	developmental anatomy	anatomy
+10	regional anatomy	anatomy
+11	gross anatomy	anatomy
+12	functional anatomy	anatomy
+13	dental anatomy	anatomy
+14	physical anthropology	anthropology
+15	social anthropology	anthropology
+16	linguistic anthropology	anthropology
+17	cultural anthropology	anthropology
+18	marine archeology	archeology
+19	astrophysics and astronomy	astronomy
+20	radio astronomy	astronomy
+21	astronomy and astrophysics	astrophysics
+22	cancer biology	biology
+23	developmental biology	biology
+24	cell biology	biology
+25	population biology	biology
+26	plant biology	biology
+27	molecular biology	biology
+28	structural biology	biology
+29	computational biology	biology
+30	forest biology	biology
+31	food biotechnology	biotechnology
+32	differential calculus	calculus
+33	integral calculus	calculus
+34	medicinal-pharmaceutical chemistry	chemistry
+35	physical chemistry	chemistry
+36	inorganic chemistry	chemistry
+37	organic chemistry	chemistry
+38	soil chemistry	chemistry
+39	materials chemistry	chemistry
+40	food chemistry	chemistry
+41	industrial chemistry	chemistry
+42	analytical chemistry	chemistry
+43	polymer chemistry	chemistry
+44	medicinal chemistry	chemistry
+45	environmental chemistry	chemistry
+46	digital circuits	circuits
+47	international and intercultural communication	communication
+48	health communication	communication
+49	organizational communication	communication
+50	gender, race, sexuality, and ethnicity in communication	communication
+51	interpersonal/small group communication	communication
+52	social influence and political communication	communication
+53	mass communication	communication
+54	rhetoric and composition	composition
+55	negative correlation	correlation
+56	spurious correlation	correlation
+57	partial correlation	correlation
+58	positive correlation	correlation
+59	curvilinear correlation	correlation
+60	cosmetic dentistry	dentistry
+61	non-linear dynamics	dynamics
+62	fluid dynamics	dynamics
+63	applied dynamics	dynamics
+64	navigation, guidance, control and dynamics	dynamics
+65	microbial ecology	ecology
+66	aquatic ecology	ecology
+67	terrestrial ecology	ecology
+68	evolutionary ecology	ecology
+69	demography, population, and ecology	ecology
+70	behavioral ecology	ecology
+71	home economics	economics
+72	international economics	economics
+73	public economics	economics
+74	agricultural and resource economics	economics
+75	supply side economics	economics
+76	behavioral economics	economics
+77	labor economics	economics
+78	electrical and electronics	electronics
+79	genetic engineering	engineering
+80	structural engineering	engineering
+81	mechanical engineering	engineering
+82	computer engineering	engineering
+83	biological engineering	engineering
+84	industrial engineering	engineering
+85	biochemical and biomolecular engineering	engineering
+86	systems and integrative engineering	engineering
+87	chemical engineering	engineering
+88	geotechnical engineering	engineering
+89	biomechanical engineering	engineering
+90	systems engineering	engineering
+91	catalysis and reaction engineering	engineering
+92	electrical engineering	engineering
+93	molecular, cellular, and tissue engineering	engineering
+94	petroleum engineering	engineering
+95	aerospace engineering	engineering
+96	ocean engineering	engineering
+97	software engineering	engineering
+98	civil engineering	engineering
+99	environmental engineering	engineering
+100	nutritional epidemiology	epidemiology
+101	plant genetics	genetics
+102	molecular genetics	genetics
+103	structural genomics	genomics
+104	cultural geography	geography
+105	historical geography	geography
+106	regional geography	geography
+107	economic geography	geography
+108	political geography	geography
+109	physical and environmental geography	geography
+110	physical geography	geography
+111	dialect geography	geography
+112	human geography	geography
+113	petroleum geology	geology
+114	economic geology	geology
+115	spherical geometry	geometry
+116	non euclidean geometry	geometry
+117	elementary geometry	geometry
+118	algebraic geometry	geometry
+119	projective geometry	geometry
+120	fractal geometry	geometry
+121	analytic geometry	geometry
+122	solid geometry	geometry
+123	plane geometry	geometry
+124	hyperbolic geometry	geometry
+125	descriptive grammar	grammar
+126	comparative and historical linguistics	historical linguistics
+127	modern history	history
+128	history of religion	history
+129	theory and criticism history	history
+130	theatre history	history
+131	diplomatic history	history
+132	modern art and architecture history	history
+133	united states history	history
+134	natural history	history
+135	african history	history
+136	world history	history
+137	history of religions of eastern origins	history
+138	ancient history	history
+139	political history	history
+140	history of religions of western origin	history
+141	cultural history	history
+142	women’s history	history
+143	american art and architecture history	history
+144	medieval history	history
+145	contemporary history	history
+146	contemporary art history	history
+147	intellectual history	history
+148	islamic world/near east history	history
+149	military history	history
+150	history of philosophy	history
+151	european history	history
+152	asian history	history
+153	social history	history
+154	asian art and architecture history	history
+155	gender history	history
+156	history of science, technology, and medicine	history
+157	latin american history	history
+158	classical archaeology and art history	history
+159	economic history	history
+160	immunology of infectious disease	immunology
+161	minority language	language
+162	European language	language
+163	regional language	language
+164	non-European language	language
+165	living language	language
+166	french linguistics	linguistics
+167	anthropological linguistics	linguistics
+168	synchronic linguistics	linguistics
+169	prescriptive linguistics	linguistics
+170	historical linguistics	linguistics
+171	descriptive linguistics	linguistics
+172	discourse linguistics	linguistics
+173	german linguistics	linguistics
+174	applied linguistics	linguistics
+175	computational linguistics	linguistics
+176	typological linguistics	linguistics
+177	spanish linguistics	linguistics
+178	logic and foundations of mathematics	logic and foundations
+179	electronic devices and semiconductor manufacturing	manufacturing
+180	applied mathematics	mathematics
+181	pure mathematics	mathematics
+182	statistical mechanics	mechanics
+183	applied mechanics	mechanics
+184	quantum mechanics	mechanics
+185	classical mechanics	mechanics
+186	mechanics of materials	mechanics
+187	engineering mechanics	mechanics
+188	celestial mechanics	mechanics
+189	fluid mechanics	mechanics
+190	sports medicine	medicine
+191	space medicine	medicine
+192	nuclear medicine	medicine
+193	tropical medicine	medicine
+194	veterinary medicine	medicine
+195	internal medicine	medicine
+196	emergency medicine	medicine
+197	thoracic medicine	medicine
+198	forensic medicine	medicine
+199	pathogenic microbiology	microbiology
+200	environmental microbiology	microbiology
+201	food microbiology	microbiology
+202	inflectional morphology	morphology
+203	compound morphology	morphology
+204	derivational morphology	morphology
+205	behavioral neurobiology	neurobiology
+206	cognitive neuroscience	neuroscience
+207	computational neuroscience	neuroscience
+208	cellular neuroscience	neuroscience
+209	molecular neuroscience	neuroscience
+210	systems neuroscience	neuroscience
+211	developmental neuroscience	neuroscience
+212	comparative nutrition	nutrition
+213	genetic nutrition	nutrition
+214	community nutrition	nutrition
+215	molecular nutrition	nutrition
+216	biochemical nutrition	nutrition
+217	clinical nutrition	nutrition
+218	international nutrition	nutrition
+219	human nutrition	nutrition
+220	electron optics	optics
+221	bioimaging and biomedical optics	optics
+222	vertebrate paleontology	paleontology
+223	plant pathology	pathology
+224	ethics and political philosophy	philosophy
+225	philosophy of mind	philosophy
+226	ancient philosophy	philosophy
+227	feminist philosophy	philosophy
+228	philosophy of language	philosophy
+229	continental philosophy	philosophy
+230	philosophy of religion	philosophy
+231	philosophy of science	philosophy
+232	atomic, molecular and optical physics	physics
+233	quantum physics	physics
+234	nuclear physics	physics
+235	laser physics	physics
+236	solar physics	physics
+237	biological and chemical physics	physics
+238	particle physics	physics
+239	plasma and beam physics	physics
+240	mineral physics	physics
+241	engineering physics	physics
+242	condensed matter physics	physics
+243	plasma physics	physics
+244	solid state physics	physics
+245	evolutionary physiology	physiology
+246	exercise physiology	physiology
+247	comparative physiology	physiology
+248	systems and integrative physiology	physiology
+249	cellular physiology	physiology
+250	molecular physiology	physiology
+251	microbial physiology	physiology
+252	american politics	politics
+253	comparative politics	politics
+254	statistics and probability	probability
+255	health psychology	psychology
+256	community psychology	psychology
+257	abnormal psychology	psychology
+258	jungian psychology	psychology
+259	clinical psychology	psychology
+260	biological psychology	psychology
+261	applied psychology	psychology
+262	developmental psychology	psychology
+263	physiological psychology	psychology
+264	industrial and organizational psychology	psychology
+265	psychology of movement	psychology
+266	social psychology	psychology
+267	cognitive psychology	psychology
+268	comparative psychology	psychology
+269	experimental psychology	psychology
+270	social science	science
+271	polymer science	science
+272	space science	science
+273	physical science	science
+274	materials science	science
+275	engineering science	science
+276	biomedical science	science
+277	life science	science
+278	earth science	science
+279	poultry science	science
+280	dairy science	science
+281	computer science	science
+282	plant science	science
+283	wood science	science
+284	natural science	science
+285	animal science	science
+286	administrative science	science
+287	membrane science	science
+288	information science	science
+289	brain science	science
+290	theory, knowledge and science	science
+291	food science	science
+292	medical science	science
+293	cognitive science	science
+294	soil science	science
+295	political science	science
+296	formal semantics	semantics
+297	lexical semantics	semantics
+298	gender and sexuality	sexuality
+299	urban sociology	sociology
+300	rural sociology	sociology
+301	regional sociology	sociology
+302	sociology of education	sociology
+303	industrial sociology	sociology
+304	political sociology	sociology
+305	sociology of culture	sociology
+306	nonparametric statistics	statistics
+307	applied statistics	statistics
+308	dental surgery	surgery
+309	plant taxonomy	taxonomy
+310	animal taxonomy	taxonomy
+311	geometry and topology	topology

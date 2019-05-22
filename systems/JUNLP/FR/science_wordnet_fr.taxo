@@ -1,0 +1,458 @@
+0	sémantique	sémantique
+1	psychologie	psychologie
+2	immunopathologie	pathologie
+3	thermodynamique	dynamique
+4	mathématiques	mathématiques
+5	pragmatique	science
+6	sismologie	science
+7	théorie des ensembles	théorie
+8	chimie	chimie
+9	cosmologie	cosmologie
+10	bactériologie	science
+11	paléontologie	paléontologie
+12	métallurgie	science
+13	astrodynamique	dynamique
+14	criminologie	science
+15	paléobiologie	biologie
+16	économique	économique
+17	sociologie	sociologie
+18	analyse	analyse
+19	géochimie	chimie
+19	géochimie	géochimie
+20	linguistique informatique	linguistique
+20	linguistique informatique	informatique
+21	météorologie	orologie
+22	anthropologie sociale	anthropologie
+22	anthropologie sociale	sociale
+22	anthropologie sociale	social
+23	génétique moléculaire	moléculaire
+23	génétique moléculaire	génétique
+24	mécaniques des fluides	fluides
+24	mécaniques des fluides	mécaniques
+24	mécaniques des fluides	mécanique
+25	psychologie sociale	psychologie
+25	psychologie sociale	sociale
+25	psychologie sociale	social
+26	psychologie du développement	psychologie
+26	psychologie du développement	développement
+27	linguistique	linguistique
+28	optique	optique
+29	mathématiques appliquées	mathématiques
+29	mathématiques appliquées	appliquée
+30	physique quantique	physique
+30	physique quantique	quantique
+31	neuroscience cognitive	science
+31	neuroscience cognitive	neuroscience
+31	neuroscience cognitive	cognitive
+32	virologie	science
+33	analyse numérique	analyse
+33	analyse numérique	numérique
+34	toxicologie	science
+35	phonologie	science
+36	épidémiologie	épidémiologie
+37	microbiologie	biologie
+37	microbiologie	microbiologie
+38	pharmacologie	pharmacologie
+39	génomique	génomique
+40	agronomie	science
+41	économétrie	science
+42	biophysique	physique
+43	kinésiologie	science
+44	endocrinologie	science
+45	géophysique	physique
+46	science	science
+47	immunologie	immunologie
+48	sciences de la vie	sciences
+48	sciences de la vie	science
+48	sciences de la vie	vie
+49	psychologie clinique	psychologie
+49	psychologie clinique	clinique
+50	syntaxe	science
+51	sciences de la Terre	sciences
+51	sciences de la Terre	science
+52	océanographie	science
+53	neuroscience	science
+53	neuroscience	neuroscience
+54	géographie	géographie
+55	biologie moléculaire	biologie
+55	biologie moléculaire	moléculaire
+56	zoologie	zoologie
+56	zoologie	oologie
+57	sociolinguistique	linguistique
+58	biochimie	chimie
+59	physique	physique
+60	physiologie	physiologie
+61	algèbre	algèbre
+62	génétique	génétique
+63	anthropologie	anthropologie
+64	géologie	géologie
+65	neurolinguistique	linguistique
+66	chimie physique	physique
+66	chimie physique	chimie
+67	sciences sociales	sciences
+67	sciences sociales	science
+67	sciences sociales	sociale
+67	sciences sociales	social
+68	chimie inorganique	chimie
+68	chimie inorganique	organique
+69	psychologie cognitive	psychologie
+69	psychologie cognitive	cognitive
+70	chimie organique	chimie
+70	chimie organique	organique
+71	botanique	science
+72	pathologie	pathologie
+73	physique nucléaire	physique
+73	physique nucléaire	nucléaire
+74	écologie	écologie
+75	morphologie	morphologie
+76	entomologie	science
+77	psychologie anormale	psychologie
+78	acoustique	science
+79	aérologie	science
+80	aéromécanique	mécanique
+81	aéronautique	science
+82	agrobiologie	biologie
+83	agrologie	science
+84	aliénisme	science
+85	allergologie	science
+86	géométrie analytique	géométrie
+87	anatomie	anatomie
+88	anesthésiologie	science
+89	angiologie	science
+90	psychologie appliquée	psychologie
+90	psychologie appliquée	appliquée
+91	archéologie	archéologie
+92	architectonique	science
+93	arithmétique	science
+94	assyriologie	science
+95	astrométrie	science
+96	astronomie	astronomie
+97	astrophysique	physique
+98	audiologie	science
+99	avionique	science
+100	behaviorisme	science
+101	bioclimatologie	climatologie
+102	biogéographie	géographie
+103	biologie	biologie
+104	science biomédicale	science
+104	science biomédicale	médicale
+105	biomédecine	médecine
+106	biométrie	science
+107	biosystématique	systématique
+108	biotechnologie	science
+109	sciences du cerveau	science
+109	sciences du cerveau	sciences
+110	calcul	calcul
+111	cardiologie	science
+112	catoprique	science
+113	mécanique céleste	mécanique
+114	civique	science
+115	mécanique classique	mécanique
+116	climatologie	climatologie
+117	anatomie clinique	clinique
+117	anatomie clinique	anatomie
+118	science cognitive	cognitive
+118	science cognitive	science
+119	anatomie comparée	anatomie
+119	anatomie comparée	comparée
+120	psychologie comparée	psychologie
+120	psychologie comparée	comparée
+121	morphologie compositionnelle	morphologie
+122	corrélation	corrélation
+123	dentisterie esthétique	dentisterie
+124	cosmographie	science
+125	craniologie	science
+126	craniométrie	science
+127	cryobiologie	biologie
+128	cryogénie	génie
+129	cryonie	science
+130	cryptanalyse	analyse
+131	crystallographie	science
+132	corrélation curviligne	corrélation
+133	cybernétique	science
+134	cytogénétique	génétique
+135	cytologie	science
+136	deixis	science
+137	démographie	science
+138	anatomie dentaire	anatomie
+138	anatomie dentaire	dentaire
+139	chirurgie dentaire	dentaire
+139	chirurgie dentaire	chirurgie
+140	dentisterie	dentisterie
+141	morphologie dérivationnelle	morphologie
+142	dermatoglyphe	science
+143	grammaire descriptive	grammaire
+143	grammaire descriptive	descriptive
+144	linguistique descriptive	linguistique
+144	linguistique descriptive	descriptive
+145	anatomie du développement	développement
+145	anatomie du développement	anatomie
+146	géographie dialectale	géographie
+147	diététique	science
+148	calcul différentiel	calcul
+149	dynamique	dynamique
+150	effet dysgénique	science
+151	géographie économique	géographie
+151	géographie économique	économique
+152	géologie économique	économique
+152	géologie économique	géologie
+153	égyptologie	science
+154	électrochimie	chimie
+155	électromagnétisme	magnétisme
+156	optique électronique	optique
+156	optique électronique	électronique
+157	électronique	électronique
+158	électrostatique	statique
+159	géométrie élémentaire	géométrie
+160	embryologie	science
+161	médecine d'urgence	médecine
+162	endodontique	science
+163	enzymologie	science
+164	ethnographie	ethnographie
+165	ethnologie	science
+166	éthologie	science
+167	étymologie	science
+168	eugénisme	science
+169	euthénique	science
+170	exobiologie	biologie
+171	exodontique	science
+172	psychologie expérimentale	psychologie
+173	femtochimie	chimie
+174	foetologie	science
+175	finance	science
+176	médecine légale	médecine
+177	sylviculture	culture
+178	sémantique formelle	sémantique
+179	analyse de Fourier	analyse
+180	fractal geometry	science
+181	anatomie fonctionnelle	anatomie
+182	rudologie	science
+183	gastroentérologie	science
+184	génie génétique	génétique
+184	génie génétique	génie
+185	géodésie	science
+186	géométrie	géométrie
+187	géopolitique	politique
+188	gériatrie	science
+189	grammaire	grammaire
+190	anatomie générale	anatomie
+191	théorie des groupes	théorie
+192	gynécologie	écologie
+193	harmoniques	science
+194	hématologie	science
+195	hémodynamique	dynamique
+196	herpétologie	science
+197	linguistique historique	linguistique
+198	économie familiale	économie
+199	hydrodynamique	dynamique
+199	hydrodynamique	hydrodynamique
+200	hydrologie	science
+201	hydrostatique	statique
+202	hygiène	science
+203	géométrie hyperbolique	géométrie
+204	hypsographie	science
+205	ichtyologie	science
+206	immunochimie	chimie
+207	morphologie flexionnelle	morphologie
+208	sciences de l'information	science
+208	sciences de l'information	sciences
+209	calcul intégral	calcul
+210	médecine interne	médecine
+211	psychologie jungienne	psychologie
+212	cynématique	science
+213	lépidoptérologie	science
+214	sémantique lexicale	sémantique
+215	limnologie	science
+216	algèbre linéaire	algèbre
+216	algèbre linéaire	linéaire
+217	programmation linéaire	linéaire
+218	macrobiotique	science
+219	magnétisme	magnétisme
+220	malacologie	science
+221	mammalogie	mammalogie
+222	archéologie marine	archéologie
+223	algèbre matricielle	algèbre
+224	mécanique	mécanique
+225	science médicale	science
+225	science médicale	médicale
+226	médecine	médecine
+227	mémoire	science
+228	métamathématique	science
+229	métrologie	science
+230	microéconomie	économie
+231	anatomie microscopique	anatomie
+232	minéralogie	science
+233	mycologie	science
+234	myologie	science
+235	histoire naturelle	histoire
+235	histoire naturelle	naturelle
+235	histoire naturelle	naturel
+236	sciences naturelles	science
+236	sciences naturelles	sciences
+236	sciences naturelles	naturelle
+236	sciences naturelles	naturel
+237	corrélation négative	corrélation
+238	néonatologie	science
+239	néphrologie	science
+240	neuroanatomie	anatomie
+241	neurobiologie	biologie
+242	neurologie	urologie
+243	neurophysiologie	physiologie
+244	neuropsychiatrie	psychiatrie
+245	géométrie non-euclidienne	géométrie
+246	statistique non-paramétrique	statistique
+247	nosologie	science
+248	médecine nucléaire	nucléaire
+248	médecine nucléaire	médecine
+249	obstétrique	science
+250	ocologie	science
+251	oologie	oologie
+252	ophtalmologie	science
+253	orologie	orologie
+254	orthodontie	science
+255	orthoépie	science
+256	orthopédie	science
+257	otologie	science
+258	paléanthropologie	anthropologie
+259	paléobotanie	science
+260	paléoclimatologie	climatologie
+261	paléodendrologie	science
+262	paléoécologie	écologie
+263	paléoethnographie	ethnographie
+264	paléogéographie	géographie
+265	paléogéologie	géologie
+266	paléographie	science
+267	paléologie	science
+268	paléomammalogie	mammalogie
+269	paléopathologie	pathologie
+270	paléornithologie	ornithologie
+271	paléozoologie	zoologie
+271	paléozoologie	oologie
+272	corrélation partielle	corrélation
+273	physique des particules	physique
+274	pédiatrie	science
+275	pénologie	science
+276	périnatalogie	science
+277	parodontologie	science
+278	géologie pétrolière	géologie
+279	pétrologie	science
+280	pharmacogénétique	génétique
+281	pharmacocinétique	science
+282	pharmacie	pharmacie
+283	photochimie	chimie
+284	phrénologie	science
+285	anthropologie physique	anthropologie
+285	anthropologie physique	physique
+286	géographie physique	physique
+286	géographie physique	géographie
+287	psychologie physiologique	psychologie
+288	phytopharmacie	pharmacie
+289	géométrie plane	géométrie
+290	physique des plasmas	physique
+291	pneumatique	science
+292	podologie	science
+293	politique	politique
+294	pomologie	science
+295	corrélation positive	corrélation
+296	linguistique normative	linguistique
+297	résolution de problèmes	science
+298	proctologie	science
+299	géométrie projective	géométrie
+300	prothèses	science
+301	prosthodontie	science
+302	protéomique	science
+303	proto-archeologie	science
+304	protohistoire	histoire
+305	protozoologie	zoologie
+305	protozoologie	oologie
+306	proxémie	science
+307	pséphologie	science
+308	psychiatrie	psychiatrie
+309	psychodynamique	dynamique
+310	psychométrie	science
+311	psychopharmacologie	pharmacologie
+312	psychophysique	physique
+313	psychothérapie	science
+314	ptéridologie	science
+315	mathématiques pures	mathématiques
+316	quadratique	science
+317	électrodynamique quantique	quantique
+317	électrodynamique quantique	dynamique
+318	théorie quantique des champs	théorie
+318	théorie quantique des champs	quantique
+319	mécanique quantique	quantique
+319	mécanique quantique	mécanique
+320	radioastronomie	astronomie
+321	radiobiologie	biologie
+322	radiochimie	chimie
+323	radiologie	science
+324	Realpolitik	science
+325	anatomie régionale	anatomie
+326	rhéologie	science
+327	rhumatologie	science
+328	rhino-laryngologie	science
+329	ritualisme	science
+330	sérologie	science
+331	sylviculture	culture
+332	sociobiologie	biologie
+333	physique solaire	physique
+334	géométrie dans l'espace	géométrie
+335	physique des solides	physique
+336	médecine spatiale	médecine
+337	spéléologie	science
+338	géométrie sphérique	géométrie
+339	médecine sportive	médecine
+340	corrélation illusoire	corrélation
+341	statique	statique
+342	mécanique statistique	mécanique
+342	mécanique statistique	statistique
+343	statistique	statistique
+344	stratégique	science
+345	stratigraphie	science
+346	génomique structurale	génomique
+347	structuralisme	science
+348	sumérologie	science
+349	économie de l'offre	économie
+350	chirurgie	chirurgie
+351	linguistique synchronique	linguistique
+352	systématique	systématique
+353	taxonomie	science
+354	tératologie	science
+355	thanatologie	science
+356	thérapeutique	science
+357	thermoionique	science
+358	thermochimie	chimie
+359	médecine thoracique	médecine
+360	topographie	science
+361	topologie	science
+362	traumatologie	science
+363	triangulation	science
+364	trigonométrie	science
+365	médecine tropicale	médecine
+366	urologie	urologie
+367	algèbre vectorielle	algèbre
+368	paléontologie des vertébrés	paléontologie
+369	médecine vétérinaire	médecine
+370	volcanologie	science
+371	conchyliologie	science
+372	ostéologie	science
+373	réflexologie	science
+374	phycologie	science
+375	macroéconomie	économie
+376	théorie de Galois	théorie
+377	phonétique	science
+378	nutrition	nutrition
+379	traitement automatique du langage naturel	automatique
+379	traitement automatique du langage naturel	naturel
+380	géostratégie	science
+381	théorie des probabilités	théorie
+382	primatologie	science
+383	cladistique	science
+384	mythologie	science
+385	ornithologie	ornithologie
+386	sociométrie	science
+387	traduction automatique	automatique
+388	dermatologie	science
+389	magnétohydrodynamique	dynamique
+389	magnétohydrodynamique	hydrodynamique
+390	microélectronique	électronique

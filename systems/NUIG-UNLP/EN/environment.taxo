@@ -1,0 +1,456 @@
+0	exadriatic sea	aegean sea
+1	exadriatic sea	baltic sea
+2	exadriatic sea	black sea
+3	exadriatic sea	ionian sea
+4	exadriatic sea	mediterranean sea
+5	exadriatic sea	tyrrhenian sea
+6	exadriatic sea	sea
+7	aegean sea	adriatic sea
+8	aegean sea	ionian sea
+9	aegean sea	mediterranean sea
+10	aegean sea	sea
+11	antarctic ocean	ocean
+12	arctic ocean	arctic
+13	arctic ocean	norwegian sea
+14	arctic ocean	pacific ocean
+15	arctic ocean	ocean
+16	atlantic ocean	english channel
+17	atlantic ocean	indian ocean
+18	atlantic ocean	mediterranean sea
+19	atlantic ocean	north sea
+20	atlantic ocean	pacific ocean
+21	atlantic ocean	ocean
+22	baltic sea	black sea
+23	baltic sea	mediterranean sea
+24	baltic sea	north sea
+25	baltic sea	sea
+26	black sea	adriatic sea
+27	black sea	baltic sea
+28	black sea	caspian sea
+29	black sea	mediterranean sea
+30	black sea	sea
+31	caspian sea	baltic sea
+32	caspian sea	black sea
+33	caspian sea	sea
+34	eu emissions trading scheme	emissions trading scheme
+35	eu emission allowance	emission allowance
+36	eu environmental policy	environmental policy
+37	english channel	irish sea
+38	english channel	north sea
+39	english channel	channel
+40	indian ocean	atlantic ocean
+41	indian ocean	mediterranean sea
+42	indian ocean	pacific ocean
+43	indian ocean	red sea
+44	indian ocean	ocean
+45	ionian sea	adriatic sea
+46	ionian sea	aegean sea
+47	ionian sea	ligurian sea
+48	ionian sea	mediterranean sea
+49	ionian sea	tyrrhenian sea
+50	ionian sea	sea
+51	irish sea	atlantic ocean
+52	irish sea	english channel
+53	irish sea	north sea
+54	irish sea	sea
+55	ligurian sea	adriatic sea
+56	ligurian sea	ionian sea
+57	ligurian sea	mediterranean sea
+58	ligurian sea	tyrrhenian sea
+59	ligurian sea	sea
+60	mediterranean sea	adriatic sea
+61	mediterranean sea	aegean sea
+62	mediterranean sea	atlantic ocean
+63	mediterranean sea	black sea
+64	mediterranean sea	indian ocean
+65	mediterranean sea	ionian sea
+66	mediterranean sea	tyrrhenian sea
+67	mediterranean sea	sea
+68	north sea	baltic sea
+69	north sea	english channel
+70	north sea	irish sea
+71	north sea	mediterranean sea
+72	north sea	sea
+73	norwegian sea	arctic ocean
+74	norwegian sea	baltic sea
+75	norwegian sea	north sea
+76	norwegian sea	sea
+77	pacific ocean	arctic ocean
+78	pacific ocean	atlantic ocean
+79	pacific ocean	indian ocean
+80	pacific ocean	mediterranean sea
+81	pacific ocean	ocean
+82	red sea	indian ocean
+83	red sea	mediterranean sea
+84	red sea	sea
+85	tyrrhenian sea	adriatic sea
+86	tyrrhenian sea	aegean sea
+87	tyrrhenian sea	ionian sea
+88	tyrrhenian sea	ligurian sea
+89	tyrrhenian sea	mediterranean sea
+90	tyrrhenian sea	sea
+91	accidental pollution	pollution
+92	acid rain	acidification
+93	acid rain	global warming
+94	acid rain	greenhouse effect
+95	acid rain	pollution
+96	acid rain	water pollution
+97	acid rain	rain
+98	acidification	acid rain
+99	acidification	climate change
+100	acidification	eutrophication
+101	acidification	global warming
+102	acidification	rain
+103	adaptation to climate change	climate change
+104	agricultural disaster	disaster
+105	agricultural waste	industrial waste
+106	agricultural waste	waste
+107	animal life	marine life
+108	animal life	plant life
+109	animal life	life
+110	animal resources	resources
+111	anti-pollution device	device
+112	aquatic environment	eutrophication
+113	aquatic environment	marine environment
+114	aquatic environment	environment
+115	area management	management
+116	arid zone	zone
+117	atmospheric conditions	conditions
+118	atmospheric pollutant	pollutant
+119	atmospheric pollution	acid rain
+120	atmospheric pollution	industrial pollution
+121	atmospheric pollution	water pollution
+122	atmospheric pollution	pollution
+123	bad weather	weather
+124	bathing water	water
+125	biodiversity	climate change
+126	biodiversity	ecosystem
+127	biodiversity	change
+128	biological standard	standard
+129	carcinogenic substance	substance
+130	chemical pollution	pollution
+131	chemical waste	hazardous waste
+132	chemical waste	industrial waste
+133	chemical waste	sewage sludge
+134	chemical waste	waste disposal
+135	chemical waste	wastewater
+136	chemical waste	waste
+137	clean development mechanism	emission trading
+138	clean development mechanism	joint implementation
+139	clean development mechanism	development mechanism
+140	climate change	desertification
+141	climate change	global warming
+142	climate change	greenhouse gas
+143	climate change	pollution
+144	climate change	change
+145	climate change policy	climate change
+146	climate change policy	environmental policy
+147	climate change policy	global warming
+148	climate change policy	change policy
+149	climatic zone	zone
+150	coastal pollution	pollution
+151	coastal protection	pollution control
+152	coastal protection	protection
+153	combustion gases	gases
+154	conservation of resources	resources
+155	continental shelf	arctic ocean
+156	continental shelf	shelf
+157	cost of pollution	pollution
+158	countryside conservation	conservation
+159	dangerous substance	substance
+160	degradation of the environment	the environment
+161	degree of pollution	pollution
+162	deposit on a polluting product	on a polluting product
+163	desertification	climate change
+164	desertification	deforestation
+165	desertification	water pollution
+166	desertification	change
+167	destruction of crops	crops
+168	disaster area	natural disaster
+169	disaster area	area
+170	domestic waste	industrial waste
+171	domestic waste	waste
+172	drinking water	groundwater
+173	drinking water	surface water
+174	drinking water	wastewater
+175	drinking water	water
+176	drinking water	water
+177	dumping of waste	waste
+178	ecological balance	balance
+179	economic instrument for the environment	instrument for the environment
+180	electromagnetic interference	interference
+181	electronic waste	hazardous waste
+182	electronic waste	waste
+183	emission allowance	allowance
+184	emission trading	eu emissions trading scheme
+185	emission trading	clean development mechanism
+186	emission trading	trading
+187	energy resources	mineral resources
+188	energy resources	natural resources
+189	energy resources	renewable resources
+190	energy resources	water resources
+191	energy resources	resources
+192	environmental economics	environmental law
+193	environmental economics	environmental policy
+194	environmental economics	economics
+195	environmental education	environmental protection
+196	environmental education	education
+197	environmental impact	environmental protection
+198	environmental impact	greenhouse gas
+199	environmental impact	impact
+200	environmental indicator	indicator
+201	environmental law	environmental economics
+202	environmental law	environmental policy
+203	environmental law	environmental protection
+204	environmental law	law
+205	environmental liability	liability
+206	environmental monitoring	environmental policy
+207	environmental monitoring	monitoring
+208	environmental policy	climate change
+209	environmental policy	environmental economics
+210	environmental policy	environmental law
+211	environmental policy	environmental protection
+212	environmental policy	policy
+213	environmental protection	environmental impact
+214	environmental protection	environmental policy
+215	environmental protection	natural resources
+216	environmental protection	pollution
+217	environmental protection	pollution control
+218	environmental protection	water resources
+219	environmental protection	protection
+220	environmental research	environmental policy
+221	environmental research	research
+222	environmental standard	standard
+223	environmental statistics	statistics
+224	environmental tax	tax
+225	equatorial zone	zone
+226	evaluation of resources	resources
+227	exhaustion of resources	resources
+228	exploitation of resources	resources
+229	exploitation of the sea-bed	the sea-bed
+230	exploitation of the seas	the seas
+231	export of waste	waste
+232	fight against insects	against insects
+233	fight against wastage	against wastage
+234	fire protection	protection
+235	food contamination	contamination
+236	frigid zone	zone
+237	fur-bearing animal	animal
+238	geophysical environment	environment
+239	global warming	climate change
+240	global warming	greenhouse gas
+241	global warming	pollution
+242	global warming	warming
+243	greenhouse effect	acid rain
+244	greenhouse effect	global warming
+245	greenhouse effect	greenhouse gas
+246	greenhouse effect	effect
+247	greenhouse gas	climate change
+248	greenhouse gas	global warming
+249	greenhouse gas	gas
+250	groundwater	drinking water
+251	groundwater	surface water
+252	groundwater	water
+253	harmful plant	plant
+254	hazardous waste	industrial waste
+255	hazardous waste	radioactive waste
+256	hazardous waste	waste
+257	hospital waste	waste
+258	humid zone	zone
+259	hunting regulations	regulations
+260	industrial hazard	hazard
+261	industrial pollution	industrial waste
+262	industrial pollution	noise pollution
+263	industrial pollution	pollution
+264	industrial pollution	soil pollution
+265	industrial pollution	water pollution
+266	industrial pollution	pollution
+267	industrial waste	hazardous waste
+268	industrial waste	sewage sludge
+269	industrial waste	water pollution
+270	industrial waste	waste
+271	inflammable product	product
+272	inshore grounds	grounds
+273	joint implementation	clean development mechanism
+274	joint implementation	implementation
+275	local pollution	pollution
+276	man-made disaster	disaster
+277	management of resources	resources
+278	marine ecosystem	ecosystem
+279	marine ecosystem	marine environment
+280	marine ecosystem	terrestrial ecosystem
+281	marine ecosystem	ecosystem
+282	marine environment	marine life
+283	marine environment	environment
+284	marine life	biodiversity
+285	marine life	marine environment
+286	marine life	marine mammal
+287	marine life	life
+288	marine mammal	dolphin
+289	marine mammal	marine life
+290	marine mammal	mammal
+291	marine pollution	marine environment
+292	marine pollution	marine mammal
+293	marine pollution	oil pollution
+294	marine pollution	water pollution
+295	marine pollution	pollution
+296	mechanical vibration	vibration
+297	metal pollution	pollution
+298	metal waste	waste
+299	mineral resources	energy resources
+300	mineral resources	natural resources
+301	mineral resources	water resources
+302	mineral resources	resources
+303	motor vehicle pollution	vehicle pollution
+304	national city park	city park
+305	national park	protected area
+306	national park	wildlife
+307	national park	park
+308	natural disaster	disaster
+309	natural hazard	hazard
+310	natural resources	environmental protection
+311	natural resources	mineral resources
+312	natural resources	water resources
+313	natural resources	resources
+314	nature reserve	protected area
+315	nature reserve	reserve
+316	noise level	level
+317	noise pollution	industrial pollution
+318	noise pollution	noise
+319	noise pollution	nuisance
+320	noise pollution	pollution
+321	noise pollution	water pollution
+322	noise pollution	pollution
+323	noise protection	protection
+324	non-ionising radiation	radiation
+325	non-polluting vehicle	vehicle
+326	non-recoverable waste	waste
+327	oil pollution	marine pollution
+328	oil pollution	natural disaster
+329	oil pollution	prevention of pollution
+330	oil pollution	water pollution
+331	oil pollution	pollution
+332	organic pollution	pollution
+333	over-exploitation of resources	resources
+334	percolation water	water
+335	pesticide residue	residue
+336	physical environment	environment
+337	plant life	animal life
+338	plant life	ecosystem
+339	plant life	marine life
+340	plant life	life
+341	plant resources	resources
+342	polar region	region
+343	polluted area	area
+344	polluter pays principle	pays principle
+345	pollution	climate change
+346	pollution	environmental protection
+347	pollution	water pollution
+348	pollution	change
+349	pollution control	environmental protection
+350	pollution control	pollution
+351	pollution control	waste management
+352	pollution control	wastewater
+353	pollution control	water pollution
+354	pollution control	water resources
+355	pollution control	control
+356	pollution control measures	control measures
+357	pollution from agricultural sources	agricultural sources
+358	pollution from land-based sources	land-based sources
+359	pollution from ships	ships
+360	pollution of waterways	waterways
+361	prevention of pollution	oil pollution
+362	prevention of pollution	of pollution
+363	protected area	biosphere
+364	protected area	national park
+365	protected area	nature reserve
+366	protected area	wildlife
+367	protected area	area
+368	protected species	protected area
+369	protected species	species
+370	protection of animal life	animal life
+371	protection of animals	animals
+372	protection of plant life	plant life
+373	quality of the environment	the environment
+374	radioactive effluent	effluent
+375	radioactive pollution	pollution
+376	radioactive waste	hazardous waste
+377	radioactive waste	industrial waste
+378	radioactive waste	waste
+379	reduction of gas emissions	gas emissions
+380	renewable resources	energy resources
+381	renewable resources	resources
+382	replacement of resources	resources
+383	resources of the sea	the sea
+384	risk prevention	prevention
+385	seismic monitoring	monitoring
+386	sensitive area	area
+387	sewage sludge	industrial waste
+388	sewage sludge	wastewater
+389	sewage sludge	sludge
+390	soil pollution	industrial pollution
+391	soil pollution	water pollution
+392	soil pollution	pollution
+393	soil resources	resources
+394	stagnant water	water
+395	storage of waste	waste
+396	stratospheric pollutant	pollutant
+397	stratospheric pollution	pollution
+398	subtropical zone	zone
+399	surface water	drinking water
+400	surface water	groundwater
+401	surface water	water resources
+402	surface water	water
+403	temperate zone	zone
+404	terrestrial ecosystem	ecosystem
+405	thermal discharge	discharge
+406	thermal pollution	pollution
+407	xic substance	substance
+408	tradeable emission permit	emission permit
+409	tropical zone	zone
+410	unauthorised dumping	dumping
+411	underground storage of waste	storage of waste
+412	underwater mineral resources	mineral resources
+413	use of water	water
+414	used oil	sewage sludge
+415	used oil	oil
+416	volcanic eruption	eruption
+417	waste	waste management
+418	waste	wastewater
+419	waste	management
+420	waste disposal	hazardous waste
+421	waste disposal	industrial waste
+422	waste disposal	waste
+423	waste disposal	waste management
+424	waste disposal	water pollution
+425	waste disposal	disposal
+426	waste incineration	incineration
+427	waste management	waste
+428	waste management	waste disposal
+429	waste management	wastewater
+430	waste management	management
+431	waste recycling	environmental protection
+432	waste recycling	hazardous waste
+433	waste recycling	waste disposal
+434	waste recycling	waste management
+435	waste recycling	recycling
+436	water management	water resources
+437	water management	management
+438	water pollutant	pollutant
+439	water pollution	eutrophication
+440	water pollution	industrial pollution
+441	water pollution	industrial waste
+442	water pollution	noise pollution
+443	water pollution	pollution
+444	water pollution	soil pollution
+445	water pollution	pollution
+446	water protection	pollution control
+447	water protection	protection
+448	water resources	environmental protection
+449	water resources	groundwater
+450	water resources	mineral resources
+451	water resources	natural resources
+452	water resources	surface water
+453	water resources	water management
+454	water resources	resources
+455	wild mammal	mammal

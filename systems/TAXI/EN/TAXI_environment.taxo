@@ -1,0 +1,207 @@
+12354	accidental pollution	pollution
+12362	accidental pollution	water pollution
+19106	acid rain	atmospheric pollutant
+19114	acid rain	pollution
+19160	acid rain	pollutant
+58232	acidification	ocean
+63164	aegean sea	sensitive area
+27199	agricultural waste	renewable resources
+27225	agricultural waste	waste
+34754	animal life	biodiversity
+59648	antarctic ocean	arctic ocean
+59792	antarctic ocean	ocean
+53913	antarctica	arctic
+54034	antarctica	mountain
+54062	antarctica	desert
+11203	aquatic environment	environment
+24298	arctic	climate
+24368	arctic	ecosystem
+24432	arctic	ocean
+28332	arctic ocean	ocean
+13708	arid zone	ecosystem
+64212	atlantic ocean	ocean
+1582	atmosphere	environment
+1680	atmosphere	natural resources
+39512	atmospheric conditions	ocean
+33200	atmospheric pollutant	pollutant
+36275	atmospheric pollution	pollution
+38679	bad weather	natural disaster
+15156	baltic sea	sea
+6865	bathing water	water
+45688	biodiversity	ecosystem
+32168	biosphere	ecosystem
+6554	biotope	marine ecosystem
+6592	biotope	arctic
+46935	chemical pollution	pollution
+3142	chemical waste	environment
+3175	chemical waste	industrial waste
+3205	chemical waste	hazardous waste
+3300	chemical waste	pollutant
+3305	chemical waste	waste
+34983	climate change policy	environmental policy
+63575	coastal pollution	pollution
+9028	coastal protection	ecosystem
+43141	continental shelf	aegean sea
+43152	continental shelf	ocean
+31380	corrosion	pollutant
+24057	cyclone	natural hazard
+24119	cyclone	natural disaster
+13979	defoliation	natural disaster
+17814	domestic waste	pollution
+17865	domestic waste	waste
+27926	drinking water	water
+30099	earthquake	natural disaster
+49376	ecosystem	polar region
+35805	electronic waste	waste
+25340	energy resources	natural resources
+25845	english channel	water
+25985	english channel	atlantic ocean
+25990	english channel	north sea
+8832	environmental economics	ocean
+5742	environmental impact	environment
+5905	environmental impact	waste
+54852	environmental protection	ocean
+14110	erosion	climate change
+14174	erosion	pollution
+14177	erosion	natural hazard
+14239	erosion	natural disaster
+542	estuary	environment
+565	estuary	marine environment
+625	estuary	water
+708	estuary	ecosystem
+20714	exploitation of resources	biodiversity
+43619	fire	natural disaster
+2705	fire protection	water
+16745	freshwater	water
+16760	freshwater	natural resources
+16828	freshwater	ecosystem
+45783	geophysical environment	environment
+31951	greenhouse effect	global warming
+27480	greenhouse gas	pollutant
+15705	groundwater	water
+15788	groundwater	ecosystem
+22545	hazardous waste	waste
+62066	hospital waste	waste
+22985	ice	water
+3716	indian ocean	sea
+3892	indian ocean	ocean
+33674	industrial pollution	pollution
+14740	industrial waste	pollutant
+14745	industrial waste	waste
+12796	insect	bird
+25065	ionian sea	water
+25083	ionian sea	island
+32380	island	lake
+32428	island	ecosystem
+32447	island	nature reserve
+66695	local pollution	pollution
+14488	marine ecosystem	ecosystem
+11983	marine environment	environment
+1322	marine life	environment
+1330	marine life	wildlife
+1345	marine life	marine environment
+1552	marine life	ocean
+66955	marine pollution	pollution
+23245	mediterranean sea	water
+23385	mediterranean sea	atlantic ocean
+26134	metal pollution	pollution
+10845	metal waste	waste
+18320	mineral resources	natural resources
+33414	motor vehicle pollution	pollution
+17265	national park	water
+17348	national park	ecosystem
+52225	natural disaster	man-made disaster
+36094	natural hazard	mountain
+31621	natural resources	environmental law
+19894	noise	pollution
+19940	noise	pollutant
+19951	noise	nuisance
+802	noise level	environment
+34194	noise pollution	pollution
+6425	non-recoverable waste	waste
+39135	oil pollution	pollution
+52655	organic pollution	pollution
+45059	over-exploitation of resources	exploitation of resources
+45154	over-exploitation of resources	biodiversity
+21424	ozone	greenhouse gas
+21500	ozone	pollutant
+13	pacific ocean	indian ocean
+252	pacific ocean	ocean
+37026	percolation water	water
+9643	physical environment	environment
+9808	physical environment	ecosystem
+16048	plain	ecosystem
+8529	pollution control	environmental protection
+44075	pollution from agricultural sources	pollution
+65135	pollution from land-based sources	pollution
+9494	pollution from ships	pollution
+26654	pollution of waterways	pollution
+13400	protected area	lake
+1070	protected species	wildlife
+1096	protected species	bird
+4315	protection of animal life	protection of animals
+53435	radioactive pollution	pollution
+52966	radioactive waste	waste
+15416	red sea	sea
+15445	red sea	water
+15458	red sea	climate
+15592	red sea	ocean
+7660	resources of the sea	natural resources
+13056	rodent	bird
+13177	rodent	wild mammal
+13242	rodent	desert
+20125	sea	water
+20272	sea	ocean
+20453	seal	marine mammal
+7465	sewage sludge	waste
+49795	soil pollution	pollution
+11545	stagnant water	water
+11631	stagnant water	nuisance
+41520	stratospheric pollutant	pollutant
+43815	stratospheric pollution	pollution
+58729	subtropical zone	tropical zone
+54966	surface water	water
+16450	terrestrial ecosystem	climate change
+16514	terrestrial ecosystem	pollution
+16568	terrestrial ecosystem	ecosystem
+56815	thermal pollution	pollution
+20870	underwater mineral resources	mineral resources
+3517	volcanic eruption	natural hazard
+3579	volcanic eruption	natural disaster
+23638	waste incineration	waste disposal
+22805	waste management	waste
+67706	wastewater	water
+27680	water	natural resources
+27745	water	waste
+2520	water pollutant	pollutant
+37315	water pollution	pollution
+4442	water resources	environment
+4540	water resources	natural resources
+17005	watercourse	water
+17080	watercourse	pollutant
+8180	wildlife	natural resources
+1111	pollution	environment
+1110	pollutant	environment
+1101	ocean	environment
+2222	sensitive area	environment
+2220	renewable resources	environment
+2202	waste	environment
+3333	mountain	environment
+3330	desert	environment
+3303	climate	environment
+4444	environmental policy	environment
+4404	polar region	environment
+4440	north sea	environment
+5555	climate change	environment
+5550	global warming	environment
+5505	bird	environment
+6666	lake	environment
+6660	nature reserve	environment
+6606	man-made disaster	environment
+7777	environmental law	environment
+7770	nuisance	environment
+7707	protection of animals	environment
+8888	wild mammal	environment
+8880	marine mammal	environment
+8808	tropical zone	environment
+9999	waste disposal	environment

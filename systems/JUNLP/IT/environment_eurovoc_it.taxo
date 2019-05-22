@@ -1,0 +1,474 @@
+0	acidificazione	environment
+1	acqua	acqua
+2	acqua d'infiltrazione	acqua
+3	acqua dolce	acqua
+4	acqua potabile	acqua
+5	acqua salata	acqua
+6	acqua stagnante	acqua
+7	acque di balneazione	acque
+8	acque di scarico	acque
+8	acque di scarico	scarico
+9	acque sotterranee	acque
+10	acque superficiali	acque
+10	acque superficiali	per
+11	adattamento ai cambiamenti climatici	cambiamenti
+11	adattamento ai cambiamenti climatici	climatici
+11	adattamento ai cambiamenti climatici	clima
+12	agente inquinante	agente
+12	agente inquinante	inquinante
+12	agente inquinante	inquina
+13	agente inquinante dell'acqua	acqua
+13	agente inquinante dell'acqua	agente
+13	agente inquinante dell'acqua	inquinante
+13	agente inquinante dell'acqua	dell'acqua
+13	agente inquinante dell'acqua	inquina
+14	agente inquinante dell'atmosfera	agente
+14	agente inquinante dell'atmosfera	inquinante
+14	agente inquinante dell'atmosfera	atmosfera
+14	agente inquinante dell'atmosfera	inquina
+15	ambiente	ambiente
+16	ambiente acquatico	acqua
+16	ambiente acquatico	ambiente
+17	ambiente fisico	ambiente
+17	ambiente fisico	fisico
+18	ambiente geofisico	ambiente
+18	ambiente geofisico	fisico
+19	ambiente marino	ambiente
+19	ambiente marino	marino
+19	ambiente marino	mari
+20	analisi dell'acqua	acqua
+20	analisi dell'acqua	dell'acqua
+21	animale da pelliccia	environment
+22	Antartico	antartico
+23	Artico	artico
+24	atmosfera	atmosfera
+25	attuazione congiunta	environment
+26	balena	environment
+27	biodegradabilità	environment
+28	biodiversità	environment
+29	biosfera	environment
+30	biotopo	environment
+31	calamità agricola	agricola
+32	cambiamento climatico	clima
+33	Chirotteri	environment
+34	ciclone	environment
+35	clima	clima
+36	condizioni atmosferiche	environment
+37	consumo idrico	idrico
+38	controllo dell'inquinamento	dell'inquinamento
+38	controllo dell'inquinamento	inquinamento
+38	controllo dell'inquinamento	contro
+38	controllo dell'inquinamento	l'inquinamento
+38	controllo dell'inquinamento	inquina
+39	corrosione	environment
+40	corso d'acqua	acqua
+40	corso d'acqua	d'acqua
+40	corso d'acqua	orso
+41	costo dell'inquinamento	dell'inquinamento
+41	costo dell'inquinamento	inquinamento
+41	costo dell'inquinamento	l'inquinamento
+41	costo dell'inquinamento	inquina
+42	defogliazione	gli
+43	degradazione dell'ambiente	ambiente
+43	degradazione dell'ambiente	dell'ambiente
+43	degradazione dell'ambiente	l'ambiente
+44	delfino	environment
+45	deposito dei rifiuti	deposito
+45	deposito dei rifiuti	dei
+45	deposito dei rifiuti	rifiuti
+46	deposito di prodotti inquinanti	deposito
+46	deposito di prodotti inquinanti	inquina
+47	desertificazione	environment
+48	deserto	environment
+49	diritto dell'ambiente	ambiente
+49	diritto dell'ambiente	dell'ambiente
+49	diritto dell'ambiente	l'ambiente
+50	disastro causato dall'uomo	disastro
+50	disastro causato dall'uomo	usato
+51	disastro naturale	disastro
+51	disastro naturale	naturale
+52	disboscamento	environment
+53	discarica abusiva	environment
+54	disponibilità di suolo	suolo
+55	dispositivo antinquinamento	inquinamento
+55	dispositivo antinquinamento	inquina
+56	distruzione delle colture	delle
+57	disturbo elettromagnetico	environment
+58	economia dell'ambiente	ambiente
+58	economia dell'ambiente	dell'ambiente
+58	economia dell'ambiente	l'ambiente
+59	ecosistema	ecosistema
+59	ecosistema	sistema
+60	ecosistema marino	marino
+60	ecosistema marino	ecosistema
+60	ecosistema marino	mari
+60	ecosistema marino	sistema
+61	ecosistema terrestre	ecosistema
+61	ecosistema terrestre	sistema
+62	educazione ambientale	ambientale
+63	effetto serra atmosferico	effetto
+63	effetto serra atmosferico	serra
+63	effetto serra atmosferico	atmosferico
+64	effluente radioattivo	radioattivo
+65	eliminazione dei rifiuti	dei
+65	eliminazione dei rifiuti	rifiuti
+66	equilibrio ecologico	environment
+67	erosione	environment
+68	eruzione vulcanica	environment
+69	esaurimento delle risorse	delle
+69	esaurimento delle risorse	risorse
+70	esportazione di rifiuti	rifiuti
+71	estuario	environment
+72	eutrofizzazione	environment
+73	fabbisogno idrico	idrico
+74	fanghi di depurazione	environment
+75	fauna	fauna
+76	flora	flora
+77	foca	environment
+78	fondale costiero	fondale
+79	fondale marino	marino
+79	fondale marino	fondale
+79	fondale marino	mari
+80	gas a effetto serra	effetto
+80	gas a effetto serra	serra
+80	gas a effetto serra	gas
+81	gas di combustione	gas
+82	gestione dei rifiuti	dei
+82	gestione dei rifiuti	rifiuti
+82	gestione dei rifiuti	gestione
+83	gestione delle acque	acque
+83	gestione delle acque	delle
+83	gestione delle acque	gestione
+84	gestione delle risorse	delle
+84	gestione delle risorse	risorse
+84	gestione delle risorse	gestione
+85	gestione dello spazio	gestione
+86	ghiaccio	environment
+87	immersione di rifiuti	rifiuti
+88	impatto ambientale	ambientale
+89	imposta ambientale	ambientale
+90	incendio	incendi
+91	incenerimento dei rifiuti	dei
+91	incenerimento dei rifiuti	rifiuti
+92	indicatore ambientale	ambientale
+93	inondazione	non
+94	inquinamento	inquinamento
+94	inquinamento	inquina
+95	inquinamento accidentale	inquinamento
+95	inquinamento accidentale	inquina
+96	inquinamento acustico	inquinamento
+96	inquinamento acustico	inquina
+97	inquinamento atmosferico	atmosferico
+97	inquinamento atmosferico	inquinamento
+97	inquinamento atmosferico	inquina
+98	inquinamento automobilistico	inquinamento
+98	inquinamento automobilistico	inquina
+99	inquinamento chimico	inquinamento
+99	inquinamento chimico	inquina
+100	inquinamento d'origine agricola	agricola
+100	inquinamento d'origine agricola	inquinamento
+100	inquinamento d'origine agricola	d'origine
+100	inquinamento d'origine agricola	inquina
+101	inquinamento d'origine tellurica	inquinamento
+101	inquinamento d'origine tellurica	d'origine
+101	inquinamento d'origine tellurica	inquina
+102	inquinamento da idrocarburi	inquinamento
+102	inquinamento da idrocarburi	inquina
+103	inquinamento da metalli	inquinamento
+103	inquinamento da metalli	metalli
+103	inquinamento da metalli	inquina
+104	inquinamento degli alimenti	inquinamento
+104	inquinamento degli alimenti	degli
+104	inquinamento degli alimenti	gli
+104	inquinamento degli alimenti	inquina
+105	inquinamento dei corsi d'acqua	acqua
+105	inquinamento dei corsi d'acqua	d'acqua
+105	inquinamento dei corsi d'acqua	dei
+105	inquinamento dei corsi d'acqua	inquinamento
+105	inquinamento dei corsi d'acqua	inquina
+106	inquinamento del suolo	suolo
+106	inquinamento del suolo	inquinamento
+106	inquinamento del suolo	inquina
+107	inquinamento delle coste	delle
+107	inquinamento delle coste	inquinamento
+107	inquinamento delle coste	inquina
+108	inquinamento idrico	idrico
+108	inquinamento idrico	inquinamento
+108	inquinamento idrico	inquina
+109	inquinamento industriale	inquinamento
+109	inquinamento industriale	industriale
+109	inquinamento industriale	inquina
+110	inquinamento locale	inquinamento
+110	inquinamento locale	inquina
+111	inquinamento marino	marino
+111	inquinamento marino	inquinamento
+111	inquinamento marino	inquina
+111	inquinamento marino	mari
+112	inquinamento organico	inquinamento
+112	inquinamento organico	inquina
+113	inquinamento prodotto dalle navi	inquinamento
+113	inquinamento prodotto dalle navi	prodotto
+113	inquinamento prodotto dalle navi	inquina
+114	inquinamento radioattivo	radioattivo
+114	inquinamento radioattivo	inquinamento
+114	inquinamento radioattivo	inquina
+115	inquinamento stratosferico	inquinamento
+115	inquinamento stratosferico	stratosferico
+115	inquinamento stratosferico	inquina
+116	inquinamento termico	inquinamento
+116	inquinamento termico	termico
+116	inquinamento termico	inquina
+117	inquinamento transfrontaliero	inquinamento
+117	inquinamento transfrontaliero	inquina
+118	inquinante stratosferico	inquinante
+118	inquinante stratosferico	stratosferico
+118	inquinante stratosferico	inquina
+119	insetto	environment
+120	intemperie	per
+121	ipersfruttamento delle risorse	delle
+121	ipersfruttamento delle risorse	risorse
+121	ipersfruttamento delle risorse	per
+121	ipersfruttamento delle risorse	sfruttamento
+122	isola	environment
+123	lago	environment
+124	lince	environment
+125	litorale	litorale
+126	livello sonoro	environment
+127	lotta agli insetti	lotta
+127	lotta agli insetti	gli
+128	lotta contro gli incendi	lotta
+128	lotta contro gli incendi	contro
+128	lotta contro gli incendi	gli
+128	lotta contro gli incendi	incendi
+129	lotta contro gli sprechi	lotta
+129	lotta contro gli sprechi	contro
+129	lotta contro gli sprechi	gli
+130	lotta contro l'inquinamento	inquinamento
+130	lotta contro l'inquinamento	lotta
+130	lotta contro l'inquinamento	contro
+130	lotta contro l'inquinamento	l'inquinamento
+130	lotta contro l'inquinamento	inquina
+131	lupo	environment
+132	mammifero marino	marino
+132	mammifero marino	mammifero
+132	mammifero marino	mari
+133	mammifero selvatico	mammifero
+134	Manica	environment
+135	Mar Adriatico	mar
+136	Mar Baltico	mar
+137	Mar Caspio	mar
+138	Mar di Norvegia	mar
+139	Mar Egeo	mar
+140	Mar Ionio	mar
+141	Mar Ligure	mar
+142	Mar Mediterraneo	mar
+143	Mar Nero	mar
+144	Mar Rosso	mar
+145	Mar Tirreno	mar
+146	mare	mare
+147	Mare d'Irlanda	mar
+147	Mare d'Irlanda	mare
+148	Mare del Nord	mar
+148	Mare del Nord	mare
+149	marsupiale	environment
+150	meccanismo di sviluppo pulito	environment
+151	montagna	environment
+152	nocività	environment
+153	norma ambientale	ambientale
+153	norma ambientale	norma
+154	norma biologica	norma
+155	oceano	oceano
+156	oceano Antartico	antartico
+156	oceano Antartico	oceano
+157	oceano Artico	artico
+157	oceano Artico	oceano
+158	oceano Atlantico	oceano
+159	oceano Indiano	oceano
+160	oceano Pacifico	oceano
+161	olio usato	usato
+162	orso	orso
+163	ozono	environment
+164	parco nazionale	parco
+164	parco nazionale	nazionale
+165	parco nazionale urbano	parco
+165	parco nazionale urbano	nazionale
+166	permesso di inquinamento negoziabile	inquinamento
+166	permesso di inquinamento negoziabile	inquina
+166	permesso di inquinamento negoziabile	per
+167	pianta nociva	environment
+168	pianura	environment
+169	piattaforma continentale	environment
+170	pioggia acida	environment
+171	politica ambientale	ambientale
+171	politica ambientale	politica
+172	politica ambientale dell'UE	ambientale
+172	politica ambientale dell'UE	politica
+172	politica ambientale dell'UE	dell'ue
+173	politica in materia di cambiamenti climatici	cambiamenti
+173	politica in materia di cambiamenti climatici	climatici
+173	politica in materia di cambiamenti climatici	clima
+173	politica in materia di cambiamenti climatici	politica
+174	polvere	environment
+175	prevenzione antisismica	prevenzione
+176	prevenzione dei rischi	dei
+176	prevenzione dei rischi	prevenzione
+176	prevenzione dei rischi	rischi
+177	prevenzione dell'inquinamento	dell'inquinamento
+177	prevenzione dell'inquinamento	inquinamento
+177	prevenzione dell'inquinamento	l'inquinamento
+177	prevenzione dell'inquinamento	prevenzione
+177	prevenzione dell'inquinamento	inquina
+178	principio chi inquina paga	inquina
+179	prodotto infiammabile	prodotto
+180	protezione dai rumori	protezione
+181	protezione degli animali	degli
+181	protezione degli animali	gli
+181	protezione degli animali	protezione
+181	protezione degli animali	animali
+182	protezione del litorale	litorale
+182	protezione del litorale	protezione
+183	protezione del paesaggio	protezione
+184	protezione dell'ambiente	ambiente
+184	protezione dell'ambiente	dell'ambiente
+184	protezione dell'ambiente	protezione
+184	protezione dell'ambiente	l'ambiente
+185	protezione della fauna	fauna
+185	protezione della fauna	protezione
+186	protezione della flora	flora
+186	protezione della flora	protezione
+187	protezione delle acque	acque
+187	protezione delle acque	delle
+187	protezione delle acque	protezione
+188	qualità dell'ambiente	ambiente
+188	qualità dell'ambiente	dell'ambiente
+188	qualità dell'ambiente	l'ambiente
+189	quota di emissione	quota
+189	quota di emissione	emissione
+190	quota di emissione dell'UE	dell'ue
+190	quota di emissione dell'UE	quota
+190	quota di emissione dell'UE	emissione
+191	radiazione non ionizzante	non
+192	regione polare	environment
+193	regolamentazione della caccia	environment
+194	residuo di antiparassitario	environment
+195	responsabilità per i danni ambientali	per
+196	rettile	environment
+197	ricerca sull'ambiente	ambiente
+197	ricerca sull'ambiente	l'ambiente
+198	riciclaggio dei rifiuti	dei
+198	riciclaggio dei rifiuti	rifiuti
+199	riduzione delle emissioni gassose	delle
+199	riduzione delle emissioni gassose	gas
+200	rifiuti	rifiuti
+201	rifiuti chimici	rifiuti
+202	rifiuti domestici	rifiuti
+203	rifiuti elettronici	rifiuti
+204	rifiuti industriali	rifiuti
+205	rifiuti irrecuperabili	rifiuti
+205	rifiuti irrecuperabili	per
+206	rifiuti metallici	rifiuti
+206	rifiuti metallici	metalli
+207	rifiuti ospedalieri	rifiuti
+208	rifiuti pericolosi	rifiuti
+208	rifiuti pericolosi	per
+209	rifiuto agricolo	environment
+210	risanamento	environment
+211	riscaldamento globale	environment
+212	rischio industriale	industriale
+212	rischio industriale	rischi
+212	rischio industriale	rischio
+213	rischio naturale	naturale
+213	rischio naturale	rischi
+213	rischio naturale	rischio
+214	riserva naturale	naturale
+215	risorse animali	risorse
+215	risorse animali	animali
+216	risorse del mare	risorse
+216	risorse del mare	mare
+217	risorse energetiche	risorse
+218	risorse idriche	risorse
+219	risorse minerali	risorse
+220	risorse minerarie sottomarine	risorse
+220	risorse minerarie sottomarine	mari
+221	risorse naturali	risorse
+222	risorse rinnovabili	risorse
+223	risorse vegetali	risorse
+224	roditore	environment
+225	rumore	environment
+226	salvaguardia delle risorse	delle
+226	salvaguardia delle risorse	risorse
+227	scambio di quote di emissione	emissione
+227	scambio di quote di emissione	scambio
+227	scambio di quote di emissione	quote
+228	scarico termico	scarico
+228	scarico termico	termico
+229	scimmia	environment
+230	scorie radioattive	scorie
+231	sfruttamento dei fondali marini	dei
+231	sfruttamento dei fondali marini	sfruttamento
+231	sfruttamento dei fondali marini	mari
+232	sfruttamento dei mari	dei
+232	sfruttamento dei mari	sfruttamento
+232	sfruttamento dei mari	mari
+233	sfruttamento delle risorse	delle
+233	sfruttamento delle risorse	risorse
+233	sfruttamento delle risorse	sfruttamento
+234	siccità	environment
+235	sisma	environment
+236	sistema UE di scambio delle quote di emissione	delle
+236	sistema UE di scambio delle quote di emissione	emissione
+236	sistema UE di scambio delle quote di emissione	scambio
+236	sistema UE di scambio delle quote di emissione	quote
+236	sistema UE di scambio delle quote di emissione	sistema
+237	sorveglianza dell'ambiente	ambiente
+237	sorveglianza dell'ambiente	dell'ambiente
+237	sorveglianza dell'ambiente	gli
+237	sorveglianza dell'ambiente	l'ambiente
+238	sostanza cancerogena	sostanza
+239	sostanza pericolosa	per
+239	sostanza pericolosa	sostanza
+240	sostanza tossica	sostanza
+241	sostituzione delle risorse	delle
+241	sostituzione delle risorse	risorse
+242	specie marina	mari
+242	specie marina	specie
+243	specie protetta	specie
+243	specie protetta	protetta
+244	statistica ambientale	ambientale
+245	stoccaggio sotterraneo delle scorie	delle
+245	stoccaggio sotterraneo delle scorie	scorie
+246	strumento economico per l'ambiente	ambiente
+246	strumento economico per l'ambiente	per
+246	strumento economico per l'ambiente	l'ambiente
+247	tasso di inquinamento	inquinamento
+247	tasso di inquinamento	inquina
+248	trattamento dell'acqua	acqua
+248	trattamento dell'acqua	dell'acqua
+249	uccello	environment
+250	utilizzazione dell'acqua	acqua
+250	utilizzazione dell'acqua	dell'acqua
+251	valutazione delle risorse	delle
+251	valutazione delle risorse	risorse
+252	veicolo non inquinante	inquinante
+252	veicolo non inquinante	inquina
+252	veicolo non inquinante	non
+253	vibrazione meccanica	environment
+254	vita selvatica	environment
+255	zona arida	zona
+256	zona climatica	clima
+256	zona climatica	zona
+257	zona equatoriale	zona
+258	zona fredda	zona
+259	zona inquinata	inquina
+259	zona inquinata	zona
+260	zona protetta	protetta
+260	zona protetta	zona
+261	zona sensibile	zona
+262	zona sinistrata	zona
+263	zona subtropicale	zona
+263	zona subtropicale	tropicale
+264	zona temperata	per
+264	zona temperata	zona
+265	zona tropicale	zona
+265	zona tropicale	tropicale
+266	zona umida	zona

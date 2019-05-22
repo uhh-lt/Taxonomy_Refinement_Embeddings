@@ -1,0 +1,452 @@
+0	abnormale psychologie	psychologie
+1	akoestische wetenschap	wetenschap
+2	aerologie	science
+3	luchtvaartmechanica	mechanica
+4	luchtvaartkunde	science
+5	agrobiologie	biologie
+6	agrologie	science
+7	landbouwkunde	bouwkunde
+8	algebra	algebra
+9	vervreemding	science
+10	allergologie	science
+11	analyse	analyse
+12	analytische meetkunde	meetkunde
+13	anatomie	anatomie
+14	anesthesiologie	science
+15	angiologie	science
+16	antropologie	antropologie
+17	toegepaste wiskunde	wiskunde
+17	toegepaste wiskunde	toegepaste
+18	toegepaste psychologie	psychologie
+18	toegepaste psychologie	toegepaste
+19	archeologie	archeologie
+20	bouwkunde	bouwkunde
+21	aritmetica	science
+22	assyriologie	science
+23	astrodynamica	dynamica
+24	astrometrie	science
+25	astronomie	astronomie
+26	astrofysica	fysica
+27	audiologie	science
+28	vliegtuigelektronica	elektronica
+29	bacteriologie	science
+30	behaviorisme	science
+31	biochemie	chemie
+32	bioklimatologie	klimatologie
+33	biogeografie	geografie
+34	biologie	biologie
+35	biomedische wetenschap	wetenschap
+35	biomedische wetenschap	medische
+36	biogeneeskunde	geneeskunde
+37	biometrie	science
+38	biofysica	fysica
+38	biofysica	biofysica
+39	biosystematiek	systematiek
+40	biotechnologie	science
+41	botanie	botanie
+42	breinwetenschap	wetenschap
+43	berekening	science
+44	cardiologie	science
+45	katoptrica	science
+46	hemelmechanica	mechanica
+47	chemie	chemie
+48	maatschappijleer	leer
+49	klassieke mechanica	mechanica
+50	klimatologie	klimatologie
+51	klinische anatomie	anatomie
+51	klinische anatomie	klinische
+52	klinische psychologie	psychologie
+52	klinische psychologie	klinische
+53	cognitieve neurowetenschap	wetenschap
+53	cognitieve neurowetenschap	cognitieve
+53	cognitieve neurowetenschap	neurowetenschap
+53	cognitieve neurowetenschap	cognitie
+54	cognitieve psychologie	psychologie
+54	cognitieve psychologie	cognitieve
+54	cognitieve psychologie	cognitie
+55	cognitieve wetenschap	wetenschap
+55	cognitieve wetenschap	cognitieve
+56	vergelijkende anatomie	anatomie
+56	vergelijkende anatomie	vergelijkende
+57	vergelijkende psychologie	psychologie
+57	vergelijkende psychologie	vergelijkende
+58	morfologie van samenstellingen	morfologie
+59	computationele linguïstiek	linguïstiek
+59	computationele linguïstiek	computationele
+60	correlatie	correlatie
+61	cosmetische tandheelkunde	tandheelkunde
+61	cosmetische tandheelkunde	tand
+61	cosmetische tandheelkunde	heelkunde
+62	kosmografie	science
+63	kosmologie	kosmologie
+64	craniologie	science
+65	craniometrie	science
+66	criminologie	science
+67	cryobiologie	biologie
+68	cryogenica	science
+69	cryonisme	science
+70	cryptoanalyse	analyse
+71	kristallografie	science
+72	kromlijnig verband	science
+73	cybernetica	science
+74	cytogenetica	genetica
+75	cytologie	science
+76	deixis	science
+77	demografie	science
+78	anatomie van de tand	anatomie
+78	anatomie van de tand	tand
+79	tandoperatie	tand
+80	tandheelkunde	tandheelkunde
+80	tandheelkunde	tand
+80	tandheelkunde	heelkunde
+81	morfologie van afgeleiden	morfologie
+82	studie van de dermatoglyfen	studie
+82	studie van de dermatoglyfen	der
+83	descriptieve grammatica	grammatica
+84	beschrijvende taalkunde	taalkunde
+85	ontwikkelingsanatomie	anatomie
+86	ontwikkelingspsychologie	ontwikkeling
+86	ontwikkelingspsychologie	psychologie
+87	dialectgeografie	geografie
+88	voedingsleer	leer
+89	differentiaalrekening	science
+90	dynamica	dynamica
+91	dysgenetica	genetica
+92	aardwetenschap	wetenschap
+93	ecologie	ecologie
+94	econometrie	science
+95	economische geografie	geografie
+95	economische geografie	economische
+96	economische geologie	economische
+96	economische geologie	geologie
+97	economische wetenschappen	wetenschap
+97	economische wetenschappen	economische
+97	economische wetenschappen	wetenschappen
+98	egyptologie	science
+99	elektrochemie	chemie
+100	elektromagnetisme	magnetisme
+101	elektronenoptiek	science
+102	elektronica	elektronica
+103	elektrostatica	statica
+104	elementaire meetkunde	meetkunde
+105	embryologie	science
+106	urgentiegeneeskunde	geneeskunde
+107	endocrinologie	science
+108	endodontologie	science
+109	entomologie	science
+110	enzymologie	science
+111	epidemiologie	epidemiologie
+112	etnografie	etnografie
+113	etnologie	science
+114	ethologie	science
+115	etymologie	science
+116	eugenetica	genetica
+117	leer van verbetering van ras	leer
+118	exobiologie	biologie
+119	extractie	science
+120	experimentele psychologie	psychologie
+121	femtochemie	chemie
+122	foetologie	science
+123	financiën	science
+124	vloeistofmechanica	mechanica
+125	forensische geneeskunde	geneeskunde
+126	bosbouw	science
+127	formele semantiek	semantiek
+128	Fourieranalyse	analyse
+129	fractale geometrie	geometrie
+130	functionele anatomie	anatomie
+131	garbologie	science
+132	gastro-enterologie	science
+133	gentechnologie	science
+134	genetica	genetica
+135	genomica	genomica
+136	geochemie	chemie
+136	geochemie	geochemie
+137	geodesie	science
+138	geografie	geografie
+139	geologie	geologie
+140	geometrie	geometrie
+141	geofysica	fysica
+142	geopolitiek	politiek
+143	geriatrie	science
+144	grammatica	grammatica
+145	macroscopische anatomie	anatomie
+146	groepentheorie	science
+147	gynaecologie	ecologie
+148	trillingleer	leer
+149	hematologie	science
+150	hemodynamica	dynamica
+151	herpetologie	science
+152	historische taalkunde	taalkunde
+152	historische taalkunde	historische
+153	huishoudkunde	science
+154	hydrodynamica	dynamica
+154	hydrodynamica	hydrodynamica
+155	hydrologie	science
+156	hydrostatica	statica
+157	hygiëne	science
+158	hyperbolische meetkunde	meetkunde
+159	hoogtemeting	science
+160	ichtyologie	science
+161	immunochemie	chemie
+162	immunologie	immunologie
+163	immunopathologie	pathologie
+164	verbuigingsmorfologie	morfologie
+165	informatiewetenschap	wetenschap
+166	anorganische chemie	chemie
+166	anorganische chemie	organische
+167	integraalrekening	science
+168	interne geneeskunde	geneeskunde
+169	Jungiaanse psychologie	psychologie
+170	kinematica	science
+171	kinesiologie	science
+172	lepidopterologie	science
+173	lexicale semantiek	semantiek
+174	levenswetenschap	wetenschap
+175	limnologie	science
+176	lineaire algebra	algebra
+176	lineaire algebra	lineaire
+177	lineaire programmering	lineaire
+178	linguïstiek	linguïstiek
+179	macrobiotiek	rob
+180	magnetisme	magnetisme
+181	malacologie	science
+182	mammalogie	mammalogie
+183	maritieme archeologie	archeologie
+184	wiskunde	wiskunde
+185	matrixrekenen	science
+186	mechanica	mechanica
+187	medische wetenschap	wetenschap
+187	medische wetenschap	medische
+188	geneeskunde	geneeskunde
+189	geheugen	science
+190	metallurgie	metallurgie
+191	metawiskunde	wiskunde
+192	meteorologie	orologie
+193	metrologie	science
+194	microbiologie	biologie
+194	microbiologie	microbiologie
+195	micro-economie	economie
+196	microscopische anatomie	anatomie
+197	mineralogie	science
+198	molucelaire biologie	biologie
+198	molucelaire biologie	molucelaire
+199	molucelaire genetica	genetica
+199	molucelaire genetica	molucelaire
+200	morfologie	morfologie
+201	mycologie	science
+202	myologie	science
+203	natuurlijke historie	historie
+204	natuurwetenschap	wetenschap
+205	negatieve correlatie	correlatie
+206	neonatologie	science
+207	nefrologie	science
+208	neuroanatomie	anatomie
+209	neurobiologie	biologie
+210	neurolinguïstiek	linguïstiek
+211	neurologie	urologie
+212	neurofysiologie	fysiologie
+213	neuropsychiatrie	psychiatrie
+214	neurowetenschap	wetenschap
+214	neurowetenschap	neurowetenschap
+215	niet-euclidische meetkunde	meetkunde
+216	niet-parametrische statistiek	statistiek
+217	nosologie	science
+218	nucleaire geneeskunde	geneeskunde
+219	kernfysica	fysica
+220	numerieke analyse	analyse
+221	obstetrie	science
+222	oceanografie	ocean
+223	oncologie	science
+224	oölogie	oölogie
+225	oftalmologie	science
+226	optica	optica
+227	organische chemie	chemie
+227	organische chemie	organische
+228	orologie	orologie
+229	orthodontie	science
+230	orthoëpie	science
+231	orthopedie	science
+232	otologie	science
+233	paleoantropologie	antropologie
+234	paleobiologie	biologie
+235	paleobotanie	botanie
+236	paleoklimatologie	klimatologie
+237	paleodendrologie	science
+238	paleoecologie	ecologie
+239	paleo-etnografie	etnografie
+240	paleogeografie	geografie
+241	paleogeologie	geologie
+242	paleografie	science
+243	paleologie	science
+244	paleomammalogie	mammalogie
+245	paleontologie	paleontologie
+246	paleopathologie	pathologie
+247	paleornithologie	ornithologie
+248	paleozoölogie	oölogie
+248	paleozoölogie	zoölogie
+249	partiële correlatie	correlatie
+250	deeltjesfysica	fysica
+251	pathologie	pathologie
+252	pediatrie	science
+253	penologie	science
+254	perinatologie	science
+255	parodontologie	science
+256	petroleum geologie	geologie
+257	petrologie	science
+258	farmacogenetica	genetica
+259	farmacokinetiek	science
+260	farmacologie	farmacologie
+261	farmacie	science
+262	fonologie	science
+263	fotochemie	chemie
+264	frenologie	science
+265	fysische antropologie	antropologie
+265	fysische antropologie	fysische
+266	fysische chemie	chemie
+266	fysische chemie	fysische
+267	fysische geografie	geografie
+267	fysische geografie	fysische
+268	fysica	fysica
+269	fysiologische psychologie	psychologie
+270	fysiologie	fysiologie
+271	fytochemie	chemie
+272	planimetrie	science
+273	plasmafysica	fysica
+274	pneumatiek	science
+275	podologie	science
+276	politiek	politiek
+277	pomologie	science
+278	positieve correlatie	correlatie
+279	pragmatiek	science
+280	prescriptieve grammatica	grammatica
+281	probleemoplossing	science
+282	proctologie	science
+283	projectieve meetkunde	meetkunde
+284	prothesiologie	science
+285	prothetiek	science
+286	proteomica	science
+287	protohistorische archeologie	archeologie
+287	protohistorische archeologie	historische
+288	protohistorie	historie
+289	protozoölogie	oölogie
+289	protozoölogie	zoölogie
+290	proxemics	science
+291	bestudering van het kiezersgedrag	der
+292	psychiatrie	psychiatrie
+293	psychodynamica	dynamica
+294	psychologie	psychologie
+295	psychometrie	science
+296	psychofarmacologie	farmacologie
+297	psychofysica	fysica
+298	psychotherapie	therapie
+299	pteridologie	science
+300	zuivere wiskunde	wiskunde
+301	kwadraten	science
+302	kwantumelektrodynamica	dynamica
+303	kwantumveldentheorie	science
+304	kwantummechanica	mechanica
+305	kwantumfysica	fysica
+306	radioastronomie	astronomie
+307	radiobiologie	biologie
+308	radiochemie	chemie
+309	radiologie	science
+310	Realpolitik	science
+311	regionale anatomie	anatomie
+312	reologie	science
+313	reumatologie	science
+314	rinolaryngologie	science
+315	ritualisme	science
+316	wetenschap	wetenschap
+317	seismologie	science
+318	semantiek	semantiek
+319	serologie	science
+320	verzamelingenleer	leer
+321	bosbouw	science
+322	sociale antropologie	antropologie
+322	sociale antropologie	sociale
+323	sociale psychologie	sociale
+323	sociale psychologie	psychologie
+324	sociale wetenschappen	wetenschap
+324	sociale wetenschappen	sociale
+324	sociale wetenschappen	wetenschappen
+325	sociobiologie	biologie
+326	sociolinguïstiek	linguïstiek
+327	sociologie	sociologie
+328	zonnefysica	fysica
+329	ruimtemeetkunde	meetkunde
+330	vastestoffysica	fysica
+331	ruimtevaartgeneeskunde	geneeskunde
+332	speleologie	science
+333	sferische meetkunde	meetkunde
+334	sportgeneeskunde	geneeskunde
+335	onechte correlatie	correlatie
+336	statica	statica
+337	statistische mechanica	mechanica
+338	statistiek	statistiek
+339	strategische wetenschap	wetenschap
+340	stratigrafie	science
+341	structurele genomica	genomica
+342	structuralisme	science
+343	studie van de sumerische cultuur	studie
+344	aanbodgerichte economie	economie
+345	chirurgie	science
+346	synchrone taalkunde	taalkunde
+347	syntax	science
+348	systematiek	systematiek
+349	taxonomie	science
+350	teratologie	science
+351	thanatologie	science
+352	therapie	therapie
+353	studie van thermionische emissies	studie
+354	thermochemie	chemie
+355	thermodynamica	dynamica
+356	thoracale heelkunde	heelkunde
+357	topografie	science
+358	topologie	science
+359	toxicologie	science
+360	traumatologie	science
+361	driehoeksmeting	driehoeksmeting
+362	driehoeksmeetkunde	meetkunde
+363	tropische geneeskunde	geneeskunde
+364	urologie	urologie
+365	vectorrekenen	science
+366	paleontologie der gewervelden	paleontologie
+366	paleontologie der gewervelden	der
+367	diergeneeskunde	geneeskunde
+368	virologie	science
+369	zoölogie	oölogie
+369	zoölogie	zoölogie
+370	holografie	science
+371	psycholinguïstiek	linguïstiek
+372	hydrografie	science
+373	vulkanologie	science
+374	conchologie	science
+375	osteologie	science
+376	reflexologie	science
+377	poedermetallurgie	metallurgie
+377	poedermetallurgie	der
+378	fycologie	science
+379	lexicostatistiek	statistiek
+380	macro-economie	economie
+381	kwantumchromodynamica	dynamica
+382	galoistheorie	science
+383	fonetiek	science
+384	voedingsleer	leer
+385	generatieve grammatica	grammatica
+386	geostrategie	science
+387	boldriehoeksmeting	driehoeksmeting
+388	kansrekening	science
+389	epigrafie	science
+390	bioremediatie	science
+391	primatologie	science
+392	mythologie	science
+393	ornithologie	ornithologie
+394	differentiële psychologie	psychologie
+395	sociometrie	science
+396	automatisch vertalen	science
+397	histologie	science
+398	dermatologie	der
+399	magnetohydrodynamica	dynamica
+399	magnetohydrodynamica	hydrodynamica
+400	micro-elektronica	elektronica

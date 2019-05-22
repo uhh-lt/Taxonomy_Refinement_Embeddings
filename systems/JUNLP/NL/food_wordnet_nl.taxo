@@ -1,0 +1,1868 @@
+0	absint	food
+1	acidofiele melk	melk
+2	adobo	food
+3	agar	agar
+4	alioli	food
+5	alcohol	alcohol
+6	ale	ale
+7	luzerne	food
+8	Duitse saus	saus
+9	piment	food
+10	amandelextract	amandel
+11	lettersoep	soep
+12	miswijn	wijn
+13	amaretto	food
+14	ambrosia	food
+15	amontillado	food
+16	anadamabrood	brood
+17	ansjovisdressing	ansjovis
+17	ansjovisdressing	dressing
+17	ansjovisdressing	vis
+18	ansjovispasta	ansjovis
+18	ansjovispasta	vis
+18	ansjovispasta	vispasta
+18	ansjovispasta	pasta
+19	pizza met ansjovis	pizza
+19	pizza met ansjovis	ansjovis
+19	pizza met ansjovis	vis
+20	ansjovissaus	saus
+20	ansjovissaus	ansjovis
+20	ansjovissaus	vis
+21	engelwortel	wort
+22	anijs	ijs
+23	anisette	food
+24	antipasto	food
+25	aperitief	food
+26	borrelhapje	hap
+26	borrelhapje	hapje
+26	borrelhapje	borrel
+27	appelstroop	appel
+27	appelstroop	stro
+28	appeltaart	appel
+29	appelgelei	appel
+29	appelgelei	gelei
+30	appelsap	appelsap
+30	appelsap	appel
+30	appelsap	sap
+31	appelflap	appel
+31	appelflap	flap
+32	applejack	food
+33	appelmoes	appel
+34	aqua vitae	aqua
+35	aquavit	aqua
+36	armagnac	food
+37	arak	food
+38	arroz con pollo	con
+39	ashcake	cake
+40	aspartaam	food
+41	aspic	food
+42	vitamine-B-complex	vitamine
+43	bagel	bagel
+44	stokbrood	brood
+45	omelette sibérienne	omelet
+46	gepofte aardappel	aardappel
+46	gepofte aardappel	appel
+47	bakpoederkoekje	koekje
+48	evenwichtig dieet	dieet
+49	bananenbrood	brood
+50	banana split	split
+51	bannock	food
+52	banket	food
+53	kadetje	food
+54	barbecue	barbecue
+55	barbecuesaus	saus
+55	barbecuesaus	barbecuesaus
+55	barbecuesaus	barbecue
+56	ribbetjes op de barbecue	barbecue
+57	gerst	gerst
+58	zuurstok	zuur
+59	gerstwater	gerst
+59	gerstwater	water
+60	barmbrack	barm
+61	basilicum	food
+62	bathtub gin	gin
+63	deeg	deeg
+64	Beierse blauwschimmelkaas	melk
+64	Beierse blauwschimmelkaas	kaas
+64	Beierse blauwschimmelkaas	schimmel
+65	bavarois	food
+66	daun salam	salam
+67	tahoe	food
+68	bonendip	bonen
+68	bonendip	dip
+69	bonen op toast	bonen
+69	bonen op toast	toast
+70	bear claw	bear
+71	bearnaisesaus	saus
+71	bearnaisesaus	bear
+72	beaujolais	food
+73	boeuf bourguignon	boeuf
+73	boeuf bourguignon	bourguignon
+74	runderbouillon	bouillon
+75	goulash	food
+76	runderstoofpotje	stoofpotje
+76	runderstoofpotje	pot
+76	runderstoofpotje	stoofpot
+77	boeuf stroganoff	boeuf
+77	boeuf stroganoff	stro
+78	beef wellington	beef
+78	beef wellington	ton
+79	bier	bier
+80	bietsuiker	suiker
+81	bénédictine	food
+82	bercysaus	saus
+83	drankje	drank
+83	drankje	drankje
+84	bialy	food
+85	bigos	food
+86	biotine	food
+87	berkenbier	bier
+88	vogelvoer	voer
+89	biryani	food
+90	koekje	koekje
+91	glühwein	wei
+92	bisque	food
+93	hap	hap
+94	bitok	food
+95	bitter	bitter
+96	bitter lemon	bitter
+96	bitter lemon	lemon
+97	bitters	bitter
+98	roggebrood	brood
+98	roggebrood	rogge
+98	roggebrood	roggebrood
+99	zwarte olijf	zwarte
+99	zwarte olijf	olijf
+100	zwarte peper	zwarte
+100	zwarte peper	peper
+101	zwarte thee	zwarte
+101	zwarte thee	thee
+102	blanke botersaus	saus
+102	blanke botersaus	boter
+103	blanc-manger	blanc
+104	neutraal dieet	dieet
+105	blended whiskey	whiskey
+106	bleu	bleu
+107	dressing met blauwe kaas	dressing
+107	dressing met blauwe kaas	kaas
+108	bloedagar	agar
+109	bloedmeel	food
+110	bloody mary	bloody
+110	bloody mary	mary
+111	dressing met blauwe kaas	dressing
+111	dressing met blauwe kaas	kaas
+112	yoghurt van bosbessen	yoghurt
+113	blush wine	wine
+114	plank	food
+115	bokbier	bier
+116	New England boiled dinner	new
+116	New England boiled dinner	england
+117	gekookt ei	gekookt
+118	duikboot	food
+119	bonbon	bonbon
+120	bernagie	food
+121	bordeaux	bord
+122	bordelaise	bord
+123	borsjtsj	food
+124	boston baked beans	bean
+124	boston baked beans	ton
+125	gebotteld water	water
+126	bouillabaisse	food
+127	bouillon	bouillon
+128	bouillonblokje	bouillon
+129	bourbon whisky	food
+130	bourguignon	bourguignon
+131	zemelen	zemelen
+132	zemelenmuffin	zemelen
+132	zemelenmuffin	muffin
+133	beekwater	water
+134	brandewijn	wijn
+135	brandyball	brandy
+136	brood	brood
+137	brooddeeg	deeg
+137	brooddeeg	brood
+138	bread sauce	bread
+138	bread sauce	sauce
+139	soepstengel	soep
+140	brood	brood
+141	ontbijt	ontbijt
+142	brouwsel	food
+143	brick cheese	cheese
+144	brie	food
+145	brioche	brioche
+146	brittle	brittle
+147	tuinboon	food
+148	bouillon	bouillon
+149	brown betty	brown
+150	bruin brood	brood
+150	bruin brood	bruin
+151	beurre noisette	beurre
+152	bruine rijst	bruin
+152	bruine rijst	bruine
+152	bruine rijst	rijst
+152	bruine rijst	ijs
+153	bruine saus	saus
+153	bruine saus	bruin
+153	bruine saus	bruine
+154	bruine suiker	bruin
+154	bruine suiker	bruine
+154	bruine suiker	suiker
+155	browniemix	brown
+155	browniemix	mix
+156	brunch	food
+157	brunswick stoofpotje	stoofpotje
+157	brunswick stoofpotje	pot
+157	brunswick stoofpotje	stoofpot
+158	kauwgom	kauwgom
+159	boekweit	wei
+160	kippevleugel	kip
+161	buffer	food
+162	bulgur	bulgur
+163	bulgur pilav	bulgur
+163	bulgur pilav	pilav
+164	bullshot	hot
+165	gebakje	food
+166	burgoo	goo
+167	bourgogne	food
+168	burrito	food
+169	hicannoot	food
+170	zakenlunch	lunch
+171	boter	boter
+172	karnemelk	melk
+172	karnemelk	mel
+172	karnemelk	karnemelk
+173	karnemelkkoekje	melk
+173	karnemelkkoekje	koekje
+173	karnemelkkoekje	karnemelk
+174	boterbabbelaar	boter
+175	boterham	boter
+175	boterham	ham
+176	c-rantsoen	rantsoen
+177	cabernet	food
+178	cachoudrop	drop
+179	caesarsalade	salade
+180	koffie verkeerd	koffie
+181	zwarte koffie	zwarte
+181	zwarte koffie	koffie
+182	cafe royale	ale
+182	cafe royale	cafe
+182	cafe royale	roy
+183	caffè latte	food
+184	cakemix	mix
+184	cakemix	cake
+185	p'tcha	food
+186	Californische wijn	wijn
+187	calvados	food
+188	cambric tea	tea
+189	camembert	food
+190	kamillethee	thee
+191	canapé	food
+192	kanariezaad	food
+193	Canarische wijn	wijn
+194	gekonfijte appel	gekonfijte
+194	gekonfijte appel	appel
+194	gekonfijte appel	gekonfijt
+195	gekonfijte schillen van citrusvruchten	gekonfijte
+195	gekonfijte schillen van citrusvruchten	gekonfijt
+196	gekonfijt fruit	gekonfijt
+196	gekonfijt fruit	fruit
+197	snoep	snoep
+198	reep	reep
+199	zuurstok	zuur
+200	candy corn	corn
+201	suikereitje	suiker
+202	rietsuiker	suiker
+203	conserven	con
+204	vlees in blik	vlees
+204	vlees in blik	blik
+205	cannelloni	food
+206	kappertje	kappertje
+207	kappertjessaus	saus
+207	kappertjessaus	kappertje
+208	cappuccino	food
+209	karamel	food
+210	karwij	karwij
+211	karwijzaad	karwij
+212	koolhydraten opslaan	kool
+213	carbonara	food
+214	kardemom	food
+215	johannesbrood	brood
+216	wortelsap	sap
+216	wortelsap	wort
+217	wortelpudding	pudding
+217	wortelpudding	wort
+218	cassareep	reep
+219	ovenschotel	hot
+220	griessuiker	suiker
+220	griessuiker	gries
+221	kattenvoer	voer
+222	ketchup	ketchup
+223	veekoek	food
+224	cayennepeper	peper
+225	selderijzout	selderij
+225	selderijzout	zout
+226	selderijzaad	selderij
+227	selderij	sel
+227	selderij	selderij
+228	gecontroleerde melk	melk
+228	gecontroleerde melk	con
+229	chablis	food
+230	challe	food
+231	champagne	champagne
+231	champagne	ham
+232	champagnecoupe	champagne
+232	champagnecoupe	ham
+233	chapatti	hap
+234	chardonnay	hard
+235	charlotte	food
+236	charlotte	food
+237	chartreuse	food
+238	cheddar	food
+239	kaas	kaas
+240	kaasdip	kaas
+240	kaasdip	dip
+241	kaasfondue	kaas
+241	kaasfondue	fondue
+242	kaaspizza	pizza
+242	kaaspizza	kaas
+243	kaassaus	saus
+243	kaassaus	kaas
+244	smeerkaas	kaas
+244	smeerkaas	mee
+245	cheeseburger	cheese
+246	salade van de chef	salade
+247	chenin blanc	blanc
+248	kervel	kervel
+249	cheshire	food
+250	kauwgom	kauwgom
+251	chianti	food
+252	kippenbouillon	bouillon
+252	kippenbouillon	kip
+253	kip cacciatore	kip
+254	stoofpotje van kip	stoofpotje
+254	stoofpotje van kip	kip
+254	stoofpotje van kip	pot
+254	stoofpotje van kip	stoofpot
+255	cordon bleu van kip	bleu
+255	cordon bleu van kip	kip
+255	cordon bleu van kip	cordon
+256	kippenvoer	kip
+256	kippenvoer	voer
+257	kip kiev	kip
+258	kip marengo	kip
+259	kip met paprika	kip
+259	kip met paprika	paprika
+259	kip met paprika	pap
+260	kipsalade	salade
+260	kipsalade	kip
+261	sandwich met kip	kip
+261	sandwich met kip	sandwich
+262	kippensoep	soep
+262	kippensoep	kip
+263	stoofpotje van kip	stoofpotje
+263	stoofpotje van kip	kip
+263	stoofpotje van kip	pot
+263	stoofpotje van kip	stoofpot
+264	taco met kip	kip
+264	taco met kip	taco
+265	kip tetrazzini	kip
+265	kip tetrazzini	tetrazzini
+266	witloof	wit
+267	chili	chili
+268	chili dog	chili
+268	chili dog	dog
+269	chilipoeder	chili
+270	chilisaus	saus
+270	chilisaus	chili
+271	chiliazijn	chili
+271	chiliazijn	azijn
+272	sareptamosterd	most
+272	sareptamosterd	mosterd
+273	frietje	frietje
+274	bieslook	look
+275	choc ice	choc
+275	choc ice	ice
+276	chocolade-ei	choc
+276	chocolade-ei	cola
+277	chocoladefondue	choc
+277	chocoladefondue	cola
+277	chocoladefondue	fondue
+278	chocoladebonbon	bonbon
+278	chocoladebonbon	choc
+278	chocoladebonbon	cola
+279	chocolade-ijs	choc
+279	chocolade-ijs	cola
+279	chocolade-ijs	ijs
+280	chocoladepraline	choc
+280	chocoladepraline	cola
+280	chocoladepraline	praline
+281	chocolademelk	melk
+281	chocolademelk	choc
+281	chocolademelk	cola
+282	chocolademousse	choc
+282	chocolademousse	cola
+282	chocolademousse	mousse
+283	chocoladepudding	choc
+283	chocoladepudding	cola
+283	chocoladepudding	pudding
+284	chocoladesaus	saus
+284	chocoladesaus	choc
+284	chocoladesaus	cola
+285	hapje	hap
+285	hapje	hapje
+286	choline	food
+287	tjaptjoi	food
+288	chow mein	chow
+289	chowchow	chow
+290	zeevruchtensoep	soep
+291	chutney	food
+292	chymus	food
+293	cider	cider
+294	ciderazijn	cider
+294	ciderazijn	azijn
+295	kaneel	kaneel
+296	kaneelbrood	brood
+296	kaneelbrood	kaneel
+296	kaneelbrood	kaneelbrood
+297	kaneelbroodje	brood
+297	kaneelbroodje	kaneel
+297	kaneelbroodje	broodje
+297	kaneelbroodje	kaneelbrood
+298	toast met kaneel	toast
+298	toast met kaneel	kaneel
+299	clabber	food
+300	clam chowder	chow
+300	clam chowder	clam
+300	clam chowder	chowder
+301	mosseldip	dip
+302	clambake	clam
+303	claret	food
+304	wijnglas voor rode wijn	wijn
+304	wijnglas voor rode wijn	rode
+305	boterolie	boter
+306	scharlei	food
+307	heldere vloeistof dieet	dieet
+308	clotted cream	cream
+309	kruidnagel	kruid
+310	club sandwich	sandwich
+311	cobbler	food
+312	coca-cola	cola
+313	cocktail	cocktail
+314	cocktailsaus	saus
+314	cocktailsaus	cocktail
+315	cacao	cacao
+316	kokosnootmelk	melk
+317	kabeljauwbal	food
+318	koffie	koffie
+319	koffiepauze	koffie
+320	koffielikeur	koffie
+320	koffielikeur	likeur
+321	koffiesurrogaat	koffie
+322	cognac	food
+323	cola	cola
+324	colbert	food
+325	cold duck	old
+326	koolsla	kool
+327	collins	food
+328	kleuring	food
+329	biest	food
+330	eetbaar	food
+331	gekonfijt	gekonfijt
+332	troostvoedsel	voedsel
+333	smeerwortel	wort
+334	voedselvoorziening	voedsel
+335	compote	pot
+336	concentraat	con
+336	concentraat	concentraat
+337	brouwsel	food
+338	gecondenseerde melk	melk
+338	gecondenseerde melk	mel
+338	gecondenseerde melk	con
+339	specerij	food
+340	snoepgoed	snoep
+340	snoepgoed	snoepgoed
+341	confituur	con
+341	confituur	confituur
+342	rijstpap	rijst
+342	rijstpap	pap
+342	rijstpap	ijs
+343	congou	con
+344	conserven	con
+345	consommé	con
+346	continentaal ontbijt	con
+346	continentaal ontbijt	ontbijt
+347	barbecue	barbecue
+348	koelbox	food
+349	coq au vin	coq
+349	coq au vin	vin
+350	coquille	coq
+350	coquille	coquille
+351	coquilles saint jacques	coq
+351	coquilles saint jacques	coquille
+351	coquilles saint jacques	saint
+352	koriander	food
+353	maïs	maïs
+354	maïscake	maïs
+354	maïscake	cake
+355	maïschip	maïs
+356	maïssoep	maïs
+356	maïssoep	soep
+357	maïsglutenvoer	maïs
+357	maïsglutenvoer	voer
+358	maïsmuffin	maïs
+358	maïsmuffin	muffin
+359	maïspudding	maïs
+359	maïspudding	pudding
+360	maïssuiker	suiker
+360	maïssuiker	maïs
+361	maïssiroop	maïs
+361	maïssiroop	siroop
+362	maïswhiskey	whiskey
+362	maïswhiskey	maïs
+363	maïsbrood	brood
+363	maïsbrood	maïs
+364	cornedbeef	beef
+364	cornedbeef	corn
+365	maïsmeel	maïs
+365	maïsmeel	mee
+366	maïsbrood	brood
+366	maïsbrood	maïs
+367	balsemwordkruid	kruid
+368	côtes de Provence	côtes
+369	huttenkaas	kaas
+370	shepherd's pie	pie
+371	suikerspin	suiker
+371	suikerspin	kers
+372	hoesttablet	table
+373	gerecht	gerecht
+374	couscous	food
+375	krabbencocktail	cocktail
+376	crab louis	food
+377	gebroken tarwe	tarwe
+378	beschuit	bes
+378	beschuit	beschuit
+379	veenbessensap	sap
+380	veenbessensaus	bes
+380	veenbessensaus	saus
+381	room	room
+382	roomkaas	room
+382	roomkaas	kaas
+383	roomsaus	saus
+383	roomsaus	room
+384	cream soda	cream
+384	cream soda	soda
+385	snoepvoeder	snoep
+386	crème brûlée	crème
+387	crème caramal	crème
+388	crème de cacao	cacao
+388	crème de cacao	crème
+389	crème de menthe	crème
+390	criollo	food
+391	kroket	food
+392	cross bun	bun
+393	crouton	ton
+394	rauwkost	kost
+395	gekrystaliseerde gember	gember
+396	kauwsel	food
+397	kweekmedium	food
+398	kop	food
+399	kop	food
+400	curaçao	food
+401	wrongel	food
+402	curry	curry
+403	currypoeder	curry
+404	currysaus	saus
+404	currysaus	curry
+405	pudding	pudding
+406	favorietje	food
+407	daiquiri	daiquiri
+408	zuivelproduct	product
+409	koffiekoek	koffie
+410	danablu	food
+411	darjeeling	food
+412	donker brood	brood
+413	dadelbrood	brood
+414	dadelbrood	brood
+415	cafeïnevrije koffie	koffie
+415	cafeïnevrije koffie	cafe
+416	ontwaterd voedsel	water
+416	ontwaterd voedsel	voedsel
+417	demerara	food
+418	demi-glace	food
+419	dessert	dessert
+420	dessertwijn	wijn
+420	dessertwijn	dessert
+421	gevuld ei	gevuld
+422	diabetisch dieet	dieet
+423	dieet	dieet
+424	diëtisch	food
+425	voedingssuplement	voeding
+426	dille	dille
+427	ingelegde komkommer	food
+428	dillezaad	dille
+429	avondeten	food
+430	dip	dip
+431	gerecht	gerecht
+432	divinity	vin
+433	hondenvoer	voer
+434	dolmas	food
+435	dom pedro	food
+436	slagroom	room
+436	slagroom	sla
+437	double gloucester	food
+438	deeg	deeg
+439	tapbier	bier
+440	dragee	food
+441	drambuie	food
+442	dressing	dressing
+443	kraantjeswater	water
+444	filterkoffie	koffie
+445	drop scone	con
+445	drop scone	drop
+445	drop scone	scone
+446	droge vermouth	vermouth
+446	droge vermouth	mout
+447	dubonnet	food
+448	eendenpaté	paté
+449	eendensaus	saus
+450	duff	food
+451	meelbal	food
+452	paasei	food
+453	eau-de-vie	food
+454	edam	food
+455	ei	food
+456	egg cream	cream
+457	foe yong hai	foe
+458	loempia	food
+459	eiwit	eiwit
+459	eiwit	wit
+460	eigeel	food
+461	eierpunch	punch
+462	ei benedict	food
+463	elixir	food
+464	emmenthal	food
+465	enchilada	food
+466	Engelse muffin	muffin
+467	voorgerecht	gerecht
+468	sauce espagnole	sauce
+469	espresso	food
+470	koffiemelk	koffie
+470	koffiemelk	melk
+470	koffiemelk	mel
+471	crashdieet	dieet
+472	falafel	food
+473	fanny adams	food
+474	kost	kost
+475	farina	food
+476	fastfood	food
+477	vetoplosbare vitamine	vitamine
+478	voer	voer
+479	voedergraan	graan
+480	venkel	venkel
+481	venkelzaad	zaad
+481	venkelzaad	venkel
+482	fenegriek	food
+483	noodrantsoen	rantsoen
+484	vulling	vulling
+485	fines herbes	food
+486	hapjes	hap
+486	hapjes	hapje
+487	bluswater	water
+488	vispastei	vis
+489	vissoep	vis
+489	vissoep	soep
+490	gebakken vis	gebakken
+490	gebakken vis	vis
+491	fish house punch	fish
+491	fish house punch	house
+491	fish house punch	punch
+492	visvlees in blik	vlees
+492	visvlees in blik	blik
+492	visvlees in blik	vis
+493	vismaaltijd	vis
+493	vismaaltijd	maaltijd
+493	vismaaltijd	maal
+494	vismousse	vis
+494	vismousse	mousse
+495	vispotje	vis
+495	vispotje	pot
+496	fishstick	fish
+497	vispasta	vis
+497	vispasta	vispasta
+497	vispasta	pasta
+498	vijfkruidenpoeder	kruid
+499	fizz	food
+500	flan	food
+501	Turks brood	brood
+501	Turks brood	turks
+502	smaakmaker	food
+503	flip	food
+504	bloem	bloem
+505	flummery	food
+506	voer	voer
+507	foie gras	food
+508	fondant	food
+509	fondue	fondue
+510	voedsel	sel
+510	voedsel	voedsel
+511	voedselbergplaats	voedsel
+512	voedingsmiddel	voeding
+513	forcemeat	food
+514	flesvoeding	voeding
+515	versterkte wijn	wijn
+516	stokbrood	brood
+517	french dressing	dressing
+518	frietjes	frietje
+519	terrine	food
+520	wentelteefje	food
+521	fricassee	food
+522	gebakken ei	gebakken
+523	gebakken rijst	rijst
+523	gebakken rijst	gebakken
+523	gebakken rijst	ijs
+524	frittata	food
+525	kikkerbilletjes	food
+526	frozen custard	frozen
+527	bevroren dessert	dessert
+527	bevroren dessert	bevroren
+528	bevroren voedsel	voedsel
+528	bevroren voedsel	bevroren
+529	bevroren sinaasappelsap	appelsap
+529	bevroren sinaasappelsap	appel
+529	bevroren sinaasappelsap	bevroren
+529	bevroren sinaasappelsap	sinaasappelsap
+529	bevroren sinaasappelsap	sap
+530	frozen yoghurt	yoghurt
+530	frozen yoghurt	frozen
+531	vruchtencocktail	cocktail
+532	vruchtenpudding	pudding
+533	fruitsap	fruit
+533	fruitsap	sap
+534	fruitsap	fruit
+534	fruitsap	sap
+535	vruchtenpunch	punch
+536	fruitsalade	fruit
+536	fruitsalade	salade
+537	fudge	fudge
+538	galantine	food
+539	galliano	food
+540	look	look
+541	lookbrood	brood
+541	lookbrood	look
+542	lookboter	boter
+542	lookboter	look
+543	bieslook	look
+544	knoflookzout	look
+544	knoflookzout	zout
+545	gazpacho	food
+546	gefilte fisj	food
+547	gelatine	gelatine
+548	dessert met gelatine	dessert
+548	dessert met gelatine	gelatine
+549	generische wijn	wijn
+550	Genève	food
+551	ghee	food
+552	augurk	food
+553	gimlet	food
+554	gin	gin
+555	gin rickey	gin
+555	gin rickey	rickey
+556	gin sling	gin
+556	gin sling	sling
+557	gember	gember
+558	gemberbier	bier
+558	gemberbier	gember
+559	gemberbier	bier
+559	gemberbier	gember
+560	glühwein	wei
+561	glutenbrood	brood
+562	glutenvrij dieet	dieet
+563	geitenkaas	kaas
+564	gorgonzola	food
+565	gouda	food
+566	goulash	food
+567	kropbrood	brood
+568	graham cracker	cracker
+568	graham cracker	ham
+569	graan	graan
+570	grand marnier	food
+571	kristalsuiker	suiker
+572	druivengelei	gelei
+573	druivensap	sap
+574	pompelmoessap	sap
+575	pompelmoesschil	food
+576	grappa	food
+577	sprinkhaan	food
+578	geraspte kaas	kaas
+579	jus	jus
+580	groene olijf	olijf
+580	groene olijf	groene
+581	erwtensoep	soep
+581	erwtensoep	erwt
+581	erwtensoep	erwten
+582	groene salade	salade
+582	groene salade	groene
+583	groene thee	thee
+583	groene thee	groene
+584	grenadine	food
+585	soepstengel	soep
+586	schrootsel	root
+587	gries	gries
+588	grog	food
+589	pap	pap
+590	gruyère	food
+591	guacamole	mole
+592	guinness	food
+593	kauwgombal	kauwgom
+593	kauwgombal	gombal
+594	gumbo	food
+595	gombal	gombal
+596	gyros	food
+597	haggis	food
+598	sandwich met ham	sandwich
+598	sandwich met ham	ham
+599	hamburger	ham
+599	hamburger	hamburger
+600	hamburgerbroodje	brood
+600	hamburgerbroodje	ham
+600	hamburgerbroodje	hamburger
+600	hamburgerbroodje	broodje
+601	handkäse	food
+602	hardgekookt ei	gekookt
+602	hardgekookt ei	hard
+603	hard snoepgoed	snoep
+603	hard snoepgoed	snoepgoed
+603	hard snoepgoed	hard
+604	cider	cider
+605	kaiserbroodje	brood
+605	kaiserbroodje	broodje
+606	brandy butter	brandy
+607	scheepsbeschuit	beschuit
+608	harvey wallbanger	food
+609	hash	food
+610	hasty pudding	ding
+610	hasty pudding	pudding
+611	hooi	food
+612	slagroom	room
+612	slagroom	sla
+613	kruid	kruid
+614	kruidentee	kruid
+615	haringsalade	salade
+616	eiwitrijk dieet	dieet
+616	eiwitrijk dieet	eiwit
+616	eiwitrijk dieet	wit
+617	high tea	tea
+617	high tea	high
+618	highball	high
+619	johnnycake	cake
+620	hollandaise	olla
+621	zelfgestookte drank	drank
+622	home fries	food
+623	maïspap	maïs
+623	maïspap	pap
+624	gehomogeniseerde melk	melk
+625	honing	honing
+626	honey bun	bun
+627	drank	drank
+628	malrovekruid	kruid
+629	hors d'oeuvre	food
+630	mierikswortel	wortel
+630	mierikswortel	mierikswortel
+630	mierikswortel	wort
+631	mierikswortelsaus	saus
+631	mierikswortelsaus	wortel
+631	mierikswortelsaus	mierikswortel
+631	mierikswortelsaus	wort
+632	gastheer	thee
+633	hot fudge saus	saus
+633	hot fudge saus	fudge
+633	hot fudge saus	hot
+634	hot pot	hot
+634	hot pot	pot
+635	pikante saus	saus
+636	hot toddy	hot
+637	hodge-podge	food
+638	hotdog	hotdog
+638	hotdog	dog
+638	hotdog	hot
+639	hummus	food
+640	jagerssaus	saus
+641	hushpuppy	food
+642	hydromel	food
+643	hyson	food
+644	hysop	food
+645	ijs	ijs
+646	ijsje	ijs
+647	ijstaart	ijs
+648	hoorntje	food
+649	ijscoupe	ijs
+650	ijslolly	ijs
+650	ijslolly	lolly
+651	melkijs	melk
+651	melkijs	ijs
+652	ice tea	tea
+652	ice tea	ice
+653	ijswater	water
+653	ijswater	ijs
+654	ijskoffie	koffie
+654	ijskoffie	ijs
+655	bloemsuiker	suiker
+655	bloemsuiker	bloem
+656	ingesta	food
+657	ingrediënt	food
+658	inositol	food
+659	oploskoffie	koffie
+660	Iers	iers
+661	Irish coffee	irish
+662	Iers sodabrood	brood
+662	Iers sodabrood	soda
+662	Iers sodabrood	iers
+663	Irish stew	irish
+663	Irish stew	stew
+664	Italiaans brood	brood
+664	Italiaans brood	italiaans
+665	Italiaanse dressing	dressing
+665	Italiaanse dressing	italiaans
+666	gepofte aardappel	aardappel
+666	gepofte aardappel	appel
+667	jam	jam
+668	Jamaicaanse rum	rum
+669	jambalaya	jam
+670	toverbal	food
+671	jell-o	food
+672	gelei	gelei
+673	jelly bean	bean
+674	johnnycake	cake
+675	jug wine	wine
+676	sap	sap
+677	jujube	food
+678	julep	food
+679	julienne	food
+680	jeneverbessen	food
+681	aangezuurde melk	melk
+681	aangezuurde melk	zuur
+682	K rantsoen	rantsoen
+683	kabob	food
+684	kahlua	food
+685	kaiserbroodje	brood
+685	kaiserbroodje	broodje
+686	kawa	food
+687	kedgeree	food
+688	brokken	food
+689	kirsch	food
+690	kishke	food
+691	kiss	food
+692	knish	food
+693	koosjer	food
+694	koemis	food
+695	kummel	food
+696	kwass	food
+697	lacing	food
+698	pils	food
+699	lamscurry	curry
+700	opslagruimte	food
+701	lasagne	food
+702	laatste avondmaal	avondmaal
+702	laatste avondmaal	maal
+703	lekvar	food
+704	citroenmelisse	food
+705	citroenboter	boter
+706	lemon drop	lemon
+706	lemon drop	drop
+707	citroenextract	food
+708	citroensap	sap
+709	citroenolie	food
+710	citroenschil	food
+711	limonade	limonade
+712	limonademix	limonade
+712	limonademix	mix
+713	linzensoep	soep
+714	drop	drop
+715	liebfraumilch	food
+716	liederkranz	food
+717	life saver	food
+718	light bier	bier
+718	light bier	light
+719	light room	room
+719	light room	light
+720	lightdieet	dieet
+720	lightdieet	light
+721	limburger	food
+722	limoensap	sap
+723	limoenlimonade	limonade
+724	limpa	food
+725	likeur	likeur
+726	vloeibaar dieet	dieet
+727	likeur	likeur
+728	lithiawater	water
+729	loblolly	lolly
+730	lobscouse	food
+731	kreeftboter	boter
+731	kreeftboter	kreeft
+732	lobster newburg	food
+733	kreeftenstoofpotje	stoofpotje
+733	kreeftenstoofpotje	pot
+733	kreeftenstoofpotje	kreeft
+733	kreeftenstoofpotje	stoofpot
+734	kreeft thermidore	kreeft
+735	lolly	lolly
+736	lavas	food
+737	caloriearm dieet	dieet
+738	vetarm dieet	dieet
+739	magere melk	melk
+740	zoutarm dieet	dieet
+740	zoutarm dieet	zout
+741	lozenge	food
+742	suikerklontje	suiker
+743	lunch	lunch
+744	lutefisk	food
+745	sauce lyonnaise	sauce
+746	macaronisalade	salade
+747	foelie	foe
+748	macedoine	food
+749	mâcon	con
+750	macrobiotiek	rob
+751	madeira	food
+752	madrilene	food
+753	Malvezij	food
+754	mout	mout
+755	gemoute melk	melk
+755	gemoute melk	mout
+756	manhattan	manhattan
+757	manhattan clam chowder	chow
+757	manhattan clam chowder	clam
+757	manhattan clam chowder	chowder
+757	manhattan clam chowder	manhattan
+758	manzanilla	food
+759	ahornsuikerstroop	suiker
+759	ahornsuikerstroop	kers
+759	ahornsuikerstroop	stro
+759	ahornsuikerstroop	suikerstroop
+760	maraschino	food
+761	draf	food
+762	margarine	food
+763	margarita	food
+764	marinade	food
+765	marinara	food
+766	marjolein	food
+767	confituur	con
+767	confituur	confituur
+768	marmite	food
+769	beenmerg	food
+770	marsala	food
+771	marshmallow	marshmallow
+772	marshmallow fluff	marshmallow
+773	martini	martini
+774	maryland chicken	mary
+775	marsepein	food
+776	mascarpone	food
+777	brij	food
+778	aardappelpuree	aardappel
+778	aardappelpuree	appel
+778	aardappelpuree	puree
+779	mastjaar	food
+780	mate	mate
+781	visstooefschotel	vis
+781	visstooefschotel	hot
+782	matze	matze
+783	matzemaaltijd	matze
+783	matzemaaltijd	maaltijd
+783	matzemaaltijd	maal
+784	maitrank	food
+785	mayonnaise	food
+786	mede	food
+787	maaltijd	maaltijd
+787	maaltijd	maal
+788	gehaktbrood	brood
+788	gehaktbrood	gehakt
+789	gehaktbal	gehakt
+790	medoc	food
+791	melba toast	toast
+791	melba toast	melba
+792	menu	food
+793	merlot	food
+794	mescal	food
+795	gerecht	gerecht
+796	metheglin	food
+797	micronutriënt	food
+798	melk	melk
+798	melk	mel
+799	melkpunch	melk
+799	melkpunch	punch
+800	gierst	food
+801	mimosa	food
+802	gehakt	gehakt
+803	gehakt	gehakt
+804	mineraalwater	water
+805	munt	munt
+806	muntsaus	munt
+806	muntsaus	saus
+807	manna	food
+808	miso	food
+809	mix	mix
+810	gemixt drankje	drankje
+810	gemixt drankje	drank
+810	gemixt drankje	mix
+811	mixer	mix
+812	mokka	food
+813	mock turtle soup	food
+814	melasse	food
+815	schimmel	schimmel
+816	gelatinesalade	salade
+816	gelatinesalade	gelatine
+817	mole	mole
+818	mononatriumglutamaat	food
+819	montrachet	food
+820	moo goo gai pan	moo
+820	moo goo gai pan	goo
+820	moo goo gai pan	pan
+821	zelfgemaakte sterkedrank	drank
+822	sauce mornay	sauce
+823	moezel	food
+824	moedermelk	melk
+825	moussaka	food
+826	mousse	mousse
+827	mozzarella	food
+828	muenster	food
+829	muffin	muffin
+830	warme cider	cider
+830	warme cider	warme
+831	warme wijn	wijn
+831	warme wijn	warme
+832	mulligan stew	stew
+833	mulligatawny	food
+834	multivitamine	vitamine
+835	bier van München	bier
+836	muscadet	food
+837	muscat	food
+838	champignonsaus	saus
+838	champignonsaus	ham
+839	geplette erwten	erwten
+840	most	most
+841	mosterd	most
+841	mosterd	mosterd
+842	mosterdsaus	saus
+842	mosterdsaus	most
+842	mosterdsaus	mosterd
+843	mosterdzaad	most
+843	mosterdzaad	mosterd
+844	nacho	food
+845	naan	food
+846	nantua	food
+847	Oostindische kers	kers
+848	Napolitaans ijs	ijs
+849	near beer	beer
+850	nectar	food
+851	negus	food
+852	nesselrode	rode
+853	neutrale alcohol	alcohol
+853	neutrale alcohol	ale
+854	New England clam chowder	new
+854	New England clam chowder	england
+854	New England clam chowder	chow
+854	New England clam chowder	clam
+854	New England clam chowder	chowder
+855	niacine	food
+856	nipa palm	food
+857	magere melk	melk
+858	nonpareil	food
+859	snack	snack
+860	nougat	nougat
+861	nougatreep	reep
+861	nougatreep	nougat
+862	notenreep	reep
+863	notenbrood	brood
+864	notenboter	bot
+864	notenboter	boter
+865	nootmuskaat	food
+866	voedingsstof	voeding
+867	haver	haver
+868	havercake	haver
+868	havercake	cake
+869	havermout	haver
+869	havermout	havermout
+869	havermout	vermout
+869	havermout	mout
+870	oenomel	food
+871	lijnkoek	food
+872	lijnkoek	food
+873	oktoberfest	food
+874	old fashioned	old
+875	olijf	olijf
+876	olla podrida	olla
+877	omelet	omelet
+878	bagel met ui	bagel
+879	uienbrood	brood
+880	uienboter	boter
+881	broodje met ui	brood
+881	broodje met ui	broodje
+882	uienpoeder	food
+883	oolong	food
+884	toast	toast
+885	sinaasappelsap	appelsap
+885	sinaasappelsap	appel
+885	sinaasappelsap	sinaasappelsap
+885	sinaasappelsap	sap
+886	sinaasappellikeur	appel
+886	sinaasappellikeur	sap
+886	sinaasappellikeur	likeur
+887	sinaasappelconfituur	con
+887	sinaasappelconfituur	appel
+887	sinaasappelconfituur	confituur
+887	sinaasappelconfituur	sap
+888	sinaasappelschil	appel
+888	sinaasappelschil	sap
+889	oranje pecco	food
+890	limonade	limonade
+891	orangeade	food
+892	osso bucco	food
+893	ouzo	food
+894	ossenstaartsoep	soep
+894	ossenstaartsoep	taart
+895	oyster cracker	cracker
+896	stoofpot met oesters	pot
+896	stoofpot met oesters	stoofpot
+897	ongepelde rijst	rijst
+897	ongepelde rijst	ijs
+898	paella	food
+899	pale ale	ale
+900	pannenkoekenbeslag	pan
+901	pantotheenzuur	thee
+901	pantotheenzuur	pan
+901	pantotheenzuur	zuur
+902	papayasap	pap
+902	papayasap	sap
+903	paprika	paprika
+903	paprika	pap
+904	parfait	food
+905	parker house roll	house
+906	parmezaanse kaas	kaas
+907	peterselie	peterselie
+907	peterselie	sel
+908	pasta	pasta
+909	pastasalade	salade
+909	pastasalade	pasta
+910	gepasteurizeerde melk	melk
+911	pastis	food
+912	gebakje	food
+913	paté	paté
+914	frikadel	food
+915	pavlova	food
+916	erwtenbloem	bloem
+916	erwtenbloem	erwten
+917	erwtensoep	soep
+917	erwtensoep	erwt
+917	erwtensoep	erwten
+918	perzikkenijs	ijs
+919	pêche melba	melba
+920	perzikkensaus	saus
+921	reep met nootjes	reep
+922	brittle met pindanoten	brittle
+923	pindakaas	kaas
+924	gort	food
+925	pashofa	food
+926	pease pudding	pudding
+927	panucci	pan
+928	peper	pepe
+928	peper	peper
+929	peperbus	peper
+930	pepersaus	saus
+930	pepersaus	peper
+931	pepersteak	peper
+931	pepersteak	tea
+931	pepersteak	steak
+932	pepermunt	peper
+932	pepermunt	munt
+932	pepermunt	pepermunt
+933	pepermuntolie	peper
+933	pepermuntolie	munt
+933	pepermuntolie	pepermunt
+934	peppermint patty	food
+935	pizza met salami	pizza
+935	pizza met salami	salam
+936	pepsi	food
+937	bederfelijk	food
+938	pernod	food
+939	perenwijn	wijn
+940	pesto	food
+941	voer voor huisdieren	voer
+941	voer voor huisdieren	dieren
+942	gebraden fazant	food
+943	liefdesdrankje	drankje
+943	liefdesdrankje	drank
+944	fosfaat	food
+945	filodeeg	deeg
+946	piccalilli	piccalilli
+947	augurk	food
+948	relish van piccalilli	piccalilli
+948	relish van piccalilli	relish
+949	picknick	food
+950	pièce de résistance	food
+951	pilav	pilav
+952	pils	food
+953	piña colada	cola
+954	ananassap	sap
+955	pink lady	food
+956	pinole	food
+957	pinot blanc	blanc
+957	pinot blanc	pinot
+958	pinot noir	pinot
+959	pierogi	pie
+960	pitta	food
+961	pizza	pizza
+962	bloem	bloem
+963	planter's punch	punch
+964	bord	bord
+965	slechte wijn	wijn
+966	ploughman's lunch	lunch
+967	plumpudding	pudding
+968	pruimensaus	saus
+969	gepocheerd ei	food
+970	poi	poi
+971	pop	pop
+972	popcorn	corn
+972	popcorn	pop
+973	popcorn	corn
+973	popcorn	pop
+974	popover	pop
+975	maanzaad	food
+976	pap	pap
+977	porto	food
+978	porter	food
+979	postum	food
+980	pot-au-feu	pot
+981	potage	pot
+982	aardappel	appel
+982	aardappel	aardappel
+983	aardappelsalade	aardappel
+983	aardappelsalade	appel
+983	aardappelsalade	salade
+984	aardappelschil	aardappel
+984	aardappelschil	appel
+985	poitín	poi
+986	toverdrank	drank
+987	potluck	pot
+988	pot pie	pie
+988	pot pie	pot
+989	pottage	pot
+990	sauce allemande	sauce
+991	pousse-café	food
+992	melkpoeder	melk
+992	melkpoeder	mel
+993	mosterdpoeder	most
+993	mosterdpoeder	mosterd
+994	poedersuiker	suiker
+995	krachtontbijt	ontbijt
+995	krachtontbijt	ton
+996	praline	praline
+997	pretzel	pretzel
+998	smeltkaas	kaas
+999	alcoholische proof	alcohol
+1000	pruno	food
+1001	pudding	pudding
+1002	kookdeeg	deeg
+1003	kookdeeg	deeg
+1004	pulque	food
+1005	punch	punch
+1006	puree	puree
+1007	purloo	food
+1008	kwark	food
+1009	quesadilla	food
+1010	quick bread	bread
+1011	ragout	food
+1012	rozijnenbrood	brood
+1012	rozijnenbrood	rozijnen
+1013	raita	food
+1014	ramekin	food
+1015	cheddar	food
+1016	ratafia	food
+1017	ratatouille	food
+1018	rantsoen	rantsoen
+1019	sauce ravigote	sauce
+1020	rauwe melk	melk
+1021	bereid	food
+1022	rode wijn	wijn
+1022	rode wijn	rode
+1023	proefmaaltijd	maaltijd
+1023	proefmaaltijd	maal
+1024	coprofagie	food
+1025	verfrisser	food
+1026	verfrissing	food
+1027	gebakken bonen	bonen
+1027	gebakken bonen	gebakken
+1028	relish	relish
+1029	remouladesaus	saus
+1030	retsina	food
+1031	reuben sandwich	sandwich
+1032	Rijnwijn	wijn
+1033	côtes-du-rhônewijn	wijn
+1033	côtes-du-rhônewijn	côtes
+1034	rijst	rijst
+1034	rijst	ijs
+1035	rickey	rickey
+1036	ricotta	food
+1037	riesling	sling
+1038	rioja	food
+1039	risotto	food
+1040	rissole	food
+1041	rob roy	rob
+1041	rob roy	roy
+1042	kandij	kandij
+1043	rolmops	food
+1044	jam roly-poly	jam
+1045	root beer	beer
+1045	root beer	root
+1046	roquefort	food
+1047	rozemarijn	food
+1048	foezelolie	foe
+1049	ruwvoer	voer
+1050	roulade	food
+1051	roux	food
+1052	wijnruit	wijn
+1053	rum	rum
+1054	Rusissche dressing	dressing
+1055	rogge	rogge
+1056	roggebrood	brood
+1056	roggebrood	rogge
+1056	roggebrood	roggebrood
+1057	sacharine	food
+1058	versterkte wijn	wijn
+1059	safraan	food
+1060	salie	food
+1061	saint-émilion	saint
+1062	sake	food
+1063	salade	salade
+1064	eiersalade	salade
+1065	salisbury steak	tea
+1065	salisbury steak	steak
+1066	salmagundi	food
+1067	salmi	food
+1068	salsa	salsa
+1069	zout	zout
+1070	salt-rising bread	bread
+1071	saltine	food
+1072	sambuca	food
+1073	samosa	food
+1074	sandwich	sandwich
+1075	bord met sandwiches	sandwich
+1075	bord met sandwiches	bord
+1076	schabziger	food
+1077	sarsaparilla	sap
+1078	sashimi	food
+1079	sassafras	food
+1080	saus	saus
+1081	zuurvlees	vlees
+1081	zuurvlees	zuur
+1082	zuurkool	zuur
+1082	zuurkool	kool
+1083	pizza met worst	pizza
+1083	pizza met worst	worst
+1084	sauteren	food
+1085	sauterne	food
+1086	sauvignon blanc	blanc
+1087	hartig	food
+1088	sazerac	food
+1089	gebroeide melk	melk
+1090	scampi	food
+1091	schnapps	food
+1092	schnitzel	food
+1093	scone	con
+1093	scone	scone
+1094	scotch	scotch
+1095	Schotse bouillon	bouillon
+1095	Schotse bouillon	hot
+1096	vogelnestje	food
+1097	scotch woodcock	scotch
+1098	roerei	food
+1099	scrapple	food
+1100	screwdriver	food
+1101	scrumpy	rum
+1102	kruidenzout	kruid
+1102	kruidenzout	zout
+1103	sederavond	food
+1104	zelfrijzend bakmeel	food
+1105	spuitwater	water
+1106	halfvolle melk	melk
+1106	halfvolle melk	volle
+1107	griesmeel	gries
+1108	sesamzaad	zaad
+1108	sesamzaad	sesamzaad
+1108	sesamzaad	sesam
+1109	johnnycake	cake
+1110	sherbert	food
+1111	sherry	food
+1112	shortcake	cake
+1113	garnalenboter	ale
+1113	garnalenboter	boter
+1114	garnalencocktail	ale
+1114	garnalencocktail	cocktail
+1115	pizza siciliana	pizza
+1116	bijgerecht	gerecht
+1117	sidecar	food
+1118	kuilvoer	voer
+1119	simnel	food
+1120	maïsbrood	brood
+1120	maïsbrood	maïs
+1121	haversoep	haver
+1121	haversoep	soep
+1122	magere melk	melk
+1123	sling	sling
+1124	slivovitsj	food
+1125	sloe gin	gin
+1126	restjes voor de dieren	dieren
+1127	sloppy joe	food
+1128	slak	food
+1129	slumgullion	food
+1130	smoothie	moo
+1131	smorgasbord	bord
+1132	snacks	snack
+1133	schaafijs	ijs
+1134	soave	food
+1135	gezouten cracker	cracker
+1135	gezouten cracker	zout
+1136	spuitwater	water
+1137	zachte voeding	zachte
+1137	zachte voeding	voeding
+1137	zachte voeding	zacht
+1138	frisdrank	drank
+1139	zachte pretzel	pretzel
+1139	zachte pretzel	zachte
+1139	zachte pretzel	zacht
+1140	zacht broodje	brood
+1140	zacht broodje	broodje
+1140	zacht broodje	zacht
+1141	sorghum	food
+1142	soubise	food
+1143	lapsang souchong	food
+1144	soufflé	food
+1145	soul food	food
+1146	soep	soep
+1147	dagsoep	soep
+1148	zuur	zuur
+1149	zuurdesembrood	brood
+1149	zuurdesembrood	zuur
+1150	zure room	room
+1150	zure room	zure
+1151	sour mash	sour
+1152	zure melk	melk
+1152	zure melk	zure
+1153	citroenzuur	zuur
+1154	zuurbal	zuur
+1155	souvlaki	food
+1156	sojasaus	saus
+1157	sojamelk	melk
+1157	sojamelk	mel
+1157	sojamelk	jam
+1158	sojascheuten	food
+1159	spaghetti	food
+1160	spahettisaus	saus
+1161	spam	food
+1162	Spaanse paprika	paprika
+1162	Spaanse paprika	pap
+1162	Spaanse paprika	spaanse
+1163	Spaanse rijst	rijst
+1163	Spaanse rijst	ijs
+1163	Spaanse rijst	spaanse
+1164	schuimwijn	wijn
+1165	groenemuntolie	groene
+1165	groenemuntolie	munt
+1166	dagschotel	hot
+1167	kruid	kruid
+1168	split	split
+1169	erwtensoep	soep
+1169	erwtensoep	erwt
+1169	erwtensoep	erwten
+1170	spoonbread	bread
+1171	spotted dick	pot
+1172	maal	maal
+1173	bronwater	water
+1174	spritzer	food
+1175	sprossenbier	bier
+1176	stevige maaltijd	maaltijd
+1176	stevige maaltijd	maal
+1177	zetmeel	food
+1178	pepersteak	peper
+1178	pepersteak	tea
+1178	pepersteak	steak
+1179	steaksaus	saus
+1179	steaksaus	tea
+1179	steaksaus	steak
+1180	steak tartare	tea
+1180	steak tartare	steak
+1181	gestoomde pudding	pudding
+1182	stoofpotje	stoofpotje
+1182	stoofpotje	pot
+1182	stoofpotje	stoofpot
+1183	reep	reep
+1184	kaneelstokje	kaneel
+1185	stilton	ton
+1186	stinger	food
+1187	bouillonblokje	bouillon
+1188	zware kost	kost
+1189	stout	food
+1190	stro	stro
+1191	strowijn	wijn
+1191	strowijn	stro
+1192	strawberry daiquiri	daiquiri
+1193	aarbeienijs	ijs
+1194	aardbeienconfituur	con
+1194	aardbeienconfituur	confituur
+1195	stringcheese	cheese
+1196	gevulde kool	gevuld
+1196	gevulde kool	gevulde
+1196	gevulde kool	kool
+1197	gevulde paprika's	paprika
+1197	gevulde paprika's	gevuld
+1197	gevulde paprika's	pap
+1197	gevulde paprika's	gevulde
+1198	vulling	vulling
+1199	succotash	food
+1200	bier	bier
+1201	suet pudding	pudding
+1202	suiker	suiker
+1203	kandijsuiker	suiker
+1203	kandijsuiker	ijs
+1203	kandijsuiker	kandij
+1204	suikersiroop	suiker
+1204	suikersiroop	kers
+1204	suikersiroop	siroop
+1205	suikerwater	water
+1205	suikerwater	suiker
+1206	suikerbrood	suiker
+1206	suikerbrood	brood
+1207	Amerikaans krentenboompje	food
+1208	sukiyaki	food
+1209	bonenkruid	kruid
+1209	bonenkruid	bonen
+1209	bonenkruid	bonenkruid
+1210	sun tea	tea
+1211	avondmaal	avondmaal
+1211	avondmaal	maal
+1212	sushi	sushi
+1213	Zweedse balletjes	zweeds
+1214	Zweeds roggebrood	roggebrood
+1214	Zweeds roggebrood	brood
+1214	Zweeds roggebrood	rogge
+1214	Zweeds roggebrood	zweeds
+1215	zoet	zoet
+1216	Roomse kervel	kervel
+1217	appelcider	appel
+1217	appelcider	cider
+1218	suikermaïs	suiker
+1218	suikermaïs	maïs
+1219	augurk	food
+1220	zoet broodje	brood
+1220	zoet broodje	broodje
+1220	zoet broodje	zoet
+1221	zoete vermouth	vermouth
+1221	zoete vermouth	mout
+1221	zoete vermouth	zoet
+1222	lievevrouwebedstro	stro
+1223	zoetstof	zoet
+1224	snoepgoed	snoep
+1224	snoepgoed	snoepgoed
+1225	Zwitserse kaas	kaas
+1225	Zwitserse kaas	wit
+1226	swiss steak	tea
+1226	swiss steak	steak
+1227	swizzle	food
+1228	syllabub	food
+1229	siroop	siroop
+1230	tabasco	food
+1231	taboulé	food
+1232	tafelwijn	wijn
+1233	taco	taco
+1234	tacosaus	saus
+1234	tacosaus	taco
+1235	taffy	food
+1236	tahin	tahin
+1237	tamal	tamal
+1238	tamaltaart	tamal
+1239	tapenade	food
+1240	tapioca	tapioca
+1241	tapiocapudding	pudding
+1241	tapiocapudding	tapioca
+1242	dragon	food
+1243	tartaar	food
+1244	thee	thee
+1245	theezakje	thee
+1246	theecake	thee
+1246	theecake	cake
+1247	thee-achtig drankje	drankje
+1247	thee-achtig drankje	thee
+1247	thee-achtig drankje	drank
+1248	tempura	food
+1249	tequila	food
+1250	teriyaki	food
+1251	terrine	food
+1252	tetrazzini	tetrazzini
+1253	thousand island dressing	dressing
+1254	tijm	food
+1255	timballo	food
+1256	timothee	thee
+1257	tipsy cake	cake
+1258	tiramisu	food
+1259	kruidenthee	thee
+1259	kruidenthee	kruid
+1260	toast	toast
+1261	tokaj	food
+1262	tomatenconcentraat	tom
+1262	tomatenconcentraat	con
+1262	tomatenconcentraat	concentraat
+1262	tomatenconcentraat	mate
+1263	tomatensap	sap
+1263	tomatensap	mate
+1264	tomatenpuree	mate
+1264	tomatenpuree	puree
+1265	tomatensaus	saus
+1265	tomatensaus	mate
+1266	tonic	ton
+1267	tortilla	tortilla
+1268	slaatje	food
+1269	tostada	food
+1270	training table	table
+1271	suikerstroop	suiker
+1271	suikerstroop	kers
+1271	suikerstroop	stro
+1271	suikerstroop	suikerstroop
+1272	trifle	food
+1273	triple-crèmekaas	kaas
+1273	triple-crèmekaas	crème
+1273	triple-crèmekaas	triple
+1274	triple sec	triple
+1275	truffel	food
+1276	borrel	borrel
+1277	tonijnsalade	salade
+1277	tonijnsalade	ton
+1278	kalkoenvulling	vulling
+1279	Turkse koffie	koffie
+1279	Turkse koffie	turks
+1280	Turks fruit	fruit
+1280	Turks fruit	turks
+1281	kurkuma	food
+1282	flap	flap
+1283	schildpadsoep	soep
+1284	tutti frutti	food
+1285	vanille	vanille
+1286	vanilleboon	vanille
+1287	vanille-ijs	ijs
+1287	vanille-ijs	vanille
+1288	vanillepudding	pudding
+1288	vanillepudding	vanille
+1289	cépage	food
+1290	cordon bleu	bleu
+1290	cordon bleu	cordon
+1291	parmigiana	food
+1292	vegetarisme	food
+1293	velveeta	food
+1294	verdicchio	food
+1295	vermouth	vermouth
+1295	vermouth	mout
+1296	vlees	vlees
+1297	vichy water	water
+1297	vichy water	vichy
+1298	vichysoisse	vichy
+1299	vin ordinaire	vin
+1300	azijn	azijn
+1301	vintage	vin
+1302	bloody mary zonder alcohol	alcohol
+1302	bloody mary zonder alcohol	bloody
+1302	bloody mary zonder alcohol	mary
+1303	vitamine	vitamine
+1304	vitamine A1	vitamine
+1305	vitamine A2	vitamine
+1306	vitamine B1	vitamine
+1307	vitamine B12	vitamine
+1308	vitamine B2	vitamine
+1309	vitamine B6	vitamine
+1310	vitamine BC	vitamine
+1311	vitamine C	vitamine
+1312	vitamine D	vitamine
+1313	vitamine E	vitamine
+1314	vitamine K	vitamine
+1315	vitamine K1	vitamine
+1316	vitamine K3	vitamine
+1317	vitamine P	vitamine
+1318	vitaminepil	vitamine
+1319	vodka	vodka
+1320	vodka martini	martini
+1320	vodka martini	vodka
+1321	vouvray	food
+1322	wafel	food
+1323	waldorfsalade	salade
+1324	wasabi	food
+1325	gekruide drank	kruid
+1325	gekruide drank	drank
+1326	water	water
+1327	kaakje	food
+1328	waterijs	water
+1328	waterijs	ijs
+1329	vitamine oplosbaar in water	water
+1329	vitamine oplosbaar in water	vitamine
+1330	weizenbier	bier
+1330	weizenbier	wei
+1331	weizenbier	bier
+1331	weizenbier	wei
+1332	weizenbier	bier
+1332	weizenbier	wei
+1333	welsh rarebit	food
+1334	western sandwich	sandwich
+1335	tarwe	tarwe
+1336	tarwebloem	tarwe
+1336	tarwebloem	bloem
+1337	tarwekiem	tarwe
+1338	wei	wei
+1339	slagroom	room
+1339	slagroom	sla
+1340	slagroom	room
+1340	slagroom	sla
+1341	whiskey	whiskey
+1342	whiskey sour	whiskey
+1342	whiskey sour	sour
+1343	wit brood	brood
+1343	wit brood	wit
+1344	witte peper	peper
+1344	witte peper	wit
+1344	witte peper	witte
+1345	witte rijst	rijst
+1345	witte rijst	ijs
+1345	witte rijst	wit
+1345	witte rijst	witte
+1346	white russian	food
+1347	witte saus	saus
+1347	witte saus	wit
+1347	witte saus	witte
+1348	witte wijn	wijn
+1348	witte wijn	wit
+1348	witte wijn	witte
+1349	volle melk	melk
+1349	volle melk	volle
+1350	volkorenmeel	food
+1351	barbecue met frankfurterworstjes	barbecue
+1351	barbecue met frankfurterworstjes	worst
+1352	wilde rijst	rijst
+1352	wilde rijst	ijs
+1353	wijn	wijn
+1354	wijnsaus	saus
+1354	wijnsaus	wijn
+1355	wijnazijn	wijn
+1355	wijnazijn	azijn
+1356	winterbonenkruid	bonen
+1356	winterbonenkruid	kruid
+1356	winterbonenkruid	bonenkruid
+1357	wintergroenolie	food
+1358	won ton	ton
+1359	worcestersaus	saus
+1360	wort	wort
+1361	wrap	food
+1362	jakboter	boter
+1363	jakmelk	melk
+1364	yoghurt	yoghurt
+1365	eigeel	food
+1366	yorkshire pudding	pudding
+1367	yquem	food
+1368	sabayon	food
+1369	zinfandel	food
+1370	zombie	food
+1371	beschuit	bes
+1371	beschuit	beschuit

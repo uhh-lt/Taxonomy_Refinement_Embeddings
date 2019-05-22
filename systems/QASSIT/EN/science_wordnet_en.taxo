@@ -1,0 +1,647 @@
+1	matrix algebra	algebra	
+2	matrix algebra	linear algebra
+3	vector algebra	algebra
+4	vector algebra	linear algebra
+5	cryptanalysis	analysis
+6	fourier analysis	analysis
+7	numerical analysis	analysis
+8	hyperbolic geometry	analytic geometry
+9	spherical geometry	analytic geometry
+10	clinical anatomy	anatomy
+11	comparative anatomy	anatomy
+12	dental anatomy	anatomy
+13	developmental anatomy	anatomy
+14	embryology	anatomy
+15	functional anatomy	anatomy
+16	gross anatomy	anatomy
+17	microscopic anatomy	anatomy
+18	neuroanatomy	anatomy
+19	regional anatomy	anatomy
+20	agronomy	anthropology
+21	agronomy	social anthropology
+22	archeology	anthropology
+23	archeology	social anthropology
+24	astrometry	anthropology
+25	astrometry	social anthropology
+26	biogeography	anthropology
+27	biogeography	social anthropology
+28	botany	anthropology
+29	botany	social anthropology
+30	brain science	anthropology
+31	brain science	social anthropology
+32	civics	anthropology
+33	civics	social anthropology
+34	clinical anatomy	anthropology
+35	clinical anatomy	social anthropology
+36	comparative anatomy	anthropology
+37	comparative anatomy	social anthropology
+38	criminology	anthropology
+39	criminology	social anthropology
+40	developmental anatomy	anthropology
+41	developmental anatomy	social anthropology
+42	dietetics	anthropology
+43	dietetics	social anthropology
+44	ecology	anthropology
+45	ecology	social anthropology
+46	embryology	anthropology
+47	embryology	social anthropology
+48	entomology	anthropology
+49	entomology	social anthropology
+50	ethnography	anthropology
+51	ethnography	social anthropology
+52	ethnology	anthropology
+53	ethnology	social anthropology
+54	ethology	anthropology
+55	ethology	social anthropology
+56	forestry	anthropology
+57	forestry	social anthropology
+58	functional anatomy	anthropology
+59	functional anatomy	social anthropology
+60	geodesy	anthropology
+61	geodesy	social anthropology
+62	gross anatomy	anthropology
+63	gross anatomy	social anthropology
+64	herpetology	anthropology
+65	herpetology	social anthropology
+66	hydrology	anthropology
+67	hydrology	social anthropology
+68	ichthyology	anthropology
+69	ichthyology	social anthropology
+70	kinesiology	anthropology
+71	kinesiology	social anthropology
+72	limnology	anthropology
+73	limnology	social anthropology
+74	mammalogy	anthropology
+75	mammalogy	social anthropology
+76	mathematics	anthropology
+77	mathematics	social anthropology
+78	memory	anthropology
+79	memory	social anthropology
+80	meteorology	anthropology
+81	meteorology	social anthropology
+82	natural history	anthropology
+83	natural history	social anthropology
+84	neuroanatomy	anthropology
+85	neuroanatomy	social anthropology
+86	neurobiology	anthropology
+87	neurobiology	social anthropology
+88	nosology	anthropology
+89	nosology	social anthropology
+90	oceanography	anthropology
+91	oceanography	social anthropology
+92	paleoanthropology	anthropology
+93	paleoanthropology	social anthropology
+94	paleobiology	anthropology
+95	paleobiology	social anthropology
+96	paleoecology	anthropology
+97	paleoecology	social anthropology
+98	paleontology	anthropology
+99	paleontology	social anthropology
+100	pathology	anthropology
+101	pathology	social anthropology
+102	pharmacokinetics	anthropology
+103	pharmacokinetics	social anthropology
+104	pharmacology	anthropology
+105	pharmacology	social anthropology
+106	physical anthropology	anthropology
+107	physical anthropology	social anthropology
+108	physical chemistry	anthropology
+109	physical chemistry	social anthropology
+110	physical geography	anthropology
+111	physical geography	social anthropology
+112	physiology	anthropology
+113	physiology	social anthropology
+114	pomology	anthropology
+115	pomology	social anthropology
+116	problem solving	anthropology
+117	problem solving	social anthropology
+118	psychodynamics	anthropology
+119	psychodynamics	social anthropology
+120	psychology	anthropology
+121	psychology	social anthropology
+122	regional anatomy	anthropology
+123	regional anatomy	social anthropology
+124	seismology	anthropology
+125	seismology	social anthropology
+126	social science	anthropology
+127	social science	social anthropology
+128	sociology	anthropology
+129	sociology	social anthropology
+130	systematics	anthropology
+131	systematics	social anthropology
+132	taxonomy	anthropology
+133	taxonomy	social anthropology
+134	triangulation	anthropology
+135	triangulation	social anthropology
+136	zoology	anthropology
+137	zoology	social anthropology
+138	clinical psychology	applied psychology
+139	physiological psychology	applied psychology
+140	marine archeology	archeology
+141	radio astronomy	astronomy
+142	bacteriology	biology
+143	biochemistry	biology
+144	biophysics	biology
+145	cytogenetics	biology
+146	cytology	biology
+147	enzymology	biology
+148	genetics	biology
+149	immunochemistry	biology
+150	microbiology	biology
+151	molecular biology	biology
+152	mycology	botany
+153	paleobotany	botany
+154	cognitive science	brain science
+155	differential calculus	calculus
+156	biochemistry	chemistry
+157	electrochemistry	chemistry
+158	femtochemistry	chemistry
+159	geochemistry	chemistry
+160	organic chemistry	chemistry
+161	photochemistry	chemistry
+162	physical chemistry	chemistry
+163	radiochemistry	chemistry
+164	rheology	chemistry
+165	thermochemistry	chemistry
+166	bioclimatology	climatology
+167	paleoclimatology	climatology
+168	cognitive neuroscience	cognitive psychology
+169	cognitive psychology	cognitive science
+170	curvilinear correlation	correlation
+171	negative correlation	correlation
+172	positive correlation	correlation
+173	partial correlation	correlation
+174	penology	criminology
+175	cosmetic dentistry	dentistry
+176	orthodontics	dentistry
+177	descriptive linguistics	descriptive grammar
+178	integral calculus	differential calculus
+179	hemodynamics	dynamics
+180	psychodynamics	dynamics
+181	natural science	earth science
+182	econometrics	economics
+183	econometrics	home economics
+184	microeconomics	economics
+185	microeconomics	home economics
+186	supply side economics	economics
+187	supply side economics	home economics
+188	paleoethnography	ethnography
+189	silviculture	forestry
+190	molecular genetics	genetics
+191	structural genomics	genomics
+192	biogeography	geography
+193	dialect geography	geography
+194	economic geography	geography
+195	paleogeography	geography
+196	physical geography	geography
+197	economic geology	geology
+198	hydrology	geology
+199	paleogeology	geology
+200	petroleum geology	geology
+201	analytic geometry	geometry
+202	elementary geometry	geometry
+203	fractal geometry	geometry
+204	non euclidean geometry	geometry
+205	plane geometry	geometry
+206	projective geometry	geometry
+207	solid geometry	geometry
+208	triangulation	geometry
+209	descriptive grammar	grammar
+210	phonology	grammar
+211	prescriptive linguistics	grammar
+212	sociolinguistics	grammar
+213	synchronic linguistics	grammar
+214	abnormal psychology	life science
+215	abnormal psychology	science
+216	acoustics	life science
+217	acoustics	science
+218	aerology	life science
+219	aerology	science
+220	aeronautics	life science
+221	aeronautics	science
+222	avionics	life science
+223	avionics	science
+224	agrobiology	life science
+225	agrobiology	science
+226	agrology	life science
+227	agrology	science
+228	algebra	life science
+229	algebra	science
+230	linear algebra	life science
+231	linear algebra	science
+232	alienism	life science
+233	alienism	science
+234	allergology	life science
+235	allergology	science
+236	analysis	life science
+237	analysis	science
+238	anatomy	life science
+239	anatomy	science
+240	anesthesiology	life science
+241	anesthesiology	science
+242	angiology	life science
+243	angiology	science
+244	anthropology	life science
+245	anthropology	science
+246	social anthropology	life science
+247	social anthropology	science
+248	architectonics	life science
+249	architectonics	science
+250	assyriology	life science
+251	assyriology	science
+252	astrodynamics	life science
+253	astrodynamics	science
+254	astronomy	life science
+255	astronomy	science
+256	astrophysics	life science
+257	astrophysics	science
+258	audiology	life science
+259	audiology	science
+260	behaviorism	life science
+261	behaviorism	science
+262	biology	life science
+263	biology	science
+264	biomedicine	life science
+265	biomedicine	science
+266	biometrics	life science
+267	biometrics	science
+268	biotechnology	life science
+269	biotechnology	science
+270	brain science	life science
+271	brain science	science
+272	calculus	life science
+273	calculus	science
+274	cardiology	life science
+275	cardiology	science
+276	catoptrics	life science
+277	catoptrics	science
+278	chemistry	life science
+279	chemistry	science
+280	correlation	life science
+281	correlation	science
+282	cosmography	life science
+283	cosmography	science
+284	cosmology	life science
+285	cosmology	science
+286	craniology	life science
+287	craniology	science
+288	craniometry	life science
+289	craniometry	science
+290	cryobiology	life science
+291	cryobiology	science
+292	cryogenics	life science
+293	cryogenics	science
+294	cryonics	life science
+295	cryonics	science
+296	crystallography	life science
+297	crystallography	science
+298	cybernetics	life science
+299	cybernetics	science
+300	deixis	life science
+301	deixis	science
+302	demography	life science
+303	demography	science
+304	dentistry	life science
+305	dentistry	science
+306	dermatoglyphics	life science
+307	dermatoglyphics	science
+308	developmental anatomy	life science
+309	developmental anatomy	science
+310	developmental psychology	life science
+311	developmental psychology	science
+312	dynamics	life science
+313	dynamics	science
+314	dysgenics	life science
+315	dysgenics	science
+316	earth science	life science
+317	earth science	science
+318	economics	life science
+319	economics	science
+320	home economics	life science
+321	home economics	science
+322	egyptology	life science
+323	egyptology	science
+324	electronics	life science
+325	electronics	science
+326	endocrinology	life science
+327	endocrinology	science
+328	endodontics	life science
+329	endodontics	science
+330	epidemiology	life science
+331	epidemiology	science
+332	etymology	life science
+333	etymology	science
+334	eugenics	life science
+335	eugenics	science
+336	euthenics	life science
+337	euthenics	science
+338	exobiology	life science
+339	exobiology	science
+340	exodontics	life science
+341	exodontics	science
+342	fetology	life science
+343	fetology	science
+344	finance	life science
+345	finance	science
+346	garbology	life science
+347	garbology	science
+348	gastroenterology	life science
+349	gastroenterology	science
+350	genetic engineering	life science
+351	genetic engineering	science
+352	genomics	life science
+353	genomics	science
+354	geography	life science
+355	geography	science
+356	geology	life science
+357	geology	science
+358	geometry	life science
+359	geometry	science
+360	geophysics	life science
+361	geophysics	science
+362	geriatrics	life science
+363	geriatrics	science
+364	grammar	life science
+365	grammar	science
+366	group theory	life science
+367	group theory	science
+368	set theory	life science
+369	set theory	science
+370	gynecology	life science
+371	gynecology	science
+372	obstetrics	life science
+373	obstetrics	science
+374	harmonics	life science
+375	harmonics	science
+376	hydrostatics	life science
+377	hydrostatics	science
+378	hypsography	life science
+379	hypsography	science
+380	immunology	life science
+381	immunology	science
+382	immunopathology	life science
+383	immunopathology	science
+384	information science	life science
+385	information science	science
+386	kinematics	life science
+387	kinematics	science
+388	lepidopterology	life science
+389	lepidopterology	science
+390	linear programming	life science
+391	linear programming	science
+392	linguistics	life science
+393	linguistics	science
+394	macrobiotics	life science
+395	macrobiotics	science
+396	malacology	life science
+397	malacology	science
+398	mechanics	life science
+399	mechanics	science
+400	medical science	life science
+401	medical science	science
+402	medicine	life science
+403	medicine	science
+404	memory	life science
+405	memory	science
+406	metallurgy	life science
+407	metallurgy	science
+408	metrology	life science
+409	metrology	science
+410	mineralogy	life science
+411	mineralogy	science
+412	morphology	life science
+413	morphology	science
+414	myology	life science
+415	myology	science
+416	neonatology	life science
+417	neonatology	science
+418	nephrology	life science
+419	nephrology	science
+420	neuroanatomy	life science
+421	neuroanatomy	science
+422	neurobiology	life science
+423	neurobiology	science
+424	neurology	life science
+425	neurology	science
+426	neuroscience	life science
+427	neuroscience	science
+428	oncology	life science
+429	oncology	science
+430	oology	life science
+431	oology	science
+432	ophthalmology	life science
+433	ophthalmology	science
+434	orology	life science
+435	orology	science
+436	orthoepy	life science
+437	orthoepy	science
+438	orthopedics	life science
+439	orthopedics	science
+440	otology	life science
+441	otology	science
+442	paleodendrology	life science
+443	paleodendrology	science
+444	paleography	life science
+445	paleography	science
+446	paleology	life science
+447	paleology	science
+448	paleopathology	life science
+449	paleopathology	science
+450	paleornithology	life science
+451	paleornithology	science
+452	paleozoology	life science
+453	paleozoology	science
+454	pediatrics	life science
+455	pediatrics	science
+456	perinatology	life science
+457	perinatology	science
+458	periodontics	life science
+459	periodontics	science
+460	petrology	life science
+461	petrology	science
+462	pharmacogenetics	life science
+463	pharmacogenetics	science
+464	phrenology	life science
+465	phrenology	science
+466	physics	life science
+467	physics	science
+468	physiological psychology	life science
+469	physiological psychology	science
+470	physiology	life science
+471	physiology	science
+472	phytochemistry	life science
+473	phytochemistry	science
+474	pneumatics	life science
+475	pneumatics	science
+476	podiatry	life science
+477	podiatry	science
+478	politics	life science
+479	politics	science
+480	pragmatics	life science
+481	pragmatics	science
+482	proctology	life science
+483	proctology	science
+484	prosthetics	life science
+485	prosthetics	science
+486	prosthodontics	life science
+487	prosthodontics	science
+488	proteomics	life science
+489	proteomics	science
+490	protoarcheology	life science
+491	protoarcheology	science
+492	protohistory	life science
+493	protohistory	science
+494	protozoology	life science
+495	protozoology	science
+496	proxemics	life science
+497	proxemics	science
+498	psychiatry	life science
+499	psychiatry	science
+500	psychometry	life science
+501	psychometry	science
+502	psychophysics	life science
+503	psychophysics	science
+504	psychotherapy	life science
+505	psychotherapy	science
+506	pteridology	life science
+507	pteridology	science
+508	quadratics	life science
+509	quadratics	science
+510	radiobiology	life science
+511	radiobiology	science
+512	radiology	life science
+513	radiology	science
+514	rheumatology	life science
+515	rheumatology	science
+516	rhinolaryngology	life science
+517	rhinolaryngology	science
+518	ritualism	life science
+519	ritualism	science
+520	semantics	life science
+521	semantics	science
+522	serology	life science
+523	serology	science
+524	social science	life science
+525	social science	science
+526	sociobiology	life science
+527	sociobiology	science
+528	speleology	life science
+529	speleology	science
+530	statics	life science
+531	statics	science
+532	statistics	life science
+533	statistics	science
+534	stratigraphy	life science
+535	stratigraphy	science
+536	structuralism	life science
+537	structuralism	science
+538	sumerology	life science
+539	sumerology	science
+540	surgery	life science
+541	surgery	science
+542	syntax	life science
+543	syntax	science
+544	teratology	life science
+545	teratology	science
+546	thanatology	life science
+547	thanatology	science
+548	therapeutics	life science
+549	therapeutics	science
+550	thermionics	life science
+551	thermionics	science
+552	topography	life science
+553	topography	science
+554	topology	life science
+555	topology	science
+556	trigonometry	life science
+557	trigonometry	science
+558	urology	life science
+559	urology	science
+560	virology	life science
+561	virology	science
+562	computational linguistics	linguistics
+563	descriptive linguistics	linguistics
+564	historical linguistics	linguistics
+565	neurolinguistics	linguistics
+566	phonology	linguistics
+567	prescriptive linguistics	linguistics
+568	sociolinguistics	linguistics
+569	synchronic linguistics	linguistics
+570	electromagnetism	magnetism
+571	paleomammalogy	mammalogy
+572	applied mathematics	mathematics
+573	arithmetic	mathematics
+574	metamathematics	mathematics
+575	pure mathematics	mathematics
+576	aeromechanics	mechanics
+577	celestial mechanics	mechanics
+578	classical mechanics	mechanics
+579	fluid mechanics	mechanics
+580	quantum physics	mechanics
+581	statistical mechanics	mechanics
+582	biomedical science	medical science
+583	biomedicine	medicine
+584	emergency medicine	medicine
+585	forensic medicine	medicine
+586	hygiene	medicine
+587	internal medicine	medicine
+588	nuclear medicine	medicine
+589	pharmacy	medicine
+590	space medicine	medicine
+591	sports medicine	medicine
+592	thoracic medicine	medicine
+593	toxicology	medicine
+594	traumatology	medicine
+595	tropical medicine	medicine
+596	veterinary medicine	medicine
+597	climatology	meteorology
+598	molecular genetics	molecular biology
+599	compound morphology	morphology
+600	derivational morphology	morphology
+601	inflectional morphology	morphology
+602	natural history	natural science
+603	spurious correlation	negative correlation
+604	spurious correlation	positive correlation
+605	cognitive neuroscience	neuroscience
+606	particle physics	nuclear physics
+607	hematology	oncology
+608	electron optics	optics
+609	inorganic chemistry	organic chemistry
+610	vertebrate paleontology	paleontology
+611	biophysics	physics
+612	electrostatics	physics
+613	hydrodynamics	physics
+614	magnetism	physics
+615	nuclear physics	physics
+616	optics	physics
+617	plasma physics	physics
+618	quantum physics	physics
+619	solar physics	physics
+620	solid state physics	physics
+621	statistical mechanics	physics
+622	thermodynamics	physics
+623	neurophysiology	physiology
+624	geopolitics	politics
+625	psephology	politics
+626	realpolitik	politics
+627	strategics	politics
+628	neuropsychiatry	psychiatry
+629	psychopharmacology	psychiatry
+630	abnormal psychology	psychology
+631	applied psychology	psychology
+632	cognitive psychology	psychology
+633	comparative psychology	psychology
+634	developmental psychology	psychology
+635	experimental psychology	psychology
+636	jungian psychology	psychology
+637	neuroscience	psychology
+638	psychophysics	psychology
+639	social psychology	psychology
+640	quantum electrodynamics	quantum mechanics
+641	quantum field theory	quantum mechanics
+642	quantum mechanics	quantum physics
+643	formal semantics	semantics
+644	lexical semantics	semantics
+645	nonparametric statistics	statistics
+646	dental surgery	surgery
+647	biosystematics	systematics

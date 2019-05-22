@@ -1,0 +1,540 @@
+0	blood agar	agar
+1	ginger ale	ale
+2	pale ale	ale
+3	chinese anise	anise
+4	onion bagel	bagel
+5	pearl barley	barley
+6	pancake batter	batter
+7	fritter batter	batter
+8	puff batter	batter
+9	root beer	beer
+10	munich beer	beer
+11	spruce beer	beer
+12	near beer	beer
+13	birch beer	beer
+14	draft beer	beer
+15	light beer	beer
+16	ginger beer	beer
+17	rolled biscuit	biscuit
+18	baking powder biscuit	biscuit
+19	drop biscuit	biscuit
+20	buttermilk biscuit	biscuit
+21	water biscuit	biscuit
+22	chenin blanc	blanc
+23	pinot blanc	blanc
+24	sauvignon blanc	blanc
+25	veal cordon bleu	bleu
+26	chicken cordon bleu	bleu
+27	hard boiled egg	boiled egg
+28	white bread	bread
+29	banana bread	bread
+30	garlic bread	bread
+31	nut bread	bread
+32	black bread	bread
+33	brown bread	bread
+34	date bread	bread
+35	caraway seed bread	bread
+36	spoon bread	bread
+37	gluten bread	bread
+38	quick bread	bread
+39	sour bread	bread
+40	graham bread	bread
+41	skillet bread	bread
+42	dark bread	bread
+43	irish soda bread	bread
+44	french bread	bread
+45	anadama bread	bread
+46	onion bread	bread
+47	cinnamon bread	bread
+48	tea bread	bread
+49	cracked wheat bread	bread
+50	italian bread	bread
+51	raisin bread	bread
+52	salt rising bread	bread
+53	rye bread	bread
+54	skillet corn bread	bread
+55	continental breakfast	breakfast
+56	power breakfast	breakfast
+57	home brew	brew
+58	peanut brittle	brittle
+59	scotch broth	broth
+60	beef broth	broth
+61	chicken broth	broth
+62	chinese brown sauce	brown sauce
+63	hamburger bun	bun
+64	frankfurter bun	bun
+65	cross bun	bun
+66	honey bun	bun
+67	beef burrito	burrito
+68	lobster butter	butter
+69	apple butter	butter
+70	shrimp butter	butter
+71	snail butter	butter
+72	yak butter	butter
+73	meuniere butter	butter
+74	peanut butter	butter
+75	clarified butter	butter
+76	brown butter	butter
+77	onion butter	butter
+78	pimento butter	butter
+79	nut butter	butter
+80	garlic butter	butter
+81	anchovy butter	butter
+82	rock candy	candy
+83	sugar candy	candy
+84	cotton candy	candy
+85	hard candy	candy
+86	creme caramel	caramel
+87	chicken casserole	casserole
+88	swiss cheese	cheese
+89	cheshire cheese	cheese
+90	grated cheese	cheese
+91	goat cheese	cheese
+92	process cheese	cheese
+93	hand cheese	cheese
+94	string cheese	cheese
+95	quark cheese	cheese
+96	rat cheese	cheese
+97	cream cheese	cheese
+98	cottage cheese	cheese
+99	brick cheese	cheese
+100	macaroni and cheese	cheese
+101	corn chip	chip
+102	tortilla chip	chip
+103	fish chowder	chowder
+104	clam chowder	chowder
+105	corn chowder	chowder
+106	sweet cider	cider
+107	hard cider	cider
+108	mulled cider	cider
+109	stick cinnamon	cinnamon
+110	new england clam chowder	clam chowder
+111	manhattan clam chowder	clam chowder
+112	crab cocktail	cocktail
+113	fruit cocktail	cocktail
+114	shrimp cocktail	cocktail
+115	drip coffee	coffee
+116	decaffeinated coffee	coffee
+117	instant coffee	coffee
+118	irish coffee	coffee
+119	iced coffee	coffee
+120	turkish coffee	coffee
+121	coca cola	cola
+122	tomato concentrate	concentrate
+123	candy corn	corn
+124	sweet corn	corn
+125	oyster cracker	cracker
+126	graham cracker	cracker
+127	soda cracker	cracker
+128	bavarian cream	cream
+129	light cream	cream
+130	ice cream	cream
+131	heavy cream	cream
+132	salad cream	cream
+133	egg cream	cream
+134	sour cream	cream
+135	double cream	cream
+136	clotted cream	cream
+137	triple cream	cream
+138	whipping cream	cream
+139	champagne cup	cup
+140	claret cup	cup
+141	bean curd	curd
+142	lemon curd	curd
+143	lamb curry	curry
+144	fruit custard	custard
+145	frozen custard	custard
+146	nada daiquiri	daiquiri
+147	strawberry daiquiri	daiquiri
+148	frozen dessert	dessert
+149	gelatin dessert	dessert
+150	fad diet	diet
+151	bland diet	diet
+152	low fat diet	diet
+153	light diet	diet
+154	low sodium diet	diet
+155	liquid diet	diet
+156	reducing diet	diet
+157	gluten free diet	diet
+158	high protein diet	diet
+159	allergy diet	diet
+160	low calorie diet	diet
+161	balanced diet	diet
+162	macrobiotic diet	diet
+163	diabetic diet	diet
+164	soft diet	diet
+165	high vitamin diet	diet
+166	boiled dinner	dinner
+167	bean dip	dip
+168	clam dip	dip
+169	cheese dip	dip
+170	side dish	dish
+171	bread dough	dough
+172	lorenzo dressing	dressing
+173	bleu cheese dressing	dressing
+174	thousand island dressing	dressing
+175	russian dressing	dressing
+176	french dressing	dressing
+177	blue cheese dressing	dressing
+178	italian dressing	dressing
+179	anchovy dressing	dressing
+180	half and half dressing	dressing
+181	apple dumpling	dumpling
+182	shirred egg	egg
+183	scotch egg	egg
+184	easter egg	egg
+185	deviled egg	egg
+186	poached egg	egg
+187	candy egg	egg
+188	fried egg	egg
+189	chocolate egg	egg
+190	boiled egg	egg
+191	elixir of life	elixir
+192	chicken feed	feed
+193	bird feed	feed
+194	creep feed	feed
+195	corn gluten feed	feed
+196	self rising flour	flour
+197	pea flour	flour
+198	plain flour	flour
+199	wheat flour	flour
+200	chocolate fondue	fondue
+201	cheese fondue	fondue
+202	beef fondue	fondue
+203	fast food	food
+204	dog food	food
+205	finger food	food
+206	canned food	food
+207	soul food	food
+208	miraculous food	food
+209	comfort food	food
+210	frozen food	food
+211	snack food	food
+212	dehydrated food	food
+213	cat food	food
+214	chocolate fudge	fudge
+215	sloe gin	gin
+216	bathtub gin	gin
+217	crystallized ginger	ginger
+218	pork and veal goulash	goulash
+219	beef goulash	goulash
+220	feed grain	grain
+221	corned beef hash	hash
+222	lye hominy	hominy
+223	pearl hominy	hominy
+224	choc ice	ice
+225	water ice	ice
+226	strawberry ice cream	ice cream
+227	vanilla ice cream	ice cream
+228	chocolate ice cream	ice cream
+229	peach ice cream	ice cream
+230	neapolitan ice cream	ice cream
+231	strawberry jam	jam
+232	calf's foot jelly	jelly
+233	apple jelly	jelly
+234	crabapple jelly	jelly
+235	grape jelly	jelly
+236	grape juice	juice
+237	pineapple juice	juice
+238	apple juice	juice
+239	v 8 juice	juice
+240	papaya juice	juice
+241	cranberry juice	juice
+242	lemon juice	juice
+243	tomato juice	juice
+244	orange juice	juice
+245	carrot juice	juice
+246	fruit juice	juice
+247	grapefruit juice	juice
+248	lime juice	juice
+249	scotch kiss	kiss
+250	meringue kiss	kiss
+251	molasses kiss	kiss
+252	chocolate kiss	kiss
+253	orange liqueur	liqueur
+254	coffee liqueur	liqueur
+255	clear liquid diet	liquid diet
+256	business lunch	lunch
+257	ploughman's lunch	lunch
+258	orange marmalade	marmalade
+259	petite marmite	marmite
+260	vodka martini	martini
+261	sour mash	mash
+262	green mayonnaise	mayonnaise
+263	blood meal	meal
+264	square meal	meal
+265	fish meal	meal
+266	soybean meal	meal
+267	matzo meal	meal
+268	oil meal	meal
+269	swedish meatball	meatball
+270	sour milk	milk
+271	semi skimmed milk	milk
+272	scalded milk	milk
+273	skim milk	milk
+274	raw milk	milk
+275	homogenized milk	milk
+276	chocolate milk	milk
+277	powdered milk	milk
+278	yak's milk	milk
+279	cows' milk	milk
+280	nonfat dry milk	milk
+281	goats' milk	milk
+282	condensed milk	milk
+283	whole milk	milk
+284	coconut milk	milk
+285	malted milk	milk
+286	soya milk	milk
+287	certified milk	milk
+288	acidophilus milk	milk
+289	mother's milk	milk
+290	evaporated milk	milk
+291	ice milk	milk
+292	pasteurized milk	milk
+293	low fat milk	milk
+294	cake mix	mix
+295	brownie mix	mix
+296	lemonade mix	mix
+297	ready mix	mix
+298	fish mousse	mousse
+299	chocolate mousse	mousse
+300	chicken mousse	mousse
+301	bran muffin	muffin
+302	english muffin	muffin
+303	corn muffin	muffin
+304	chinese mustard	mustard
+305	powdered mustard	mustard
+306	date nut bread	nut bread
+307	black olive	olive
+308	green olive	olive
+309	western omelet	omelet
+310	firm omelet	omelet
+311	french omelet	omelet
+312	fluffy omelet	omelet
+313	frozen orange juice	orange juice
+314	spanish paprika	paprika
+315	chicken paprika	paprika
+316	veal parmesan	parmesan
+317	duck pate	pate
+318	peppermint patty	patty
+319	split pea soup	pea soup
+320	green pea soup	pea soup
+321	black pepper	pepper
+322	white pepper	pepper
+323	dill pickle	pickle
+324	bread and butter pickle	pickle
+325	sweet pickle	pickle
+326	bulgur pilaf	pilaf
+327	anchovy pizza	pizza
+328	cheese pizza	pizza
+329	sausage pizza	pizza
+330	sicilian pizza	pizza
+331	pepperoni pizza	pizza
+332	sandwich plate	plate
+333	jacket potato	potato
+334	uruguay potato	potato
+335	mashed potato	potato
+336	baked potato	potato
+337	soft pretzel	pretzel
+338	suet pudding	pudding
+339	yorkshire pudding	pudding
+340	corn pudding	pudding
+341	tapioca pudding	pudding
+342	hasty pudding	pudding
+343	frozen pudding	pudding
+344	chocolate pudding	pudding
+345	carrot pudding	pudding
+346	plum pudding	pudding
+347	pease pudding	pudding
+348	vanilla pudding	pudding
+349	steamed pudding	pudding
+350	fruit punch	punch
+351	planter's punch	punch
+352	milk punch	punch
+353	fish house punch	punch
+354	k ration	ration
+355	c ration	ration
+356	field ration	ration
+357	pickle relish	relish
+358	chicken and rice	rice
+359	brown rice	rice
+360	spanish rice	rice
+361	fried rice	rice
+362	white rice	rice
+363	wild rice	rice
+364	gin rickey	rickey
+365	jamaica rum	rum
+366	swedish rye bread	rye bread
+367	jewish rye bread	rye bread
+368	clary sage	sage
+369	tuna fish salad	salad
+370	chicken salad	salad
+371	chef's salad	salad
+372	herring salad	salad
+373	potato salad	salad
+374	green salad	salad
+375	molded salad	salad
+376	waldorf salad	salad
+377	pasta salad	salad
+378	tossed salad	salad
+379	caesar salad	salad
+380	macaroni salad	salad
+381	combination salad	salad
+382	fruit salad	salad
+383	sour salt	salt
+384	seasoned salt	salt
+385	garlic salt	salt
+386	celery salt	salt
+387	onion salt	salt
+388	chicken sandwich	sandwich
+389	ham sandwich	sandwich
+390	open face sandwich	sandwich
+391	bacon lettuce tomato sandwich	sandwich
+392	club sandwich	sandwich
+393	white sauce	sauce
+394	chili sauce	sauce
+395	horseradish sauce	sauce
+396	hot fudge sauce	sauce
+397	apricot sauce	sauce
+398	chocolate sauce	sauce
+399	caper sauce	sauce
+400	mustard sauce	sauce
+401	spaghetti sauce	sauce
+402	hungarian sauce	sauce
+403	hunter's sauce	sauce
+404	anchovy sauce	sauce
+405	cranberry sauce	sauce
+406	mushroom sauce	sauce
+407	pepper sauce	sauce
+408	cocktail sauce	sauce
+409	lyonnaise sauce	sauce
+410	bread sauce	sauce
+411	remoulade sauce	sauce
+412	mornay sauce	sauce
+413	steak sauce	sauce
+414	brown sauce	sauce
+415	duck sauce	sauce
+416	bolognese pasta sauce	sauce
+417	barbecue sauce	sauce
+418	peach sauce	sauce
+419	hot sauce	sauce
+420	tartare sauce	sauce
+421	plum sauce	sauce
+422	newburg sauce	sauce
+423	taco sauce	sauce
+424	worcester sauce	sauce
+425	cheese sauce	sauce
+426	cream sauce	sauce
+427	curry sauce	sauce
+428	tomato sauce	sauce
+429	wine sauce	sauce
+430	mint sauce	sauce
+431	hard sauce	sauce
+432	soy sauce	sauce
+433	summer savory	savory
+434	winter savory	savory
+435	drop scone	scone
+436	rum sling	sling
+437	gin sling	sling
+438	brandy sling	sling
+439	cheese souffle	souffle
+440	pea soup	soup
+441	chicken soup	soup
+442	alphabet soup	soup
+443	eggdrop soup	soup
+444	lentil soup	soup
+445	turtle soup	soup
+446	oxtail soup	soup
+447	whiskey sour	sour
+448	banana split	split
+449	cheese spread	spread
+450	beef stew	stew
+451	lobster stew	stew
+452	chicken stew	stew
+453	oyster stew	stew
+454	fish stew	stew
+455	irish stew	stew
+456	mulligan stew	stew
+457	turkey stew	stew
+458	brunswick stew	stew
+459	fish stick	stick
+460	carrot stick	stick
+461	celery stick	stick
+462	turkey stuffing	stuffing
+463	oyster stuffing	stuffing
+464	barley sugar	sugar
+465	beet sugar	sugar
+466	castor sugar	sugar
+467	granulated sugar	sugar
+468	cane sugar	sugar
+469	powdered sugar	sugar
+470	corn sugar	sugar
+471	lump sugar	sugar
+472	icing sugar	sugar
+473	brown sugar	sugar
+474	last supper	supper
+475	sugar syrup	syrup
+476	maple syrup	syrup
+477	corn syrup	syrup
+478	chicken taco	taco
+479	molasses taffy	taffy
+480	black tea	tea
+481	camomile tea	tea
+482	high tea	tea
+483	ice tea	tea
+484	herb tea	tea
+485	green tea	tea
+486	sun tea	tea
+487	cambric tea	tea
+488	chicken tetrazzini	tetrazzini
+489	melba toast	toast
+490	cinnamon toast	toast
+491	orange toast	toast
+492	french toast	toast
+493	gin and tonic	tonic
+494	bean tostada	tostada
+495	apple turnover	turnover
+496	mock turtle soup	turtle soup
+497	dry vermouth	vermouth
+498	sweet vermouth	vermouth
+499	wine vinegar	vinegar
+500	cider vinegar	vinegar
+501	chili vinegar	vinegar
+502	water soluble vitamin	vitamin
+503	fat soluble vitamin	vitamin
+504	b complex vitamin	vitamin
+505	sugar water	water
+506	branch water	water
+507	mineral water	water
+508	drinking water	water
+509	ice water	water
+510	barley water	water
+511	vichy water	water
+512	lithia water	water
+513	bottled water	water
+514	soda water	water
+515	spring water	water
+516	cracked wheat	wheat
+517	whole wheat flour	wheat flour
+518	prune whip	whip
+519	blended whiskey	whiskey
+520	corn whiskey	whiskey
+521	sparkling wine	wine
+522	table wine	wine
+523	white wine	wine
+524	blush wine	wine
+525	red wine	wine
+526	fortified wine	wine
+527	mulled wine	wine
+528	jug wine	wine
+529	canary wine	wine
+530	rhone wine	wine
+531	rhine wine	wine
+532	altar wine	wine
+533	california wine	wine
+534	straw wine	wine
+535	dessert wine	wine
+536	may wine	wine
+537	blueberry yogurt	yogurt
+538	frozen yogurt	yogurt
+539	egg yolk	yolk

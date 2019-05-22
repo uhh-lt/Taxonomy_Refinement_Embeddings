@@ -1,0 +1,929 @@
+0	abnormal psychology	applied psychology
+1	abnormal psychology	clinical psychology
+2	abnormal psychology	developmental psychology
+3	abnormal psychology	physiological psychology
+4	abnormal psychology	social psychology
+5	abnormal psychology	psychology
+6	acoustics	fluid mechanics
+7	acoustics	optics
+8	acoustics	mechanics
+9	algebra	calculus
+10	algebra	group theory
+11	algebra	linear algebra
+12	algebra	mathematics
+13	algebra	theory
+14	analytic geometry	calculus
+15	analytic geometry	differential calculus
+16	analytic geometry	integral calculus
+17	analytic geometry	linear algebra
+18	analytic geometry	non euclidean geometry
+19	analytic geometry	projective geometry
+20	analytic geometry	trigonometry
+21	analytic geometry	geometry
+22	anatomy	biochemistry
+23	anatomy	comparative anatomy
+24	anatomy	embryology
+25	anatomy	medicine
+26	anatomy	pathology
+27	anatomy	physiology
+28	anatomy	anatomy
+29	anesthesiology	emergency medicine
+30	anesthesiology	gynecology
+31	anesthesiology	internal medicine
+32	anesthesiology	obstetrics
+33	anesthesiology	orthopedics
+34	anesthesiology	pediatrics
+35	anesthesiology	radiology
+36	anesthesiology	medicine
+37	anthropology	ethnography
+38	anthropology	ethnology
+39	anthropology	psychology
+40	anthropology	social anthropology
+41	anthropology	social science
+42	anthropology	sociology
+43	anthropology	anthropology
+44	applied mathematics	mathematics
+45	applied mathematics	numerical analysis
+46	applied mathematics	pure mathematics
+47	applied mathematics	mathematics
+48	applied psychology	clinical psychology
+49	applied psychology	criminology
+50	applied psychology	developmental psychology
+51	applied psychology	experimental psychology
+52	applied psychology	psychology
+53	applied psychology	social psychology
+54	applied psychology	social science
+55	applied psychology	psychology
+56	astrodynamics	celestial mechanics
+57	astrodynamics	hydrodynamics
+58	astrodynamics	plasma physics
+59	astrodynamics	mechanics
+60	astrometry	celestial mechanics
+61	astrometry	geodesy
+62	astrometry	mechanics
+63	astrophysics	astronomy
+64	astrophysics	biophysics
+65	astrophysics	nuclear physics
+66	astrophysics	particle physics
+67	astrophysics	physics
+68	astrophysics	plasma physics
+69	astrophysics	physics
+70	audiology	clinical psychology
+71	audiology	dietetics
+72	audiology	ophthalmology
+73	audiology	orthopedics
+74	audiology	podiatry
+75	audiology	psychology
+76	bacteriology	biochemistry
+77	bacteriology	immunology
+78	bacteriology	microbiology
+79	bacteriology	molecular genetics
+80	bacteriology	pathology
+81	bacteriology	pharmacology
+82	bacteriology	virology
+83	bacteriology	genetics
+84	biochemistry	biophysics
+85	biochemistry	chemistry
+86	biochemistry	immunology
+87	biochemistry	microbiology
+88	biochemistry	molecular biology
+89	biochemistry	molecular genetics
+90	biochemistry	pharmacology
+91	biochemistry	physiology
+92	biochemistry	biology
+93	biology	biochemistry
+94	biology	chemistry
+95	biology	ecology
+96	biology	genetics
+97	biology	microbiology
+98	biology	molecular biology
+99	biology	physiology
+100	biology	zoology
+101	biology	biology
+102	biomedical science	biomedicine
+103	biomedical science	medical science
+104	biomedical science	science
+105	biophysics	biochemistry
+106	biophysics	molecular biology
+107	biophysics	molecular genetics
+108	biophysics	neurobiology
+109	biophysics	neuroscience
+110	biophysics	physical chemistry
+111	biophysics	biology
+112	biotechnology	biochemistry
+113	biotechnology	genetic engineering
+114	biotechnology	genomics
+115	biotechnology	microbiology
+116	biotechnology	engineering
+117	brain science	cognitive neuroscience
+118	brain science	cognitive science
+119	brain science	neuroscience
+120	brain science	science
+121	cardiology	endocrinology
+122	cardiology	gynecology
+123	cardiology	internal medicine
+124	cardiology	neurology
+125	cardiology	oncology
+126	cardiology	ophthalmology
+127	cardiology	pediatrics
+128	cardiology	radiology
+129	cardiology	medicine
+130	celestial mechanics	applied mathematics
+131	celestial mechanics	astrodynamics
+132	celestial mechanics	astrometry
+133	celestial mechanics	astronomy
+134	celestial mechanics	astrophysics
+135	celestial mechanics	classical mechanics
+136	celestial mechanics	hydrodynamics
+137	celestial mechanics	quantum physics
+138	celestial mechanics	mechanics
+139	chemistry	biochemistry
+140	chemistry	biology
+141	chemistry	mathematics
+142	chemistry	organic chemistry
+143	chemistry	physical chemistry
+144	chemistry	physics
+145	chemistry	physiology
+146	chemistry	chemistry
+147	classical mechanics	quantum field theory
+148	classical mechanics	quantum mechanics
+149	classical mechanics	statistical mechanics
+150	classical mechanics	thermodynamics
+151	classical mechanics	mechanics
+152	clinical anatomy	anatomy
+153	clinical psychology	applied psychology
+154	clinical psychology	developmental psychology
+155	clinical psychology	experimental psychology
+156	clinical psychology	psychiatry
+157	clinical psychology	psychology
+158	clinical psychology	social psychology
+159	clinical psychology	psychology
+160	cognitive neuroscience	cognitive psychology
+161	cognitive neuroscience	cognitive science
+162	cognitive neuroscience	developmental psychology
+163	cognitive neuroscience	neurobiology
+164	cognitive neuroscience	neurophysiology
+165	cognitive neuroscience	neuroscience
+166	cognitive neuroscience	neuroscience
+167	cognitive psychology	cognitive neuroscience
+168	cognitive psychology	cognitive science
+169	cognitive psychology	developmental psychology
+170	cognitive psychology	experimental psychology
+171	cognitive psychology	neuroscience
+172	cognitive psychology	psychology
+173	cognitive psychology	social psychology
+174	cognitive psychology	psychology
+175	cognitive science	cognitive neuroscience
+176	cognitive science	cognitive psychology
+177	cognitive science	neuroscience
+178	cognitive science	science
+179	comparative anatomy	embryology
+180	comparative anatomy	forensic medicine
+181	comparative anatomy	neurobiology
+182	comparative anatomy	paleontology
+183	comparative anatomy	physiology
+184	comparative anatomy	zoology
+185	comparative anatomy	anatomy
+186	comparative psychology	cognitive neuroscience
+187	comparative psychology	cognitive psychology
+188	comparative psychology	cognitive science
+189	comparative psychology	developmental psychology
+190	comparative psychology	ethology
+191	comparative psychology	experimental psychology
+192	comparative psychology	physiological psychology
+193	comparative psychology	social psychology
+194	comparative psychology	psychology
+195	compound morphology	morphology
+196	computational linguistics	cognitive neuroscience
+197	computational linguistics	cognitive psychology
+198	computational linguistics	cognitive science
+199	computational linguistics	linguistics
+200	computational linguistics	pragmatics
+201	computational linguistics	linguistics
+202	cosmetic dentistry	dentistry
+203	cosmetic dentistry	endodontics
+204	cosmetic dentistry	periodontics
+205	cosmetic dentistry	prosthodontics
+206	cosmetic dentistry	dentistry
+207	cosmology	astrophysics
+208	cosmology	particle physics
+209	cosmology	quantum field theory
+210	cosmology	quantum physics
+211	cosmology	physics
+212	criminology	anthropology
+213	criminology	psychology
+214	criminology	social anthropology
+215	criminology	social science
+216	criminology	sociology
+217	criminology	anthropology
+218	cryogenics	plasma physics
+219	cryogenics	radiochemistry
+220	cryogenics	physics
+221	curvilinear correlation	correlation
+222	cybernetics	applied mathematics
+223	cybernetics	biophysics
+224	cybernetics	cognitive science
+225	cybernetics	mathematics
+226	cytogenetics	biochemistry
+227	cytogenetics	cytology
+228	cytogenetics	genetics
+229	cytogenetics	hematology
+230	cytogenetics	molecular genetics
+231	cytogenetics	oncology
+232	cytogenetics	genetics
+233	dental anatomy	anatomy
+234	dental surgery	anesthesiology
+235	dental surgery	dentistry
+236	dental surgery	ophthalmology
+237	dental surgery	orthodontics
+238	dental surgery	surgery
+239	dentistry	anesthesiology
+240	dentistry	dental surgery
+241	dentistry	ophthalmology
+242	dentistry	orthodontics
+243	dentistry	periodontics
+244	dentistry	pharmacy
+245	dentistry	surgery
+246	derivational morphology	inflectional morphology
+247	derivational morphology	morphology
+248	descriptive grammar	grammar
+249	descriptive linguistics	historical linguistics
+250	descriptive linguistics	linguistics
+251	descriptive linguistics	linguistics
+252	developmental anatomy	anatomy
+253	developmental psychology	clinical psychology
+254	developmental psychology	cognitive neuroscience
+255	developmental psychology	cognitive psychology
+256	developmental psychology	cognitive science
+257	developmental psychology	experimental psychology
+258	developmental psychology	social psychology
+259	developmental psychology	psychology
+260	dialect geography	geography
+261	differential calculus	algebra
+262	differential calculus	analytic geometry
+263	differential calculus	calculus
+264	differential calculus	integral calculus
+265	differential calculus	calculus
+266	earth science	life science
+267	earth science	oceanography
+268	earth science	science
+269	econometrics	applied mathematics
+270	econometrics	microeconomics
+271	econometrics	mathematics
+272	economic geography	geopolitics
+273	economic geography	physical geography
+274	economic geography	geography
+275	economic geology	geochemistry
+276	economic geology	geology
+277	economic geology	geophysics
+278	economic geology	mineralogy
+279	economic geology	petrology
+280	economic geology	stratigraphy
+281	economic geology	geology
+282	economics	social science
+283	economics	sociology
+284	economics	science
+285	electron optics	optics
+286	elementary geometry	projective geometry
+287	elementary geometry	geometry
+288	embryology	biochemistry
+289	embryology	comparative anatomy
+290	embryology	neurobiology
+291	embryology	physiology
+292	embryology	virology
+293	embryology	anatomy
+294	emergency medicine	anesthesiology
+295	emergency medicine	cardiology
+296	emergency medicine	endocrinology
+297	emergency medicine	gynecology
+298	emergency medicine	internal medicine
+299	emergency medicine	obstetrics
+300	emergency medicine	ophthalmology
+301	emergency medicine	pediatrics
+302	emergency medicine	medicine
+303	endocrinology	cardiology
+304	endocrinology	gynecology
+305	endocrinology	hematology
+306	endocrinology	internal medicine
+307	endocrinology	nephrology
+308	endocrinology	neurology
+309	endocrinology	oncology
+310	endocrinology	pediatrics
+311	endocrinology	medicine
+312	entomology	botany
+313	entomology	microbiology
+314	entomology	natural history
+315	entomology	zoology
+316	entomology	history
+317	ethology	cognitive psychology
+318	ethology	comparative psychology
+319	ethology	developmental psychology
+320	ethology	neurobiology
+321	ethology	neuroscience
+322	ethology	sociobiology
+323	ethology	psychology
+324	experimental psychology	applied psychology
+325	experimental psychology	clinical psychology
+326	experimental psychology	cognitive neuroscience
+327	experimental psychology	cognitive psychology
+328	experimental psychology	cognitive science
+329	experimental psychology	developmental psychology
+330	experimental psychology	psychology
+331	experimental psychology	social psychology
+332	experimental psychology	psychology
+333	fluid mechanics	applied mathematics
+334	fluid mechanics	hydrodynamics
+335	fluid mechanics	plasma physics
+336	fluid mechanics	solid state physics
+337	fluid mechanics	thermodynamics
+338	fluid mechanics	mechanics
+339	forensic medicine	microbiology
+340	forensic medicine	obstetrics
+341	forensic medicine	ophthalmology
+342	forensic medicine	pathology
+343	forensic medicine	pharmacology
+344	forensic medicine	toxicology
+345	forensic medicine	medicine
+346	formal semantics	pragmatics
+347	formal semantics	semantics
+348	formal semantics	semantics
+349	fourier analysis	numerical analysis
+350	fourier analysis	analysis
+351	fractal geometry	geometry
+352	functional anatomy	anatomy
+353	genetic engineering	biotechnology
+354	genetic engineering	genetics
+355	genetic engineering	genomics
+356	genetic engineering	molecular biology
+357	genetic engineering	engineering
+358	genetics	biochemistry
+359	genetics	epidemiology
+360	genetics	genomics
+361	genetics	immunology
+362	genetics	microbiology
+363	genetics	molecular biology
+364	genetics	molecular genetics
+365	genetics	biology
+366	genomics	biotechnology
+367	genomics	genetics
+368	genomics	molecular biology
+369	genomics	molecular genetics
+370	genomics	proteomics
+371	genomics	biology
+372	geology	geochemistry
+373	geology	geophysics
+374	geology	mineralogy
+375	geology	physical geography
+376	geology	stratigraphy
+377	geology	geography
+378	geriatrics	endocrinology
+379	geriatrics	gynecology
+380	geriatrics	internal medicine
+381	geriatrics	nephrology
+382	geriatrics	ophthalmology
+383	geriatrics	orthopedics
+384	geriatrics	pediatrics
+385	geriatrics	rheumatology
+386	geriatrics	medicine
+387	gross anatomy	biochemistry
+388	gross anatomy	embryology
+389	gross anatomy	forensic medicine
+390	gross anatomy	microscopic anatomy
+391	gross anatomy	neuroanatomy
+392	gross anatomy	neurobiology
+393	gross anatomy	regional anatomy
+394	gross anatomy	anatomy
+395	group theory	algebra
+396	group theory	linear algebra
+397	group theory	theory
+398	gynecology	anesthesiology
+399	gynecology	cardiology
+400	gynecology	internal medicine
+401	gynecology	obstetrics
+402	gynecology	ophthalmology
+403	gynecology	orthopedics
+404	gynecology	pediatrics
+405	gynecology	medicine
+406	hematology	cardiology
+407	hematology	endocrinology
+408	hematology	immunology
+409	hematology	internal medicine
+410	hematology	nephrology
+411	hematology	oncology
+412	hematology	ophthalmology
+413	hematology	medicine
+414	historical linguistics	linguistics
+415	historical linguistics	linguistics
+416	home economics	economics
+417	hydrodynamics	celestial mechanics
+418	hydrodynamics	fluid mechanics
+419	hydrodynamics	hydrostatics
+420	hydrodynamics	plasma physics
+421	hydrodynamics	thermodynamics
+422	hydrodynamics	mechanics
+423	hydrostatics	celestial mechanics
+424	hydrostatics	classical mechanics
+425	hydrostatics	hydrodynamics
+426	hydrostatics	pneumatics
+427	hydrostatics	statics
+428	hydrostatics	mechanics
+429	hyperbolic geometry	geometry
+430	hyperbolic geometry	non euclidean geometry
+431	hyperbolic geometry	projective geometry
+432	hyperbolic geometry	spherical geometry
+433	hyperbolic geometry	geometry
+434	immunology	biochemistry
+435	immunology	endocrinology
+436	immunology	hematology
+437	immunology	microbiology
+438	immunology	molecular biology
+439	immunology	oncology
+440	immunology	pharmacology
+441	immunology	virology
+442	immunology	biology
+443	inflectional morphology	derivational morphology
+444	inflectional morphology	morphology
+445	information science	science
+446	inorganic chemistry	biochemistry
+447	inorganic chemistry	biophysics
+448	inorganic chemistry	organic chemistry
+449	inorganic chemistry	physical chemistry
+450	inorganic chemistry	chemistry
+451	integral calculus	analytic geometry
+452	integral calculus	calculus
+453	integral calculus	differential calculus
+454	integral calculus	linear algebra
+455	integral calculus	trigonometry
+456	integral calculus	calculus
+457	internal medicine	anesthesiology
+458	internal medicine	cardiology
+459	internal medicine	emergency medicine
+460	internal medicine	gynecology
+461	internal medicine	neurology
+462	internal medicine	obstetrics
+463	internal medicine	ophthalmology
+464	internal medicine	pediatrics
+465	internal medicine	medicine
+466	jungian psychology	psychodynamics
+467	jungian psychology	psychology
+468	kinematics	classical mechanics
+469	kinematics	hydrodynamics
+470	kinematics	statics
+471	kinematics	mechanics
+472	lexical semantics	cognitive psychology
+473	lexical semantics	computational linguistics
+474	lexical semantics	pragmatics
+475	lexical semantics	semantics
+476	lexical semantics	semantics
+477	life science	biotechnology
+478	life science	earth science
+479	life science	science
+480	linear algebra	algebra
+481	linear algebra	analytic geometry
+482	linear algebra	group theory
+483	linear algebra	numerical analysis
+484	linear algebra	algebra
+485	linear programming	programming
+486	linguistics	anthropology
+487	linguistics	historical linguistics
+488	linguistics	sociology
+489	linguistics	linguistics
+490	marine archeology	archeology
+491	mathematics	algebra
+492	mathematics	applied mathematics
+493	mathematics	chemistry
+494	mathematics	geometry
+495	mathematics	physics
+496	mathematics	mathematics
+497	matrix algebra	algebra
+498	matrix algebra	linear algebra
+499	matrix algebra	algebra
+500	mechanics	applied mathematics
+501	mechanics	dynamics
+502	mechanics	fluid mechanics
+503	mechanics	mathematics
+504	mechanics	physics
+505	mechanics	mathematics
+506	medical science	biomedicine
+507	medical science	dentistry
+508	medical science	medicine
+509	medical science	science
+510	microbiology	bacteriology
+511	microbiology	biochemistry
+512	microbiology	immunology
+513	microbiology	molecular biology
+514	microbiology	pathology
+515	microbiology	pharmacology
+516	microbiology	virology
+517	microbiology	biology
+518	microscopic anatomy	comparative anatomy
+519	microscopic anatomy	embryology
+520	microscopic anatomy	gross anatomy
+521	microscopic anatomy	regional anatomy
+522	microscopic anatomy	anatomy
+523	molecular biology	biochemistry
+524	molecular biology	biophysics
+525	molecular biology	genetics
+526	molecular biology	immunology
+527	molecular biology	microbiology
+528	molecular biology	molecular genetics
+529	molecular biology	virology
+530	molecular biology	biology
+531	molecular genetics	biochemistry
+532	molecular genetics	biophysics
+533	molecular genetics	genetics
+534	molecular genetics	immunology
+535	molecular genetics	microbiology
+536	molecular genetics	molecular biology
+537	molecular genetics	neurobiology
+538	molecular genetics	genetics
+539	natural history	anthropology
+540	natural history	zoology
+541	natural history	history
+542	natural science	anthropology
+543	natural science	social science
+544	natural science	zoology
+545	natural science	science
+546	negative correlation	positive correlation
+547	negative correlation	correlation
+548	neuroanatomy	cognitive neuroscience
+549	neuroanatomy	embryology
+550	neuroanatomy	neurobiology
+551	neuroanatomy	neurology
+552	neuroanatomy	neurophysiology
+553	neuroanatomy	neuroscience
+554	neuroanatomy	neuroscience
+555	neurobiology	biophysics
+556	neurobiology	cognitive neuroscience
+557	neurobiology	immunology
+558	neurobiology	molecular genetics
+559	neurobiology	neurology
+560	neurobiology	neurophysiology
+561	neurobiology	neuroscience
+562	neurobiology	neuroscience
+563	neurology	cardiology
+564	neurology	endocrinology
+565	neurology	gynecology
+566	neurology	internal medicine
+567	neurology	oncology
+568	neurology	ophthalmology
+569	neurology	pediatrics
+570	neurology	psychiatry
+571	neurology	medicine
+572	neurophysiology	biophysics
+573	neurophysiology	cognitive neuroscience
+574	neurophysiology	neuroanatomy
+575	neurophysiology	neurobiology
+576	neurophysiology	neurology
+577	neurophysiology	neuroscience
+578	neurophysiology	neuroscience
+579	neuropsychiatry	cognitive neuroscience
+580	neuropsychiatry	neurology
+581	neuropsychiatry	neurophysiology
+582	neuropsychiatry	psychiatry
+583	neuropsychiatry	rheumatology
+584	neuropsychiatry	neuroscience
+585	neuroscience	biophysics
+586	neuroscience	cognitive neuroscience
+587	neuroscience	cognitive psychology
+588	neuroscience	cognitive science
+589	neuroscience	neurobiology
+590	neuroscience	neurology
+591	neuroscience	neuroscience
+592	non euclidean geometry	analytic geometry
+593	non euclidean geometry	geometry
+594	non euclidean geometry	hyperbolic geometry
+595	non euclidean geometry	projective geometry
+596	non euclidean geometry	spherical geometry
+597	non euclidean geometry	euclidean geometry
+598	nonparametric statistics	statistics
+599	nuclear medicine	cardiology
+600	nuclear medicine	oncology
+601	nuclear medicine	ophthalmology
+602	nuclear medicine	radiology
+603	nuclear medicine	medicine
+604	nuclear physics	astrophysics
+605	nuclear physics	biophysics
+606	nuclear physics	particle physics
+607	nuclear physics	physical chemistry
+608	nuclear physics	physics
+609	nuclear physics	plasma physics
+610	nuclear physics	solid state physics
+611	nuclear physics	physics
+612	numerical analysis	applied mathematics
+613	numerical analysis	linear algebra
+614	numerical analysis	pure mathematics
+615	numerical analysis	analysis
+616	obstetrics	anesthesiology
+617	obstetrics	gynecology
+618	obstetrics	internal medicine
+619	obstetrics	ophthalmology
+620	obstetrics	orthopedics
+621	obstetrics	pediatrics
+622	obstetrics	medicine
+623	organic chemistry	biochemistry
+624	organic chemistry	biophysics
+625	organic chemistry	chemistry
+626	organic chemistry	inorganic chemistry
+627	organic chemistry	physical chemistry
+628	organic chemistry	chemistry
+629	paleobotany	developmental psychology
+630	paleobotany	paleontology
+631	paleobotany	paleozoology
+632	paleobotany	physical anthropology
+633	paleobotany	psychology
+634	partial correlation	correlation
+635	particle physics	astrophysics
+636	particle physics	cosmology
+637	particle physics	nuclear physics
+638	particle physics	quantum field theory
+639	particle physics	quantum mechanics
+640	particle physics	quantum physics
+641	particle physics	solid state physics
+642	particle physics	physics
+643	pediatrics	cardiology
+644	pediatrics	gynecology
+645	pediatrics	internal medicine
+646	pediatrics	neurology
+647	pediatrics	obstetrics
+648	pediatrics	oncology
+649	pediatrics	ophthalmology
+650	pediatrics	psychiatry
+651	pediatrics	medicine
+652	penology	applied psychology
+653	penology	criminology
+654	penology	dietetics
+655	penology	psychology
+656	petroleum geology	geochemistry
+657	petroleum geology	geophysics
+658	petroleum geology	petrology
+659	petroleum geology	stratigraphy
+660	petroleum geology	geology
+661	petrology	economic geology
+662	petrology	geochemistry
+663	petrology	geophysics
+664	petrology	mineralogy
+665	petrology	geology
+666	pharmacology	biochemistry
+667	pharmacology	forensic medicine
+668	pharmacology	immunology
+669	pharmacology	microbiology
+670	pharmacology	pathology
+671	pharmacology	therapeutics
+672	pharmacology	toxicology
+673	pharmacology	medicine
+674	photochemistry	organic chemistry
+675	photochemistry	physical chemistry
+676	photochemistry	chemistry
+677	physical anthropology	anthropology
+678	physical anthropology	ethnology
+679	physical anthropology	social anthropology
+680	physical anthropology	anthropology
+681	physical chemistry	biochemistry
+682	physical chemistry	biophysics
+683	physical chemistry	chemistry
+684	physical chemistry	inorganic chemistry
+685	physical chemistry	organic chemistry
+686	physical chemistry	solid state physics
+687	physical chemistry	chemistry
+688	physical geography	economic geography
+689	physical geography	geology
+690	physical geography	geophysics
+691	physical geography	oceanography
+692	physical geography	topography
+693	physical geography	geography
+694	physics	applied mathematics
+695	physics	astrophysics
+696	physics	chemistry
+697	physics	mathematics
+698	physics	nuclear physics
+699	physics	mathematics
+700	physiological psychology	clinical psychology
+701	physiological psychology	cognitive neuroscience
+702	physiological psychology	cognitive psychology
+703	physiological psychology	developmental psychology
+704	physiological psychology	experimental psychology
+705	physiological psychology	psychology
+706	plane geometry	analytic geometry
+707	plane geometry	hyperbolic geometry
+708	plane geometry	projective geometry
+709	plane geometry	solid geometry
+710	plane geometry	trigonometry
+711	plane geometry	geometry
+712	plasma physics	astrophysics
+713	plasma physics	biophysics
+714	plasma physics	nuclear physics
+715	plasma physics	particle physics
+716	plasma physics	solid state physics
+717	plasma physics	physics
+718	positive correlation	correlation
+719	positive correlation	negative correlation
+720	positive correlation	correlation
+721	prescriptive linguistics	linguistics
+722	problem solving	solving
+723	projective geometry	analytic geometry
+724	projective geometry	geometry
+725	projective geometry	group theory
+726	projective geometry	non euclidean geometry
+727	projective geometry	plane geometry
+728	projective geometry	quantum field theory
+729	projective geometry	geometry
+730	psychiatry	gynecology
+731	psychiatry	internal medicine
+732	psychiatry	neurology
+733	psychiatry	obstetrics
+734	psychiatry	oncology
+735	psychiatry	ophthalmology
+736	psychiatry	pediatrics
+737	psychiatry	medicine
+738	psychodynamics	abnormal psychology
+739	psychodynamics	jungian psychology
+740	psychodynamics	psychology
+741	psychology	anthropology
+742	psychology	social psychology
+743	psychology	social science
+744	psychology	sociology
+745	psychology	psychology
+746	psychophysics	cognitive neuroscience
+747	psychophysics	cognitive psychology
+748	psychophysics	developmental psychology
+749	psychophysics	experimental psychology
+750	psychophysics	neurophysiology
+751	psychophysics	neuroscience
+752	psychotherapy	clinical psychology
+753	psychotherapy	psychiatry
+754	psychotherapy	psychology
+755	pure mathematics	applied mathematics
+756	pure mathematics	numerical analysis
+757	pure mathematics	solid state physics
+758	pure mathematics	mathematics
+759	quantum electrodynamics	particle physics
+760	quantum electrodynamics	quantum field theory
+761	quantum electrodynamics	quantum mechanics
+762	quantum electrodynamics	electrodynamics
+763	quantum field theory	particle physics
+764	quantum field theory	quantum electrodynamics
+765	quantum field theory	quantum mechanics
+766	quantum field theory	quantum physics
+767	quantum field theory	statistical mechanics
+768	quantum field theory	field theory
+769	quantum mechanics	classical mechanics
+770	quantum mechanics	quantum field theory
+771	quantum mechanics	quantum physics
+772	quantum mechanics	statistical mechanics
+773	quantum mechanics	mechanics
+774	quantum physics	cosmology
+775	quantum physics	nuclear physics
+776	quantum physics	particle physics
+777	quantum physics	quantum field theory
+778	quantum physics	quantum mechanics
+779	quantum physics	statistical mechanics
+780	quantum physics	physics
+781	radio astronomy	astronomy
+782	radio astronomy	astrophysics
+783	radio astronomy	astronomy
+784	radiochemistry	inorganic chemistry
+785	radiochemistry	nuclear physics
+786	radiochemistry	organic chemistry
+787	radiochemistry	physical chemistry
+788	radiochemistry	radiobiology
+789	radiochemistry	solid state physics
+790	radiochemistry	chemistry
+791	regional anatomy	anatomy
+792	set theory	theory
+793	social anthropology	anthropology
+794	social anthropology	criminology
+795	social anthropology	ethnology
+796	social anthropology	social psychology
+797	social anthropology	social science
+798	social anthropology	sociology
+799	social anthropology	anthropology
+800	social psychology	clinical psychology
+801	social psychology	cognitive psychology
+802	social psychology	cognitive science
+803	social psychology	developmental psychology
+804	social psychology	experimental psychology
+805	social psychology	psychology
+806	social psychology	sociology
+807	social psychology	psychology
+808	social science	anthropology
+809	social science	economics
+810	social science	natural science
+811	social science	psychology
+812	social science	sociology
+813	social science	science
+814	sociobiology	developmental psychology
+815	sociobiology	ethology
+816	sociobiology	psychology
+817	solar physics	astronomy
+818	solar physics	astrophysics
+819	solar physics	geophysics
+820	solar physics	nuclear physics
+821	solar physics	plasma physics
+822	solar physics	radio astronomy
+823	solar physics	physics
+824	solid geometry	analytic geometry
+825	solid geometry	geometry
+826	solid geometry	plane geometry
+827	solid geometry	trigonometry
+828	solid geometry	geometry
+829	solid state physics	nuclear physics
+830	solid state physics	particle physics
+831	solid state physics	physical chemistry
+832	solid state physics	physics
+833	solid state physics	plasma physics
+834	solid state physics	quantum mechanics
+835	solid state physics	statistical mechanics
+836	solid state physics	state physics
+837	space medicine	medicine
+838	spherical geometry	geometry
+839	spherical geometry	hyperbolic geometry
+840	spherical geometry	non euclidean geometry
+841	spherical geometry	plane geometry
+842	spherical geometry	projective geometry
+843	spherical geometry	trigonometry
+844	spherical geometry	geometry
+845	sports medicine	orthopedics
+846	sports medicine	pediatrics
+847	sports medicine	rheumatology
+848	sports medicine	medicine
+849	spurious correlation	correlation
+850	statics	fluid mechanics
+851	statics	hydrodynamics
+852	statics	hydrostatics
+853	statics	kinematics
+854	statics	thermodynamics
+855	statics	mechanics
+856	statistical mechanics	particle physics
+857	statistical mechanics	quantum field theory
+858	statistical mechanics	quantum mechanics
+859	statistical mechanics	quantum physics
+860	statistical mechanics	solid state physics
+861	statistical mechanics	thermodynamics
+862	statistical mechanics	mechanics
+863	structural genomics	proteomics
+864	structural genomics	genomics
+865	supply side economics	side economics
+866	synchronic linguistics	linguistics
+867	thermochemistry	physical chemistry
+868	thermochemistry	statistical mechanics
+869	thermochemistry	thermodynamics
+870	thermochemistry	chemistry
+871	thermodynamics	classical mechanics
+872	thermodynamics	fluid mechanics
+873	thermodynamics	physical chemistry
+874	thermodynamics	quantum mechanics
+875	thermodynamics	statistical mechanics
+876	thermodynamics	mechanics
+877	thoracic medicine	medicine
+878	toxicology	biochemistry
+879	toxicology	forensic medicine
+880	toxicology	immunology
+881	toxicology	microbiology
+882	toxicology	pathology
+883	toxicology	pediatrics
+884	toxicology	pharmacology
+885	toxicology	medicine
+886	trigonometry	algebra
+887	trigonometry	analytic geometry
+888	trigonometry	calculus
+889	trigonometry	geometry
+890	trigonometry	integral calculus
+891	trigonometry	mathematics
+892	trigonometry	geometry
+893	tropical medicine	bacteriology
+894	tropical medicine	hygiene
+895	tropical medicine	immunology
+896	tropical medicine	microbiology
+897	tropical medicine	ophthalmology
+898	tropical medicine	pathology
+899	tropical medicine	virology
+900	tropical medicine	medicine
+901	vector algebra	algebra
+902	vertebrate paleontology	herpetology
+903	vertebrate paleontology	mammalogy
+904	vertebrate paleontology	paleontology
+905	vertebrate paleontology	petrology
+906	vertebrate paleontology	zoology
+907	vertebrate paleontology	paleontology
+908	veterinary medicine	agronomy
+909	veterinary medicine	dentistry
+910	veterinary medicine	medical science
+911	veterinary medicine	pharmacy
+912	veterinary medicine	medicine
+913	virology	bacteriology
+914	virology	biochemistry
+915	virology	immunology
+916	virology	microbiology
+917	virology	molecular biology
+918	virology	molecular genetics
+919	virology	pathology
+920	virology	biology
+921	zoology	biochemistry
+922	zoology	biology
+923	zoology	botany
+924	zoology	comparative anatomy
+925	zoology	entomology
+926	zoology	natural history
+927	zoology	natural science
+928	zoology	anatomy
