@@ -19,32 +19,6 @@ compound_operator = "_"
 
 parser = None
 
-def read_trial_data():
-    all_info = []
-    trial_dataset_fpath = os.path.join(os.path.dirname(os.path.abspath(__file__)),"data/relations.csv")
-    with open(trial_dataset_fpath, 'r') as f:
-        reader = csv.reader(f, delimiter = '\t')
-        for i, line in enumerate(reader):
-            #id, hyponym, hypernym, correct, source
-            all_info.append((line[0], line[1], line[2], line[3], line[4]))
-    correct_relations = []
-    wrong_relations = []
-    all_relations = []
-    taxonomy = []
-    for entry in all_info:
-        if entry[4] in ["WN_plants.taxo", "WN_vehicles.taxo", "ontolearn_AI.taxo"]: #alternatively add negative co-hypo
-            if entry[3] == "1":
-                correct_relations.append((entry[0], entry[1], entry[2]))
-                all_relations.append((entry[0], entry[1], entry[2]))
-            else:
-                wrong_relations.append((entry[0], entry[1], entry[2]))
-                all_relations.append((entry[0], entry[1], entry[2]))
-
-    for i in range(len(all_relations)):
-        all_relations[i] = (all_relations[i][0], all_relations[i][1].replace(" ", compound_operator), all_relations[i][2].replace(" ", compound_operator))
-    return [correct_relations, all_relations, taxonomy]
-
-
 def clean_str(string):
     string = re.sub(r"[^A-Za-z0-9()\'\`äöüß ]", " ", string)
     return string.strip().lower()
@@ -66,9 +40,6 @@ def preprocess_com(input_file, vocabulary):
     logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
     logging.info("reading file {0}...this may take a while".format(input_file))
-    #colnames = ["id,", "text"]
-    # data = pandas.read_csv(input_file, chunksize = 1, header = None, encoding = 'utf8')
-    #text = data.text.tolist()
     with open(input_file, "r") as f:
         text = f.readlines()
     output = open(input_file + '_rep', 'w')
@@ -85,23 +56,17 @@ def preprocess_com(input_file, vocabulary):
         line = line.lower()
         for word_voc in vocabulary:
             if word_voc in line:
-                #if word_voc in line and
-                #compound =  word_voc.replace(' ', compound_operator)
                 if word_voc in voc_not_same:
                     compound =  vocabulary_compound[word_voc]
-                    #print(word_voc + " " + str(i))
                     line = line.replace(word_voc,  compound)
-                    # print(freq)
-                    #print("Y=========0", line)
                 comp_dash = vocabulary_dash_com[word_voc]
                 if comp_dash in line:
                     compound =  vocabulary_compound[word_voc]
                     line = line.replace(comp_dash, compound)
 
-
         cleared_line = clean_str(line)
-        output.write(cleared_line)
-        #yield cleared_line
+        yield cleared_line
+
 
 def preprocess_wordnet(filename, vocabulary):
     vocabulary = set(vocabulary)
@@ -117,72 +82,6 @@ def preprocess_wordnet(filename, vocabulary):
         if elements[0].split('.',1)[0] in vocabulary_com and elements[1].split('.', 1)[0] in vocabulary_com:
             file_out.write(elements[0] + '\t' + elements[1] + '\n')
     file_out.close()
-            #relations.append((elements[0], elements[1]))
-    #return relations
-
-def read_input(input_file, vocabulary):
-    vocabulary = set(vocabulary)
-    vocabulary_compound = {}
-    vocabulary_dash_com = {}
-    voc_not_same = set([])
-    cleared_lines = []
-    for word in vocabulary:
-        vocabulary_compound[word] = word.replace(' ', compound_operator)
-    for word in vocabulary:
-        vocabulary_dash_com[word] = word.replace(' ', "-")
-    for word in vocabulary:
-        if word != word.replace(' ', compound_operator):
-            voc_not_same.add(word)
-    logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-
-    logging.info("reading file {0}...this may take a while".format(input_file))
-    #colnames = ["id,", "text"]
-    # data = pandas.read_csv(input_file, chunksize = 1, header = None, encoding = 'utf8')
-    #text = data.text.tolist()
-    with open(input_file, "r") as f:
-        text = f.readlines()
-
-    print("Num lines", len(text))
-    print(text[:3])
-    freq = {}
-    print("Number of Reviews: " + str(len(text)))
-    count = 0
-    for i in range(len(text)):
-        line = text[i]
-        if (i%100000==0):
-            logging.info ("read {0} reviews".format (i))
-            print(line)
-        if ((i+1)%25000000==0):
-            #file_news = open("/srv/data/5aly/data_text/en_news-2014-cleaned" + "-" + str(count), 'wb')
-            file_wikipedia = open("/srv/data/5aly/data_text/wikipedia-cleaned" + "-" + str(count),'wb')
-            pickle.dump(cleared_lines, file_wikipedia)
-            file_wikipedia.close()
-            count+=1
-            cleared_lines = []
-
-        line = line.lower()
-        for word_voc in vocabulary:
-            if word_voc in line:
-                #if word_voc in line and
-                #compound =  word_voc.replace(' ', compound_operator)
-                if word_voc in voc_not_same:
-                    compound =  vocabulary_compound[word_voc]
-                    #print(word_voc + " " + str(i))
-                    line = line.replace(word_voc,  compound)
-                    # print(freq)
-                    #print("Y=========0", line)
-                comp_dash = vocabulary_dash_com[word_voc]
-                if comp_dash in line:
-                    compound =  vocabulary_compound[word_voc]
-                    line = line.replace(comp_dash, compound)
-
-
-        cleared_line = gensim.utils.simple_preprocess(line, max_len = 80)
-        cleared_lines.append(cleared_line)
-
-        #print("line", cleared_line)
-        #yield cleared_line
-        #yield cleared_line
 
 
 def replace_str_index(text,index=0,replacement=''):
@@ -245,12 +144,11 @@ def create_relation_files(relations_all, output_file_name, min_freq):
 
     for relations in output_rels_all:
         for relation in relations:
-            #print(relation)
             f_out.write(relation[0].replace(' ', compound_operator) + '\t' + relation[1].replace(' ', compound_operator) + '\n')
     f_out.close()
 
-def process_rel_file(min_freq, input_file, vocabulary):
 
+def process_rel_file(min_freq, input_file, vocabulary):
     relations =  []
     relations_with_freq = {}
     filename_in = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data/"  + input_file)
@@ -286,19 +184,9 @@ def process_rel_file(min_freq, input_file, vocabulary):
     return relations, relations_with_freq
 
 
-def read_all_data(system = "taxi", domain = 'science'):
+def read_all_data(filename_in, system = "taxi", domain = 'science', language = 'EN'):
     global compound_operator
-
-#IF USING RUNSCRIPT USE THIS; OTHERWISE UNCOMMENT CODE BELOW
-    if domain =='science':
-        filename_in = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../out/" + system + "_" + domain + ".taxo-pruned.csv-cleaned.csv")
-        filename_gold = "data/gold_science.taxo"
-    elif domain == 'food':
-        filename_in = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../out/" + system + "_" + domain + ".taxo-pruned.csv-cleaned.csv")
-        filename_gold = "data/gold_food.taxo"
-    elif domain == 'environment':
-        filename_in = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../out/" + system +"_" + domain + ".taxo-pruned.csv-cleaned.csv")
-        filename_gold = "data/gold_environment.taxo"
+    filename_gold = "data/gold_" + domain + ".taxo"
 
     relations = []
     with open(filename_in, 'r') as f:

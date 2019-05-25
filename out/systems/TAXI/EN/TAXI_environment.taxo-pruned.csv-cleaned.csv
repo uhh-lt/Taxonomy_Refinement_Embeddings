@@ -1,0 +1,207 @@
+0	accidental pollution	pollution
+1	acid rain	pollution
+2	atmospheric pollution	pollution
+3	chemical pollution	pollution
+4	coastal pollution	pollution
+5	domestic waste	pollution
+6	erosion	pollution
+7	industrial pollution	pollution
+8	local pollution	pollution
+9	marine pollution	pollution
+10	metal pollution	pollution
+11	motor vehicle pollution	pollution
+12	noise	pollution
+13	noise pollution	pollution
+14	oil pollution	pollution
+15	organic pollution	pollution
+16	pollution from agricultural sources	pollution
+17	pollution from land-based sources	pollution
+18	pollution from ships	pollution
+19	pollution of waterways	pollution
+20	radioactive pollution	pollution
+21	soil pollution	pollution
+22	stratospheric pollution	pollution
+23	terrestrial ecosystem	pollution
+24	thermal pollution	pollution
+25	water pollution	pollution
+26	accidental pollution	water pollution
+27	acid rain	atmospheric pollutant
+28	acid rain	pollutant
+29	atmospheric pollutant	pollutant
+30	chemical waste	pollutant
+31	corrosion	pollutant
+32	greenhouse gas	pollutant
+33	industrial waste	pollutant
+34	noise	pollutant
+35	ozone	pollutant
+36	stratospheric pollutant	pollutant
+37	water pollutant	pollutant
+38	watercourse	pollutant
+39	acidification	ocean
+40	antarctic ocean	ocean
+41	arctic	ocean
+42	arctic ocean	ocean
+43	atlantic ocean	ocean
+44	atmospheric conditions	ocean
+45	continental shelf	ocean
+46	environmental economics	ocean
+47	environmental protection	ocean
+48	indian ocean	ocean
+49	marine life	ocean
+50	pacific ocean	ocean
+51	red sea	ocean
+52	sea	ocean
+53	aegean sea	sensitive area
+54	continental shelf	aegean sea
+55	agricultural waste	renewable resources
+56	agricultural waste	waste
+57	chemical waste	waste
+58	domestic waste	waste
+59	electronic waste	waste
+60	environmental impact	waste
+61	hazardous waste	waste
+62	hospital waste	waste
+63	industrial waste	waste
+64	metal waste	waste
+65	non-recoverable waste	waste
+66	radioactive waste	waste
+67	sewage sludge	waste
+68	waste management	waste
+69	water	waste
+70	animal life	biodiversity
+71	exploitation of resources	biodiversity
+72	over-exploitation of resources	biodiversity
+73	antarctic ocean	arctic ocean
+74	antarctica	arctic
+75	biotope	arctic
+76	antarctica	mountain
+77	natural hazard	mountain
+78	antarctica	desert
+79	rodent	desert
+80	aquatic environment	environment
+81	atmosphere	environment
+82	chemical waste	environment
+83	environmental impact	environment
+84	estuary	environment
+85	geophysical environment	environment
+86	marine environment	environment
+87	marine life	environment
+88	noise level	environment
+89	physical environment	environment
+90	water resources	environment
+91	pollution	environment
+92	pollutant	environment
+93	ocean	environment
+94	sensitive area	environment
+95	renewable resources	environment
+96	waste	environment
+97	mountain	environment
+98	desert	environment
+99	climate	environment
+100	environmental policy	environment
+101	polar region	environment
+102	north sea	environment
+103	climate change	environment
+104	global warming	environment
+105	bird	environment
+106	lake	environment
+107	nature reserve	environment
+108	man-made disaster	environment
+109	environmental law	environment
+110	nuisance	environment
+111	protection of animals	environment
+112	wild mammal	environment
+113	marine mammal	environment
+114	tropical zone	environment
+115	waste disposal	environment
+116	arctic	climate
+117	red sea	climate
+118	arctic	ecosystem
+119	arid zone	ecosystem
+120	biodiversity	ecosystem
+121	biosphere	ecosystem
+122	coastal protection	ecosystem
+123	estuary	ecosystem
+124	freshwater	ecosystem
+125	groundwater	ecosystem
+126	island	ecosystem
+127	marine ecosystem	ecosystem
+128	national park	ecosystem
+129	physical environment	ecosystem
+130	plain	ecosystem
+131	terrestrial ecosystem	ecosystem
+132	english channel	atlantic ocean
+133	mediterranean sea	atlantic ocean
+134	atmosphere	natural resources
+135	energy resources	natural resources
+136	freshwater	natural resources
+137	mineral resources	natural resources
+138	resources of the sea	natural resources
+139	water	natural resources
+140	water resources	natural resources
+141	wildlife	natural resources
+142	bad weather	natural disaster
+143	cyclone	natural disaster
+144	defoliation	natural disaster
+145	earthquake	natural disaster
+146	erosion	natural disaster
+147	fire	natural disaster
+148	volcanic eruption	natural disaster
+149	baltic sea	sea
+150	indian ocean	sea
+151	red sea	sea
+152	bathing water	water
+153	drinking water	water
+154	english channel	water
+155	estuary	water
+156	fire protection	water
+157	freshwater	water
+158	groundwater	water
+159	ice	water
+160	ionian sea	water
+161	mediterranean sea	water
+162	national park	water
+163	percolation water	water
+164	red sea	water
+165	sea	water
+166	stagnant water	water
+167	surface water	water
+168	wastewater	water
+169	watercourse	water
+170	biotope	marine ecosystem
+171	chemical waste	industrial waste
+172	chemical waste	hazardous waste
+173	climate change policy	environmental policy
+174	cyclone	natural hazard
+175	erosion	natural hazard
+176	volcanic eruption	natural hazard
+177	ecosystem	polar region
+178	english channel	north sea
+179	pollution control	environmental protection
+180	erosion	climate change
+181	terrestrial ecosystem	climate change
+182	estuary	marine environment
+183	marine life	marine environment
+184	over-exploitation of resources	exploitation of resources
+185	greenhouse effect	global warming
+186	ozone	greenhouse gas
+187	pacific ocean	indian ocean
+188	insect	bird
+189	protected species	bird
+190	rodent	bird
+191	ionian sea	island
+192	island	lake
+193	protected area	lake
+194	island	nature reserve
+195	marine life	wildlife
+196	protected species	wildlife
+197	underwater mineral resources	mineral resources
+198	natural disaster	man-made disaster
+199	natural resources	environmental law
+200	noise	nuisance
+201	stagnant water	nuisance
+202	protection of animal life	protection of animals
+203	rodent	wild mammal
+204	seal	marine mammal
+205	subtropical zone	tropical zone
+206	waste incineration	waste disposal

@@ -18,14 +18,10 @@ import matplotlib.pyplot as plt
 from gensim.models.poincare import PoincareModel, PoincareRelations, PoincareKeyedVectors
 from gensim.viz.poincare import poincare_2d_visualization
 from gensim.test.utils import datapath
-from data_loader import read_all_data, read_trial_data, read_input, compound_operator
+from data_loader import read_all_data, compound_operator
 import plotly.plotly as py
 from nltk.corpus import wordnet as wn
-#py.sign_in('RamiA', 'lAA8oTL51miiC79o3Hrz')
-
 from collections import Counter
-
-
 from sklearn import preprocessing
 import numpy as np
 from sklearn.neighbors import LocalOutlierFactor, NearestNeighbors
@@ -34,7 +30,9 @@ from sklearn.metrics import silhouette_samples, silhouette_score
 import pandas
 
 
-def compare_to_gold(gold, taxonomy, model,  model_poincare = None, outliers = [], threshold_add = 0.4, new_nodes = [], log = "", write_file = ""):
+MAX_INDEX = 10000000
+
+def compare_to_gold(gold, taxonomy, model = None,  model_poincare = None, outliers = [], threshold_add = 0.4, new_nodes = [], write_file = ""):
     taxonomy_c = taxonomy.copy()
     global compound_operator
     removed_outliers = []
@@ -48,7 +46,6 @@ def compare_to_gold(gold, taxonomy, model,  model_poincare = None, outliers = []
             removed_outliers.append((element[0].replace(compound_operator, " "), element[1].replace(compound_operator, " ")))
 
     removed_outliers = list(set(removed_outliers))
-
     correct = 0
     for element in removed_outliers:
         for ele_g in gold:
@@ -57,21 +54,14 @@ def compare_to_gold(gold, taxonomy, model,  model_poincare = None, outliers = []
                 break
     precision = correct / float(len(removed_outliers))
     recall = correct / float(len(gold))
-    print(str(recall).replace(".", ',') +'\t' + str(precision).replace(".", ',') + '\t' + str(2*precision *recall / (precision + recall)).replace(".", ',') + '\t' + str(len(new_nodes)) + '\t' + str(len(outliers)))
-    if log != None:
-        path = os.path.join(os.path.dirname(os.path.abspath(__file__)), log)
-        with open(path + ".txt", 'w') as f:
-            for element in outliers:
-                f.write(element[0] + '\t' + element[1] + '\n')
-            f.write("Elements Taxonomy:" + str(float(len(removed_outliers))))
-            f.write(str((float(len(gold)))) + '\n')
-            f.write("Correct: " + str(correct) + '\n')
-            f.write("Precision: " + str(precision) + '\n')
-            f.write("Recall: " + str(recall) + '\n')
-            f.write("F1: " + str(2*precision *recall / (precision + recall)) + '\n')
-            f.close()
+    print(str(recall).replace(".", ',') +'\t' + str(precision).replace(".", ',') + '\t' + \
+     str(2*precision *recall / (precision + recall)).replace(".", ',') + '\t' + str(len(new_nodes)) + '\t' + str(len(outliers)))
+
     if write_file != None:
-        path =  os.path.join(os.path.dirname(os.path.abspath(__file__)), write_file + ".csv")
+        path = '/'.join(write_file.split('/')[:-1]) + '/'
+        if not os.path.exists(path):
+            os.makedirs(path)
+        path =  os.path.join(os.path.dirname(os.path.abspath(__file__)), write_file + "_refined_taxonomy.csv")
         with open(path, 'w') as f:
             for i, element in enumerate(removed_outliers):
                 f.write(str(i) + '\t' + str(element[0]) + '\t' + str(element[1])  + '\n')
@@ -119,8 +109,6 @@ def connect_to_root(gold, taxonomy, domain):
             new_nodes.add((element, domain))
     return new_nodes
 
-#do not need to check if words in vocab since outliers must be in vocab
-#TODO could happen that outlier would connect to new outlier, but is not regarded, so currently adding all but outlier, so order of replacing outliers is not irrelevant
 def connect_new_nodes(gold, taxonomy, model, model_poincare, threshold, no_parents, no_co, wordnet = False, exclude_sub = False, outliers = None, domain = None):
     structure = {}
     new_nodes = set([])
@@ -145,9 +133,9 @@ def connect_new_nodes(gold, taxonomy, model, model_poincare, threshold, no_paren
 
     for node in new_nodes:
         node = node.replace(" ", compound_operator)
-        result_co_min = 10000000
+        result_co_min = MAX_INDEX
         pair_co_min  = 0
-        result_parent_min = 10000000
+        result_parent_min = MAX_INDEX
         pair_parent_min = 0
         for key in structure:
             #print(key)
@@ -157,27 +145,24 @@ def connect_new_nodes(gold, taxonomy, model, model_poincare, threshold, no_paren
             cleaned_co_hyponyms = []
             if key == node:
                 continue
-            # if len(structure[key]) < 1:
-            #     continue
             result_parent, pair_parent, result_co, pair_co  = get_rank(node, key, structure[key], model, model_poincare, no_parents, no_co, compound = True, wordnet = wordnet)
-            if result_parent < result_parent_min and result_parent != 0:
+            if result_parent < result_parent_min and result_parent != 0 and pair_parent[0] != domain:
                 result_parent_min = result_parent
                 pair_parent_min = pair_parent
-            if result_co < result_co_min and result_co != 0:
+            if result_co < result_co_min and result_co != 0 and pair_parent[0] != domain:
                 result_co_min = result_co
                 pair_co_min = pair_co
-        if result_parent_min != 10000000 or result_co_min != 10000000:
-            if result_parent_min != 10000000:
+        if result_parent_min != MAX_INDEX or result_co_min != MAX_INDEX:
+            if result_parent_min != MAX_INDEX:
                 results_parents.append(result_parent_min)
                 pairs_parents.append(pair_parent_min)
-            if result_co_min != 10000000:
+            if result_co_min != MAX_INDEX:
                 results_co.append(result_co_min)
                 pairs_co.append(pair_co_min)
         elif node.split('_')[0] in structure and not exclude_sub:
             results_substring.append((node, node.split('_')[0]))
         elif node.split('_')[-1] in structure and not exclude_sub:
             results_substring.append((node, node.split('_')[-1]))
-    #print(len(results_co))
 
     results_substring = set(results_substring)
     results_normalized1 = []
@@ -198,6 +183,7 @@ def connect_new_nodes(gold, taxonomy, model, model_poincare, threshold, no_paren
         if entry[0] in outlier_n or entry[1] in outlier_n:
             count_o+=1
     print("disconnected from Step 3.2", count_o)
+    #print([element for element in new_relationships if element[1] == "food"])
     return new_relationships
 
 def get_rank(current_child, parent, children, model, model_poincare, no_parents, no_co, compound  = True, wordnet = False):
@@ -213,7 +199,6 @@ def get_rank(current_child, parent, children, model, model_poincare, no_parents,
             if children:
                 most_similar_child = model.wv.most_similar_to_given(current_child, children)
                 index_child = model.wv.distance(current_child, most_similar_child)
-
                 result_co = index_child
                 pair_co = (current_child,parent)
             # else:
@@ -226,7 +211,7 @@ def get_rank(current_child, parent, children, model, model_poincare, no_parents,
                 if compound:
                     current_child2 = current_child
                     parent2 = parent
-                index_parent = 1000000
+                index_parent = MAX_INDEX
                 parents = [ele for ele in model_poincare.kv.vocab if parent2 == ele.split(".")[0]]
                 children = [ele for ele in model_poincare.kv.vocab if current_child2 == ele.split(".")[0]]
                 for parento in parents:
@@ -234,7 +219,7 @@ def get_rank(current_child, parent, children, model, model_poincare, no_parents,
                         index_parent_c = model_poincare.kv.rank(child, parento)
                         if index_parent_c < index_parent:
                             index_parent = index_parent_c
-                if index_parent == 1000000:
+                if index_parent == MAX_INDEX:
                     index_parent = 0
             else:
                 if compound:
@@ -264,24 +249,9 @@ def calculate_outliers(relations_o, model, model_poincare = None, threshold = No
     #Dictionary with each parent and its children in the taxonomy
     for parent in [relation[1] for relation in relations]:
         structure[parent] = [relation[0] for relation in relations if relation[1] == parent]
-
     for key in structure:
-        #print(key)
-        if structure[key] == []:
-            print("no children: " + key)
-            continue
-        elif not key in model.wv:
-            continue
-        cleaned_co_hyponyms = []
-        for word in structure[key]:
-            if word in model.wv:
-                cleaned_co_hyponyms.append(word)
-        if len(cleaned_co_hyponyms) < 1:
-            continue
-
-        cleaned_co_hyponyms_copy = cleaned_co_hyponyms.copy()
-        for child in cleaned_co_hyponyms_copy:
-            result_parent, pair_parent, result_co, pair_co = get_rank(child, key, cleaned_co_hyponyms, model, model_poincare, no_parents, no_co, compound, wordnet)
+        for child in structure[key]:
+            result_parent, pair_parent, result_co, pair_co = get_rank(child, key, structure[key], model, model_poincare, no_parents, no_co, compound, wordnet)
             if result_parent != 0:
                 if not exclude_sub:
                      if child.split("_")[0] != key and child.split("_")[-1] != key:
@@ -333,7 +303,6 @@ def replace_outliers(taxonomy, outliers, domain, model, model_poincare, no_paren
         ele_parent = connected_to_root(element, taxonomy, domain)
         if not ele_parent[0] and ele_parent[1] == element:
             orphans.add(element)
-    #print(orphans)
 
     relations = taxonomy.copy()
     for i in range(len(relations)):
@@ -344,20 +313,13 @@ def replace_outliers(taxonomy, outliers, domain, model, model_poincare, no_paren
 
     for node in orphans:
         node = node.replace(" ", compound_operator)
-        result_co_min = 10000000
+        result_co_min = MAX_INDEX
         pair_co_min  = 0
-        result_parent_min = 10000000
+        result_parent_min = MAX_INDEX
         pair_parent_min = 0
         for key in structure.keys():
-            #print(key)
-            if structure[key] == []:
-                print("no children: " + key)
-                continue
-            cleaned_co_hyponyms = []
             if key == node:
                 continue
-            # if len(structure[key]) < 1:
-            #     continue
             result_parent, pair_parent, result_co, pair_co  = get_rank(node, key, structure[key], model, model_poincare, no_parents, no_co, compound = True, wordnet = wordnet)
             if result_parent < result_parent_min and result_parent != 0:
                 result_parent_min = result_parent
@@ -365,28 +327,25 @@ def replace_outliers(taxonomy, outliers, domain, model, model_poincare, no_paren
             if result_co < result_co_min and result_co != 0:
                 result_co_min = result_co
                 pair_co_min = pair_co
-        if result_parent_min != 10000000 or result_co_min != 10000000:
-            if result_parent_min != 10000000:
+        if result_parent_min != MAX_INDEX or result_co_min != MAX_INDEX:
+            if result_parent_min != MAX_INDEX:
                 results_parents.append(result_parent_min)
                 pairs_parents.append(pair_parent_min)
-            if result_co_min != 10000000:
+            if result_co_min != MAX_INDEX:
                 results_co.append(result_co_min)
                 pairs_co.append(pair_co_min)
         elif node.split('_')[0] in structure and not exclude_sub:
             results_substring.append((node, node.split('_')[0]))
         elif node.split('_')[-1] in structure and not exclude_sub:
             results_substring.append((node, node.split('_')[-1]))
-    #print(len(results_co))
 
     results_substring = set(results_substring)
-
     pairs_parents = set(pairs_parents)
     pairs_co = set(pairs_co)
     if not no_parents:
         new_relationships = list(set(pairs_parents|results_substring))
     if not no_co:
         new_relationships = list(set(pairs_co)|results_substring)
-    print(new_relationships)
     return new_relationships
 
 
@@ -416,205 +375,100 @@ def find_outliers(results, pairs, threshold, mode = "max"):
                 outliers.add(pairs[value[0]])
     return outliers
 
-def calculate_Nemar():
-    systems = ["TAXI", "JUNLP", "USAAR"]
-    domains = ["environment", "science", "food"]
-    for i in range(3):
-        for j in range(3):
-            domain = domains[j]
-            system = systems[i]
-            file_poincare = "out/distributed_semantics_" + domain + "_" + system + "_True.csv"
-            file_poincare_WN = "out/distributed_semantics_" + domain + "_" + system + "_WN.csv"
-            file_w2v = "out/distributed_semantics_"+domain+"_" + system + "_False.csv"
-            file_base = "../out/" + system +"_" + domain + ".taxo-pruned.csv-cleaned.csv"
-            file_root = "out/distributed_semantics_"+domain+"_" + system + "_root.csv"
-            filename_gold = "data/gold_"+domain+".taxo"
-            poincare_f = open(file_poincare, 'r').readlines()
-            poincare_wv_f = open(file_poincare_WN, 'r').readlines()
-            baseline_f = open(file_base, 'r').readlines()
-            w2v_f = open(file_w2v, 'r').readlines()
-            gold_f = open(filename_gold, 'r').readlines()
-            root_f = open(file_root, 'r').readlines()
-            poincare = []
-            poincare_wn = []
-            baseline = []
-            w2v = []
-            gold = []
-            root = []
-            for line in baseline_f:
-                content = line.split('\t')
-                baseline.append((content[1], content[2]))
-            for line in poincare_wv_f:
-                content = line.split('\t')
-                poincare_wn.append((content[1], content[2]))
-            for line in w2v_f:
-                content = line.split('\t')
-                w2v.append((content[1], content[2]))
-            for line in poincare_f:
-                content = line.split('\t')
-                poincare.append((content[1], content[2]))
-            for line in gold_f:
-                content = line.split('\t')
-                gold.append((content[1], content[2]))
-            for line in root_f:
-                content = line.split('\t')
-                root.append((content[1], content[2]))
-            yes_no =  0
-            no_yes = 0
-            for entry in gold:
-                # if entry in w2v and entry not in baseline:
-                #     yes_no+=1
-                # if entry in baseline and entry not in w2v:
-                #     no_yes+=1
 
-                # if entry in poincare and entry not in baseline:
-                #     yes_no+=1
-                # if entry in baseline and entry not in poincare:
-                #     no_yes+=1
 
-                # if entry in poincare_wn and entry not in baseline:
-                #     yes_no+=1
-                # if entry in baseline and entry not in poincare_wn:
-                #     no_yes+=1
 
-                if entry in root and entry not in baseline:
-                    yes_no+=1
-                if entry in baseline and entry not in root:
-                    no_yes+=1
-            if yes_no + no_yes == 0:
-                nemar = 0
+def load_embeddings(include_co, exclude_parent, wordnet, language = 'EN'):
+    model = None
+    model_poincare = None
+    if include_co:
+        if language == 'EN':
+            model = gensim.models.KeyedVectors.load('embeddings/own_embeddings_w2v_all')
+            print("Word2vec vocab size", len(model.wv.vocab))
+        else:
+            print("There is no wordnet poincaré model for a non-english language\nAbort...")
+            sys.exit()
+    if not exclude_parent:
+        if wordnet:
+            if language == 'EN':
+                model_poincare = PoincareModel.load('embeddings/wordnet_filtered_50')
             else:
-                nemar = (yes_no - no_yes)**2 /(yes_no + no_yes)
-            print(yes_no, no_yes)
-            print(system, domain, nemar)
-    return 0
+                print("There is no wordnet poincaré model for a non-english language\nAbort...")
+                sys.exit()
+        else:
+            if language == 'EN':
+                model_poincare = PoincareModel.load('embeddings/poincare_common_domains02_5_3_50')
+            elif langauge == 'FR':
+                model_poincare = PoincareModel.load('embeddings/poincare_common_domains02_5_3_50')
+                print("Poincare vocab size", len(model_poincare.kv.vocab))
+
+        # wordlist = ["volcanic_eruption", "whipped_cream", 'ordinary_differential_equations']
+        # for word in wordlist:
+        #     print(word)
+        #     distances = list(model_poincare.kv.distances(word))
+        #     pairs = list(zip(distances, list(model_poincare.kv.vocab)))
+        #     pairs = sorted(pairs)
+        #     closest = [element[1] for element in pairs[:5]]
+        #     print(closest, '\n')
+
+    return [model, model_poincare]
 
 
 def main():
     parser = argparse.ArgumentParser(description="Embeddings for Taxonomy")
-    parser.add_argument('-m', '--mode', type=str, default='preload', choices=["root", "combined_embeddings_removal_and_new", "combined_embeddings_new_nodes", "combined_embeddings_removal", "nemar"], help="Mode of the system.")
+    parser.add_argument('-m', '--mode', type=str, default='preload', choices=["root", "distributed_semantics", "eval"], help="Mode of the system.")
     parser.add_argument('-d', '--domain', type=str, default='science', choices=["science", "food", "environment"], help="Domain")
-    parser.add_argument('-e', '--embedding', type=str, nargs='?', default=None, choices=["own_and_poincare", "poincare", "poincare_all", "fasttext", "wiki2M", "wiki1M_subword", "own_w2v", "quick", "none"], help="Embedding to use")
+    parser.add_argument('-l', '--language', type=str, default='EN', choices=["EN", "FR", "IT", "NL"], help="Embedding to use")
     parser.add_argument('-ep', '--exparent', action='store_true', help='Exclude "parent" relations')
     parser.add_argument('-sys','--system', type=str, choices =["TAXI", "USAAR", "QASSIT", "JUNLP", "NUIG-UNLP"])
     parser.add_argument('-ico', '--inco', action='store_true', help='Include "co-hypernym relations')
     parser.add_argument('-com', '--compound', action='store_true', help='Includes compound word in outlier removal')
     parser.add_argument('-wn', '--wordnet', action ='store_true', help= 'Use Wordnet instead of own embeddings')
     parser.add_argument('-es', '--exclude_sub', action='store_true', help="Uses substring method")
+    parser.add_argument('-pin', '--input_path', type=str, help="Set path for input taxonomy")
+    parser.add_argument('-pout', '--output_path', type=str, help="Set path for refined taxonomy")
     args = parser.parse_args()
     print("Mode: ", args.mode)
-    run(args.mode, args.domain, args.embedding, args.exparent, args.inco, args.compound, args.wordnet, args.exclude_sub, args.system)
+    run(args.mode, args.domain, args.language, args.input_path, args.output_path, args.exparent, args.inco, args.compound, args.wordnet, args.exclude_sub, args.system)
 
 
-def run(mode, domain, embedding, exclude_parent = False, include_co = False, compound = False, wordnet = False, exclude_sub = False, system = "TAXI"):
-    if embedding == "fasttext":
-        #model = gensim.models.KeyedVectors.load_word2vec_format('wiki-news-300d-1M-subword.vec', binary=False)
-        model = gensim.models.FastText.load_fasttext_format('wiki.en.bin')
-        #model = gensim.models.FastText.load_fasttext_format('crawl-300d-2M.vec')
-    elif embedding == "wiki2M":
-        #model = gensim.models.FastText.load_fasttext_format('crawl-300d-2M.vec','vec')
-        model = gensim.models.KeyedVectors.load_word2vec_format('embeddings/crawl-300d-2M.vec', binary=False)
-        #model.save("crawl-300d-2M.bin")
-    elif embedding == "wiki1M_subword":
-        model = gensim.models.KeyedVectors.load_word2vec_format('embeddings/wiki-news-300d-1M-subword.vec', binary=False)
+def run(mode, domain, language, path_in, path_out, exclude_parent = False, include_co = False, compound = False, wordnet = False, exclude_sub = False, system = "TAXI"):
+    if mode == 'distributed_semantics':
+        model, model_poincare = load_embeddings(include_co, exclude_parent, wordnet, language)
 
-    elif embedding == "own_w2v":
-        model = gensim.models.KeyedVectors.load('embeddings/own_embeddings_w2v')
+        taxonomy = []
+        outliers = []
+        exclude_co = not include_co
 
-    elif embedding == "quick":
-        model = gensim.models.KeyedVectors.load_word2vec_format('embeddings/crawl-300d-2M.vec', binary=False, limit = 50000)
-
-    elif embedding == 'own_and_poincare':
-        print("init")
-        model = gensim.models.KeyedVectors.load('embeddings/own_embeddings_w2v_all') #n2 #all
-        print("Word2vec vocab size", len(model.wv.vocab))
-        #model_poincare = PoincareModel.load('embeddings/embeddings_' + domain +'_crawl_poincare_3_50')
-        #model_poincare = PoincareModel.load('embeddings/embeddings_science_crawl_merge_poincare_10_3_50_02')
-
-        if wordnet:
-            #model_poincare = PoincareModel.load('embeddings/embeddings_poincare_wordnet')
-            model_poincare = PoincareModel.load('embeddings/wordnet_filtered_50')
-
-        else:
-            model_poincare = PoincareModel.load('embeddings/poincare_common_domains02_5_3_50')
-
-            # wordlist = ["volcanic_eruption", "whipped_cream", 'ordinary_differential_equations']
-            # for word in wordlist:
-            #     print(word)
-            #     distances = list(model_poincare.kv.distances(word))
-            #     pairs = list(zip(distances, list(model_poincare.kv.vocab)))
-            #     pairs = sorted(pairs)
-            #     closest = [element[1] for element in pairs[:5]]
-            #     print(closest, '\n')
-
-
-        print("Poincare vocab size", len(model_poincare.kv.vocab))
-
-
-    gold = []
-    relations = []
-    taxonomy = []
-    outliers = []
-    exclude_co = not include_co
-
-    if mode =='combined_embeddings_removal':
-        thresholds = range(2,50,2)#poincare and co-hyper testrun
-        #thresholds = [6]
-        for value in thresholds:
-            gold, relations = read_all_data(system, domain)
-            outliers = calculate_outliers(relations, model, threshold = value, model_poincare = model_poincare, compound = compound, no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub)
-            relations2 = compare_to_gold(gold = gold, taxonomy = relations, model = model, model_poincare = model_poincare, outliers = outliers)
-    elif mode == 'combined_embeddings_new_nodes':
-        thresholds = [2]
-        #thresholds = [2,4,6,8,10,12,14] #poincare testrun
-        #thresholds = [12,14,18,20] #co-hyper testrun
-        for value in thresholds:
-            gold, relations = read_all_data(system, domain)
-            new_nodes = connect_new_nodes(taxonomy = relations, gold = gold, model = model, model_poincare = model_poincare, threshold = value,  no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub, domain = domain)
-            compare_to_gold(gold = gold, taxonomy = relations, model = model, model_poincare = model_poincare, new_nodes =  new_nodes)
-
-#result not always same as random selection because random init of kmeans, outliers are not the same
-#Remove outliers of taxonomy, then use the outlier children and the new nodes to attach to taxonomy
-
-    elif mode == 'combined_embeddings_removal_and_new':
-
-        gold, relations = read_all_data(system, domain)
+        gold, relations = read_all_data(path_in, system, domain)
         voc = set([rel[0] for rel in relations] + [rel[1] for rel in relations])
         g_voc = set([rel[0] for rel in gold] + [rel[1] for rel in gold])
         diff = len(g_voc) - len(voc)
         print(len(voc))
         print("Orphans at start", diff)
-        outlier_thresh = 2 #6#20
-        orphan_thresh = 2
+
         compare_to_gold(gold = gold, taxonomy = relations, model = model, model_poincare = model_poincare)
-        # new_nodes = connect_new_nodes(taxonomy = relations, gold = gold, model = model, model_poincare = model_poincare, threshold = orphan_thresh,  no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub, domain = domain)
-        outliers = calculate_outliers(relations, model, threshold = outlier_thresh, model_poincare = model_poincare, compound = compound, no_parents = exclude_parent,
+
+        outliers = calculate_outliers(relations, model, threshold = 2, model_poincare = model_poincare, compound = compound, no_parents = exclude_parent,
          no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub)
-        # relations1 = compare_to_gold(gold = gold, taxonomy = relations, model = model, model_poincare = model_poincare, new_nodes =  new_nodes)
         relations2 = compare_to_gold(gold = gold, taxonomy = relations, model = model, model_poincare = model_poincare, outliers = outliers)
 
-        replaced_outliers = replace_outliers(taxonomy = relations2, outliers = outliers, domain = domain, model = model, model_poincare = model_poincare, no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub)
+        replaced_outliers = replace_outliers(taxonomy = relations2, outliers = outliers, domain = domain, model = model, model_poincare = model_poincare,
+         no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub)
+
         relations3 = compare_to_gold(gold = gold, taxonomy = relations2, model = model, model_poincare = model_poincare, new_nodes =  replaced_outliers)
-        new_nodes = connect_new_nodes(taxonomy = relations3, gold = gold,  model = model, model_poincare = model_poincare, threshold = orphan_thresh,
-          no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub, outliers = outliers, domain = domain)
-        # new_nodes2 = connect_new_nodes(taxonomy = relations, gold = gold,  model = model, model_poincare = model_poincare, threshold = orphan_thresh,
-        #     no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub, outliers = outliers, domain = domain)
-        # compare_to_gold(gold = gold, taxonomy = relations, model = model, model_poincare = model_poincare, new_nodes =  new_nodes2)
-        if wordnet:
-            outfile = "out/distributed_semantics_" + domain + "_" + system + "_" + 'WN'
-        else:
-            outfile = "out/distributed_semantics_" + domain + "_" + system + "_" + str(exclude_co)
 
-        compare_to_gold(gold = gold, taxonomy = relations3, new_nodes = new_nodes, model = model, model_poincare = model_poincare,  write_file = outfile)
+        new_nodes = connect_new_nodes(taxonomy = relations3, gold = gold,  model = model, model_poincare = model_poincare, threshold = 2,
+         no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub, outliers = outliers, domain = domain)
 
-    elif mode == 'nemar':
-        calculate_Nemar()
+        relations_final = compare_to_gold(gold = gold, taxonomy = relations3, new_nodes = new_nodes, model = model, model_poincare = model_poincare,  write_file = path_out)
+
+
 
     elif mode == 'root':
-        gold, relations = read_all_data(system, domain)
+        gold, relations = read_all_data(path_in, system, domain)
         root = connect_to_root(taxonomy = relations, gold =  gold, domain = domain)
-        compare_to_gold(gold = gold, taxonomy = relations, new_nodes = root, model = model, model_poincare = model_poincare, write_file = "refinement_out/distributed_semantics_" +domain + "_" + system + "_root")
-
+        compare_to_gold(gold = gold, taxonomy = relations, new_nodes = root, write_file = path_out)
 
 
 if __name__ == '__main__':

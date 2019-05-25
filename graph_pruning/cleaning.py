@@ -32,9 +32,6 @@ def connected_to_root(element, list_data, root):
         for relation in list_data:
             if parent == relation[1]:
                 parent = relation[2]
-                #print parent
-                #break
-    #print '\n'
     return [parent == root, parent]
 
 
@@ -93,7 +90,6 @@ with open(filename_in, 'r') as f:
 
 all_parent_root = all_parent_rel(ROOT, list_data)
 for el in all_parent_root:
-    #print(el)
     list_data.remove(el)
 
 elements = set([])
@@ -101,14 +97,15 @@ for relation in list_data:
     elements.add(relation[1])
     elements.add(relation[2])
 elements_connected = set([])
+#make sure that every element is transitively connected to the root, otherwise add direct link to root
 for element in elements:
     ele_root = connected_to_root(element, list_data, ROOT)
     if not ele_root[0] and element == ele_root[1]:
-       print(element)
+       print(element,  end=' ')
        list_data.append((iter, ele_root[1], ROOT))
        iter+=1
+print('\n')
 
 with open(filename_out, 'w') as f:
     for element in list_data:
-        #print element
         f.write(str(element[0]) + '\t' + element[1] + '\t' + element[2]  + '\n')
