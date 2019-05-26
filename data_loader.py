@@ -147,7 +147,6 @@ def create_relation_files(relations_all, output_file_name, min_freq):
             f_out.write(relation[0].replace(' ', compound_operator) + '\t' + relation[1].replace(' ', compound_operator) + '\n')
     f_out.close()
 
-
 def process_rel_file(min_freq, input_file, vocabulary):
     relations =  []
     relations_with_freq = {}
@@ -184,15 +183,16 @@ def process_rel_file(min_freq, input_file, vocabulary):
     return relations, relations_with_freq
 
 
-def read_all_data(filename_in, system = "taxi", domain = 'science', language = 'EN'):
+def read_all_data(filename_in = None, system = "taxi", domain = 'science', language = 'EN'):
     global compound_operator
     filename_gold = "data/gold_" + domain + ".taxo"
 
     relations = []
-    with open(filename_in, 'r') as f:
-        reader = csv.reader(f, delimiter = '\t')
-        for i, line in enumerate(reader):
-            relations.append(( line[1], line[2]))
+    if filename_in != None:
+        with open(filename_in, 'r') as f:
+            reader = csv.reader(f, delimiter = '\t')
+            for i, line in enumerate(reader):
+                relations.append(( line[1], line[2]))
 
     gold= []
     with open(filename_gold, 'r') as f:
@@ -201,26 +201,36 @@ def read_all_data(filename_in, system = "taxi", domain = 'science', language = '
             gold.append((line[1], line[2]))
     return [gold, relations]
 
-def create_with_freq(freqs, input_name, domain):
-    freq = [100, 500, 1000, 5000, 10000, 20000]
-    gold, relations = read_all_data(domain)
-    gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
-    for entry in freq:
-        create_rel_file(entry, input_name, input_name + str(entry) + ".tsv", gold)
-
 
 if __name__ == '__main__':
     import spacy
-    parser = spacy.load('en_core_web_sm')
-    freq_common = 5
-    freq_domain = 3
-    all_vocabulary = []
-    domains = ['science', 'food', 'environment']
-    output_domains = []
-    for domain in domains:
-        gold, relations = read_all_data(domain)
-        gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
-        all_vocabulary = gold
-        output_domains.append(process_rel_file(freq_domain,"en_" + domain + ".csv" ,gold))
-    output_domains.append(process_rel_file(freq_common, "en_ps59g.csv", set(all_vocabulary)))
-    create_relation_files(output_domains,"poincare_common_domains02L.tsv",freq_common)
+    if len(sys.argv) >= 2:
+        language = sys.argv[1]
+    if language == 'EN':
+        parser = spacy.load('en_core_web_sm')
+        freq_common = 5
+        freq_domain = 3
+        all_vocabulary = []
+        domains = ['science', 'food', 'environment']
+        output_domains = []
+        for domain in domains:
+            gold, _ = read_all_data(domain = domain)
+            gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
+            all_vocabulary += gold
+            output_domains.append(process_rel_file(freq_domain,"en_" + domain + ".csv" ,gold))
+        output_domains.append(process_rel_file(freq_common, "en_ps59g.csv", set(all_vocabulary)))
+        create_relation_files(output_domains,"poincare_common_domains_test3.tsv",freq_common)
+    elif langauge == "FR":
+        parser = spacy.load('en_core_web_sm')
+        freq_common = 5
+        freq_domain = 3
+        all_vocabulary = []
+        domains = ['science', 'food', 'environment']
+        output_domains = []
+        for domain in domains:
+            gold, _ = read_all_data(domain = domain)
+            gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
+            all_vocabulary = gold
+            output_domains.append(process_rel_file(freq_domain,"en_" + domain + ".csv" ,gold))
+        output_domains.append(process_rel_file(freq_common, "en_ps59g.csv", set(all_vocabulary)))
+        create_relation_files(output_domains,"poincare_common_domains02L.tsv",freq_common)

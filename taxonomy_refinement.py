@@ -400,7 +400,7 @@ def load_embeddings(include_co, exclude_parent, wordnet, language = 'EN'):
                 model_poincare = PoincareModel.load('embeddings/poincare_common_domains02_5_3_50')
             elif langauge == 'FR':
                 model_poincare = PoincareModel.load('embeddings/poincare_common_domains02_5_3_50')
-                print("Poincare vocab size", len(model_poincare.kv.vocab))
+            print("Poincare vocab size", len(model_poincare.kv.vocab))
 
         # wordlist = ["volcanic_eruption", "whipped_cream", 'ordinary_differential_equations']
         # for word in wordlist:

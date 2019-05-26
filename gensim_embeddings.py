@@ -33,30 +33,26 @@ def main():
 def run(mode, language):
     if mode == "train_poincare_custom":
         if language == 'EN':
-            gold_s,_ = read_all_data("None",  "TAXI", "science")
-            gold_e,_ = read_all_data("None", "TAXI", "environment")
-            gold_f,_ = read_all_data("None", "TAXI", "food")
+            gold_s,_ = read_all_data(domain = "science")
+            gold_e,_ = read_all_data(domain = "environment")
+            gold_f,_ = read_all_data(domain = "food")
             vocabulary = set([relation[0].lower() for relation in gold_s] + [relation[1].lower() for relation in gold_s])
             vocabulary = vocabulary | set([relation[0].lower() for relation in gold_f] + [relation[1].lower() for relation in gold_f])
             vocabulary = vocabulary | set([relation[0].lower() for relation in gold_e] + [relation[1].lower() for relation in gold_e])
-            # freq_science = [3,5]
-            # for entry_science in freq_science:
-            #     relations = './data/' + domain +'_crawl_' + str(entry_science) +'.tsv'
-            #     #relations = './data/science_crawl_merge_10_3_02.tsv'
-            #     poincare_rel = PoincareRelations(relations)
-            #     dim = 50
-            #     model = PoincareModel(poincare_rel, size = dim)
-            #     print("Starting Training...")
-            #     model.train(epochs=400)
-            #     model.save("embeddings/embeddings_" + domain + "_crawl_poincare_" + str(entry_science) + "_" + str(dim))
-            #     #model.save("embeddings/embeddings_science_crawl_merge_poincare_10_3_50_02")
-            #     break
+            relations ="data/poincare_common_domains02L.tsv"
+            poincare_rel = PoincareRelations(relations)
+            dim = 50
+            model = PoincareModel(poincare_rel, size = dim)
+            print("Starting Training...")
+            model.train(epochs=400)
+            model.save("embeddings/poincare_common_domains_5_3_EN" + "_" + str(dim))
+            break
 
 
     if mode == 'train_poincare_wordnet':
-        gold_s,_ = read_all_data("None",  "TAXI", "science")
-        gold_e,_ = read_all_data("None", "TAXI", "environment")
-        gold_f,_ = read_all_data("None", "TAXI", "food")
+        gold_s,_ = read_all_data(domain = "science")
+        gold_e,_ = read_all_data(domain = "environment")
+        gold_f,_ = read_all_data(domain = "food")
         vocabulary = set([relation[0].lower() for relation in gold_s] + [relation[1].lower() for relation in gold_s])
         vocabulary = vocabulary | set([relation[0].lower() for relation in gold_f] + [relation[1].lower() for relation in gold_f])
         vocabulary = vocabulary | set([relation[0].lower() for relation in gold_e] + [relation[1].lower() for relation in gold_e])
