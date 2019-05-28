@@ -1,5 +1,0 @@
-Elements Taxonomy:433.0465.0
-Correct: 186
-Precision: 0.4295612009237875
-Recall: 0.4
-F1: 0.4142538975501114
