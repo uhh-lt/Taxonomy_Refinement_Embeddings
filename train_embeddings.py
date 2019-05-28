@@ -14,7 +14,7 @@ from sklearn.manifold import TSNE
 from gensim.models.poincare import PoincareModel, PoincareRelations
 from gensim.test.utils import datapath
 from gensim.models.word2vec import LineSentence
-from data_loader import read_all_data, read_trial_data, compound_operator, preprocess_com, preprocess_wordnet
+from data_loader import read_all_data, compound_operator, preprocess_com, preprocess_wordnet
 import pickle
 import itertools
 from nltk.corpus import wordnet as wn
@@ -23,8 +23,8 @@ import pandas
 
 def main():
     parser = argparse.ArgumentParser(description="Embeddings for Taxonomy")
-    parser.add_argument('mode', type=str, default='preload', choices=["train_poincare_wordnet", "train_poincare_custom", "train_word2vec"], help="Mode of the system.")
-    parser.add_argument('language', type=str, default='preload', choices=["EN", "FR", "NL", "IT"], help="Mode of the system.")
+    parser.add_argument('--mode', type=str, default='preload', choices=["train_poincare_wordnet", "train_poincare_custom", "train_word2vec"], help="Mode of the system.")
+    parser.add_argument('--language', type=str, default='EN', choices=["EN", "FR", "NL", "IT"], help="Mode of the system.")
     args = parser.parse_args()
     print("Mode: ", args.mode)
     run(args.mode, args.language)
@@ -32,24 +32,28 @@ def main():
 
 def run(mode, language):
     if mode == "train_poincare_custom":
-        if language == 'EN':
-            gold_s,_ = read_all_data(domain = "science")
-            gold_e,_ = read_all_data(domain = "environment")
-            gold_f,_ = read_all_data(domain = "food")
-            vocabulary = set([relation[0].lower() for relation in gold_s] + [relation[1].lower() for relation in gold_s])
-            vocabulary = vocabulary | set([relation[0].lower() for relation in gold_f] + [relation[1].lower() for relation in gold_f])
-            vocabulary = vocabulary | set([relation[0].lower() for relation in gold_e] + [relation[1].lower() for relation in gold_e])
-            relations ="data/poincare_common_domains02L.tsv"
+        gold_s,_ = read_all_data(domain = "science", language = language)
+        gold_e,_ = read_all_data(domain = "environment", language = language)
+        gold_f,_ = read_all_data(domain = "food", language = language)
+        vocabulary = set([relation[0].lower() for relation in gold_s] + [relation[1].lower() for relation in gold_s])
+        vocabulary = vocabulary | set([relation[0].lower() for relation in gold_f] + [relation[1].lower() for relation in gold_f])
+        vocabulary = vocabulary | set([relation[0].lower() for relation in gold_e] + [relation[1].lower() for relation in gold_e])
+        #relations ="data/poincare_common_domains_" + language + ".tsv"
+        domains = ["environment", "science", "food"]
+        for domain in domains:
+            relations ="data/" + language + "/poincare_common_domains_" + language + "_" + domain + ".tsv"
+            assert len(open(relations, 'r').readlines()) > 10, "Not enough relations to train embeddings. Aborting ..."
             poincare_rel = PoincareRelations(relations)
             dim = 50
             model = PoincareModel(poincare_rel, size = dim)
             print("Starting Training...")
             model.train(epochs=400)
-            model.save("embeddings/poincare_common_domains_5_3_EN" + "_" + str(dim))
-            break
+            model.save("embeddings/poincare_common_domains_5_3_" + language + "_" + domain +"_" + str(dim))
 
 
     if mode == 'train_poincare_wordnet':
+        assert language == 'EN', "Wordnet consists only of English nouns"
+
         gold_s,_ = read_all_data(domain = "science")
         gold_e,_ = read_all_data(domain = "environment")
         gold_f,_ = read_all_data(domain = "food")
@@ -57,8 +61,8 @@ def run(mode, language):
         vocabulary = vocabulary | set([relation[0].lower() for relation in gold_f] + [relation[1].lower() for relation in gold_f])
         vocabulary = vocabulary | set([relation[0].lower() for relation in gold_e] + [relation[1].lower() for relation in gold_e])
 
-        preprocess_wordnet('data/noun_closure.tsv', vocabulary)
-        poincare_rel = PoincareRelations('data/noun_closure_filtered.tsv')
+        preprocess_wordnet('data/EN/noun_closure.tsv', vocabulary)
+        poincare_rel = PoincareRelations('data/EN/noun_closure_filtered.tsv')
         dim = 50
         model = PoincareModel(poincare_rel, size = dim)
         print("Starting Training...")

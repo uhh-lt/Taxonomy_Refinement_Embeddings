@@ -89,21 +89,22 @@ def replace_str_index(text,index=0,replacement=''):
 
 def spacy_tokenizer(sentence):
     tokens = parser(sentence, disable=['parser', 'tagger', 'ner', 'textcat'])
-    tokens = [tok.lemma_.lower() for tok in tokens]
+    tokens = [tok.lemma_ for tok in tokens]
     #print(tokens)
     tokens = [tok for tok in tokens]
     sentence_norm = " ".join(tokens)
+    # print(sentence_norm)
     return sentence_norm
 
 def adjust_input(target_word, vocabulary):
     target_original = target_word
     if target_word in vocabulary:
-        return target_word.lower()
+        return target_word #MAKE TO LOWER IF IT DOESNT WORK BETTER
     target_word = spacy_tokenizer(target_word)
     if target_word in vocabulary:
-        return target_word.lower()
+        return target_word
     else:
-        return target_original.lower()
+        return target_original
 
 def create_relation_files(relations_all, output_file_name, min_freq):
     f_out = open("data/" + output_file_name, 'w')
@@ -151,10 +152,12 @@ def process_rel_file(min_freq, input_file, vocabulary):
     relations =  []
     relations_with_freq = {}
     filename_in = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data/"  + input_file)
-    with open(filename_in, 'r') as f:
-        reader = csv.reader(f, delimiter = '\t')
-        f.readline()
+    with open(filename_in, 'r',  newline='\n') as f:
+        reader = csv.reader(f, delimiter = '\t', quoting=csv.QUOTE_NONE)
+        next(reader)
         for i, line in enumerate(reader):
+            if len(line) != 3:
+                continue
             freq = int(line[2])
             #remove reflexiv and noise relations
             hyponym = adjust_input(line[0], vocabulary)
@@ -184,18 +187,25 @@ def process_rel_file(min_freq, input_file, vocabulary):
 
 
 def read_all_data(filename_in = None, system = "taxi", domain = 'science', language = 'EN'):
+    #EN, FR, IT, NL
+    if domain in ["environment", "environnement", "ambiente", "milieu"]:
+        domain_l = "environment"
+    elif domain in ["science", "scienze", "wetenschap"]:
+        domain_l = "science"
+    elif domain in ["food", "alimentation", "alimenti", "voedsel"]:
+        domain_l = "food"
     global compound_operator
-    filename_gold = "data/gold_" + domain + ".taxo"
+    filename_gold = "data/" + language + "/gold_" + domain_l + ".taxo"
 
     relations = []
     if filename_in != None:
-        with open(filename_in, 'r') as f:
+        with open(filename_in, 'r', newline='\n') as f:
             reader = csv.reader(f, delimiter = '\t')
             for i, line in enumerate(reader):
-                relations.append(( line[1], line[2]))
+                relations.append((line[1], line[2]))
 
     gold= []
-    with open(filename_gold, 'r') as f:
+    with open(filename_gold, 'r', newline='\n') as f:
         reader = csv.reader(f, delimiter = '\t')
         for i, line in enumerate(reader):
             gold.append((line[1], line[2]))
@@ -203,34 +213,50 @@ def read_all_data(filename_in = None, system = "taxi", domain = 'science', langu
 
 
 if __name__ == '__main__':
+    # import spacy
+    # if len(sys.argv) >= 2:
+    #     language = sys.argv[1]
+    # spacy_lower = language.lower()
+    # if language == 'EN':
+    #     parser = spacy.load('en_core_web_sm')
+    # else:
+    #     parser = spacy.load(spacy_lower +'_core_news_sm')
+    # freq_common = 5
+    # freq_domain = 3
+    # all_vocabulary = []
+    # domains = ['science', 'food', 'environment']
+    # # for domain in domains:
+    # #     file = open("data/" + language + "/poincare_common_domains_" + language + "_" + domain + ".tsv", 'r').readlines()
+    # #     voc = set([element.split('\t')[0] for element in file] + [element.split('\t')[1] for element in file])
+    # #     print(len(voc))
+    # # sys.exit()
+    #
+    # for domain in domains:
+    #     output_domains = []
+    #     gold, _ = read_all_data(domain = domain, language = language)
+    #     gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
+    #     all_vocabulary = gold
+    #     output_domains.append(process_rel_file(freq_domain,language + "/" + spacy_lower + "_" + domain + ".csv" ,gold))
+    #     output_domains.append(process_rel_file(freq_common, language + "/" + spacy_lower  + ".csv", set(all_vocabulary))) #en_ps59g -> en.csv
+    #     create_relation_files(output_domains,language + "/poincare_common_domains_" + language + "_" + domain + ".tsv",freq_common)
+
     import spacy
     if len(sys.argv) >= 2:
         language = sys.argv[1]
+    spacy_lower = language.lower()
     if language == 'EN':
         parser = spacy.load('en_core_web_sm')
-        freq_common = 5
-        freq_domain = 3
-        all_vocabulary = []
-        domains = ['science', 'food', 'environment']
-        output_domains = []
-        for domain in domains:
-            gold, _ = read_all_data(domain = domain)
-            gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
-            all_vocabulary += gold
-            output_domains.append(process_rel_file(freq_domain,"en_" + domain + ".csv" ,gold))
-        output_domains.append(process_rel_file(freq_common, "en_ps59g.csv", set(all_vocabulary)))
-        create_relation_files(output_domains,"poincare_common_domains_test3.tsv",freq_common)
-    elif langauge == "FR":
-        parser = spacy.load('en_core_web_sm')
-        freq_common = 5
-        freq_domain = 3
-        all_vocabulary = []
-        domains = ['science', 'food', 'environment']
-        output_domains = []
-        for domain in domains:
-            gold, _ = read_all_data(domain = domain)
-            gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
-            all_vocabulary = gold
-            output_domains.append(process_rel_file(freq_domain,"en_" + domain + ".csv" ,gold))
-        output_domains.append(process_rel_file(freq_common, "en_ps59g.csv", set(all_vocabulary)))
-        create_relation_files(output_domains,"poincare_common_domains02L.tsv",freq_common)
+    else:
+        parser = spacy.load(spacy_lower +'_core_news_sm')
+    freq_common = 5
+    freq_domain = 3
+    all_vocabulary = []
+    output_domains = []
+    domains = ['science', 'food', 'environment']
+    for domain in domains:
+        gold, _ = read_all_data(domain = domain, language = language)
+        gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
+        all_vocabulary += gold
+        output_domains.append(process_rel_file(freq_domain,language + "/" + spacy_lower + "_" + domain + ".csv" ,gold))
+    output_domains.append(process_rel_file(freq_common, language + "/" + spacy_lower  + ".csv", set(all_vocabulary))) #en_ps59g -> en.csv
+    create_relation_files(output_domains,language + "/poincare_common_domains_" + language + ".tsv",freq_common)

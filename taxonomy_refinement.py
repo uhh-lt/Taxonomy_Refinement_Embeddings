@@ -54,7 +54,7 @@ def compare_to_gold(gold, taxonomy, model = None,  model_poincare = None, outlie
                 break
     precision = correct / float(len(removed_outliers))
     recall = correct / float(len(gold))
-    print(str(recall).replace(".", ',') +'\t' + str(precision).replace(".", ',') + '\t' + \
+    print(str(precision).replace(".", ',') +'\t' + str(recall).replace(".", ',') + '\t' + \
      str(2*precision *recall / (precision + recall)).replace(".", ',') + '\t' + str(len(new_nodes)) + '\t' + str(len(outliers)))
 
     if write_file != None:
@@ -378,7 +378,7 @@ def find_outliers(results, pairs, threshold, mode = "max"):
 
 
 
-def load_embeddings(include_co, exclude_parent, wordnet, language = 'EN'):
+def load_embeddings(include_co, exclude_parent, wordnet, domain, language = 'EN'):
     model = None
     model_poincare = None
     if include_co:
@@ -396,13 +396,14 @@ def load_embeddings(include_co, exclude_parent, wordnet, language = 'EN'):
                 print("There is no wordnet poincaré model for a non-english language\nAbort...")
                 sys.exit()
         else:
-            if language == 'EN':
-                model_poincare = PoincareModel.load('embeddings/poincare_common_domains02_5_3_50')
-            elif langauge == 'FR':
-                model_poincare = PoincareModel.load('embeddings/poincare_common_domains02_5_3_50')
+            assert language in ['EN', 'FR', 'IT', 'NL'] , "Language not supported. Aborting..."
+            #model_poincare = PoincareModel.load('embeddings/poincare_common_domains_5_3_' + language + '_' + domain + '_50')
+            model_poincare = PoincareModel.load('embeddings/poincare_common_domains_5_3_' + language + '_50')
             print("Poincare vocab size", len(model_poincare.kv.vocab))
 
-        # wordlist = ["volcanic_eruption", "whipped_cream", 'ordinary_differential_equations']
+        #print(model_poincare.kv.vocab)
+        #wordlist = ["volcanic_eruption", "whipped_cream", 'ordinary_differential_equations', "Atlantic_Ocean", "electrical_engineering", "vanilla_extract", "wastewater", "lake", "freshwater", "water"]
+        #wordlist = ["international_relations", "second_language_acquisition", "botany", "sweet_potatoes"]
         # for word in wordlist:
         #     print(word)
         #     distances = list(model_poincare.kv.distances(word))
@@ -417,7 +418,7 @@ def load_embeddings(include_co, exclude_parent, wordnet, language = 'EN'):
 def main():
     parser = argparse.ArgumentParser(description="Embeddings for Taxonomy")
     parser.add_argument('-m', '--mode', type=str, default='preload', choices=["root", "distributed_semantics", "eval"], help="Mode of the system.")
-    parser.add_argument('-d', '--domain', type=str, default='science', choices=["science", "food", "environment"], help="Domain")
+    parser.add_argument('-d', '--domain', type=str, default='science', help="Domain")
     parser.add_argument('-l', '--language', type=str, default='EN', choices=["EN", "FR", "IT", "NL"], help="Embedding to use")
     parser.add_argument('-ep', '--exparent', action='store_true', help='Exclude "parent" relations')
     parser.add_argument('-sys','--system', type=str, choices =["TAXI", "USAAR", "QASSIT", "JUNLP", "NUIG-UNLP"])
@@ -434,23 +435,32 @@ def main():
 
 def run(mode, domain, language, path_in, path_out, exclude_parent = False, include_co = False, compound = False, wordnet = False, exclude_sub = False, system = "TAXI"):
     if mode == 'distributed_semantics':
-        model, model_poincare = load_embeddings(include_co, exclude_parent, wordnet, language)
+        if domain in ["environment", "environnement", "ambiente", "milieu"]:
+            domain_l = "environment"
+        elif domain in ["science", "scienze", "wetenschap"]:
+            domain_l = "science"
+        elif domain in ["food", "alimentation", "alimenti", "voedsel"]:
+            domain_l = "food"
+
+        model, model_poincare = load_embeddings(include_co, exclude_parent, wordnet, domain_l, language)
 
         taxonomy = []
         outliers = []
         exclude_co = not include_co
 
-        gold, relations = read_all_data(path_in, system, domain)
+        gold, relations = read_all_data(path_in, system, domain, language)
         voc = set([rel[0] for rel in relations] + [rel[1] for rel in relations])
         g_voc = set([rel[0] for rel in gold] + [rel[1] for rel in gold])
         diff = len(g_voc) - len(voc)
         print(len(voc))
         print("Orphans at start", diff)
 
+
         compare_to_gold(gold = gold, taxonomy = relations, model = model, model_poincare = model_poincare)
 
         outliers = calculate_outliers(relations, model, threshold = 2, model_poincare = model_poincare, compound = compound, no_parents = exclude_parent,
          no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub)
+        #print(outliers)
         relations2 = compare_to_gold(gold = gold, taxonomy = relations, model = model, model_poincare = model_poincare, outliers = outliers)
 
         replaced_outliers = replace_outliers(taxonomy = relations2, outliers = outliers, domain = domain, model = model, model_poincare = model_poincare,
@@ -460,7 +470,7 @@ def run(mode, domain, language, path_in, path_out, exclude_parent = False, inclu
 
         new_nodes = connect_new_nodes(taxonomy = relations3, gold = gold,  model = model, model_poincare = model_poincare, threshold = 2,
          no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub, outliers = outliers, domain = domain)
-
+        print(new_nodes)
         relations_final = compare_to_gold(gold = gold, taxonomy = relations3, new_nodes = new_nodes, model = model, model_poincare = model_poincare,  write_file = path_out)
 
 
