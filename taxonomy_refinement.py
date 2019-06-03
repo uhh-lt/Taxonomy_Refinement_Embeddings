@@ -224,7 +224,7 @@ def calculate_outliers(relations_o, model, model_poincare = None, threshold = No
         parents = structure[key]
         if not no_co:
             parents = [word for word in structure[key].copy() if word in model.wv]
-        if not no_parents:
+        if not no_parents and not wordnet:
             parents = [word for word in structure[key].copy() if word in model_poincare.kv]
         for child in parents:
             try:
