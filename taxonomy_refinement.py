@@ -83,9 +83,6 @@ def connected_to_root(element, list_data, root):
         for relation in list_data:
             if parent == relation[0]:
                 parent = relation[1]
-                #print parent
-                #break
-    #print '\n'
     return [parent == root, parent]
 
 def get_rank(entity1, entity2, model, threshhold):
@@ -115,11 +112,8 @@ def connect_new_nodes(gold, taxonomy, model, model_poincare, threshold, no_paren
     new_relationships = []
     gold_nodes = [relation[0] for relation in gold] + [relation[1] for relation in gold]
     taxonomy_nodes = (set([relation[0] for relation in taxonomy] + [relation[1] for relation in taxonomy]))
-    results_parents = []
-    results_substring = []
-    pairs_parents = []
-    results_co = []
-    pairs_co = []
+    results_parents, results_substring, pairs_parents, results_co, pairs_co = [], [], [], [], []
+
     for element in gold_nodes:
         if element not in taxonomy_nodes:
             new_nodes.add(element)
@@ -133,23 +127,21 @@ def connect_new_nodes(gold, taxonomy, model, model_poincare, threshold, no_paren
 
     for node in new_nodes:
         node = node.replace(" ", compound_operator)
-        result_co_min = MAX_INDEX
-        pair_co_min  = 0
-        result_parent_min = MAX_INDEX
-        pair_parent_min = 0
+        result_co_min, result_parent_min = MAX_INDEX, MAX_INDEX
+        pair_co_min, pair_parents_min  = 0, 0
         for key in structure:
-            #print(key)
-            if structure[key] == []:
-                print("no children: " + key)
-                continue
-            cleaned_co_hyponyms = []
             if key == node:
                 continue
-            result_parent, pair_parent, result_co, pair_co  = get_rank(node, key, structure[key], model, model_poincare, no_parents, no_co, compound = True, wordnet = wordnet)
+            parents = structure[key]
+            if not no_co:
+                parents = [word for word in structure[key].copy() if word in model.wv]
+            if not no_parents:
+                parents = [word for word in structure[key].copy() if word in model_poincare.kv]
+            result_parent, pair_parent, result_co, pair_co  = get_rank(node, key, parents, model, model_poincare, no_parents, no_co, compound = True, wordnet = wordnet)
             if result_parent < result_parent_min and result_parent != 0 and pair_parent[0] != domain:
                 result_parent_min = result_parent
                 pair_parent_min = pair_parent
-            if result_co < result_co_min and result_co != 0 and pair_parent[0] != domain:
+            if result_co < result_co_min and result_co != 0 and pair_co[0] != domain:
                 result_co_min = result_co
                 pair_co_min = pair_co
         if result_parent_min != MAX_INDEX or result_co_min != MAX_INDEX:
@@ -164,33 +156,18 @@ def connect_new_nodes(gold, taxonomy, model, model_poincare, threshold, no_paren
         elif node.split('_')[-1] in structure and not exclude_sub:
             results_substring.append((node, node.split('_')[-1]))
 
-    results_substring = set(results_substring)
-    results_normalized1 = []
-    results_normalized2 = []
     if not no_parents:
-        #results_normalized1= list(preprocessing.scale(results_parents))
-        outliers_parents = find_outliers(results_parents, pairs_parents, threshold, mode = 'min')
-        new_relationships = list(set(outliers_parents)|results_substring)
+        outliers_parents = find_outliers(results_parents, pairs_parents, threshold, mode = 'attach')
+        new_relationships = list(set(outliers_parents)|set(results_substring))
 
     if not no_co:
-        #results_normalized2= list(preprocessing.scale(results_co))
-        outliers_co = find_outliers(results_co, pairs_co, threshold, mode = 'min')
-        new_relationships = list(set(outliers_co)|results_substring)
+        outliers_co = find_outliers(results_co, pairs_co, threshold, mode = 'attach')
+        new_relationships = list(set(outliers_co)|set(results_substring))
 
-    count_o = 0
-    outlier_n = [outlier[0] for outlier in outliers if not outlier[0] in taxonomy_nodes]
-    for entry in new_relationships:
-        if entry[0] in outlier_n or entry[1] in outlier_n:
-            count_o+=1
-    print("disconnected from Step 3.2", count_o)
-    #print([element for element in new_relationships if element[1] == "food"])
     return new_relationships
 
 def get_rank(current_child, parent, children, model, model_poincare, no_parents, no_co, compound  = True, wordnet = False):
-    result_co = 0
-    pair_co  = 0
-    result_parent = 0
-    pair_parent = 0
+    result_co, pair_co, result_parent, pair_parent = 0, 0, 0, 0
     current_child2  = current_child.replace(compound_operator, " ")
     parent2 = parent.replace(compound_operator, " ")
     if not no_co:
@@ -201,10 +178,8 @@ def get_rank(current_child, parent, children, model, model_poincare, no_parents,
                 index_child = model.wv.distance(current_child, most_similar_child)
                 result_co = index_child
                 pair_co = (current_child,parent)
-            # else:
-            #     index_child = 0
         except (KeyError,ZeroDivisionError) as e:
-            index_child = 0
+            result_co = 0
     if not no_parents:
         try:
             if wordnet:
@@ -230,18 +205,14 @@ def get_rank(current_child, parent, children, model, model_poincare, no_parents,
             result_parent = index_parent
             pair_parent = (current_child,parent)
         except KeyError as e:
-            index_parent = 0
+            result_parent = 0
     return [result_parent, pair_parent, result_co, pair_co]
 
 
 #create dictionary mit den begirffen wegen bindestrich
 def calculate_outliers(relations_o, model, model_poincare = None, threshold = None, no_parents = False, no_co = True, compound = False, wordnet = False, exclude_sub = False):
-    outliers = []
+    outliers, results_parents, pairs_parents, results_co, pairs_co = [], [], [] ,[], []
     structure = {}
-    results_parents = []
-    pairs_parents = []
-    results_co = []
-    pairs_co = []
     relations = relations_o.copy()
     for i in range(len(relations)):
         relations[i] = (relations[i][0].replace(" ", compound_operator), relations[i][1].replace(" ", compound_operator))
@@ -250,8 +221,16 @@ def calculate_outliers(relations_o, model, model_poincare = None, threshold = No
     for parent in [relation[1] for relation in relations]:
         structure[parent] = [relation[0] for relation in relations if relation[1] == parent]
     for key in structure:
-        for child in structure[key]:
-            result_parent, pair_parent, result_co, pair_co = get_rank(child, key, structure[key], model, model_poincare, no_parents, no_co, compound, wordnet)
+        parents = structure[key]
+        if not no_co:
+            parents = [word for word in structure[key].copy() if word in model.wv]
+        if not no_parents:
+            parents = [word for word in structure[key].copy() if word in model_poincare.kv]
+        for child in parents:
+            try:
+                result_parent, pair_parent, result_co, pair_co = get_rank(child, key, parents, model, model_poincare, no_parents, no_co, compound, wordnet)
+            except:
+                result_parent, result_co = 0, 0
             if result_parent != 0:
                 if not exclude_sub:
                      if child.split("_")[0] != key and child.split("_")[-1] != key:
@@ -269,34 +248,22 @@ def calculate_outliers(relations_o, model, model_poincare = None, threshold = No
                     results_co.append(result_co)
                     pairs_co.append(pair_co)
 
-
     if not no_parents:
-        #results_normalized1= list(preprocessing.scale(results_parents))
         outliers_parents = find_outliers(results_parents, pairs_parents, threshold)
         outliers = list(outliers_parents)
 
     if not no_co:
-        #results_normalized2= list(preprocessing.scale(results_co))
         outliers_co = find_outliers(results_co, pairs_co, threshold)
         outliers = list(outliers_co)
-
-    if not no_co and not no_parents:
-        outliers = list(outliers_parents.intersection(outliers_co))
 
     return outliers
 
 
 def replace_outliers(taxonomy, outliers, domain, model, model_poincare, no_parents, no_co, wordnet = False, exclude_sub = False):
     orphans =set([])
-
     structure = {}
-    new_relationships = []
     taxonomy_nodes = (set([relation[0] for relation in taxonomy] + [relation[1] for relation in taxonomy]))
-    results_parents = []
-    results_substring = []
-    pairs_parents = []
-    results_co = []
-    pairs_co = []
+    results_parents, results_substring, pairs_parents, results_co, pairs_co, new_relationships = [], [] ,[] ,[] ,[], []
     for element in [outlier[0] for outlier in outliers] + [outlier[1] for outlier in outliers]:
         if element not in taxonomy_nodes:
             continue
@@ -313,13 +280,16 @@ def replace_outliers(taxonomy, outliers, domain, model, model_poincare, no_paren
 
     for node in orphans:
         node = node.replace(" ", compound_operator)
-        result_co_min = MAX_INDEX
-        pair_co_min  = 0
-        result_parent_min = MAX_INDEX
-        pair_parent_min = 0
+        result_co_min, result_parent_min = MAX_INDEX, MAX_INDEX
+        pair_co_min, pair_parents_min  = 0, 0
         for key in structure.keys():
             if key == node:
                 continue
+            parents = structure[key]
+            if not no_co:
+                parents = [word for word in structure[key].copy() if word in model.wv]
+            if not no_parents:
+                parents = [word for word in structure[key].copy() if word in model_poincare.kv]
             result_parent, pair_parent, result_co, pair_co  = get_rank(node, key, structure[key], model, model_poincare, no_parents, no_co, compound = True, wordnet = wordnet)
             if result_parent < result_parent_min and result_parent != 0:
                 result_parent_min = result_parent
@@ -349,7 +319,7 @@ def replace_outliers(taxonomy, outliers, domain, model, model_poincare, no_paren
     return new_relationships
 
 
-def find_outliers(results, pairs, threshold, mode = "max"):
+def find_outliers(results, pairs, threshold, mode = "removal"):
     print("num results", len(results))
     outliers = set([])
     num_clusters = threshold#15 wordnet #6 own_poincare
@@ -365,18 +335,15 @@ def find_outliers(results, pairs, threshold, mode = "max"):
     for element in results:
         average+=element
     average /= len(results)
-    if mode == 'min':
+    if mode == 'attach':
         for value in results_sorted:
             if value[1] <= average:
                 outliers.add(pairs[value[0]])
-    elif mode == 'max':
+    elif mode == 'removal':
         for value in results_sorted:
             if value[1] > average: #wn -0.3
                 outliers.add(pairs[value[0]])
     return outliers
-
-
-
 
 def load_embeddings(include_co, exclude_parent, wordnet, domain, language = 'EN'):
     model = None
@@ -413,7 +380,6 @@ def load_embeddings(include_co, exclude_parent, wordnet, domain, language = 'EN'
         #     print(closest, '\n')
 
     return [model, model_poincare]
-
 
 def main():
     parser = argparse.ArgumentParser(description="Embeddings for Taxonomy")
@@ -470,7 +436,7 @@ def run(mode, domain, language, path_in, path_out, exclude_parent = False, inclu
 
         new_nodes = connect_new_nodes(taxonomy = relations3, gold = gold,  model = model, model_poincare = model_poincare, threshold = 2,
          no_parents = exclude_parent, no_co = exclude_co, wordnet = wordnet, exclude_sub = exclude_sub, outliers = outliers, domain = domain)
-        print(new_nodes)
+        #print(new_nodes)
         relations_final = compare_to_gold(gold = gold, taxonomy = relations3, new_nodes = new_nodes, model = model, model_poincare = model_poincare,  write_file = path_out)
 
 
