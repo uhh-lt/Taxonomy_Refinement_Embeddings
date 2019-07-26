@@ -60,7 +60,7 @@ There are 4 different refinement methods available:
 
 `0`: Connect every disconnected term to the root of the taxonomy.
 
-`1`: Employ word2vec embeddings to refine taxonomy. (embeddings have to be learned beforehead, see above)
+`1`: Employ word2vec embeddings to refine taxonomy. (embeddings have to be learned beforehand, see above)
 
 `2`: Employ Poincaré embeddings trained on wordnet data to refine taxonomy.
 
