@@ -1,5 +1,4 @@
 # Taxonomy_Refinement_Embeddings
-Taxonomy refinement method to improve domain-specific taxonomy systems.
 
 This repository contains an implementation of a refinement pipeline to improve existing taxonomies on basis of word embeddings.
 The refinement method elevates the largest two error classes of taxonomies: nodes that are connected to the wrong parent and nodes that are completely disconnected from the taxonomy.
