@@ -38,17 +38,14 @@ def run(mode, language):
         vocabulary = set([relation[0].lower() for relation in gold_s] + [relation[1].lower() for relation in gold_s])
         vocabulary = vocabulary | set([relation[0].lower() for relation in gold_f] + [relation[1].lower() for relation in gold_f])
         vocabulary = vocabulary | set([relation[0].lower() for relation in gold_e] + [relation[1].lower() for relation in gold_e])
-        #relations ="data/poincare_common_domains_" + language + ".tsv"
-        domains = ["environment", "science", "food"]
-        for domain in domains:
-            relations ="data/" + language + "/poincare_common_domains_" + language + "_" + domain + ".tsv"
-            assert len(open(relations, 'r').readlines()) > 10, "Not enough relations to train embeddings. Aborting ..."
-            poincare_rel = PoincareRelations(relations)
-            dim = 50
-            model = PoincareModel(poincare_rel, size = dim)
-            print("Starting Training...")
-            model.train(epochs=400)
-            model.save("embeddings/poincare_common_domains_5_3_" + language + "_" + domain +"_" + str(dim))
+        relations ="data/" + language + "/poincare_common_and_domains_" + language + ".tsv"
+        assert len(open(relations, 'r').readlines()) > 10, "Not enough relations to train embeddings. Aborting ..."
+        poincare_rel = PoincareRelations(relations)
+        dim = 50
+        model = PoincareModel(poincare_rel, size = dim)
+        print("Starting Training...")
+        model.train(epochs=400)
+        model.save("embeddings/poincare_common_and_domains_5_3_" + language + "_" + str(dim))
 
 
     if mode == 'train_poincare_wordnet':
@@ -78,7 +75,7 @@ def run(mode, language):
         vocabulary = vocabulary | set([relation[0].lower() for relation in gold_e] + [relation[1].lower() for relation in gold_e])
         documents =  []
 
-        documents = list(read_input("/srv/data/5aly/data_text/wikipedia_utf8_filtered_20pageviews.csv",vocabulary))
+        documents = list(read_input("/data/EN/wikipedia_utf8_filtered_20pageviews.csv",vocabulary))
         model = gensim.models.Word2Vec(documents, size= 300, window = 10, min_count = 2, workers = 10)
         model.train(documents, total_examples=len(documents), epochs=30)
         print("Finished building word2vec model")

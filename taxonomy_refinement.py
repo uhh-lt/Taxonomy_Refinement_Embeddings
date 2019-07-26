@@ -365,7 +365,7 @@ def load_embeddings(include_co, exclude_parent, wordnet, domain, language = 'EN'
         else:
             assert language in ['EN', 'FR', 'IT', 'NL'] , "Language not supported. Aborting..."
             #model_poincare = PoincareModel.load('embeddings/poincare_common_domains_5_3_' + language + '_' + domain + '_50')
-            model_poincare = PoincareModel.load('embeddings/poincare_common_domains_5_3_' + language + '_50')
+            model_poincare = PoincareModel.load('embeddings/poincare_common_and_domains_5_3_' + language + '_50')
             print("Poincare vocab size", len(model_poincare.kv.vocab))
 
         #print(model_poincare.kv.vocab)

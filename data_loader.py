@@ -14,6 +14,7 @@ punctuations = string.punctuation
 from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS as stopwords
 import pickle
 import re
+import argparse
 
 compound_operator = "_"
 
@@ -162,7 +163,6 @@ def process_rel_file(min_freq, input_file, vocabulary):
             #remove reflexiv and noise relations
             hyponym = adjust_input(line[0], vocabulary)
             hypernym = adjust_input(line[1], vocabulary)
-            #print(line[0] in vocabulary, line[1] in vocabulary)
             valid = int(freq) >= min_freq  and line[0] != line[1] and len(line[0]) > 3 and len(line[1]) > 3 and (line[0] in vocabulary and line[1] in vocabulary)
             if valid:
                 vocabulary.add(hyponym)
@@ -172,17 +172,15 @@ def process_rel_file(min_freq, input_file, vocabulary):
                     freq_sym = relations_with_freq[(hypernym, hyponym)]
                     if freq > freq_sym:
                         relations.remove((hypernym, hyponym))
-                        #print(hypernym, hyponym)
                         if freq - freq_sym > min_freq:
                             relations.append((hyponym, hypernym))
                             relations_with_freq[(hyponym,hypernym)] =  freq
-                            #print(hypernym,hyponym)
                     else:
                         continue
                 else:
                     relations.append((hyponym, hypernym))
                     relations_with_freq[(hyponym,hypernym)] =  freq
-    print(len(relations))
+    print("For input file: ", input_file, "extracted: " + str(len(relations)) + " relations")
     return relations, relations_with_freq
 
 
@@ -195,7 +193,7 @@ def read_all_data(filename_in = None, system = "taxi", domain = 'science', langu
     elif domain in ["food", "alimentation", "alimenti", "voedsel"]:
         domain_l = "food"
     global compound_operator
-    filename_gold = "data/" + language + "/gold_" + domain_l + ".taxo"
+    filename_gold = "eval/" + language + "/gold_" + domain_l + ".taxo"
 
     relations = []
     if filename_in != None:
@@ -213,36 +211,11 @@ def read_all_data(filename_in = None, system = "taxi", domain = 'science', langu
 
 
 if __name__ == '__main__':
-    # import spacy
-    # if len(sys.argv) >= 2:
-    #     language = sys.argv[1]
-    # spacy_lower = language.lower()
-    # if language == 'EN':
-    #     parser = spacy.load('en_core_web_sm')
-    # else:
-    #     parser = spacy.load(spacy_lower +'_core_news_sm')
-    # freq_common = 5
-    # freq_domain = 3
-    # all_vocabulary = []
-    # domains = ['science', 'food', 'environment']
-    # # for domain in domains:
-    # #     file = open("data/" + language + "/poincare_common_domains_" + language + "_" + domain + ".tsv", 'r').readlines()
-    # #     voc = set([element.split('\t')[0] for element in file] + [element.split('\t')[1] for element in file])
-    # #     print(len(voc))
-    # # sys.exit()
-    #
-    # for domain in domains:
-    #     output_domains = []
-    #     gold, _ = read_all_data(domain = domain, language = language)
-    #     gold = set([relation[0] for relation in gold] + [relation[1] for relation in gold])
-    #     all_vocabulary = gold
-    #     output_domains.append(process_rel_file(freq_domain,language + "/" + spacy_lower + "_" + domain + ".csv" ,gold))
-    #     output_domains.append(process_rel_file(freq_common, language + "/" + spacy_lower  + ".csv", set(all_vocabulary))) #en_ps59g -> en.csv
-    #     create_relation_files(output_domains,language + "/poincare_common_domains_" + language + "_" + domain + ".tsv",freq_common)
 
+    parser = argparse.ArgumentParser(description="Create data for poincaré embeddings")
+    parser.add_argument('-d', '--lang', type=str, default='EN', choices=["EN", "FR", "NL", "IT"], help="Choose language to generate data for, EN, FR, IT, or NL")
+    args = parser.parse_args()
     import spacy
-    if len(sys.argv) >= 2:
-        language = sys.argv[1]
     spacy_lower = language.lower()
     if language == 'EN':
         parser = spacy.load('en_core_web_sm')
@@ -259,4 +232,4 @@ if __name__ == '__main__':
         all_vocabulary += gold
         output_domains.append(process_rel_file(freq_domain,language + "/" + spacy_lower + "_" + domain + ".csv" ,gold))
     output_domains.append(process_rel_file(freq_common, language + "/" + spacy_lower  + ".csv", set(all_vocabulary))) #en_ps59g -> en.csv
-    create_relation_files(output_domains,language + "/poincare_common_domains_" + language + ".tsv",freq_common)
+    create_relation_files(output_domains,language + "/poincare_common_and_domains_" + language + ".tsv",freq_common)
