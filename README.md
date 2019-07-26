@@ -21,7 +21,6 @@ The system was tested on Ubuntu Linux.
 
   ```
   cd Taxonomy_Refinement_Embeddings && wget http://ltdata1.informatik.uni-hamburg.de/taxonomy_refinement/data.zip
-  
   ```
  
 3. Install all needed dependencies (requirements.txt soon to be released)
@@ -58,8 +57,13 @@ Select a system from: `TAXI`, `USAAR`, `JUNLP`.
 The shared task consisted of three different domains: `environment`, `science`, `food`.
 The languages are `EN`, `FR`, `IT`, `NL`.
 There are 4 different refinement methods available:
+
 `0`: Connect every disconnected term to the root of the taxonomy.
+
 `1`: Employ word2vec embeddings to refine taxonomy. (embeddings have to be learned beforehead, see above)
+
 `2`: Employ Poincaré embeddings trained on wordnet data to refine taxonomy.
+
 `3`: Employ Poincaré trained on noisy relations extracted from general and domain-specifc corpora to refine taxonomy.
+
 
