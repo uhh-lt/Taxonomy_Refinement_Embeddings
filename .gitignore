@@ -2,8 +2,6 @@ __pycache__/
 data/
 embeddings/
 eval/
-refinement_out/
-out/
 eval.out
 _refined_taxonomy.csv
 temp/

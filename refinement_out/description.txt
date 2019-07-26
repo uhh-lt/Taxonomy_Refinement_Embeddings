@@ -1,0 +1,1 @@
+This folder contains the refined taxonomies after applying the complete pipeline.

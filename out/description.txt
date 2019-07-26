@@ -1,0 +1,1 @@
+This folder stores the taxonomy systems after preprocessing, i.e. removal of circles, root has no parents
