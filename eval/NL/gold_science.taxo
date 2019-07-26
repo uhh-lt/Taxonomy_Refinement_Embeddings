@@ -1,0 +1,449 @@
+0	wetenschapsfilosofie	filosofie
+1	morfologie	linguïstiek
+2	gedragseconomie	economie
+3	biochemische en biomoleculaire techniek	chemische technologie
+4	cognitieve neurowetenschap	neurowetenschappen
+5	metallurgie	materiaalkunde
+6	Frans en Franstalige literatuur	Frans en Franstalige taal en literatuur
+7	performance studies	theater
+8	ingenieurswetenschappen	techniek
+9	materiaalkunde	techniek
+10	sociale beïnvloeding en politieke communicatie	communicatie
+11	geologie	aardwetenschappen
+12	diplomatieke geschiedenis	geschiedenis
+13	fysische transportverschijnselen	chemische technologie
+14	taalfilosofie	filosofie
+15	medicinale chemie	chemie
+16	biometrie	statistiek en probabiliteit
+17	statistiek en probabiliteit	natuurwetenschappen
+18	atmosferische wetenschappen	natuurwetenschappen
+19	regionale sociologie	sociologie
+20	religieus denken	religie
+21	fonologie	linguïstiek
+22	civiele techniek	techniek
+23	cultuursociologie	sociologie
+24	optica	fysica
+25	bewegingsfysiologie	fysiologie
+26	numerieke wiskunde	computerwetenschappen
+27	psycholinguïstiek	linguïstiek
+28	geschiedenis van de moderne kunst en architectuur	geschiedenis
+29	ruimtevaartuig	luchtvaarttechniek
+30	plaats en milieu	sociologie
+31	milieuhygiëne	levenswetenschappen
+32	structureel materiaal	materiaalkunde
+33	politiek en sociale verandering	sociologie
+34	internationale voeding	voeding
+35	microbiologie	levenswetenschappen
+36	netwerken	computerwetenschappen
+37	redevoering en retorica	communicatie
+38	internationale en interculturele communicatie	communicatie
+39	levenswetenschappen	wetenschap
+40	microbiologie van voeding	voedselwetenschappen
+41	compilers	computerwetenschappen
+42	geschiedenis van westerse religies	religie
+43	Amerikaanse politiek	politieke wetenschappen
+44	biofysica en chemische fysica	fysica
+45	antropologie	sociale wetenschappen
+46	linguïstische antropologie	antropologie
+47	vergelijkende literatuur	geesteswetenschappen
+48	toegepaste mechanica	werktuigbouwkunde
+49	kracht en energie	elektrotechniek
+50	motorregeling	kinesiologie
+51	fysiologie	levenswetenschappen
+52	talen en gemeenschappen van Zuid-Azië en Zuidoost-Azië	geesteswetenschappen
+53	geschiedenis van Amerikaanse kunst en architectuur	geschiedenis
+54	computationele neurowetenschappen	neurowetenschappen
+55	economie	sociale wetenschappen
+56	elektrisch en elektronica	elektrotechniek
+57	bewegingspsychologie	kinesiologie
+58	geschiedenis van de middeleeuwen	geschiedenis
+59	talen en gemeenschappen van het Nabije Oosten	geesteswetenschappen
+60	geotechniek	techniek
+61	computerarchitectuur	computertechniek
+62	toegepaste dynamica	toegepaste wiskunde
+63	geschiedenis van de Aziatische kunst en archeologie	geschiedenis
+64	dierwetenschappen	levenswetenschappen
+65	electromagnetica	elektrotechniek
+66	relaties in de natuur en gemeenschappen	geografie
+67	archeologisch	antropologie
+68	cellulaire neurowetenschappen	neurowetenschappen
+69	levensmiddelenchemie	voedselwetenschappen
+70	discoursanalyse	linguïstiek
+71	aardwetenschappen	natuurwetenschappen
+72	etnomusicologie	muziek
+73	moleculaire voeding	voeding
+74	fabricage	werktuigbouwkunde
+75	politieke geschiedenis	geschiedenis
+76	muziek	geesteswetenschappen
+77	Spaanse linguïstiek	geesteswetenschappen
+78	moleculaire neurowetenschappen	neurowetenschappen
+79	halfgeleidermateriaal en optisch materiaal	materiaalkunde
+80	theorie, kennis en wetenschap	sociologie
+81	milieutechnische microbiologie	microbiologie
+82	politieke theorie	politieke wetenschappen
+83	geofysica	aardwetenschappen
+84	industriële organisatie	economie
+85	moleculaire fysiologie	fysiologie
+86	toegepaste taalkunde	linguïstiek
+87	toegepaste wiskunde	natuurwetenschappen
+88	voedselwetenschappen	levenswetenschappen
+89	geschiedenis	geesteswetenschappen
+90	tribologie	werktuigbouwkunde
+91	dynamische systemen	ingenieurswetenschappen
+92	astrochemie	aardwetenschappen
+93	continentale filosofie	filosofie
+94	sociale controle, recht, misdaad en afwijking	sociologie
+95	geschiedenis van Latijns-Amerika	geschiedenis
+96	paleobiologie	aardwetenschappen
+97	fysische processen	astrofysica en astronomie
+98	luchtvaarttechniek	techniek
+99	energiesystemen	werktuigbouwkunde
+100	sociale psychologie	pyschologie
+101	computationele biologie	levenswetenschappen
+102	algebra	wiskunde
+103	filosofie	geesteswetenschappen
+104	biofysica	levenswetenschappen
+105	partiële differentiaalvergelijkingen	toegepaste wiskunde
+106	bio-imaging en biomedische optica	techniek
+107	politieke wetenschappen	sociale wetenschappen
+108	sociolinguïstiek	linguïstiek
+109	ethiek	religie
+110	mechanica van vloeistoffen	luchtvaarttechniek
+111	polymeren en organische materialen	materiaalkunde
+112	arbeidseconomie	economie
+113	algoritmen	computerwetenschappen
+114	culturele antropologie	antropologie
+115	gedragsecologie	ecologie
+116	sociale wetenschappen	wetenschap
+117	Franse linguïstiek	Frans en Franstalige taal en literatuur
+118	keramische materialen	materiaalkunde
+119	natuurwetenschappen	wetenschap
+120	linguïstiek	sociale wetenschappen
+121	journalistiek	communicatie
+122	geschiedenis van de moderne kunst	geschiedenis
+123	geschiedenis van het theater	theater
+124	meet- en regeltechniek	elektrotechniek
+125	biomedisch	elektrotechniek
+126	plantenziektekunde	plantenkunde
+127	gezondheidspsychologie	pyschologie
+128	katalyse en reactietechniek	chemische technologie
+129	pathogene microbiologie	microbiologie
+130	culturele geschiedenis	geschiedenis
+131	mechanica van materialen	ingenieurswetenschappen
+132	sociale psychologie en interactie	sociologie
+133	antropologische linguïstiek	linguïstiek
+134	entomology	levenswetenschappen
+135	akoestiek, dynamica en controle	werktuigbouwkunde
+136	organisatorische communicatie	communicatie
+137	neurobiologie van gedrag	neurowetenschappen
+138	verzamelingenleer	wiskunde
+139	moleculaire en cellulaire techniek, en weefseltechniek	techniek
+140	biologie van kanker	celbiologie
+141	geneeskunde en gezondheid	sociologie
+142	biomaterialen	techniek
+143	evolutionaire fysiologie	fysiologie
+144	wetenschap van gevogelte	dierwetenschappen
+145	operationeel onderzoek	systeemkunde
+146	biologie van planten	plantenkunde
+147	vergelijkende politiek	politieke wetenschappen
+148	aerodynamica	luchtvaarttechniek
+149	menselijke voeding	voeding
+150	milieuwetenschappen	aardwetenschappen
+151	astrofysica en astronomie	natuurwetenschappen
+152	linguïstische diversiteit	linguïstiek
+153	dynamica van vloeistoffen	fysica
+154	celbiologie	levenswetenschappen
+155	microbiële fysiologie	microbiologie
+156	sociale antropologie	antropologie
+157	wetenschappelijke berekeningen	computerwetenschappen
+158	nanofabricage	elektrotechniek
+159	voedselprogramma	voeding
+160	Engelse literatuur, Engelstalig	Engelse taal en literatuur
+161	geschiedenis van religie	geschiedenis
+162	plantenveredeling	plantenkunde
+163	biochemische voeding	voeding
+164	klinische voeding	voeding
+165	overheidseconomie	economie
+166	biotransport	techniek
+167	plantkunde	plantenkunde
+168	probabiliteit	statistiek en probabiliteit
+169	Amerikaanse-filmstudies	amerikanistiek
+170	ongelijkheid en stratificatie	sociologie
+171	toegepaste statistiek	statistiek en probabiliteit
+172	ras en etniciteit	sociologie
+173	Slavische talen en samenlevingen	geesteswetenschappen
+174	fonetica	linguïstiek
+175	geschiedenis van islamitische wereld en het Nabije Oosten	geschiedenis
+176	interpersoonlijke communicatie/communicatie van kleine groepen	communicatie
+177	zoetwaterstudie	natuurwetenschappen
+178	voeding	levenswetenschappen
+179	feministische filosofie	filosofie
+180	systemen en communicatie	elektrotechniek
+181	wetenschap van bossen	levenswetenschappen
+182	fysische geografie en milieugeografie	geografie
+183	biomechanische ingenieurswetenschappen	werktuigbouwkunde
+184	meteorologie	natuurwetenschappen
+185	kinesiologie	levenswetenschappen
+186	vergelijkende fysiologie	fysiologie
+187	endocrinologie	fysiologie
+188	computer-aided engineering en computer-aided design	werktuigbouwkunde
+189	analytische chemie	chemie
+190	ergonomie	systeemkunde
+191	typologische linguïstiek	linguïstiek
+192	sociale geschiedenis	geschiedenis
+193	landbouwkunde	plantenkunde
+194	kosmologie	astrofysica en astronomie
+195	astrodynamica	luchtvaarttechniek
+196	Europese talen en samenlevingen	geesteswetenschappen
+197	fabricage van elektronische toestellen en halfgeleiders	elektrotechniek
+198	geschiedenis van de wetenschap, technologie en geneeskunde	geschiedenis
+199	elektromechanische systemen	werktuigbouwkunde
+200	statistische methodologie	statistiek en probabiliteit
+201	structuren en materialen	luchtvaarttechniek
+202	gegevensopslagsystemen	computertechniek
+203	ethiek en politieke filosofie	filosofie
+204	genderstudies, studie van feminisme en seksualiteit	Engelse taal en literatuur
+205	voedselverwerking	voedselwetenschappen
+206	Indo-Europese linguïstiek en filologie	klassiekers
+207	biologisch en fysisch	antropologie
+208	Portugese literatuur	geesteswetenschappen
+209	theater	geesteswetenschappen
+210	gewone differentiaalvergelijkingen	toegepaste wiskunde
+211	algebraïsche geometrie	wiskunde
+212	Frans en Franstalige taal en literatuur	vergelijkende literatuur
+213	talen en gemeenschappen van Oost-Azië	geesteswetenschappen
+214	software engineering	computerwetenschappen
+215	persoonlijkheid en sociale contexten	pyschologie
+216	neuro-ontwikkeling	neurowetenschappen
+217	de zon en het zonnestelsel	astrofysica en astronomie
+218	complexe vloeistoffen	chemische technologie
+219	immunoprofylaxie	immunologie
+220	fysica	natuurwetenschappen
+221	Duitse literatuur	Duitse taal en literatuur
+222	internationale betrekkingen	politieke wetenschappen
+223	Amerikaanse populaire cultuur	amerikanistiek
+224	syntax	linguïstiek
+225	Byzantijns en modern Grieks	klassiekers
+226	discrete wiskunde en combinatoriek	wiskunde
+227	pulp- en papiertechnologie	wetenschap van bossen
+228	taaldocumentatie	linguïstiek
+229	geografie	sociale wetenschappen
+230	Aziatische geschiedenis	geschiedenis
+231	kritische en culturele studies	communicatie
+232	semantiek	linguïstiek
+233	fysicochemie	chemie
+234	plantengenetica	plantenkunde
+235	farmacologie	levenswetenschappen
+236	volksgezondheid	levenswetenschappen
+237	bouwkunde	techniek
+238	medicinale chemie	levenswetenschappen
+239	religieuze filosofie	religie
+240	virologie	microbiologie
+241	gemeenschapspsychologie	pyschologie
+242	filosofie van de geest	filosofie
+243	anorganische chemie	chemie
+244	computertechniek	elektrotechniek
+245	internationale economie	economie
+246	wetenschap van polymeren	chemische technologie
+247	aquatische ecologie	ecologie
+248	digitale circuits	computertechniek
+249	ontwikkelingsbiologie	celbiologie
+250	Afrikaanse geschiedenis	geschiedenis
+251	biologische techniek	techniek
+252	dynamica/dynamische systemen	wiskunde
+253	geschiedenis van oosterse religies	religie
+254	programmeertalen	computerwetenschappen
+255	statistische theorie	statistiek en probabiliteit
+256	geochemie	aardwetenschappen
+257	klassieke literatuur en filologie	klassiekers
+258	etnische studies	amerikanistiek
+259	biomechanica	techniek
+260	economische theorie	economie
+261	moleculaire genetica	levenswetenschappen
+262	biologische psychologie	pyschologie
+263	pragmatiek	linguïstiek
+264	multidisciplinary design optimization	luchtvaarttechniek
+265	harmonische analyse en representatietheorie	wiskunde
+266	klimaat	natuurwetenschappen
+267	bosbeheer	wetenschap van bossen
+268	toxicologie	levenswetenschappen
+269	robotica	computertechniek
+270	klinische psychologie	pyschologie
+271	immunologie van besmettelijke ziekte	immunologie
+272	theaterstukken schrijven	theater
+273	bedrijfs- en organisatiepsychologie	pyschologie
+274	tuinbouw	plantenkunde
+275	epistemologie	filosofie
+276	kunst en architectuur uit de oudheid, de middeleeuwen, de renaissance en de barok	geschiedenis
+277	oceanografie	natuurwetenschappen
+278	werktuigbouwkunde	techniek
+279	geschiedenis van de klassieke archeologie en kunst	klassiekers
+280	fysica van mineralen	aardwetenschappen
+281	toegepaste natuurkunde	fysica
+282	cellulaire fysiologie	fysiologie
+283	tektoniek en structuur	aardwetenschappen
+284	krijgsgeschiedenis	geschiedenis
+285	cognitie en perceptie	pyschologie
+286	evolutionaire ecologie	ecologie
+287	geschiedenis van de filosofie	filosofie
+288	musicology	muziek
+289	moleculaire biologie	levenswetenschappen
+290	systemen en integratieve ingenieurswetenschappen	techniek
+291	aeronautische voertuigen	luchtvaarttechniek
+292	demografie, populatie, en ecologie	sociologie
+293	graphics	computerwetenschappen
+294	geografische informatiewetenschap	geografie
+295	Engelse taal en literatuur	vergelijkende literatuur
+296	getaltheorie	wiskunde
+297	taalbeschrijving	linguïstiek
+298	bioelektrische en neuroengineering	techniek
+299	intellectuele geschiedenis	geschiedenis
+300	massacommunicatie	communicatie
+301	Engelse literatuur, Noord-Amerika	Engelse taal en literatuur
+302	astronomie en astrofysica	fysica
+303	aandrijving en kracht	luchtvaarttechniek
+304	muziektheorie	muziek
+305	pathologie	immunologie
+306	bouwkunde/bouwmanagement	techniek
+307	bodemkunde	aardwetenschappen
+308	navigatie, begeleiding, controle en dynamica	luchtvaarttechniek
+309	vulkanologie	aardwetenschappen
+310	structurele biologie	levenswetenschappen
+311	gendergeschiedenis	geschiedenis
+312	bouwmechanica	ingenieurswetenschappen
+313	compositie	muziek
+314	gender en seksualiteit	sociologie
+315	instrumentatie	astrofysica en astronomie
+316	ocean engineering	werktuigbouwkunde
+317	geometrie en topologie	wiskunde
+318	informatiesystemen	computerwetenschappen
+319	analyse	wiskunde
+320	theologie	religie
+321	familie, levensloop, en gemeenschap	sociologie
+322	luchtverkeersleiding	luchtvaarttechniek
+323	chemie	natuurwetenschappen
+324	milieutechniek	techniek
+325	broadcast studies	communicatie
+326	talen en gemeenschappen van Latijns-Amerika	geesteswetenschappen
+327	Afrikaanse talen en samenlevingen	geesteswetenschappen
+328	biostatistiek	statistiek en probabiliteit
+329	atomische, moleculaire en optische fysica	fysica
+330	vergelijkende voeding	voeding
+331	glaciologie	aardwetenschappen
+332	hardware systemen	computertechniek
+333	geschiedenis van de Verenigde Staten	geschiedenis
+334	sterren, interstellair medium en het sterrenstelsel	astrofysica en astronomie
+335	houtwetenschappen	wetenschap van bossen
+336	overheidsadministratie	sociale wetenschappen
+337	theorie en geschiedenis van kritiek	geschiedenis
+338	publieke zaken	sociale wetenschappen
+339	niet-lineaire dynamica	toegepaste wiskunde
+340	thermodynamica	chemische technologie
+341	kwantumfysica	fysica
+342	gezondheidscommunicatie	communicatie
+343	microbiële ecologie	microbiologie
+344	kernfysica	fysica
+345	neurowetenschap van systemen	neurowetenschappen
+346	signaalverwerking	elektrotechniek
+347	paleontologie	aardwetenschappen
+348	metafysica	filosofie
+349	sociale geografie	geografie
+350	logica en grondslagen van de wiskunde	filosofie
+351	warmteoverdracht, verbranding	werktuigbouwkunde
+352	dramatische literatuur, kritiek en theorie	theater
+353	niet-lineaire dynamica	ingenieurswetenschappen
+354	werk, economie en organisaties	sociologie
+355	Duitse taalkunde	Duitse taal en literatuur
+356	immunologie	levenswetenschappen
+357	vergelijkende en historische linguïstiek	linguïstiek
+358	esthetica	filosofie
+359	bacteriologie	microbiologie
+360	ecologie	levenswetenschappen
+361	nutritionele genetica	voeding
+362	antieke filosofie	klassiekers
+363	bijbelstudies	religie
+364	openbaar beleid	sociale wetenschappen
+365	terrestrische ecologie	ecologie
+366	econometrie	economie
+367	externe sterrenstelsels	astrofysica en astronomie
+368	criminologie	sociologie
+369	rurale sociologie	sociologie
+370	sociologie	sociale wetenschappen
+371	genetica	levenswetenschappen
+372	fysica van plasma en bundels	fysica
+373	cognitieve psychologie	pyschologie
+374	industriële ingenieurswetenschappen	systeemkunde
+375	wetenschap van membranen	chemische technologie
+376	populatiebiologie	ecologie
+377	religie	geesteswetenschappen
+378	parasitologie	immunologie
+379	oudheid	klassiekers
+380	public relations/reclame	communicatie
+381	zuivelwetenschappen	dierwetenschappen
+382	genomica	levenswetenschappen
+383	literatuur van Latijns-Amerika	geesteswetenschappen
+384	epidemiologie	volksgezondheid
+385	plantenkunde	levenswetenschappen
+386	elementaire deeltjes en veld- en snaartheorie	fysica
+387	Engelse literatuur, Britse Eilande	Engelse taal en literatuur
+388	organische chemie	chemie
+389	vrouwengeschiedenis	geschiedenis
+390	aquacultuur en visserijen	dierwetenschappen
+391	klassiekers	geesteswetenschappen
+392	besturingssysteem	computerwetenschappen
+393	landbouweconomie en resource economics	sociale wetenschappen
+394	communicatie	sociale wetenschappen
+395	Engelse literatuur, Noord-Amerika, etnisch en minderheid	Engelse taal en literatuur
+396	chemie van materialen	chemie
+397	zoölogie	dierwetenschappen
+398	digitale communicatie	computertechniek
+399	Amerikaanse materiële cultuur	amerikanistiek
+400	gender, ras, sexualiteit, en ethniciteit in communicatie	communicatie
+401	farmaceutica	levenswetenschappen
+402	macro-economie	economie
+403	modellen en methoden	politieke wetenschappen
+404	netwerken	computertechniek
+405	fysiologie van systemen en integratieve fysiologie	fysiologie
+406	economische geschiedenis	economie
+407	artificiële intellegentie	computerwetenschappen
+408	systeemkunde	techniek
+409	Duitse taal en literatuur	vergelijkende literatuur
+410	Europese geschiedenis	geschiedenis
+411	chemische technologie	techniek
+412	eerstetaalverwerving	linguïstiek
+413	logica en grondslagen	wiskunde
+414	fysica van de gecondenseerde materie	fysica
+415	stroomkringen	elektrotechniek
+416	neurolinguïstiek	linguïstiek
+417	ontwikkelingspsychologie	pyschologie
+418	stedenbouwkunde	sociale wetenschappen
+419	elektrotechniek	techniek
+420	biotechnologie van levensmiddelen	voedselwetenschappen
+421	Spaanse literatuur	geesteswetenschappen
+422	human computer interfaces	computerwetenschappen
+423	immunopathologie	immunologie
+424	techniek	wetenschap
+425	communicatietechnologie en nieuwe media	communicatie
+426	petroleum engineering	chemische technologie
+427	nutritionele epidemiologie	voeding
+428	procesbeheer en productiesystemen	chemische technologie
+429	tweedetaalverwerving	linguïstiek
+430	polymeerchemie	chemie
+431	geesteswetenschappen	wetenschap
+432	biochemie	chemie
+433	computerwetenschappen	natuurwetenschappen
+434	rhetoriek en compositie	Engelse taal en literatuur
+435	wiskunde	natuurwetenschappen
+436	biogeochemie	aardwetenschappen
+437	kosmologie relativiteit, en zwaartekracht	fysica
+438	seismologie	aardwetenschappen
+439	dynamische systemen	toegepaste wiskunde
+440	neurowetenschappen	levenswetenschappen
+441	pyschologie	sociale wetenschappen
+442	fotonica	elektrotechniek
+443	biologie van het bos	wetenschap van bossen
+444	groei en ontwikkeling	economie
+445	milieuchemie	chemie
+446	amerikanistiek	geesteswetenschappen
+447	landbouwkunde	plantenkunde
+448	computationele linguïstiek	linguïstiek

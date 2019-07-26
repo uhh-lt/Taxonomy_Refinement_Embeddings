@@ -1,0 +1,266 @@
+0	deposito dei rifiuti	gestione dei rifiuti
+1	stoccaggio sotterraneo delle scorie	deposito dei rifiuti
+2	eliminazione dei rifiuti	gestione dei rifiuti
+3	immersione di rifiuti	eliminazione dei rifiuti
+4	incenerimento dei rifiuti	eliminazione dei rifiuti
+5	riciclaggio dei rifiuti	gestione dei rifiuti
+6	analisi dell'acqua	gestione delle acque
+7	consumo idrico	gestione delle acque
+8	fabbisogno idrico	gestione delle acque
+9	trattamento dell'acqua	gestione delle acque
+10	utilizzazione dell'acqua	gestione delle acque
+11	controllo dell'inquinamento	lotta contro l'inquinamento
+12	tasso di inquinamento	controllo dell'inquinamento
+13	prevenzione dell'inquinamento	lotta contro l'inquinamento
+14	biodegradabilità	prevenzione dell'inquinamento
+15	dispositivo antinquinamento	prevenzione dell'inquinamento
+16	principio chi inquina paga	lotta contro l'inquinamento
+17	protezione dai rumori	lotta contro l'inquinamento
+18	risanamento	lotta contro l'inquinamento
+19	veicolo non inquinante	lotta contro l'inquinamento
+20	costo dell'inquinamento	politica ambientale
+21	diritto dell'ambiente	politica ambientale
+22	norma ambientale	diritto dell'ambiente
+23	norma biologica	norma ambientale
+24	responsabilità per i danni ambientali	diritto dell'ambiente
+25	economia dell'ambiente	politica ambientale
+26	educazione ambientale	politica ambientale
+27	gestione delle risorse	politica ambientale
+28	sfruttamento delle risorse	gestione delle risorse
+29	esaurimento delle risorse	sfruttamento delle risorse
+30	ipersfruttamento delle risorse	sfruttamento delle risorse
+31	sfruttamento dei fondali marini	sfruttamento delle risorse
+32	sfruttamento dei mari	sfruttamento delle risorse
+33	sostituzione delle risorse	gestione delle risorse
+34	valutazione delle risorse	gestione delle risorse
+35	gestione dello spazio	politica ambientale
+36	impatto ambientale	politica ambientale
+37	indicatore ambientale	politica ambientale
+38	lotta contro gli sprechi	politica ambientale
+39	politica ambientale dell'UE	politica ambientale
+40	prevenzione dei rischi	politica ambientale
+41	rischio industriale	prevenzione dei rischi
+42	rischio naturale	prevenzione dei rischi
+43	qualità dell'ambiente	politica ambientale
+44	ricerca sull'ambiente	politica ambientale
+45	statistica ambientale	ricerca sull'ambiente
+46	sorveglianza dell'ambiente	politica ambientale
+47	strumento economico per l'ambiente	politica ambientale
+48	deposito di prodotti inquinanti	strumento economico per l'ambiente
+49	imposta ambientale	strumento economico per l'ambiente
+50	permesso di inquinamento negoziabile	strumento economico per l'ambiente
+51	adattamento ai cambiamenti climatici	politica in materia di cambiamenti climatici
+52	attuazione congiunta	politica in materia di cambiamenti climatici
+53	meccanismo di sviluppo pulito	politica in materia di cambiamenti climatici
+54	quota di emissione	politica in materia di cambiamenti climatici
+55	quota di emissione dell'UE	quota di emissione
+56	riduzione delle emissioni gassose	politica in materia di cambiamenti climatici
+57	scambio di quote di emissione	politica in materia di cambiamenti climatici
+58	sistema UE di scambio delle quote di emissione	scambio di quote di emissione
+59	lotta agli insetti	protezione dell'ambiente
+60	lotta contro gli incendi	protezione dell'ambiente
+61	prevenzione antisismica	protezione dell'ambiente
+62	protezione del litorale	protezione dell'ambiente
+63	protezione del paesaggio	protezione dell'ambiente
+64	protezione della fauna	protezione dell'ambiente
+65	protezione degli animali	protezione della fauna
+66	regolamentazione della caccia	protezione della fauna
+67	protezione della flora	protezione dell'ambiente
+68	protezione delle acque	protezione dell'ambiente
+69	salvaguardia delle risorse	protezione dell'ambiente
+70	zona protetta	protezione dell'ambiente
+71	parco nazionale	zona protetta
+72	parco nazionale urbano	parco nazionale
+73	riserva naturale	zona protetta
+74	ambiente acquatico	ambiente fisico
+75	acqua	ambiente acquatico
+76	acqua d'infiltrazione	acqua
+77	acqua dolce	acqua
+78	acqua potabile	acqua
+79	acqua salata	acqua
+80	acqua stagnante	acqua
+81	acque di balneazione	acqua
+82	acque sotterranee	acqua
+83	acque superficiali	acqua
+84	ghiaccio	acqua
+85	ambiente marino	ambiente acquatico
+86	fondale marino	ambiente marino
+87	fondale costiero	ambiente marino
+88	piattaforma continentale	ambiente marino
+89	litorale	ambiente marino
+90	atmosfera	ambiente fisico
+91	ozono	atmosfera
+92	biosfera	ambiente fisico
+93	biodiversità	biosfera
+94	ecosistema	ambiente fisico
+95	biotopo	ecosistema
+96	ecosistema marino	ecosistema
+97	ecosistema terrestre	ecosistema
+98	equilibrio ecologico	ambiente fisico
+99	corso d'acqua	ambiente geofisico
+100	deserto	ambiente geofisico
+101	estuario	ambiente geofisico
+102	isola	ambiente geofisico
+103	lago	ambiente geofisico
+104	mare	ambiente geofisico
+105	Mar Caspio	mare
+106	Mar Mediterraneo	mare
+107	Mar Adriatico	Mar Mediterraneo
+108	Mar Egeo	Mar Mediterraneo
+109	Mar Ionio	Mar Mediterraneo
+110	Mar Ligure	Mar Mediterraneo
+111	Mar Tirreno	Mar Mediterraneo
+112	Mar Nero	mare
+113	Mar Rosso	mare
+114	montagna	ambiente geofisico
+115	oceano	ambiente geofisico
+116	oceano Antartico	oceano
+117	oceano Artico	oceano
+118	oceano Atlantico	oceano
+119	Manica	oceano Atlantico
+120	Mar Baltico	oceano Atlantico
+121	Mar di Norvegia	oceano Atlantico
+122	Mare d'Irlanda	oceano Atlantico
+123	Mare del Nord	oceano Atlantico
+124	oceano Indiano	oceano
+125	oceano Pacifico	oceano
+126	pianura	ambiente geofisico
+127	regione polare	ambiente geofisico
+128	Antartico	regione polare
+129	Artico	regione polare
+130	zona arida	ambiente geofisico
+131	condizioni atmosferiche	clima
+132	zona climatica	clima
+133	zona equatoriale	zona climatica
+134	zona fredda	zona climatica
+135	zona subtropicale	zona climatica
+136	zona temperata	zona climatica
+137	zona tropicale	zona climatica
+138	zona umida	zona climatica
+139	disponibilità di suolo	risorse naturali
+140	risorse animali	risorse naturali
+141	risorse del mare	risorse naturali
+142	risorse energetiche	risorse naturali
+143	risorse idriche	risorse naturali
+144	risorse minerali	risorse naturali
+145	risorse minerarie sottomarine	risorse naturali
+146	risorse rinnovabili	risorse naturali
+147	risorse vegetali	risorse naturali
+148	fauna	vita selvatica
+149	insetto	fauna
+150	mammifero selvatico	fauna
+151	animale da pelliccia	mammifero selvatico
+152	Chirotteri	mammifero selvatico
+153	lince	mammifero selvatico
+154	lupo	mammifero selvatico
+155	mammifero marino	mammifero selvatico
+156	balena	mammifero marino
+157	delfino	mammifero marino
+158	foca	mammifero marino
+159	marsupiale	mammifero selvatico
+160	orso	mammifero selvatico
+161	roditore	mammifero selvatico
+162	scimmia	mammifero selvatico
+163	rettile	fauna
+164	uccello	fauna
+165	flora	vita selvatica
+166	pianta nociva	flora
+167	specie marina	vita selvatica
+168	specie protetta	vita selvatica
+169	cambiamento climatico	degradazione dell'ambiente
+170	riscaldamento globale	cambiamento climatico
+171	corrosione	degradazione dell'ambiente
+172	defogliazione	degradazione dell'ambiente
+173	desertificazione	degradazione dell'ambiente
+174	disastro causato dall'uomo	degradazione dell'ambiente
+175	disastro naturale	degradazione dell'ambiente
+176	calamità agricola	disastro naturale
+177	ciclone	disastro naturale
+178	erosione	disastro naturale
+179	eruzione vulcanica	disastro naturale
+180	inondazione	disastro naturale
+181	intemperie	disastro naturale
+182	siccità	disastro naturale
+183	sisma	disastro naturale
+184	disboscamento	degradazione dell'ambiente
+185	distruzione delle colture	degradazione dell'ambiente
+186	incendio	degradazione dell'ambiente
+187	pioggia acida	degradazione dell'ambiente
+188	zona inquinata	degradazione dell'ambiente
+189	zona sensibile	degradazione dell'ambiente
+190	zona sinistrata	degradazione dell'ambiente
+191	acidificazione	inquinamento
+192	inquinamento accidentale	inquinamento
+193	inquinamento acustico	inquinamento
+194	inquinamento atmosferico	inquinamento
+195	effetto serra atmosferico	inquinamento atmosferico
+196	inquinamento automobilistico	inquinamento
+197	inquinamento chimico	inquinamento
+198	inquinamento d'origine agricola	inquinamento
+199	inquinamento da idrocarburi	inquinamento
+200	inquinamento da metalli	inquinamento
+201	inquinamento degli alimenti	inquinamento
+202	inquinamento del suolo	inquinamento
+203	inquinamento delle coste	inquinamento
+204	inquinamento idrico	inquinamento
+205	eutrofizzazione	inquinamento idrico
+206	inquinamento dei corsi d'acqua	inquinamento idrico
+207	inquinamento marino	inquinamento idrico
+208	inquinamento d'origine tellurica	inquinamento marino
+209	inquinamento industriale	inquinamento
+210	inquinamento locale	inquinamento
+211	inquinamento organico	inquinamento
+212	inquinamento prodotto dalle navi	inquinamento
+213	inquinamento radioattivo	inquinamento
+214	inquinamento stratosferico	inquinamento
+215	inquinamento termico	inquinamento
+216	inquinamento transfrontaliero	inquinamento
+217	agente inquinante	nocività
+218	agente inquinante dell'acqua	agente inquinante
+219	agente inquinante dell'atmosfera	agente inquinante
+220	gas a effetto serra	agente inquinante dell'atmosfera
+221	gas di combustione	agente inquinante dell'atmosfera
+222	inquinante stratosferico	agente inquinante dell'atmosfera
+223	polvere	agente inquinante dell'atmosfera
+224	residuo di antiparassitario	agente inquinante
+225	disturbo elettromagnetico	nocività
+226	radiazione non ionizzante	disturbo elettromagnetico
+227	rumore	nocività
+228	livello sonoro	rumore
+229	scarico termico	nocività
+230	sostanza pericolosa	nocività
+231	prodotto infiammabile	sostanza pericolosa
+232	sostanza cancerogena	sostanza pericolosa
+233	sostanza tossica	sostanza pericolosa
+234	vibrazione meccanica	nocività
+235	acque di scarico	rifiuti
+236	discarica abusiva	rifiuti
+237	esportazione di rifiuti	rifiuti
+238	fanghi di depurazione	rifiuti
+239	olio usato	rifiuti
+240	rifiuti chimici	rifiuti
+241	rifiuti domestici	rifiuti
+242	rifiuti elettronici	rifiuti
+243	rifiuti industriali	rifiuti
+244	rifiuti irrecuperabili	rifiuti
+245	rifiuti metallici	rifiuti
+246	rifiuti ospedalieri	rifiuti
+247	rifiuti pericolosi	rifiuti
+248	rifiuto agricolo	rifiuti
+249	scorie radioattive	rifiuti
+250	effluente radioattivo	scorie radioattive
+251	gestione dei rifiuti	ambiente
+252	politica ambientale	ambiente
+253	gestione delle acque	ambiente
+254	lotta contro l'inquinamento	ambiente
+255	politica in materia di cambiamenti climatici	ambiente
+256	protezione dell'ambiente	ambiente
+257	ambiente fisico	ambiente
+258	ambiente geofisico	ambiente
+259	clima	ambiente
+260	vita selvatica	ambiente
+261	risorse naturali	ambiente
+262	degradazione dell'ambiente	ambiente
+263	inquinamento	ambiente
+264	nocività	ambiente
+265	rifiuti	ambiente

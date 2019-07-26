@@ -1,0 +1,266 @@
+0	analyse de l'eau	gestion de l'eau
+1	besoin en eau	gestion de l'eau
+2	consommation d'eau	gestion de l'eau
+3	traitement de l'eau	gestion de l'eau
+4	utilisation de l'eau	gestion de l'eau
+5	élimination des déchets	gestion des déchets
+6	immersion de déchets	élimination des déchets
+7	incinération des déchets	élimination des déchets
+8	recyclage des déchets	gestion des déchets
+9	stockage des déchets	gestion des déchets
+10	stockage souterrain des déchets	stockage des déchets
+11	assainissement	lutte contre la pollution
+12	contrôle de la pollution	lutte contre la pollution
+13	degré de pollution	contrôle de la pollution
+14	prévention de la pollution	lutte contre la pollution
+15	biodégradabilité	prévention de la pollution
+16	dispositif antipollution	prévention de la pollution
+17	principe pollueur-payeur	lutte contre la pollution
+18	protection contre le bruit	lutte contre la pollution
+19	véhicule non polluant	lutte contre la pollution
+20	coût de la pollution	politique de l'environnement
+21	droit de l'environnement	politique de l'environnement
+22	norme environnementale	droit de l'environnement
+23	norme biologique	norme environnementale
+24	responsabilité des dommages environnementaux	droit de l'environnement
+25	économie de l'environnement	politique de l'environnement
+26	éducation à l'environnement	politique de l'environnement
+27	gestion de l'espace	politique de l'environnement
+28	gestion des ressources	politique de l'environnement
+29	évaluation des ressources	gestion des ressources
+30	exploitation des ressources	gestion des ressources
+31	épuisement des ressources	exploitation des ressources
+32	exploitation des fonds marins	exploitation des ressources
+33	exploitation des mers	exploitation des ressources
+34	surexploitation des ressources	exploitation des ressources
+35	remplacement des ressources	gestion des ressources
+36	impact sur l'environnement	politique de l'environnement
+37	indicateur environnemental	politique de l'environnement
+38	instrument économique pour l'environnement	politique de l'environnement
+39	consignation de produit polluant	instrument économique pour l'environnement
+40	permis de pollution négociable	instrument économique pour l'environnement
+41	redevance environnementale	instrument économique pour l'environnement
+42	lutte contre le gaspillage	politique de l'environnement
+43	politique de l'environnement de l'UE	politique de l'environnement
+44	prévention des risques	politique de l'environnement
+45	risque industriel	prévention des risques
+46	risque naturel	prévention des risques
+47	qualité de l'environnement	politique de l'environnement
+48	recherche sur l'environnement	politique de l'environnement
+49	statistique de l'environnement	recherche sur l'environnement
+50	surveillance de l'environnement	politique de l'environnement
+51	adaptation au changement climatique	politique en matière de changement climatique
+52	échange de droits d'émission	politique en matière de changement climatique
+53	Mécanisme UE d'échange de droits d'émission	échange de droits d'émission
+54	mécanisme pour un développement propre	politique en matière de changement climatique
+55	mise en oeuvre conjointe	politique en matière de changement climatique
+56	quota d'émission	politique en matière de changement climatique
+57	droits d'émissions UE	quota d'émission
+58	réduction des émissions de gaz	politique en matière de changement climatique
+59	conservation des ressources	protection de l'environnement
+60	lutte anti-incendie	protection de l'environnement
+61	lutte contre les insectes	protection de l'environnement
+62	prévention antisismique	protection de l'environnement
+63	protection de la faune	protection de l'environnement
+64	protection des animaux	protection de la faune
+65	réglementation de la chasse	protection de la faune
+66	protection de la flore	protection de l'environnement
+67	protection des eaux	protection de l'environnement
+68	protection du littoral	protection de l'environnement
+69	protection du paysage	protection de l'environnement
+70	zone protégée	protection de l'environnement
+71	parc national	zone protégée
+72	parc national urbain	parc national
+73	réserve naturelle	zone protégée
+74	conditions atmosphériques	climat
+75	zone climatique	climat
+76	zone équatoriale	zone climatique
+77	zone froide	zone climatique
+78	zone humide	zone climatique
+79	zone subtropicale	zone climatique
+80	zone tempérée	zone climatique
+81	zone tropicale	zone climatique
+82	atmosphère	environnement physique
+83	ozone	atmosphère
+84	biosphère	environnement physique
+85	biodiversité	biosphère
+86	écosystème	environnement physique
+87	biotope	écosystème
+88	écosystème marin	écosystème
+89	écosystème terrestre	écosystème
+90	équilibre écologique	environnement physique
+91	milieu aquatique	environnement physique
+92	eau	milieu aquatique
+93	eau d'infiltration	eau
+94	eau de baignade	eau
+95	eau douce	eau
+96	eau potable	eau
+97	eau salée	eau
+98	eau souterraine	eau
+99	eau stagnante	eau
+100	eau superficielle	eau
+101	glace	eau
+102	milieu marin	milieu aquatique
+103	fond marin	milieu marin
+104	fond côtier	fond marin
+105	plateau continental	fond marin
+106	littoral	milieu marin
+107	cours d'eau	milieu géophysique
+108	désert	milieu géophysique
+109	estuaire	milieu géophysique
+110	île	milieu géophysique
+111	lac	milieu géophysique
+112	mer	milieu géophysique
+113	mer Caspienne	mer
+114	mer Méditerranée	mer
+115	mer Adriatique	mer Méditerranée
+116	mer de Ligurie	mer Méditerranée
+117	mer Égée	mer Méditerranée
+118	mer Ionienne	mer Méditerranée
+119	mer Tyrrhénienne	mer Méditerranée
+120	mer Noire	mer
+121	mer Rouge	mer
+122	montagne	milieu géophysique
+123	océan	milieu géophysique
+124	océan Antarctique	océan
+125	océan Arctique	océan
+126	océan Atlantique	océan
+127	Manche	océan Atlantique
+128	mer Baltique	océan Atlantique
+129	mer d'Irlande	océan Atlantique
+130	mer de Norvège	océan Atlantique
+131	mer du Nord	océan Atlantique
+132	océan Indien	océan
+133	océan Pacifique	océan
+134	plaine	milieu géophysique
+135	région polaire	milieu géophysique
+136	Antarctique	région polaire
+137	Arctique	région polaire
+138	zone aride	milieu géophysique
+139	ressource animale	ressource naturelle
+140	ressource de la mer	ressource naturelle
+141	ressource en eau	ressource naturelle
+142	ressource en sol	ressource naturelle
+143	ressource énergétique	ressource naturelle
+144	ressource minérale	ressource naturelle
+145	ressource minérale sous-marine	ressource naturelle
+146	ressource renouvelable	ressource naturelle
+147	ressource végétale	ressource naturelle
+148	espèce marine	vie sauvage
+149	espèce protégée	vie sauvage
+150	faune	vie sauvage
+151	insecte	faune
+152	mammifère sauvage	faune
+153	animal à fourrure	faune
+154	Chiroptera	animal à fourrure
+155	loup	animal à fourrure
+156	lynx	animal à fourrure
+157	mammifère marin	animal à fourrure
+158	baleine	mammifère marin
+159	dauphin	mammifère marin
+160	phoque	mammifère marin
+161	marsupial	animal à fourrure
+162	ours	animal à fourrure
+163	rongeur	animal à fourrure
+164	singe	animal à fourrure
+165	oiseau	faune
+166	reptile	faune
+167	flore	vie sauvage
+168	plante nuisible	flore
+169	boue d'épuration	déchet
+170	décharge sauvage	déchet
+171	déchet agricole	déchet
+172	déchet chimique	déchet
+173	déchet dangereux	déchet
+174	déchet électronique	déchet
+175	déchet hospitalier	déchet
+176	déchet industriel	déchet
+177	déchet ménager	déchet
+178	déchet métallique	déchet
+179	déchet non récupérable	déchet
+180	déchet radioactif	déchet
+181	effluent radioactif	déchet radioactif
+182	eau usée	déchet
+183	exportation des déchets	déchet
+184	huile usagée	déchet
+185	changement climatique	dégradation de l'environnement
+186	réchauffement climatique	changement climatique
+187	corrosion	dégradation de l'environnement
+188	déboisement	dégradation de l'environnement
+189	défoliation	dégradation de l'environnement
+190	désastre d'origine humaine	dégradation de l'environnement
+191	désastre naturel	dégradation de l'environnement
+192	calamité agricole	désastre naturel
+193	cyclone	désastre naturel
+194	érosion	désastre naturel
+195	éruption volcanique	désastre naturel
+196	inondation	désastre naturel
+197	intempérie	désastre naturel
+198	sécheresse	désastre naturel
+199	séisme	désastre naturel
+200	désertification	dégradation de l'environnement
+201	destruction des cultures	dégradation de l'environnement
+202	incendie	dégradation de l'environnement
+203	pluie acide	dégradation de l'environnement
+204	zone polluée	dégradation de l'environnement
+205	zone sensible	dégradation de l'environnement
+206	zone sinistrée	dégradation de l'environnement
+207	bruit	nuisance
+208	niveau sonore	bruit
+209	nuisance électromagnétique	nuisance
+210	rayonnement non ionisant	nuisance électromagnétique
+211	polluant	nuisance
+212	polluant atmosphérique	polluant
+213	gaz à effet de serre	polluant atmosphérique
+214	gaz de combustion	gaz à effet de serre
+215	polluant stratosphérique	gaz à effet de serre
+216	poussière	gaz à effet de serre
+217	polluant de l'eau	polluant
+218	résidu de pesticide	polluant
+219	rejet thermique	nuisance
+220	substance dangereuse	nuisance
+221	produit inflammable	substance dangereuse
+222	substance cancérigène	substance dangereuse
+223	substance toxique	substance dangereuse
+224	vibration mécanique	substance dangereuse
+225	acidification	pollution
+226	pollution accidentelle	pollution
+227	pollution acoustique	pollution
+228	pollution atmosphérique	pollution
+229	effet de serre atmosphérique	pollution atmosphérique
+230	pollution automobile	pollution
+231	pollution chimique	pollution
+232	pollution de l'eau	pollution
+233	eutrophisation	pollution de l'eau
+234	pollution des cours d'eau	pollution de l'eau
+235	pollution marine	pollution de l'eau
+236	pollution tellurique	pollution marine
+237	pollution des aliments	pollution de l'eau
+238	pollution des côtes	pollution
+239	pollution du sol	pollution
+240	pollution industrielle	pollution
+241	pollution locale	pollution
+242	pollution organique	pollution
+243	pollution par l'agriculture	pollution
+244	pollution par les hydrocarbures	pollution
+245	pollution par les métaux	pollution
+246	pollution par les navires	pollution
+247	pollution radioactive	pollution
+248	pollution stratosphérique	pollution
+249	pollution thermique	pollution
+250	pollution transfrontière	pollution
+251	gestion de l'eau	environnement
+252	gestion des déchets	environnement
+253	politique de l'environnement	environnement
+254	lutte contre la pollution	environnement
+255	politique en matière de changement climatique	environnement
+256	protection de l'environnement	environnement
+257	climat	environnement
+258	environnement physique	environnement
+259	ressource naturelle	environnement
+260	vie sauvage	environnement
+261	déchet	environnement
+262	dégradation de l'environnement	environnement
+263	nuisance	environnement
+264	pollution	environnement
+265	milieu géophysique	environnement
