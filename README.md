@@ -8,10 +8,12 @@ This repository aims to recreate the results of our experiements as described in
 
 The method implemented in this repository is described in the following scientific publication:
 
-Rami Aly, Shantanu Acharya, Alexander Ossa, Arne Köhn, Chris Biemann, Alexander Panchenko (2019): **[Every Child Should Have Parents: A Taxonomy Refinement Algorithm Based on Hyperbolic Term Embeddings](https://aclweb.org/anthology/papers/P/P19/P19-1474/
-)**. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy. Association for Computational Linguistics
+  *Rami Aly, Shantanu Acharya, Alexander Ossa, Arne Köhn, Chris Biemann, Alexander Panchenko (2019): **[Every Child Should Have Parents: A Taxonomy Refinement Algorithm Based on Hyperbolic Term Embeddings](https://aclweb.org/anthology/papers/P/P19/P19-1474/
+)**. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy. Association for Computational Linguistics*
 
-In this publication, we introduce the use of Poincaré embeddings to improve existing state-of-the-art approaches to domain-specific taxonomy induction from text as a signal for both relocating wrong hyponym terms within a (pre-induced) taxonomy as well as for attaching disconnected terms in a taxonomy. This method substantially improves previous state-of-the-art results on the SemEval-2016 Task 13 on taxonomy extraction. We demonstrate the superiority of Poincaré embeddings over distributional semantic representations, supporting the hypothesis that they can better capture hierarchical lexical-semantic relationships than embeddings in the Euclidean space.
+In this publication, we introduce the use of Poincaré embeddings to improve existing state-of-the-art approaches to domain-specific taxonomy induction from text as a signal for both relocating wrong hyponym terms within a (pre-induced) taxonomy as well as for attaching disconnected terms in a taxonomy. This method substantially improves previous state-of-the-art results on the SemEval-2016 Task 13 on taxonomy extraction. We demonstrate the superiority of Poincaré embeddings over distributional semantic representations, supporting the hypothesis that they can better capture hierarchical lexical-semantic relationships than embeddings in the Euclidean space. The overview of the method is presented in the figure below:
+
+![Workflow of the method](flow.png)
 
 If you use the code in this repository, e.g. as a baseline in your experiment or simply want to refer to this work, we kindly ask you to use the following citation:
 
