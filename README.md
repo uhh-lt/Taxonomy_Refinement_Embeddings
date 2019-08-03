@@ -1,4 +1,4 @@
-# Taxonomy_Refinement_Embeddings
+# A Taxonomy Refinement Algorithm Based on Hyperbolic Term Embeddings
 
 
 This repository contains an implementation of a refinement pipeline to improve existing taxonomies on basis of word embeddings.
